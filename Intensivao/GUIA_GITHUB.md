@@ -36,9 +36,10 @@ git add --all Intensivao/*.html Intensivao/*.md Intensivao/temas/*.md
 ## 3) Link final no GitHub Pages
 - Opção 1 (automático com workflow):
   - O projeto já inclui o workflow `.github/workflows/pages-intensivao.yml`.
-  - Ele monta um pacote mínimo com os arquivos `html` e `md` e publica com a pasta `Intensivao/` no site.
+  - Ele monta um pacote mínimo com os arquivos `html` e `md` na raiz do Pages e também em `/Intensivao/` (compatibilidade).
   - No GitHub, vá em `Settings > Pages` e em `Source` escolha **GitHub Actions**.
   - URL final:
+    - `https://SEU-USUARIO.github.io/SEU-REPO/` (se quiser uma landing curta com o index padrão)
     - `https://SEU-USUARIO.github.io/SEU-REPO/index-online.html`
     - `https://SEU-USUARIO.github.io/SEU-REPO/Intensivao/index-online.html`
 
