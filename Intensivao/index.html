@@ -13,6 +13,7 @@
       --link: #0f6b5f;
       --bg: #f8f8f4;
       --panel: #fbfbf7;
+      --sidebar-width: 320px;
       --max-content: 1180px;
       --pad-main: 1.4rem;
     }
@@ -36,8 +37,12 @@
       background: linear-gradient(180deg, #fbfbf9 0%, #f7f8f4 100%);
     }
 
+    #main {
+      margin-left: 0;
+    }
+
     #main .content {
-      width: min(96vw, var(--max-content));
+      width: min(calc(100vw - (2 * var(--pad-main)), var(--max-content)));
       margin: 0 auto;
       padding: 0 var(--pad-main) 2.5rem;
     }
@@ -63,8 +68,16 @@
     }
 
     .sidebar {
-      width: min(340px, 78vw);
+      width: var(--sidebar-width);
+      position: fixed;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      overflow-y: auto;
+      overflow-x: hidden;
+      z-index: 15;
       background: var(--panel);
+      border-right: 1px solid #e5e7ea;
     }
 
     .sidebar-toggle {
@@ -135,17 +148,26 @@
       border: 1px solid #e4e7e2;
     }
 
-    @media (min-width: 1100px) {
-      .sidebar {
-        width: 330px;
+    @media (min-width: 900px) {
+      #main {
+        margin-left: var(--sidebar-width);
       }
 
       #main .content {
-        width: min(calc(100vw - 390px), var(--max-content));
+        width: min(calc(100vw - var(--sidebar-width) - (2 * var(--pad-main)), var(--max-content)));
+        max-width: 100%;
+      }
+
+      .sidebar {
+        position: fixed;
       }
     }
 
     @media (max-width: 640px) {
+      .sidebar {
+        width: 78vw;
+      }
+
       .app-nav {
         padding-right: 0;
       }
@@ -297,3 +319,5 @@
   </script>
 </body>
 </html>
+
+
