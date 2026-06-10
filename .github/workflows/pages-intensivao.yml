@@ -31,7 +31,8 @@ jobs:
           shopt -s nullglob
 
           # Publicação na raiz (padrão dos Links do GitHub Pages): /index-online.html
-          cp -f index.html site/ 2>/dev/null || true
+          cp -f *.html site/ 2>/dev/null || true
+          cp -f *.md site/ 2>/dev/null || true
           cp -f Intensivao/*.html site/ 2>/dev/null || true
           cp -f Intensivao/*.md site/ 2>/dev/null || true
           cp -f Intensivao/index-online-sidebar.md site/_sidebar.md 2>/dev/null || true

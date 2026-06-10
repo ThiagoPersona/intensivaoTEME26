@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="robots" content="noindex" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Intensivão TEME26 - redirecionando</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      display: grid;
+      place-items: center;
+      min-height: 100vh;
+      background: #f7f7f3;
+      color: #1f2937;
+    }
+    a { color: #0f6b5f; }
+  </style>
+</head>
+<body>
+  <p>
+    A página foi movida. Abra:
+    <a id="destino" href="Intensivao/index-online.html">Intensivão TEME26</a>
+  </p>
+
+  <script>
+    (() => {
+      const parts = location.pathname.split("/").filter(Boolean);
+      const idx = parts.findIndex((value) => value.toLowerCase() === "intensivao");
+      const base = idx >= 0 ? `/${parts.slice(0, idx + 1).join("/")}/` : `${location.pathname.endsWith("/") ? location.pathname : location.pathname.replace(/\/[^/]*$/, "/")}`;
+      const target = `${base}index-online.html`;
+
+      document.getElementById("destino").setAttribute("href", target);
+      if (location.href !== target && target.length > 1) {
+        location.replace(target);
+      }
+    })();
+  </script>
+</body>
+</html>
