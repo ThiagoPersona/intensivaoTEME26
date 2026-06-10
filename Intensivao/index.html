@@ -435,6 +435,7 @@
     ];
     const DOCUMENTS = [];
     const docMap = new Map();
+    const baseDir = new URL(".", window.location.href);
     const nav = document.getElementById("nav");
     const content = document.getElementById("content");
     const search = document.getElementById("search");
@@ -722,7 +723,12 @@
       if (!doc) return;
       currentDoc = doc.id;
       localStorage.setItem("intensivao-teme26-doc", currentDoc);
-      content.innerHTML = renderMarkdown(doc.markdown, doc.id);
+      try {
+        content.innerHTML = renderMarkdown(doc.markdown, doc.id);
+      } catch (error) {
+        console.error("Falha ao renderizar documento:", error);
+        content.innerHTML = `<p class="empty">Não foi possível renderizar este documento. Recarregue a página.</p>`;
+      }
       const index = DOCUMENTS.findIndex((item) => item.id === doc.id);
       docMeta.textContent = `${index + 1} de ${DOCUMENTS.length} - ${doc.id}`;
       mobileTitle.textContent = doc.title;
@@ -762,7 +768,7 @@
     }
 
     async function loadDocument(path) {
-      const response = await fetch(path, { cache: "no-cache" });
+      const response = await fetch(new URL(path, baseDir), { cache: "no-cache" });
       if (!response.ok) {
         throw new Error(`Erro ao carregar ${path}: ${response.status}`);
       }
@@ -775,18 +781,30 @@
     }
 
     async function initializeDocuments() {
-      const loaded = [];
-      for (const path of DOCUMENT_FILES) {
-        try {
-          loaded.push(await loadDocument(path));
-        } catch (error) {
-          console.error("Não foi possível carregar:", path, error);
+      content.innerHTML = "<p class=\"empty\">Carregando material...</p>";
+      const fileLoadResults = await Promise.allSettled(DOCUMENT_FILES.map((path) => loadDocument(path)));
+      const loaded = fileLoadResults
+        .filter((result) => result.status === "fulfilled")
+        .map((result) => result.value);
+
+      fileLoadResults.forEach((result, index) => {
+        if (result.status === "rejected") {
+          const path = DOCUMENT_FILES[index];
+          console.error("Não foi possível carregar:", path, result.reason);
         }
-      }
+      });
+
       if (!loaded.length) {
-        content.innerHTML = "<p class=\"empty\">Não foi possível carregar o conteúdo. Verifique os arquivos do projeto.</p>";
+        const links = DOCUMENT_FILES.map((path) => `<li><a href="${escapeHtml(path)}" target="_blank" rel="noopener noreferrer">${escapeHtml(path)}</a></li>`).join("");
+        const protocolHint = window.location.protocol === "file:"
+          ? "<p>Esta página está aberta via <code>file://</code>. Use servidor local (<code>python -m http.server</code>) ou GitHub Pages para carregar os arquivos corretamente.</p>"
+          : "";
+        content.innerHTML = `<h2>Não foi possível carregar o conteúdo</h2>${protocolHint}<ul>${links}</ul>`;
+        nav.innerHTML = "<div class=\"empty\">Verifique os arquivos no painel lateral.</div>";
         return;
       }
+
+      loaded.sort((a, b) => DOCUMENT_FILES.indexOf(a.id) - DOCUMENT_FILES.indexOf(b.id));
       loaded.forEach((doc) => docMap.set(doc.id, doc));
       loaded.forEach((doc) => DOCUMENTS.push(doc));
 
@@ -796,7 +814,11 @@
       openDoc(targetDoc);
     }
 
-    initializeDocuments();
+    initializeDocuments().catch((error) => {
+      console.error("Falha de inicialização:", error);
+      content.innerHTML = "<p class=\"empty\">Falha crítica ao iniciar a página. Recarregue e verifique o console.</p>";
+      nav.innerHTML = "<div class=\"empty\">Não foi possível montar a navegação.</div>";
+    });
   </script>
 </body>
 </html>
