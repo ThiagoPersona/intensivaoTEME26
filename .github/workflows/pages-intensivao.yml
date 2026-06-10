@@ -34,6 +34,8 @@ jobs:
           cp -f index.html site/ 2>/dev/null || true
           cp -f Intensivao/*.html site/ 2>/dev/null || true
           cp -f Intensivao/*.md site/ 2>/dev/null || true
+          cp -f Intensivao/index-online-sidebar.md site/_sidebar.md 2>/dev/null || true
+          cp -f Intensivao/index-online-sidebar.md site/Intensivao/_sidebar.md 2>/dev/null || true
           cp -f Intensivao/*.html site/Intensivao/ 2>/dev/null || true
           cp -f Intensivao/*.md site/Intensivao/ 2>/dev/null || true
           for file in Intensivao/temas/*.md; do
