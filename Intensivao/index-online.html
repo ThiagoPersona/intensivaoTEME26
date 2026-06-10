@@ -79,11 +79,12 @@
     }
   </style>
   <script>
+    window.__docsifyLoadingTimeout = 8000;
     window.$docsify = {
       name: "Intensivão TEME26",
       repo: "",
+      loadSidebar: "_sidebar.md",
       homepage: "LEITURA_OFICIAL.md",
-      loadSidebar: true,
       auto2top: true,
       executeScript: true,
       noCompileLinks: false,
@@ -104,6 +105,7 @@
           const app = document.getElementById("app");
           if (app) {
             app.classList.remove("is-loading");
+            app.classList.remove("not-loaded");
             app.dataset.loaded = "1";
           }
         }
@@ -143,9 +145,17 @@
       ]
     };
   </script>
+</head>
+<body>
+  <div id="app" class="not-loaded">
+    <div style="padding:24px;max-width:900px;margin:0 auto;font-family: Inter, sans-serif;">
+      <p>Carregando o leitor...</p>
+      <p><a href="LEITURA_OFICIAL.md">Abrir leitura principal</a> | <a href="index-online-sidebar.md">Abrir índice</a></p>
+    </div>
+  </div>
   <script>
     (function() {
-      const fallbackAfterMs = 8000;
+      const fallbackAfterMs = window.__docsifyLoadingTimeout || 8000;
       setTimeout(function() {
         const app = document.getElementById("app");
         if (!app || app.dataset.loaded === "1") return;
@@ -180,13 +190,5 @@
       }
     });
   </script>
-</head>
-<body>
-  <div id="app">
-    <div style="padding:24px;max-width:900px;margin:0 auto;font-family: Inter, sans-serif;">
-      <p>Carregando o leitor...</p>
-      <p><a href="LEITURA_OFICIAL.md">Abrir leitura principal</a> | <a href="index-online-sidebar.md">Abrir índice</a></p>
-    </div>
-  </div>
 </body>
 </html>
