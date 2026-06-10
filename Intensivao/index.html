@@ -159,9 +159,17 @@
 </head>
 <body>
   <div id="app">
-    <div class="loading-msg">
+    <div class="loading-msg" id="loading-msg">
       <p>Carregando o Intensivão TEME26...</p>
       <p><a href="LEITURA_OFICIAL.md">Leitura principal</a> · <a href="MAPA_DE_QUESTOES_TEME22-25.md">Mapa de questões</a></p>
+      <p id="file-help" style="display:none;">
+        Você abriu por <code>file://</code>. Neste modo, o Docsify costuma falhar.
+        Use em 2 minutos:  
+        <br />
+        1) No terminal: <code>python -m http.server 8000</code>
+        <br />
+        2) Abra: <a href="http://localhost:8000/Intensivao/index.html">http://localhost:8000/Intensivao/index.html</a>
+      </p>
     </div>
   </div>
 
@@ -229,39 +237,45 @@
       });
     }
 
-    window.$docsify = {
-      name: "Intensivão TEME26",
-      loadSidebar: "_sidebar.md",
-      homepage: "LEITURA_OFICIAL.md",
-      loadNavbar: false,
-      auto2top: true,
-      executeScript: true,
-      maxLevel: 4,
-      subMaxLevel: 2,
-      relativePath: false,
-      search: {
-        maxAge: 86400000,
-        depth: 3,
-        noData: "Nenhum resultado."
-      },
-      notFoundPage: true,
-      markdown: {
-        smartypants: false
-      },
-      formatUpdated: "{DD}/{MM}/{YYYY}",
-      plugins: [
-        function(hook) {
-          const onRendered = () => {
-            normalizeThemeLinks();
-            renderMermaid();
-            const app = document.getElementById("app");
-            if (app) app.dataset.loaded = "1";
-          };
-          hook.ready(onRendered);
-          hook.doneEach(onRendered);
-        }
-      ]
-    };
+    const isFileProtocol = location.protocol === "file:";
+    if (!isFileProtocol) {
+      window.$docsify = {
+        name: "Intensivão TEME26",
+        loadSidebar: "_sidebar.md",
+        homepage: "LEITURA_OFICIAL.md",
+        loadNavbar: false,
+        auto2top: true,
+        executeScript: true,
+        maxLevel: 4,
+        subMaxLevel: 2,
+        relativePath: false,
+        search: {
+          maxAge: 86400000,
+          depth: 3,
+          noData: "Nenhum resultado."
+        },
+        notFoundPage: true,
+        markdown: {
+          smartypants: false
+        },
+        formatUpdated: "{DD}/{MM}/{YYYY}",
+        plugins: [
+          function(hook) {
+            const onRendered = () => {
+              normalizeThemeLinks();
+              renderMermaid();
+              const app = document.getElementById("app");
+              if (app) app.dataset.loaded = "1";
+            };
+            hook.ready(onRendered);
+            hook.doneEach(onRendered);
+          }
+        ]
+      };
+    } else {
+      const help = document.getElementById("file-help");
+      if (help) help.style.display = "block";
+    }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" onerror="this.onerror=null; this.src='https://unpkg.com/docsify@4/lib/docsify.min.js'"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" onerror="this.onerror=null; this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'"></script>
@@ -269,6 +283,7 @@
   <script>
     setTimeout(() => {
       const app = document.getElementById("app");
+      if (location.protocol === "file:") return;
       if (!app || app.dataset.loaded === "1") return;
       app.innerHTML = `
         <div class="fallback-msg">
