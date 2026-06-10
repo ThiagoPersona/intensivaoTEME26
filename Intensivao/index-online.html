@@ -83,7 +83,7 @@
       name: "Intensivão TEME26",
       repo: "",
       homepage: "LEITURA_OFICIAL.md",
-      loadSidebar: "_sidebar.md",
+      loadSidebar: true,
       auto2top: true,
       executeScript: true,
       noCompileLinks: false,
@@ -93,7 +93,28 @@
       search: "auto",
       formatUpdated: "{DD}/{MM}/{YYYY}",
       notFoundPage: true,
+      readyState: {
+        start: function() {
+          const app = document.getElementById("app");
+          if (app) {
+            app.classList.add("is-loading");
+          }
+        },
+        done: function() {
+          const app = document.getElementById("app");
+          if (app) {
+            app.classList.remove("is-loading");
+            app.dataset.loaded = "1";
+          }
+        }
+      },
       plugins: [
+        function(hook) {
+          hook.doneEach(function() {
+            const app = document.getElementById("app");
+            if (app) app.dataset.loaded = "1";
+          });
+        },
         function(hook) {
           hook.doneEach(function() {
             const codeBlocks = document.querySelectorAll("pre code.language-mermaid");
@@ -122,6 +143,23 @@
       ]
     };
   </script>
+  <script>
+    (function() {
+      const fallbackAfterMs = 8000;
+      setTimeout(function() {
+        const app = document.getElementById("app");
+        if (!app || app.dataset.loaded === "1") return;
+        app.innerHTML = `
+          <div style="padding:24px;max-width:840px;margin:0 auto;">
+            <p>O leitor ainda não abriu. Isso costuma ser cache/rede do navegador.</p>
+            <p><a href="LEITURA_OFICIAL.md">Abrir texto principal (fallback)</a></p>
+            <p><a href="index-online-sidebar.md">Abrir índice manualmente</a></p>
+            <p><button onclick="window.location.reload()">Tentar novamente</button></p>
+          </div>
+        `;
+      }, fallbackAfterMs);
+    })();
+  </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4" onerror="this.onerror=null; this.src='https://unpkg.com/docsify@4'"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" onerror="this.onerror=null; this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'"></script>
   <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js" onerror="this.onerror=null; this.src='https://unpkg.com/mermaid@10/dist/mermaid.min.js'"></script>
@@ -144,6 +182,11 @@
   </script>
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">
+    <div style="padding:24px;max-width:900px;margin:0 auto;font-family: Inter, sans-serif;">
+      <p>Carregando o leitor...</p>
+      <p><a href="LEITURA_OFICIAL.md">Abrir leitura principal</a> | <a href="index-online-sidebar.md">Abrir índice</a></p>
+    </div>
+  </div>
 </body>
 </html>
