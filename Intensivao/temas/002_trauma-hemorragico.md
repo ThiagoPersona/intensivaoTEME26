@@ -1,4 +1,4 @@
-﻿# 002 - Trauma Hemorrágico, Controle De Dano E Transfusão Maciça
+# Trauma Hemorrágico, Controle De Dano E Transfusão Maciça
 
 ## Leitura de 30 segundos
 

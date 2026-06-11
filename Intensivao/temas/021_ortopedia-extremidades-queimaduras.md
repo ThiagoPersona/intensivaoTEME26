@@ -1,4 +1,4 @@
-# 021 - Ortopedia, Trauma de Extremidades e Queimaduras
+# Ortopedia, Trauma de Extremidades e Queimaduras
 
 ## Leitura de 30 segundos
 

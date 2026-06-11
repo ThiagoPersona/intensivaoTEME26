@@ -1,4 +1,4 @@
-# 023 - Procedimentos, Analgesia e Sedação
+# Procedimentos, Analgesia e Sedação
 
 ## Leitura de 30 segundos
 

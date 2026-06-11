@@ -1,4 +1,4 @@
-﻿# 007 - Emergências neurológicas: AVC, Crise Convulsiva, HIC E TCE
+# Emergências neurológicas: AVC, Crise Convulsiva, HIC E TCE
 
 ## Leitura de 30 segundos
 

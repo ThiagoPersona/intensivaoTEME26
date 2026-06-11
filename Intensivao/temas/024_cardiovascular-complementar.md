@@ -1,4 +1,4 @@
-# 024 - Cardiovascular Complementar
+# Cardiovascular Complementar
 
 ## Leitura de 30 segundos
 

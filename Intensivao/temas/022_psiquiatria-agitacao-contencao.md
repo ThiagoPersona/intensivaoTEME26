@@ -1,4 +1,4 @@
-# 022 - Psiquiatria, Agitação e Contenção
+# Psiquiatria, Agitação e Contenção
 
 ## Leitura de 30 segundos
 

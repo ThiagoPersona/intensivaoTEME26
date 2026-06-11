@@ -1,4 +1,4 @@
-﻿# 012 - Emergências Respiratórias
+# Emergências Respiratórias
 
 ## Leitura de 30 segundos
 

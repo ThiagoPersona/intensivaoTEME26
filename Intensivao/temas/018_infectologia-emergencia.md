@@ -1,4 +1,4 @@
-# 018 - Infectologia na Emergência
+# Infectologia na Emergência
 
 ## Leitura de 30 segundos
 

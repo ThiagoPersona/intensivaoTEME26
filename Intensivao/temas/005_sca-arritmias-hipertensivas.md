@@ -1,4 +1,4 @@
-﻿# 005 - SCA, Arritmias E Emergências hipertensivas
+# SCA, Arritmias E Emergências hipertensivas
 
 ## Leitura de 30 segundos
 

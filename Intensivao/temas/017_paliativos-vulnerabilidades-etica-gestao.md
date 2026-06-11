@@ -1,4 +1,4 @@
-﻿# 017 - Paliativos, Vulnerabilidades, Ética, Legislação E Gestão
+# Paliativos, Vulnerabilidades, Ética, Legislação E Gestão
 
 ## Leitura de 30 segundos
 

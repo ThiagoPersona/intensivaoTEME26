@@ -1,4 +1,4 @@
-﻿# 009 - Emergências obstétricas E Ginecológicas
+# Emergências obstétricas E Ginecológicas
 
 ## Leitura de 30 segundos
 

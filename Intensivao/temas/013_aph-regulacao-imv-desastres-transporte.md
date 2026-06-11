@@ -1,4 +1,4 @@
-﻿# 013 - APH, Regulação, IMV, Desastrês E Transporte
+# APH, Regulação, IMV, Desastrês E Transporte
 
 ## Leitura de 30 segundos
 

@@ -1,4 +1,4 @@
-﻿# 016 - Dermato, Reumato, Alergia E Anafilaxia
+# Dermato, Reumato, Alergia E Anafilaxia
 
 ## Leitura de 30 segundos
 

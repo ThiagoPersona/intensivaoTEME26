@@ -1,4 +1,4 @@
-# 019 - Oftalmo, Otorrino e Odonto
+# Oftalmo, Otorrino e Odonto
 
 ## Leitura de 30 segundos
 

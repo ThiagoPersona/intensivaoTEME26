@@ -1,4 +1,4 @@
-﻿# 008 - Toxicologia E Animais Peçonhentos
+# Toxicologia E Animais Peçonhentos
 
 ## Leitura de 30 segundos
 

@@ -1,4 +1,4 @@
-﻿# 015 - Hemato-oncologia Na Emergência
+# Hemato-oncologia Na Emergência
 
 ## Leitura de 30 segundos
 

@@ -1,4 +1,4 @@
-﻿# 006 - Choque, Sepse E Drogas Vasoativas
+# Choque, Sepse E Drogas Vasoativas
 
 ## Leitura de 30 segundos
 

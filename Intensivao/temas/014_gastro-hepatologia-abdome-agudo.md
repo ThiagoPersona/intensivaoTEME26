@@ -1,4 +1,4 @@
-﻿# 014 - Gastro, Hepatologia E Abdome Agudo
+# Gastro, Hepatologia E Abdome Agudo
 
 ## Leitura de 30 segundos
 

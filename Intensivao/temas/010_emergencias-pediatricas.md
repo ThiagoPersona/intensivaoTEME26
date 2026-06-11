@@ -1,4 +1,4 @@
-﻿# 010 - Emergências pediátricas
+# Emergências pediátricas
 
 ## Leitura de 30 segundos
 

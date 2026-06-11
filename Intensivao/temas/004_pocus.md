@@ -1,4 +1,4 @@
-﻿# 004 - POCUS no Choque, Trauma, PCR e Dispneia
+# POCUS no Choque, Trauma, PCR e Dispneia
 
 ## Leitura de 30 segundos
 

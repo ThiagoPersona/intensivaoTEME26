@@ -1,4 +1,4 @@
-﻿# 001 - Via Aérea e Ventilação Mecânica
+# Via Aérea e Ventilação Mecânica
 
 ## Leitura de 30 segundos
 

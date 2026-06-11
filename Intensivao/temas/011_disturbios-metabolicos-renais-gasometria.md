@@ -1,4 +1,4 @@
-﻿# 011 - Distúrbios Metabólicos, endócrinos, Renais E Gasometria
+# Distúrbios Metabólicos, endócrinos, Renais E Gasometria
 
 ## Leitura de 30 segundos
 

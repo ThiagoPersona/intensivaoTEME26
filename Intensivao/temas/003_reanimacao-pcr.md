@@ -1,4 +1,4 @@
-﻿# 003 - reanimação/PCR Adulto, Pediátrica E Pós-RCE
+# reanimação/PCR Adulto, Pediátrica E Pós-RCE
 
 ## Leitura de 30 segundos
 
