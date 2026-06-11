@@ -244,15 +244,15 @@
     }
 
     .markdown-section table {
-      display: block;
+      display: table;
       width: 100%;
       margin: 1rem 0 1.25rem;
-      overflow-x: auto;
       border: 1px solid var(--border);
       border-radius: 8px;
       background: var(--surface);
-      border-collapse: separate;
-      border-spacing: 0;
+      border-collapse: collapse;
+      table-layout: auto;
+      overflow: hidden;
     }
 
     .markdown-section th {
@@ -263,10 +263,38 @@
 
     .markdown-section th,
     .markdown-section td {
-      min-width: 120px;
-      padding: 0.72rem 0.85rem;
+      min-width: 0;
+      padding: 0.66rem 0.72rem;
       border-color: var(--border);
       vertical-align: top;
+      overflow-wrap: break-word;
+      word-break: normal;
+    }
+
+    .markdown-section th {
+      white-space: nowrap;
+    }
+
+    .markdown-section table.table-compact {
+      table-layout: fixed;
+    }
+
+    .markdown-section table.table-compact th,
+    .markdown-section table.table-compact td {
+      padding: 0.62rem 0.58rem;
+      font-size: 0.98rem;
+      overflow-wrap: normal;
+      white-space: nowrap;
+    }
+
+    .markdown-section table.table-compact th:not(:first-child),
+    .markdown-section table.table-compact td:not(:first-child) {
+      text-align: right;
+    }
+
+    .markdown-section table.table-compact th:first-child,
+    .markdown-section table.table-compact td:first-child {
+      text-align: left;
     }
 
     .markdown-section tr:nth-child(even) td {
@@ -434,7 +462,17 @@
 
       .markdown-section th,
       .markdown-section td {
-        min-width: 150px;
+        min-width: 130px;
+      }
+
+      .markdown-section table {
+        display: block;
+        overflow-x: auto;
+        table-layout: auto;
+      }
+
+      .markdown-section table.table-compact {
+        min-width: 760px;
       }
 
       .mermaid svg {
@@ -514,6 +552,14 @@
       document.querySelectorAll(".markdown-section a[href^='http']").forEach((link) => {
         link.setAttribute("target", "_blank");
         link.setAttribute("rel", "noopener noreferrer");
+      });
+    }
+
+    function tuneTables() {
+      document.querySelectorAll(".markdown-section table").forEach((table) => {
+        const firstRow = table.querySelector("tr");
+        const columns = firstRow ? firstRow.children.length : 0;
+        table.classList.toggle("table-compact", columns >= 6);
       });
     }
 
@@ -663,6 +709,7 @@
       ensureStudySearch();
       normalizeThemeLinks();
       tuneExternalLinks();
+      tuneTables();
       renderMermaid();
       markAppLoaded();
     }
