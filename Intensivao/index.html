@@ -5,58 +5,199 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Material de estudo Intensivão TEME26 para prova de RQE em Medicina de Emergência." />
   <title>Intensivão TEME26</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" onerror="this.onerror=null;this.href='https://unpkg.com/docsify@4/lib/themes/vue.css'" />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+    onerror="this.onerror=null;this.href='https://unpkg.com/docsify@4/lib/themes/vue.css'"
+  />
   <style>
     :root {
-      --text: #1f2937;
-      --muted: #5f6472;
+      --bg: #f7f8f4;
+      --surface: #ffffff;
+      --surface-soft: #fbfbf7;
+      --border: #dfe5df;
+      --text: #202733;
+      --muted: #606775;
       --link: #0f6b5f;
-      --bg: #f8f8f4;
-      --panel: #fbfbf7;
+      --link-soft: #e4f3ef;
+      --code-bg: #f2f4f1;
       --sidebar-width: 320px;
-      --max-content: 1180px;
-      --pad-main: 1.4rem;
+      --content-max: 1080px;
+      --content-pad: 36px;
     }
 
     * {
       box-sizing: border-box;
     }
 
+    html {
+      scroll-behavior: smooth;
+    }
+
     html,
     body {
+      min-height: 100%;
       margin: 0;
-      padding: 0;
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-      color: var(--text);
       background: var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      letter-spacing: 0;
+    }
+
+    body {
+      overflow-x: hidden;
     }
 
     #app {
       min-height: 100vh;
-      background: #fff;
-      background: linear-gradient(180deg, #fbfbf9 0%, #f7f8f4 100%);
+      background: var(--bg);
     }
 
+    main,
     #main {
-      margin-left: 0;
+      min-height: 100vh;
     }
 
-    #main .content {
-      width: min(calc(100vw - (2 * var(--pad-main)), var(--max-content)));
-      margin: 0 auto;
-      padding: 0 var(--pad-main) 2.5rem;
+    .app-name-link img {
+      display: none;
+    }
+
+    .sidebar {
+      position: fixed !important;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      z-index: 20;
+      width: var(--sidebar-width) !important;
+      padding: 58px 18px 28px;
+      overflow-x: hidden;
+      overflow-y: auto;
+      background: var(--surface-soft) !important;
+      border-right: 1px solid var(--border);
+      transform: translateX(0);
+      transition: transform 180ms ease, box-shadow 180ms ease;
+    }
+
+    .sidebar .app-name {
+      margin: 0 0 18px;
+      padding: 0 8px;
+      color: var(--text);
+      font-size: 1.04rem;
+      font-weight: 750;
+      line-height: 1.25;
+      text-align: left;
+    }
+
+    .sidebar .app-name a {
+      color: var(--text);
+    }
+
+    .sidebar-nav {
+      padding: 0 0 1.5rem;
+    }
+
+    .sidebar-nav ul,
+    .sidebar-nav li {
+      margin: 0;
+    }
+
+    .sidebar-nav > ul > li > p,
+    .sidebar-nav > ul > li > a {
+      margin: 0 0 10px;
+      padding: 0 8px;
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .sidebar-nav li a {
+      display: block;
+      min-height: 34px;
+      margin: 2px 0;
+      padding: 7px 10px;
+      border-radius: 8px;
+      color: #303846;
+      font-size: 0.94rem;
+      line-height: 1.32;
+      text-decoration: none;
+      white-space: normal;
+    }
+
+    .sidebar-nav li.active > a,
+    .sidebar-nav li a:hover {
+      background: var(--link-soft);
+      color: var(--link);
+      font-weight: 650;
+    }
+
+    .sidebar-toggle {
+      position: fixed !important;
+      top: 12px !important;
+      left: 14px !important;
+      z-index: 35 !important;
+      width: 38px;
+      height: 38px;
+      padding: 9px !important;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.92);
+      box-shadow: 0 10px 24px rgba(15, 23, 42, 0.10);
+    }
+
+    .sidebar-toggle span {
+      width: 18px !important;
+      height: 2px !important;
+      margin-bottom: 4px !important;
+      background-color: var(--text) !important;
+    }
+
+    .content {
+      position: absolute !important;
+      top: 0 !important;
+      right: 0 !important;
+      left: var(--sidebar-width) !important;
+      min-height: 100vh;
+      margin-left: 0 !important;
+      padding: 0 !important;
+      background: var(--surface);
     }
 
     .markdown-section {
-      max-width: 100%;
-      line-height: 1.62;
+      max-width: var(--content-max) !important;
+      margin: 0 auto !important;
+      padding: 48px var(--content-pad) 84px !important;
+      color: var(--text);
+      line-height: 1.66;
     }
 
     .markdown-section h1,
     .markdown-section h2,
-    .markdown-section h3 {
+    .markdown-section h3,
+    .markdown-section h4 {
+      color: var(--text);
+      font-weight: 760;
       letter-spacing: 0;
-      line-height: 1.25;
+      line-height: 1.24;
+    }
+
+    .markdown-section h1 {
+      margin: 0 0 1.2rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border);
+      font-size: clamp(2rem, 2.6vw, 3rem);
+    }
+
+    .markdown-section h2 {
+      margin-top: 2.15rem;
+      padding-top: 0.35rem;
+      font-size: 1.55rem;
+    }
+
+    .markdown-section h3 {
+      margin-top: 1.65rem;
+      font-size: 1.25rem;
     }
 
     .markdown-section p,
@@ -64,143 +205,402 @@
     .markdown-section td,
     .markdown-section th,
     .markdown-section blockquote {
-      font-size: 1.05rem;
+      font-size: 1.04rem;
     }
 
-    .sidebar {
-      width: var(--sidebar-width);
-      position: fixed;
-      top: 0;
-      left: 0;
-      bottom: 0;
-      overflow-y: auto;
-      overflow-x: hidden;
-      z-index: 15;
-      background: var(--panel);
-      border-right: 1px solid #e5e7ea;
+    .markdown-section p,
+    .markdown-section ul,
+    .markdown-section ol {
+      margin: 0.75rem 0;
     }
 
-    .sidebar-toggle {
-      color: var(--text);
-      top: 0.75rem;
-      left: 0.75rem;
+    .markdown-section a {
+      color: var(--link);
+      font-weight: 620;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
     }
 
-    .sidebar .app-name {
-      font-size: 1rem;
-      padding: 0.6rem 0;
+    .markdown-section blockquote {
+      margin: 1.15rem 0;
+      padding: 0.95rem 1rem;
+      border-left: 4px solid var(--link);
+      border-radius: 0 8px 8px 0;
+      background: #f3faf7;
+      color: #273340;
     }
 
-    .sidebar-nav a {
-      font-size: 0.95rem;
-      line-height: 1.6;
+    .markdown-section code {
+      border-radius: 6px;
+      background: var(--code-bg);
+      color: #2d3642;
+      font-size: 0.92em;
+    }
+
+    .markdown-section pre {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: #f6f8f6;
     }
 
     .markdown-section table {
-      width: 100%;
       display: block;
+      width: 100%;
+      margin: 1rem 0 1.25rem;
       overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--surface);
+      border-collapse: separate;
+      border-spacing: 0;
+    }
+
+    .markdown-section th {
+      background: #eef4f1;
+      color: #22303a;
+      font-weight: 720;
+    }
+
+    .markdown-section th,
+    .markdown-section td {
+      min-width: 120px;
+      padding: 0.72rem 0.85rem;
+      border-color: var(--border);
+      vertical-align: top;
+    }
+
+    .markdown-section tr:nth-child(even) td {
+      background: #fafbf8;
+    }
+
+    .study-search {
+      margin: 0 0 18px !important;
+      padding: 0 6px !important;
+      border-bottom: 0 !important;
+    }
+
+    .study-search input {
+      width: 100%;
+      min-height: 40px;
+      padding: 0 12px !important;
+      border: 1px solid var(--border) !important;
+      border-radius: 8px;
+      background: #fff !important;
+      color: var(--text);
+      font-size: 0.95rem;
+      line-height: 40px;
+    }
+
+    .study-search-results {
+      display: none;
+      margin-top: 8px;
+      padding: 6px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: #fff;
+    }
+
+    .study-search-results.has-results {
+      display: block;
+    }
+
+    .study-search-results a,
+    .study-search-results span {
+      display: block;
+      padding: 7px 8px;
+      border-radius: 7px;
+      color: var(--text);
+      font-size: 0.88rem;
+      line-height: 1.35;
+      text-decoration: none;
+    }
+
+    .study-search-results a:hover {
+      background: var(--link-soft);
+      color: var(--link);
+    }
+
+    .study-search-results span {
+      color: var(--muted);
     }
 
     .mermaid {
       width: 100%;
+      margin: 1.1rem 0 1.35rem;
+      padding: 0.75rem;
       overflow-x: auto;
-      margin: 1rem auto;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: #fff;
     }
 
     .mermaid svg {
-      width: min(100%, 1000px) !important;
-      height: auto;
-      max-width: 100%;
+      width: 1080px !important;
+      min-width: 1080px;
+      height: auto !important;
+      max-width: none !important;
     }
 
-    .search input {
-      font-size: 1rem;
-      border-radius: 8px;
-    }
-
+    .loading-msg,
     .fallback-msg {
-      max-width: 860px;
+      max-width: 760px;
       margin: 4rem auto;
-      padding: 1rem;
-      border: 1px solid #dee3de;
-      border-radius: 10px;
+      padding: 1.25rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
       background: #fff;
-      font-size: 1rem;
       color: var(--muted);
       text-align: center;
     }
 
+    .loading-msg a,
     .fallback-msg a {
       color: var(--link);
-      font-weight: 600;
-      text-decoration: none;
+      font-weight: 650;
     }
 
-    .loading-msg {
-      max-width: 860px;
-      margin: 4rem auto;
-      padding: 2rem 1rem;
-      color: var(--muted);
-      border-radius: 10px;
-      text-align: center;
-      background: #ffffffea;
-      border: 1px solid #e4e7e2;
+    .file-help {
+      display: none;
+      margin-top: 1rem;
+      text-align: left;
     }
 
-    @media (min-width: 900px) {
-      #main {
-        margin-left: var(--sidebar-width);
+    body.close .sidebar {
+      transform: translateX(calc(-1 * var(--sidebar-width)));
+    }
+
+    body.close .content {
+      left: 0 !important;
+      margin-left: 0 !important;
+    }
+
+    body.close #main,
+    body.close main {
+      left: 0 !important;
+      margin-left: 0 !important;
+    }
+
+    @media (max-width: 980px) {
+      :root {
+        --sidebar-width: min(86vw, 340px);
+        --content-pad: 24px;
       }
 
-      #main .content {
-        width: min(calc(100vw - var(--sidebar-width) - (2 * var(--pad-main)), var(--max-content)));
-        max-width: 100%;
+      .content,
+      section.content,
+      main,
+      #main,
+      body.close .content {
+        left: 0 !important;
+        margin-left: 0 !important;
+        width: 100% !important;
+        transform: none !important;
       }
 
       .sidebar {
-        position: fixed;
+        box-shadow: 18px 0 42px rgba(15, 23, 42, 0.16);
+      }
+
+      .sidebar {
+        transform: translateX(0);
+      }
+
+      body.close .sidebar {
+        transform: translateX(-100%);
       }
     }
 
     @media (max-width: 640px) {
-      .sidebar {
-        width: 78vw;
+      :root {
+        --content-pad: 18px;
       }
 
-      .app-nav {
-        padding-right: 0;
+      .markdown-section {
+        padding-top: 64px !important;
       }
 
-      .loading-msg,
-      .fallback-msg {
-        margin: 2.5rem 1rem;
+      .markdown-section h1 {
+        font-size: 1.8rem;
+      }
+
+      .markdown-section p,
+      .markdown-section li,
+      .markdown-section td,
+      .markdown-section th,
+      .markdown-section blockquote {
+        font-size: 1rem;
+      }
+
+      .markdown-section th,
+      .markdown-section td {
+        min-width: 150px;
+      }
+
+      .mermaid svg {
+        width: 980px !important;
+        min-width: 980px;
+      }
+    }
+
+    @media print {
+      .sidebar,
+      .sidebar-toggle,
+      .study-search {
+        display: none !important;
+      }
+
+      .content {
+        margin-left: 0 !important;
+      }
+
+      .markdown-section {
+        max-width: none !important;
+        padding: 0 !important;
       }
     }
   </style>
 </head>
-<body>
+<body class="close">
   <div id="app">
-    <div class="loading-msg" id="loading-msg">
+    <div class="loading-msg">
       <p>Carregando o Intensivão TEME26...</p>
-      <p><a href="LEITURA_OFICIAL.md">Leitura principal</a> · <a href="MAPA_DE_QUESTOES_TEME22-25.md">Mapa de questões</a></p>
-      <p id="file-help" style="display:none;">
-        Você abriu por <code>file://</code>. Neste modo, o Docsify costuma falhar.
-        Use em 2 minutos:  
-        <br />
-        1) No terminal: <code>python -m http.server 8000</code>
-        <br />
-        2) Abra: <a href="http://localhost:8000/Intensivao/index.html">http://localhost:8000/Intensivao/index.html</a>
+      <p>
+        <a href="LEITURA_OFICIAL.md">Leitura principal</a>
+        ·
+        <a href="MAPA_DE_QUESTOES_TEME22-25.md">Mapa de questões</a>
+      </p>
+      <p class="file-help" id="file-help">
+        Você abriu por <code>file://</code>. O leitor completo precisa de servidor local ou GitHub Pages para carregar os arquivos Markdown.
+        Abra pelo GitHub Pages ou rode <code>python -m http.server 8000</code> na pasta do projeto.
       </p>
     </div>
   </div>
 
   <script>
+    const isFileProtocol = location.protocol === "file:";
+
+    function loadScript(src, fallback) {
+      return new Promise((resolve) => {
+        const script = document.createElement("script");
+        script.src = src;
+        script.onload = resolve;
+        script.onerror = () => {
+          if (!fallback) {
+            resolve();
+            return;
+          }
+          script.onerror = null;
+          script.src = fallback;
+        };
+        document.body.appendChild(script);
+      });
+    }
+
+    function markAppLoaded() {
+      const app = document.getElementById("app");
+      if (app) app.dataset.loaded = "1";
+    }
+
     function normalizeThemeLinks() {
       document.querySelectorAll('a[href*="temas/temas/"]').forEach((link) => {
         const href = link.getAttribute("href");
-        if (!href) return;
-        link.setAttribute("href", href.replace(/temas\/temas\//g, "temas/"));
+        if (href) link.setAttribute("href", href.replace(/temas\/temas\//g, "temas/"));
+      });
+    }
+
+    function tuneExternalLinks() {
+      document.querySelectorAll(".markdown-section a[href^='http']").forEach((link) => {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      });
+    }
+
+    const searchCache = new Map();
+
+    function normalizeDocPath(href) {
+      if (!href) return "";
+      let path = href.replace(/^#\/?/, "").split("?")[0].split("#")[0];
+      path = path.replace(/^\/+/, "");
+      if (!path || path === "index.html") return "LEITURA_OFICIAL.md";
+      return path;
+    }
+
+    function collectSearchItems() {
+      const items = new Map([
+        ["LEITURA_OFICIAL.md", "Leitura oficial"],
+        ["MAPA_DE_QUESTOES_TEME22-25.md", "Mapa de questões"]
+      ]);
+
+      document.querySelectorAll(".sidebar-nav a[href]").forEach((link) => {
+        const path = normalizeDocPath(link.getAttribute("href"));
+        const label = (link.textContent || "").trim();
+        if (path && label) items.set(path, label);
+      });
+
+      return Array.from(items, ([path, label]) => ({ path, label }));
+    }
+
+    async function fetchSearchText(item) {
+      if (searchCache.has(item.path)) return searchCache.get(item.path);
+
+      const text = await fetch(item.path).then((response) => response.ok ? response.text() : "");
+      const firstHeading = text.match(/^#\s+(.+)$/m);
+      const payload = {
+        ...item,
+        title: firstHeading ? firstHeading[1].trim() : item.label,
+        text: text.toLowerCase()
+      };
+
+      searchCache.set(item.path, payload);
+      return payload;
+    }
+
+    function ensureStudySearch() {
+      const sidebar = document.querySelector(".sidebar");
+      const nav = document.querySelector(".sidebar-nav");
+      if (!sidebar || !nav || sidebar.querySelector(".study-search")) return;
+
+      const wrapper = document.createElement("div");
+      wrapper.className = "study-search";
+      wrapper.innerHTML = `
+        <input type="search" placeholder="Buscar nos temas" aria-label="Buscar nos temas" />
+        <div class="study-search-results" aria-live="polite"></div>
+      `;
+      sidebar.insertBefore(wrapper, nav);
+
+      const input = wrapper.querySelector("input");
+      const results = wrapper.querySelector(".study-search-results");
+      let timer = 0;
+
+      input.addEventListener("input", () => {
+        window.clearTimeout(timer);
+        timer = window.setTimeout(async () => {
+          const query = input.value.trim().toLowerCase();
+          results.classList.remove("has-results");
+          results.innerHTML = "";
+          if (query.length < 2) return;
+
+          const docs = await Promise.all(collectSearchItems().map(fetchSearchText));
+          const matches = docs
+            .map((doc) => {
+              const inTitle = doc.title.toLowerCase().includes(query);
+              const inText = doc.text.includes(query);
+              return { ...doc, score: inTitle ? 2 : inText ? 1 : 0 };
+            })
+            .filter((doc) => doc.score > 0)
+            .sort((a, b) => b.score - a.score || a.title.localeCompare(b.title, "pt-BR"))
+            .slice(0, 8);
+
+          results.classList.add("has-results");
+          if (!matches.length) {
+            results.innerHTML = "<span>Nenhum resultado.</span>";
+            return;
+          }
+
+          results.innerHTML = matches
+            .map((doc) => `<a href="#/${doc.path}">${doc.title}</a>`)
+            .join("");
+        }, 180);
       });
     }
 
@@ -211,12 +611,14 @@
         securityLevel: "loose",
         flowchart: {
           htmlLabels: true,
-          useMaxWidth: true
+          useMaxWidth: false,
+          nodeSpacing: 46,
+          rankSpacing: 54
         },
         theme: "neutral",
         themeVariables: {
           fontFamily: "Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
-          fontSize: "16px"
+          fontSize: "18px"
         }
       });
       window.__mermaidReady = true;
@@ -229,9 +631,7 @@
       if (!nodes.length) return;
 
       if (typeof window.mermaid !== "object" || typeof window.mermaid.run !== "function") {
-        if (attempt < 12) {
-          window.setTimeout(() => renderMermaid(attempt + 1), 200);
-        }
+        if (attempt < 12) window.setTimeout(() => renderMermaid(attempt + 1), 200);
         return;
       }
 
@@ -240,12 +640,11 @@
         const pre = codeBlock.closest("pre");
         if (!pre || pre.dataset.mermaidConverted === "1") return;
 
-        const source = (codeBlock.textContent || "").trim();
         const wrapper = document.createElement("div");
         wrapper.className = "mermaid";
-        wrapper.textContent = source;
-        pre.replaceWith(wrapper);
+        wrapper.textContent = (codeBlock.textContent || "").trim();
         pre.dataset.mermaidConverted = "1";
+        pre.replaceWith(wrapper);
         wrappers.push(wrapper);
       });
 
@@ -253,71 +652,78 @@
 
       window.mermaid.run({ nodes: wrappers }).catch(() => {
         wrappers.forEach((wrapper) => {
-          wrapper.setAttribute("data-mermaid-error", "1");
-          wrapper.style.opacity = "0.85";
+          wrapper.dataset.mermaidError = "1";
         });
       });
     }
 
-    const isFileProtocol = location.protocol === "file:";
-    if (!isFileProtocol) {
+    function afterRender() {
+      ensureStudySearch();
+      normalizeThemeLinks();
+      tuneExternalLinks();
+      renderMermaid();
+      markAppLoaded();
+    }
+
+    if (isFileProtocol) {
+      const help = document.getElementById("file-help");
+      if (help) help.style.display = "block";
+      markAppLoaded();
+    } else {
+      document.body.classList.toggle("close", window.innerWidth <= 980);
+
       window.$docsify = {
         name: "Intensivão TEME26",
-        loadSidebar: "_sidebar.md",
         homepage: "LEITURA_OFICIAL.md",
+        loadSidebar: "_sidebar.md",
         loadNavbar: false,
         auto2top: true,
         executeScript: true,
         maxLevel: 4,
-        subMaxLevel: 2,
+        subMaxLevel: 0,
         relativePath: false,
-        search: {
-          maxAge: 86400000,
-          depth: 3,
-          noData: "Nenhum resultado."
+        routerMode: "hash",
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md",
+          "/.*/index-online-sidebar.md": "/_sidebar.md"
         },
-        notFoundPage: true,
         markdown: {
           smartypants: false
         },
-        formatUpdated: "{DD}/{MM}/{YYYY}",
         plugins: [
           function(hook) {
-            const onRendered = () => {
-              normalizeThemeLinks();
-              renderMermaid();
-              const app = document.getElementById("app");
-              if (app) app.dataset.loaded = "1";
-            };
-            hook.ready(onRendered);
-            hook.doneEach(onRendered);
+            hook.ready(() => {
+              if (window.innerWidth <= 980) document.body.classList.add("close");
+              afterRender();
+            });
+            hook.doneEach(afterRender);
           }
         ]
       };
-    } else {
-      const help = document.getElementById("file-help");
-      if (help) help.style.display = "block";
+
+      loadScript(
+        "https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js",
+        "https://unpkg.com/docsify@4/lib/docsify.min.js"
+      )
+        .then(() => loadScript(
+          "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js",
+          "https://unpkg.com/mermaid@10/dist/mermaid.min.js"
+        ))
+        .then(() => renderMermaid());
+
+      window.setTimeout(() => {
+        const app = document.getElementById("app");
+        if (!app || app.dataset.loaded === "1") return;
+        app.innerHTML = `
+          <div class="fallback-msg">
+            <p>O leitor está demorando para carregar.</p>
+            <p><a href="LEITURA_OFICIAL.md">Abrir leitura principal em Markdown</a></p>
+            <p><a href="MAPA_DE_QUESTOES_TEME22-25.md">Abrir mapa de questões em Markdown</a></p>
+            <p><a href="javascript:location.reload()">Recarregar</a></p>
+          </div>
+        `;
+      }, 12000);
     }
-  </script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" onerror="this.onerror=null; this.src='https://unpkg.com/docsify@4/lib/docsify.min.js'"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" onerror="this.onerror=null; this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js" onerror="this.onerror=null; this.src='https://unpkg.com/mermaid@10/dist/mermaid.min.js'"></script>
-  <script>
-    setTimeout(() => {
-      const app = document.getElementById("app");
-      if (location.protocol === "file:") return;
-      if (!app || app.dataset.loaded === "1") return;
-      app.innerHTML = `
-        <div class="fallback-msg">
-          <p>O app está demorando para carregar.</p>
-          <p><a href="LEITURA_OFICIAL.md">Abrir leitura principal</a></p>
-          <p><a href="MAPA_DE_QUESTOES_TEME22-25.md">Abrir mapa de questões</a></p>
-          <p><a href="javascript:location.reload()">Recarregar</a></p>
-        </div>
-      `;
-    }, 10000);
   </script>
 </body>
 </html>
-
-
