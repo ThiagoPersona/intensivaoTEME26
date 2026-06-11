@@ -1,6 +1,6 @@
 # Resumos de Emergência
 
-Material modular para revisão dirigida ao TEME26/RQE em Medicina de Emergência.
+Material de revisão dirigida em módulos de emergência, organizado para estudo rápido, raciocínio prático e tomada de decisão no plantão.
 
 > Este material é educacional e deve ser confrontado com protocolos locais, disponibilidade de recursos e julgamento clínico. Quando houver divergência, a resposta de prova fica destacada e a atualização clínica entra em box separado.
 
