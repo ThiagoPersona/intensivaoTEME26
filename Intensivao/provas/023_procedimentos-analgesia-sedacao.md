@@ -1,283 +1,117 @@
 # Prova: Procedimentos, analgesia e sedação
 
-Banco refinado do tema 023, baseado no capítulo **Procedimentos, analgesia e sedação**, nas questões/estações mapeadas, nas pegadinhas e no checklist de revisão. Resolva como prova: escolha a melhor alternativa e depois clique em **Checar resposta**.
+Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Questões autorais e reescritas para estudo, sem cópia literal dos cadernos, livros ou slides. O foco é treinar decisão clínica, padrão da banca e armadilhas recorrentes.
+> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-## Questões e estações
+**Itens pontuados neste banco:** 5 com gabarito oficial TEME22-24 + 2 do TEME25 com espelho local.
+
+## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q97/Q63</p>
-<p><strong>1. Em uma questão/estação inspirada em TEME22 Q97/Q63, aparece este padrão: analgesia em dor abdominal e emergências reumato/renal. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q40 | gabarito oficial: A</p>
+<p><strong>1. Paciente feminina, 24 anos, dá entrada por meios próprios no DE devido a abaulamento doloroso em região escapular direita há 3 dias. Nega comorbidades, nega febre. Está em bom estado geral, consciente, orientada, hidratada, afebril, eupneica. Ao exame físico apresentava lesão nodular abaulada de aproximadamente 2 cm de diâmetro, com ponto de flutuação central, acompanhada de eritema e aumento de temperatura locais. A melhor conduta para esse caso seria:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-001" value="A"> A. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. O achado-chave do enunciado é: analgesia em dor abdominal e emergências reumato/renal.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-001" value="B"> B. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-001" value="C"> C. Usar dose de anestésico local acima do limite e não reconhecer LAST.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-001" value="D"> D. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-001" value="A"> A. Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com orientações</label>
+<label class="quiz-option"><input type="radio" name="q-t023-001" value="B"> B. Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com prescrição de clindamicina</label>
+<label class="quiz-option"><input type="radio" name="q-t023-001" value="C"> C. Iniciar clindamicina e solicitar avaliação do cirurgião</label>
+<label class="quiz-option"><input type="radio" name="q-t023-001" value="D"> D. Iniciar ampicilina EV e realizar incisão local seguida de drenagem e curativo</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: analgesia em dor abdominal e emergências reumato/renal. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q40. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q63</p>
-<p><strong>2. Em uma questão/estação inspirada em TEME24 Q63, aparece este padrão: analgesia em dor abdominal aguda. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q63 | gabarito oficial: B</p>
+<p><strong>2. Paciente do sexo feminino, 35 anos, com diagnóstico de esclerose sistêmica difusa há cerca de 1 ano, em acompanhamento no ambulatório de Reumatologia, dá entrada no pronto socorro com crises convulsivas de difícil controle. Exame físico revela PA 180x110 mmHg e laboratório com creatinina sérica 2,8 mg/dL e análise do sedimento urinário com presença de proteinúria e hematúria. Diante da hipótese diagnóstica de crise renal esclerodérmica, marque a alternativa que apresenta a conduta terapêutica adequada.</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-002" value="A"> A. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-002" value="B"> B. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. O achado-chave do enunciado é: analgesia em dor abdominal aguda.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-002" value="C"> C. Cardioverter paciente instável sem sedação quando há tempo e condição para analgesia.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-002" value="D"> D. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-002" value="A"> A. Pulsoterapia com metilprednisolona 1g IV por 3 dias.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-002" value="B"> B. Captopril 25mg de 8 em 8 horas.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-002" value="C"> C. Pulsoterapia com ciclofosfamida 1g IV por 1 dia.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-002" value="D"> D. Prednisona oral 2mg/kg/dia.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: analgesia em dor abdominal aguda. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q63. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q52/Q63</p>
-<p><strong>3. Em uma questão/estação inspirada em TEME25 Q52/Q63, aparece este padrão: bloqueio ESP e bloqueio guiado por US em trauma. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q97 | gabarito oficial: C</p>
+<p><strong>3. Em relação à abordagem do paciente com dor abdominal no Departamento de Emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-003" value="A"> A. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-003" value="B"> B. Sedação procedural sem monitorização, oxigênio, acesso e material de via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-003" value="C"> C. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. O achado-chave do enunciado é: bloqueio ESP e bloqueio guiado por US em trauma.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-003" value="D"> D. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-003" value="A"> A. A analgesia com opioides deve ser evitada, pois interfere no processo de investigação diagnóstica e tratamento</label>
+<label class="quiz-option"><input type="radio" name="q-t023-003" value="B"> B. Mais de 40% dos pacientes não terão a etiologia da dor definida do Departamento de Emergência, devendo ser admitidos para complementação da investigação</label>
+<label class="quiz-option"><input type="radio" name="q-t023-003" value="C"> C. O leucograma normal não exclui a possibilidade de abdome agudo inflamatório</label>
+<label class="quiz-option"><input type="radio" name="q-t023-003" value="D"> D. A tomografia computadorizada tem acurácia superior ao ultrassom para o diagnóstico de dor originária do trato biliar</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: bloqueio ESP e bloqueio guiado por US em trauma. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q97. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 prática POCUS</p>
-<p><strong>4. Em uma questão/estação inspirada em TEME25 prática POCUS, aparece este padrão: punção guiada, escolha do transdutor e visualização da agulha. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME24 Q41 | gabarito oficial: D</p>
+<p><strong>4. Sobre a indicação de bloqueios anestésicos guiados por ultrassom point-of-care (PoCUS) realizados no Departamento de Emergência, assinale a alternativa que correlaciona adequadamente o bloqueio e a respectiva analgesia oferecida:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-004" value="A"> A. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-004" value="B"> B. Usar dose de anestésico local acima do limite e não reconhecer LAST.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-004" value="C"> C. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-004" value="D"> D. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. O achado-chave do enunciado é: punção guiada, escolha do transdutor e visualização da agulha.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-004" value="A"> A. Bloqueio femoral/ fratura de terço médio da tíbia.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-004" value="B"> B. Bloqueio da fáscia ilíaca/ fratura de terço médio da tíbia.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-004" value="C"> C. Bloqueio ciático por abordagem poplítea/ fratura de côndilo medial de tíbia.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-004" value="D"> D. Bloqueio ciático por abordagem poplítea/ fratura de maléolo lateral de tornozelo.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: punção guiada, escolha do transdutor e visualização da agulha. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME24 Q41. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 prática caso clínico</p>
-<p><strong>5. Em uma questão/estação inspirada em TEME25 prática caso clínico, aparece este padrão: sedação/analgesia contínua no neurocrítico. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME24 Q63 | gabarito oficial: A</p>
+<p><strong>5. Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-005" value="A"> A. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. O achado-chave do enunciado é: sedação/analgesia contínua no neurocrítico.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-005" value="B"> B. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-005" value="C"> C. Cardioverter paciente instável sem sedação quando há tempo e condição para analgesia.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-005" value="D"> D. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-005" value="A"> A. Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-005" value="B"> B. Sulfato de magnésio por via intravenosa empírica, na dose de 1 a 2 g, deve ser evitado.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-005" value="C"> C. A cardioversão elétrica em pacientes instáveis com TdP só pode ser realizada se houver sincronização.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-005" value="D"> D. Antiarrítmicos classe IA (procainamida) ou IC (propafenona) devem ser utilizados para controle da arritmia.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: sedação/analgesia contínua no neurocrítico. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-## Pegadinhas TEME
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>6. A banca tenta derrubar com a seguinte ideia: Analgesia mascara abdome agudo: falso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-006" value="A"> A. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-006" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-006" value="C"> C. Sedação procedural sem monitorização, oxigênio, acesso e material de via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-006" value="D"> D. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Analgesia mascara abdome agudo: falso. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>7. A banca tenta derrubar com a seguinte ideia: Sedação sem capnografia é proibida: falso se indisponível, mas monitorização e via aérea são obrigatórias; capnografia é desejável. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-007" value="A"> A. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-007" value="B"> B. Usar dose de anestésico local acima do limite e não reconhecer LAST.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-007" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-007" value="D"> D. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sedação sem capnografia é proibida: falso se indisponível, mas monitorização e via aérea são obrigatórias; capnografia é desejável. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME24 Q63. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>8. A banca tenta derrubar com a seguinte ideia: Quem faz o procedimento também monitora sedação sozinho: armadilha. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q52 | espelho local do candidato: D (não oficial)</p>
+<p><strong>6. Homem de 68 anos, sem comorbidades conhecidas, é admitido no Departamento de Emergência após colisão automobilística de alta energia. Apresenta fraturas confirmadas por tomografia computadorizada em arcos costais posteriores esquerdos de T5 à T9, com dor torácica intensa e limitação ventilatória, mesmo após analgesia endovenosa com opioides. Considerando a anatomia envolvida, a extensão das fraturas e os objetivos analgésicos, qual das opções a seguir representa a técnica regional mais apropriada e com melhor perfil de segurança no cenário descrito?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-008" value="A"> A. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-008" value="B"> B. Cardioverter paciente instável sem sedação quando há tempo e condição para analgesia.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-008" value="C"> C. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-008" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-006" value="A"> A. Bloqueio intercostal em múltiplos níveis, com injeção de anestésico local diretamente sob a margem inferior de cada costela envolvida, entre o ângulo costal e a linha axilar média.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-006" value="B"> B. Bloqueio do plano serrátil anterior (SAM block), com infusão de anestésico local entre o músculo serrátil anterior e a pleura.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-006" value="C"> C. Bloqueio supraclavicular do plexo braquial, com infusão perineural no corner pocket, visando à analgesia do membro superior e hemitórax ipsilateral.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-006" value="D"> D. Bloqueio do plano eretor da espinha (ESP block), com posicionamento do transdutor em orientação sagital paramediana e infusão de anestésico local profundo ao músculo eretor da espinha.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Quem faz o procedimento também monitora sedação sozinho: armadilha. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>9. A banca tenta derrubar com a seguinte ideia: Bloqueio guiado por US elimina LAST: falso. Calcular dose e injetar fracionado. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-009" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-009" value="B"> B. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-009" value="C"> C. Sedação procedural sem monitorização, oxigênio, acesso e material de via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-009" value="D"> D. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Bloqueio guiado por US elimina LAST: falso. Calcular dose e injetar fracionado. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q52. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>10. A banca tenta derrubar com a seguinte ideia: Paracentese só se dor abdominal: falso; cirrótico internado/descompensado tem várias indicações. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q63 | espelho local do candidato: B (não oficial)</p>
+<p><strong>7. Durante o atendimento de um paciente politraumatizado com fratura exposta de tíbia, a equipe optou por realizar um bloqueio periférico guiado por ultrassonografia como estratégia de analgesia multimodal. Considerando as técnicas, a farmacologia e a segurança envolvidas nos bloqueios anestésicos periféricos, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-010" value="A"> A. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-010" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-010" value="C"> C. Usar dose de anestésico local acima do limite e não reconhecer LAST.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-010" value="D"> D. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-007" value="A"> A. A adição de vasoconstritor ao anestésico local pode auxiliar na identificação precoce de injeção intravascular inadvertida, mesmo em concentrações diluídas como 1:200 mil.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-007" value="B"> B. A associação de anestésicos locais como lidocaína e bupivacaína é recomendada por seu sinergismo analgésico com menor risco de toxicidade.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-007" value="C"> C. O uso de agulhas de ponta cortante é preferido em bloqueios periféricos pela facilidade de visualização ao ultrassom e menor risco de injeção intrafascicular.</label>
+<label class="quiz-option"><input type="radio" name="q-t023-007" value="D"> D. A lidocaína, por apresentar maior solubilidade lipídica e maior ligação proteica que a bupivacaína, possui maior duração analgésica, sendo preferível em procedimentos que requerem analgesia prolongada.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Paracentese só se dor abdominal: falso; cirrótico internado/descompensado tem várias indicações. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>11. A banca tenta derrubar com a seguinte ideia: Toracocentese às cegas é igual ao US: falso quando US está disponível. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-011" value="A"> A. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-011" value="B"> B. Cardioverter paciente instável sem sedação quando há tempo e condição para analgesia.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-011" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-011" value="D"> D. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Toracocentese às cegas é igual ao US: falso quando US está disponível. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-## Checklist de revisão
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>12. Antes da prova, este ponto precisa estar automático: Sei checklist antes de procedimento. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-012" value="A"> A. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-012" value="B"> B. Sedação procedural sem monitorização, oxigênio, acesso e material de via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-012" value="C"> C. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-012" value="D"> D. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. Para revisão final, fixe especificamente: Sei checklist antes de procedimento.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei checklist antes de procedimento. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>13. Antes da prova, este ponto precisa estar automático: Sei doses básicas de sedação/analgesia. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-013" value="A"> A. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. Para revisão final, fixe especificamente: Sei doses básicas de sedação/analgesia.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-013" value="B"> B. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-013" value="C"> C. Usar dose de anestésico local acima do limite e não reconhecer LAST.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-013" value="D"> D. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei doses básicas de sedação/analgesia. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>14. Antes da prova, este ponto precisa estar automático: Sei dose máxima de anestésico local. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-014" value="A"> A. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-014" value="B"> B. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. Para revisão final, fixe especificamente: Sei dose máxima de anestésico local.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-014" value="C"> C. Cardioverter paciente instável sem sedação quando há tempo e condição para analgesia.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-014" value="D"> D. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei dose máxima de anestésico local. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>15. Antes da prova, este ponto precisa estar automático: Sei reconhecer e tratar LAST. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-015" value="A"> A. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-015" value="B"> B. Sedação procedural sem monitorização, oxigênio, acesso e material de via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-015" value="C"> C. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. Para revisão final, fixe especificamente: Sei reconhecer e tratar LAST.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-015" value="D"> D. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei reconhecer e tratar LAST. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>16. Antes da prova, este ponto precisa estar automático: Sei indicações de paracentese no cirrótico. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-016" value="A"> A. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-016" value="B"> B. Usar dose de anestésico local acima do limite e não reconhecer LAST.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-016" value="C"> C. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-016" value="D"> D. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. Para revisão final, fixe especificamente: Sei indicações de paracentese no cirrótico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei indicações de paracentese no cirrótico. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>17. Antes da prova, este ponto precisa estar automático: Sei quando usar US em toracocentese/acesso/bloqueio. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-017" value="A"> A. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. Para revisão final, fixe especificamente: Sei quando usar US em toracocentese/acesso/bloqueio.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-017" value="B"> B. Fazer toracocentese/paracentese sem confirmar indicação, lateralidade e segurança.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-017" value="C"> C. Cardioverter paciente instável sem sedação quando há tempo e condição para analgesia.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-017" value="D"> D. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei quando usar US em toracocentese/acesso/bloqueio. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>18. Antes da prova, este ponto precisa estar automático: Sei critérios de observação pós-sedação. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t023-018" value="A"> A. Encerrar procedimento sem reavaliar complicações, sinais vitais e documentação.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-018" value="B"> B. Indicar o procedimento certo, preparar monitorização/resgate, escolher analgesia/sedação proporcional e reconhecer complicações cedo. Para revisão final, fixe especificamente: Sei critérios de observação pós-sedação.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-018" value="C"> C. Sedação procedural sem monitorização, oxigênio, acesso e material de via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-t023-018" value="D"> D. Confundir analgesia com sedação e deixar dor intensa sem tratamento.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei critérios de observação pós-sedação. Procedimentos caem por preparo: consentimento quando possível, material, monitorização, reversão, dose máxima e plano de falha. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q63. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>

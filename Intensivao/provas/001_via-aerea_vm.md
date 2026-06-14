@@ -1,1272 +1,1173 @@
-# Prova: Via Aérea e Ventilação Mecânica
+# Prova: Via aérea e ventilação mecânica
 
-Banco do tema 01, baseado nas questões relacionadas no capítulo **Via Aérea e Ventilação Mecânica**. Resolva como prova: escolha a melhor alternativa, depois clique em **Checar resposta**.
+Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Questões reescritas para estudo, sem cópia literal dos cadernos. Use como treino de raciocínio e revisão das pegadinhas.
->
-> Este banco inclui **79 questões autorais**: 62 do mapa amplo TEME22-24 e 17 do recorte TEME25. Algumas questões originais dependiam de imagem ou curva; nesses casos, o padrão cobrado foi reescrito em texto e, quando útil, com esquema autoral.
+> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-## TEME22
+**Itens pontuados neste banco:** 59 com gabarito oficial TEME22-24 + 17 do TEME25 com espelho local.
 
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q4 | Indicação de via aérea definitiva.</p>
-<p><strong>1. Qual é a forma mais segura de decidir por IOT no paciente crítico?</strong></p>
+## Questões em estilo TEME
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME22 Q3 | gabarito oficial: B</p>
+<p><strong>1. Utilize o caso a seguir como referência às questões 1, 2 e 3: Você faz parte de uma equipe de Suporte Avançado de Vida pré-hospitalar que foi acionada para atender uma vítima de tentativa de suicídio por precipitação. Segundo informações do solicitante, a paciente se jogou de um viaduto de aproximadamente 8 metros de altura, que passa sobre uma rodovia de alta velocidade. Chegando ao local, você identifica uma vítima feminina ao solo, na faixa 1 da via. Na avaliação inicial dessa paciente você identifica que sua via aérea está pérvia e que ela ventila adequadamente. Não há sangramento externo de grande monta, e ela apresenta palidez, sudorese fria e rebaixamento do nível de consciência. O abdome é indolor à palpação e a pelve está estável. Aferindo os sinais vitais, você identifica FC 110 BPM, FR 28 IRPM, SaO2 92%, ECG de 8 e PA 124 x 88 mmHg em membro superior direito e de 96 x 65 mmHg em membro superior esquerdo. Levando em conta o mecanismo de trauma e a provável lesão que essa paciente apresenta, assinale a alternativa incorreta em relação às medidas terapêuticas que podem ser oferecidas à essa vítima:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-001" value="A"> A. Integrar proteção de via aérea, falha de oxigenação/ventilação e previsão de piora clínica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-001" value="B"> B. Intubar todo paciente sem reflexo de vômito, independentemente do restante do exame.</label>
-<label class="quiz-option"><input type="radio" name="q-va-001" value="C"> C. Usar Glasgow menor que 8 como única indicação confiável.</label>
-<label class="quiz-option"><input type="radio" name="q-va-001" value="D"> D. Observar estridor se ainda não houver dispneia franca.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-001" value="A"> A. Administração de 1 g de ácido tranexâmico EV, visando ao controle de hemorragia interna</label>
+<label class="quiz-option"><input type="radio" name="q-t001-001" value="B"> B. Pericardiocentese, a fim de aliviar provável tamponamento cardíaco</label>
+<label class="quiz-option"><input type="radio" name="q-t001-001" value="C"> C. Administração de betabloqueador, a fim de manter a pressão arterial média inferior a 70 mmHg</label>
+<label class="quiz-option"><input type="radio" name="q-t001-001" value="D"> D. Sequência rápida de intubação utilizando etomidato, rocurônio e fentanil</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> A banca cobra o tripé: proteção, oxigenação/ventilação e curso clínico. B erra por supervalorizar um reflexo isolado; C reduz a decisão ao Glasgow; D ignora que estridor é sinal de via aérea ameaçada.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q8 | Videolaringoscopia.</p>
-<p><strong>2. Na videolaringoscopia, qual conceito costuma ser mais verdadeiro?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-002" value="A"> A. Sempre é obrigatório alinhar os eixos oral, faríngeo e laríngeo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-002" value="B"> B. A lâmina hiperangulada deve ser rotina em todos os pacientes.</label>
-<label class="quiz-option"><input type="radio" name="q-va-002" value="C"> C. Abertura oral insuficiente para a lâmina pode impedir a técnica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-002" value="D"> D. Boa visão em tela garante passagem fácil do tubo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Sem abertura para introduzir lâmina/tubo, a técnica falha. A erra porque vídeo dispensa linha direta clássica; B erra pelo "sempre"; D é pegadinha, pois visão boa não garante entrega do tubo.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q15 | Trauma, choque e via aérea.</p>
-<p><strong>3. Trauma grave com via aérea pérvia por manobra externa, hipotensão e pneumotórax hipertensivo provável. Qual raciocínio é melhor?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-003" value="A"> A. Fazer IOT imediata antes de qualquer outra intervenção.</label>
-<label class="quiz-option"><input type="radio" name="q-va-003" value="B"> B. Fazer sequência atrasada de intubação para pré-oxigenar longamente.</label>
-<label class="quiz-option"><input type="radio" name="q-va-003" value="C"> C. Manter manobras simples de via aérea enquanto corrige ameaça ventilatória/circulatória imediata.</label>
-<label class="quiz-option"><input type="radio" name="q-va-003" value="D"> D. Considerar intubação crash como primeira ação por causa do choque.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Se a via aérea está temporariamente pérvia, a ameaça B/C não pode esperar. A e D podem precipitar colapso; B erra por atrasar correção de pneumotórax/choque.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q3. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q18 | VCV, fluxo e tempo expiratório.</p>
-<p><strong>4. Em VCV com fluxo inspiratório fixo, o que acontece ao reduzir o volume corrente?</strong></p>
+<p class="quiz-source">TEME22 Q4 | gabarito oficial: B</p>
+<p><strong>2. Sobre a decisão de intubar um paciente, escolha a opção com a alternativa que contenha o conceito ERRADO:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-004" value="A"> A. O tempo inspiratório aumenta e piora a expiração.</label>
-<label class="quiz-option"><input type="radio" name="q-va-004" value="B"> B. O tempo inspiratório encurta e tende a aumentar a janela expiratória.</label>
-<label class="quiz-option"><input type="radio" name="q-va-004" value="C"> C. A relação I:E não se modifica em nenhum modo controlado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-004" value="D"> D. O ajuste não influencia auto-PEEP.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-002" value="A"> A. Existem três indicações bem estabelecidas de intubação baseado em avaliação clínica do médico: Proteção de via aérea, insuficiência respiratória e antecipação do curso clínico da doença.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-002" value="B"> B. A ausência do reflexo de vômito no paciente com rebaixamento do nível de consciência é o sinal para indicar a via aérea definitiva imediata;</label>
+<label class="quiz-option"><input type="radio" name="q-t001-002" value="C"> C. A deglutição espontânea ou voluntária é a melhor forma de avaliação da capacidade do paciente proteger sua via aérea</label>
+<label class="quiz-option"><input type="radio" name="q-t001-002" value="D"> D. Estridor é um sinal de alerta para antecipação no manejo da via aérea mesmo na ausência de dispneia</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Em VCV, tempo inspiratório depende de volume e fluxo. A inverte o efeito; C ignora a mecânica do ciclo; D erra porque tempo expiratório é central na auto-PEEP.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q4. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q19 | Fármacos no choque.</p>
-<p><strong>5. Paciente em choque precisa de via aérea definitiva imediata. Qual combinação é mais coerente com estabilidade fisiológica?</strong></p>
+<p class="quiz-source">TEME22 Q5 | gabarito oficial: D</p>
+<p><strong>3. Vítima de atropelamento por ônibus há 1 hora, sexo masculino, 43 anos, dá entrada na sala de emergência trazido por equipe de suporte avançado do SAMU intubado, com colar cervical e prancha longa, recebendo oxigênio em MNR á 15 L/min, com acesso venoso em membro superior direito, tendo recebido de 500 mL de Ringer Lactato EV. Ao exame inicial apresenta múltiplas fraturas e lacerações em face, equimoses e crepitações em face, redução de expansibilidade e ausculta diminuída em hemitórax esquerdo, abdome sem lesões aparentes, pelve estável, fratura exposta de tíbia e fíbula à direita. Sinais vitais: FC 112 BPM, FR 12 IRPM, SaO2 90%, PA 84 x 56mm Hg, sedado com escala de Richmond Agitation-Sedation Scale (RASS) de -4. Em relação ao caso acima, considere as seguintes afirmações: I – O trauma de face pode justificar seu quadro de choque II – Toracostomia digital à esquerda está contraindicada III – Deve ser realizada toracostomia digital bilateral IV – Intubação seletiva à direita não pode ser descartada Estão corretas as afirmativas:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-005" value="A"> A. Fentanil em dose alta + midazolam.</label>
-<label class="quiz-option"><input type="radio" name="q-va-005" value="B"> B. Propofol em dose plena + bloqueador.</label>
-<label class="quiz-option"><input type="radio" name="q-va-005" value="C"> C. Etomidato em dose excessiva sem vasopressor pronto.</label>
-<label class="quiz-option"><input type="radio" name="q-va-005" value="D"> D. Indutor hemodinamicamente mais seguro, dose ajustada ao choque, bloqueador em dose plena e vasopressor preparado.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-003" value="A"> A. Apenas I e III</label>
+<label class="quiz-option"><input type="radio" name="q-t001-003" value="B"> B. Apenas II e IV</label>
+<label class="quiz-option"><input type="radio" name="q-t001-003" value="C"> C. II, III e IV</label>
+<label class="quiz-option"><input type="radio" name="q-t001-003" value="D"> D. Apenas I e IV</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> A prova quer droga adequada ao contexto e preparo hemodinâmico. A e B derrubam pressão; C erra pela dose e ausência de plano pressórico.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q5. Gabarito oficial: D.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME22 Q6 | gabarito oficial: A</p>
+<p><strong>4. Referência para Questões 6 e 7: Paciente de 19 anos é trazido ao DE por familiares. Você verifica que ele está inconsciente e não apresenta pulso. Qual das seguintes estratégias deve ser realizada de modo prioritário?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-004" value="A"> A. Iniciar Compressões cardíacas na frequência de 100 a 120 por minuto</label>
+<label class="quiz-option"><input type="radio" name="q-t001-004" value="B"> B. Realizar IOT</label>
+<label class="quiz-option"><input type="radio" name="q-t001-004" value="C"> C. Iniciar Infusão de Adrenalina EV</label>
+<label class="quiz-option"><input type="radio" name="q-t001-004" value="D"> D. Ventilações Assistidas na velocidade de 10 por minuto</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q6. Gabarito oficial: A.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME22 Q7 | gabarito oficial: B</p>
+<p><strong>5. Referência para Questões 6 e 7: Paciente de 19 anos é trazido ao DE por familiares. Você verifica que ele está inconsciente e não apresenta pulso. Você administrou 02 choques não sincronizados de 200 J no paciente acima. Foram reiniciadas as compressões torácicas com profundidade de mínimo 5 cm e no máximo 6 cm, com retorno total do tórax à posição de repouso. Nesse mesmo ciclo, foi administrado 1 mg de adrenalina EV e feito flush de 20 ml soro fisiológico. Ainda resta 1 minuto para a próxima verificação do ritmo. Qual conduta prioritária sequencial você poderia considerar no manejo desse caso ainda nesse ciclo?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-005" value="A"> A. Administrar amiodarona EV 300 mg</label>
+<label class="quiz-option"><input type="radio" name="q-t001-005" value="B"> B. Considerar via aérea avançada e colocação de capnografia em formato de onda contínua</label>
+<label class="quiz-option"><input type="radio" name="q-t001-005" value="C"> C. Considerar causas reversíveis</label>
+<label class="quiz-option"><input type="radio" name="q-t001-005" value="D"> D. Administração de lidocaína EV 1 mg/kg</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q7. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q31 | Sequência atrasada/delayed sequence.</p>
-<p><strong>6. Obeso, pneumonia, hipoxemia, choque e agitação que impede acoplar oxigênio. Qual técnica favorece a pré-oxigenação?</strong></p>
+<p class="quiz-source">TEME22 Q8 | gabarito oficial: C</p>
+<p><strong>6. Sobre a técnica de Videolaringoscopia, escolha resposta correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-006" value="A"> A. RSI imediata sem tentativa de melhorar oxigenação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-006" value="B"> B. Intubação acordado em paciente caótico e combativo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-006" value="C"> C. Sequência atrasada/prolongada, sedando o suficiente para tolerar pré-oxigenação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-006" value="D"> D. Midazolam isolado para facilitar a laringoscopia.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-006" value="A"> A. Há a necessidade de deslocamento da língua do paciente para uma melhor visualização</label>
+<label class="quiz-option"><input type="radio" name="q-t001-006" value="B"> B. É necessário uma linha direta de visão da via aérea obtidos com o alinhamento dos eixos, a clássica posição do “cheirador” é uma das formas de atingir esse alinhamento;</label>
+<label class="quiz-option"><input type="radio" name="q-t001-006" value="C"> C. A única restrição absoluta do seu uso é quando há abertura bucal limitada para a lâmina disponível;</label>
+<label class="quiz-option"><input type="radio" name="q-t001-006" value="D"> D. O uso de lâminas hiper-anguladas deve ser priorizado rotineiramente</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> A sequência atrasada permite pré-oxigenar com PEEP/VNI. A sacrifica margem de segurança; B não combina com paciente não cooperativo; D não garante via aérea nem bloqueio adequado.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q8. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME22 Q9 | gabarito oficial: A</p>
+<p><strong>7. Com o POCUS Pulmonar as patologias respiratórias são avaliadas através da:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-007" value="A"> A. Avaliação de pleura e artefatos ar-tecidos (relação ar-líquido)</label>
+<label class="quiz-option"><input type="radio" name="q-t001-007" value="B"> B. Avaliação de pleura e parênquima pulmonar</label>
+<label class="quiz-option"><input type="radio" name="q-t001-007" value="C"> C. Avaliação do parênquima pulmonar e artefatos</label>
+<label class="quiz-option"><input type="radio" name="q-t001-007" value="D"> D. Avaliação da relação entre linhas pleurais verticais e horizontais</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q9. Gabarito oficial: A.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME22 Q15 | gabarito oficial: C</p>
+<p><strong>8. Referência para Questões 15 e 16: Paciente de 20 anos, trazido pela equipe de Atendimento Pré-hospitalar por unidade móvel básica, com relato de colisão moto vs carro, paciente era o motorista da moto e estava sem uso de capacete. Há relato de vítima fatal na cena. Sinais Vitais: FR 30 irpm, FC 140 bpm, PA 70x30 mmHg, SaO2 91% em AA Exame primário realizado na sala de emergência: A: colar cervical, sem sangue na cavidade oral, via aérea pérvia com Retração de Mandíbula (Jaw Thrust) B: Ausculta abolida em hemitórax direito, com enfisema subcutâneo local, ausculta a esquerda preservada C: Pulsos periféricos não perceptíveis, enchimento capilar lentificado, sem sangramento exteriorizados D: Abertura ocular ao estímulo doloroso, verbaliza sons incompreensíveis, resposta motora com retirada à dor e pupilas médias, isocóricas e fotorreagentes E: Escoriações em tórax Qual das opções abaixo representa a melhor alternativa em relação ao manejo imediato da via aérea desse paciente?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-008" value="A"> A. Intubação em sequência rápida imediata pelo risco de broncoaspiração</label>
+<label class="quiz-option"><input type="radio" name="q-t001-008" value="B"> B. Sequência atrasada de intubação com otimização da pré oxigenação</label>
+<label class="quiz-option"><input type="radio" name="q-t001-008" value="C"> C. Manter manobras externas para garantir a perviedade da via aérea</label>
+<label class="quiz-option"><input type="radio" name="q-t001-008" value="D"> D. Intubação crash pelo risco de colapso circulatório iminente</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q15. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME22 Q18 | gabarito oficial: A</p>
+<p><strong>9. Homem, 22 anos de idade, no terceiro dia de internação hospitalar por pneumonia viral, foi submetido a intubação orotraqueal ainda no Departa- mento de Emergência. Atualmente encontra-se sedado, estável hemodinamicamente, sob ventilação mecânica. Peso ideal estimado de 70 kg. Parâmetros ventilatórios: Modo ventilação controlada, com volume corrente de 420 mL, FR 18 IRPM, FiO₂ 50%, PEEP 10 cmH₂O. Gasometria arterial coletada com esses parâmetros: pH 7,16; PaO₂ 80 mmHg; PaCO₂ 86 mmHg; BIC 24 mEq/L; SaO2 96%. Ao realizar manobra de pausa inspiratória, obtêm-se os seguintes parâmetros: Pressão de Platô (Pplatô) de 25 cmH₂O; Pressão de Pico (Ppico) de 32 cmH₂O. É correto afirmar:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-009" value="A"> A. No modo VCV ao reduzir o volume corrente a janela de tempo não altera.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-009" value="B"> B. No modo VCV ao reduzir o volume corrente e mantendo o fluxo inspiratório o tempo expiratório irá diminuir.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-009" value="C"> C. No modo PCV ao reduzir o tempo inspiratório a janela de tempo irá diminuir.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-009" value="D"> D. No modo PCV a relação I:E não depende do tempo inspiratório.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q18. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q32 | Fármacos na sequência atrasada.</p>
-<p><strong>7. No cenário de hipoxemia + agitação + choque, qual fármaco tende a ajudar a pré-oxigenação sem abolir imediatamente o drive?</strong></p>
+<p class="quiz-source">TEME22 Q19 | gabarito oficial: D</p>
+<p><strong>10. Em relação ao paciente em choque circulatório e que necessita de uma via aérea definitiva imediata, dentre as opções abaixo qual escolha farmacológica é a mais favorável para esse cenário:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-007" value="A"> A. Fentanil + midazolam como sedação principal.</label>
-<label class="quiz-option"><input type="radio" name="q-va-007" value="B"> B. Midazolam + bloqueador antes de acoplar oxigênio.</label>
-<label class="quiz-option"><input type="radio" name="q-va-007" value="C"> C. Propofol em dose plena pela rapidez.</label>
-<label class="quiz-option"><input type="radio" name="q-va-007" value="D"> D. Cetamina titulada, seguida de bloqueador quando a primeira tentativa estiver pronta.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-010" value="A"> A. Fentanil + Etomidato 0.5mg/kg + Suxametônio 1.5mg/kg, IV</label>
+<label class="quiz-option"><input type="radio" name="q-t001-010" value="B"> B. Etomidato 1 mg/kg + Suxametônio 1 mg/kg, IV</label>
+<label class="quiz-option"><input type="radio" name="q-t001-010" value="C"> C. Cetamina 1.5 mg/kg + Suxametônio 1.5 mg/kg, IV</label>
+<label class="quiz-option"><input type="radio" name="q-t001-010" value="D"> D. Cetamina 0.75 mg/kg + Suxametônio 1.5 mg/kg, IV</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Cetamina é útil para aceitar VNI/BVM com PEEP. A e C podem hipotensar; B paralisa antes de pré-oxigenar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q19. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q46 | Deterioração súbita no ventilador.</p>
-<p><strong>8. Intubado em VM dessatura subitamente após mobilização. Qual é a ação imediata mais segura no algoritmo DOPE?</strong></p>
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME22 Q23 | gabarito oficial: B</p>
+<p><strong>11. Paciente de 25 anos vítima queda de moto sem uso de capacete, da entrada no Departamento de Emergência (DE) conduzido por uma unidade de suporte básico. Encontra-se com colar cervical, imobilizado em prancha rígida (que já foi prontamente retirada). Vias aéreas pérvias, SaO2 92%. FR 24 irpm, MV sem ruídos adventícios porém reduzido na base direita. FC 110 bpm, PA 90 x 70 mmHg, TEC de 4 seg. Abre os olhos ao estímulo pressórico no tórax, confuso, localiza estímulos. Escoriação em hemitórax direito e joelho direito. Rx de tórax com fratura do 5̊ arco costal direito e moderado hemotórax. Rx de coluna cervical sem alterações, assim como Rx de MID também sem fraturas. Paciente é submetido à Intubação Orotraqueal e é iniciado Ventilação Mecânica (VM), recebe 1L de Ringer Lactato aquecido e tem agora PA 100 x 80 mmHg. Submetido a drenagem torácica à direita com drenagem de 500ml de sangue sem débito adicional. Realizada TC de crânio (apresentada abaixo) Está agora sob suporte no DE aguardando transferência para centro de referência. Em relação às medidas neuroprotetoras assinale a afirmativa CORRETA:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-008" value="A"> A. Desconectar do ventilador e ventilar com BVM enquanto avalia deslocamento, obstrução, pneumotórax e equipamento.</label>
-<label class="quiz-option"><input type="radio" name="q-va-008" value="B"> B. Reintubar imediatamente sem tentar ventilar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-008" value="C"> C. Drenar os dois hemitórax em todo paciente dessaturado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-008" value="D"> D. Trocar o ventilador antes de checar o tubo.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-011" value="A"> A. Manter o paciente em hipotermia terapêutica</label>
+<label class="quiz-option"><input type="radio" name="q-t001-011" value="B"> B. Manter SaO2 acima de 94% e PA Sistólica (PAS) &gt; 100 mmHg</label>
+<label class="quiz-option"><input type="radio" name="q-t001-011" value="C"> C. Manter o Sódio (Na+) sérico entre 125 a 135 mEq/L</label>
+<label class="quiz-option"><input type="radio" name="q-t001-011" value="D"> D. Manter Pressão Arterial de Gás Carbônico (PaCO2) entre 45 e 55 mmHg.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> BVM separa paciente de problema de circuito e compra tempo. B, C e D pulam etapas e podem tratar a causa errada.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q23. Gabarito oficial: B.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME22 Q24 | gabarito oficial: C</p>
+<p><strong>12. Paciente de 33 anos, é admitido ao Departamento de Emergência com quadro de Dispneia de instalação aguda, ao exame físico apresenta SaO2 90% em ar ambiente, FC 113 BPM, FR 28 IRPM e Temperatura Axilar (TAx) de 36.4ºC, Ausculta pulmonar com MV reduzidos difusamente, sem outros achados significativos. Marque o exame complementar inicial com boa acurácia para definir as próximas medidas a serem priorizadas para esse paciente.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-012" value="A"> A. Radiografia de Tórax</label>
+<label class="quiz-option"><input type="radio" name="q-t001-012" value="B"> B. Tomografia de Tórax</label>
+<label class="quiz-option"><input type="radio" name="q-t001-012" value="C"> C. Ultrassonografia Point-of-care de Tórax</label>
+<label class="quiz-option"><input type="radio" name="q-t001-012" value="D"> D. Cintilografia Pulmonar</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q24. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME22 Q31 | gabarito oficial: C</p>
+<p><strong>13. Referência para Questões 31 e 32: Paciente 55 anos, Obesidade Grau III, procura atendimento de emergência por quadro de febre, tosse produtiva e dispneia de início progressivo há 7 dias. No seu exame físico breve, o paciente encontra-se agitado e combativo, confuso, caótico, com ausculta de Murmúrios Vesiculares (MV) reduzidos em base direita e ventilando com esforço respiratório. Sinais Vitais: Frequência Respiratória (FR) de 45 Incursões Respiratórias por Minuto (IRPM), Frequência Cardíaca (FC) de 130 Batimentos por Minuto (BPM), Pressão Arterial (PA) de 80 x 40 milímetros de Mercurio (mmHg) e Saturação Arterial de Oxigênio (SaO2) de 84% em Ar Ambiente (AA). Durante a realização das medidas iniciais, o paciente não tolerou a acoplagem em oxigênio suplementar pela agitação psicomotora e decidiu-se por intubar o paciente. Considerando o paciente, qual o método de intubação mais adequado nesse contexto:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-013" value="A"> A. Intubação em Sequência Rápida (ISR)</label>
+<label class="quiz-option"><input type="radio" name="q-t001-013" value="B"> B. Intubação Acordado</label>
+<label class="quiz-option"><input type="radio" name="q-t001-013" value="C"> C. Intubação em Sequência Atrasada</label>
+<label class="quiz-option"><input type="radio" name="q-t001-013" value="D"> D. Intubação Facilitada com Midazolam</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q31. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q70 | VNI: contraindicações.</p>
-<p><strong>9. Em qual cenário a VNI deve ser evitada como solução principal?</strong></p>
+<p class="quiz-source">TEME22 Q32 | gabarito oficial: D</p>
+<p><strong>14. Referência para Questões 31 e 32: Paciente 55 anos, Obesidade Grau III, procura atendimento de emergência por quadro de febre, tosse produtiva e dispneia de início progressivo há 7 dias. No seu exame físico breve, o paciente encontra-se agitado e combativo, confuso, caótico, com ausculta de Murmúrios Vesiculares (MV) reduzidos em base direita e ventilando com esforço respiratório. Sinais Vitais: Frequência Respiratória (FR) de 45 Incursões Respiratórias por Minuto (IRPM), Frequência Cardíaca (FC) de 130 Batimentos por Minuto (BPM), Pressão Arterial (PA) de 80 x 40 milímetros de Mercurio (mmHg) e Saturação Arterial de Oxigênio (SaO2) de 84% em Ar Ambiente (AA). Durante a realização das medidas iniciais, o paciente não tolerou a acoplagem em oxigênio suplementar pela agitação psicomotora e decidiu-se por intubar o paciente. Considerando o status fisiológico pré intubação desse paciente, qual a melhor combinação de fármacos para a abordagem dessa via aérea:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-009" value="A"> A. Rebaixamento com secreção e disfagia grave.</label>
-<label class="quiz-option"><input type="radio" name="q-va-009" value="B"> B. Pneumotórax não drenado com hipoxemia.</label>
-<label class="quiz-option"><input type="radio" name="q-va-009" value="C"> C. TEP com choque/instabilidade hemodinâmica importante.</label>
-<label class="quiz-option"><input type="radio" name="q-va-009" value="D"> D. Todos os cenários acima.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-014" value="A"> A. Fentanil + Midazolam, Intravenoso (IV)</label>
+<label class="quiz-option"><input type="radio" name="q-t001-014" value="B"> B. Midazolam + Suxametônio, IV</label>
+<label class="quiz-option"><input type="radio" name="q-t001-014" value="C"> C. Fentanil + Etomidato + Suxametônio, IV</label>
+<label class="quiz-option"><input type="radio" name="q-t001-014" value="D"> D. Cetamina + Suxametônio, IV</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> A falha proteção de via aérea, pneumotórax não tratado e choque importante são armadilhas para VNI. A, B e C isoladas estão corretas, mas a pergunta pede o conjunto.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q79 | DPOC hipercápnico.</p>
-<p><strong>10. DPOC exacerbado com pH 7,20 e PaCO2 90, ainda cooperativo. Qual suporte é mais adequado?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-010" value="A"> A. CPAP isolado alto com FiO2 80%.</label>
-<label class="quiz-option"><input type="radio" name="q-va-010" value="B"> B. Oxigênio livre até SpO2 100%.</label>
-<label class="quiz-option"><input type="radio" name="q-va-010" value="C"> C. BiPAP com pressão inspiratória/expiratória e FiO2 titulada para alvo 88-92%.</label>
-<label class="quiz-option"><input type="radio" name="q-va-010" value="D"> D. Intubação obrigatória antes de tentar VNI.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> DPOC hipercápnico acidótico é indicação clássica de VNI em dois níveis se não houver contraindicação. A não oferece suporte inspiratório; B hiperoxigena; D é excessiva se o paciente é elegível à VNI.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q88 | Laringoscopia difícil.</p>
-<p><strong>11. Qual manobra não deve ser considerada como estratégia principal para melhorar a visualização glótica?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-011" value="A"> A. Manipulação externa da laringe.</label>
-<label class="quiz-option"><input type="radio" name="q-va-011" value="B"> B. Ajuste de posição da cabeça quando permitido.</label>
-<label class="quiz-option"><input type="radio" name="q-va-011" value="C"> C. Pressão cricoide/Sellick como manobra de visão.</label>
-<label class="quiz-option"><input type="radio" name="q-va-011" value="D"> D. Otimização da lâmina e eixo de abordagem.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Sellick não é manobra de melhorar visão e pode até atrapalhar. A, B e D são medidas de otimização da laringoscopia.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q32. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q89 | SDRA grave.</p>
-<p><strong>12. Paciente em VM protetora, P/F próximo de 80, FiO2 100% e sem contraindicação. Qual conduta tem prioridade?</strong></p>
+<p class="quiz-source">TEME22 Q34 | gabarito oficial: A</p>
+<p><strong>15. Sobre as principais metas de saturação de oxigênio em pacientes com insuficiência respiratória marque a alternativa correta.</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-012" value="A"> A. Pronação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-012" value="B"> B. Óxido nítrico como rotina inicial.</label>
-<label class="quiz-option"><input type="radio" name="q-va-012" value="C"> C. ECMO antes de tentar medidas convencionais fortes.</label>
-<label class="quiz-option"><input type="radio" name="q-va-012" value="D"> D. Aumentar volume corrente acima de estratégia protetora.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-015" value="A"> A. Em pacientes com Hipoventilação relacionada à obesidade, metas entre 88 e 92% podem reduzir o risco de depressão respiratória.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-015" value="B"> B. Em pacientes com IRpA o uso de O2 deve ser feito de maneira liberal já que os riscos da hipoxemia ultrapassam os malefícios da Hiperóxia.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-015" value="C"> C. Frequência Respiratória e o uso de musculatura acessória não devem ser levados em conta na determinação do alvo de oximetria para esses pacientes.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-015" value="D"> D. Meta de oxigênio em pacientes com estado crítico, como pacientes em choque hemodinâmico ou vítimas de politrauma grave é bem estabelecida e deve ser alcançada com uso de MNR à 15 L/min</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> SDRA grave com hipoxemia persistente pede pronação precoce. B é resgate/ponte; C vem após falha de estratégia otimizada; D é lesivo.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q95 | Via aérea falha.</p>
-<p><strong>13. Qual definição operacional de via aérea falha é mais útil na sala vermelha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-013" value="A"> A. Só após cinco tentativas de intubação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-013" value="B"> B. Sempre após duas tentativas, independentemente de oxigenação e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-va-013" value="C"> C. Pode ser declarada após uma tentativa otimizada sem sucesso se o paciente não tolera nova demora.</label>
-<label class="quiz-option"><input type="radio" name="q-va-013" value="D"> D. Se consigo oxigenar, o próximo passo obrigatório é crico imediata.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> A banca valoriza declarar falha cedo quando a fisiologia não permite repetição. A e B são rígidas demais; D confunde "não intubo, consigo oxigenar" com NINO/CICO.</p>
-</div>
-</div>
-
-## TEME23
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q2 | Drogas na intubação de paciente instável.</p>
-<p><strong>14. Em paciente com choque obstrutivo/hipoxemia que pode precisar de IOT, qual combinação farmacológica é mais defensável?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-014" value="A"> A. Midazolam + fentanil + rocurônio em doses altas.</label>
-<label class="quiz-option"><input type="radio" name="q-va-014" value="B"> B. Etomidato em dose adequada + bloqueador de ação rápida, com vasopressor e plano hemodinâmico.</label>
-<label class="quiz-option"><input type="radio" name="q-va-014" value="C"> C. Propofol em dose plena + succinilcolina.</label>
-<label class="quiz-option"><input type="radio" name="q-va-014" value="D"> D. Apenas fentanil para evitar hipotensão.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Etomidato é opção clássica em instabilidade, desde que o plano inclua hemodinâmica. A e C hipotensam; D não é hipnose adequada para RSI.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q14 | Via aérea pediátrica.</p>
-<p><strong>15. Qual afirmação sobre via aérea pediátrica é a pegadinha errada?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-015" value="A"> A. A epiglote infantil é relativamente maior e mais em ômega.</label>
-<label class="quiz-option"><input type="radio" name="q-va-015" value="B"> B. Crianças pequenas podem precisar de coxim interescapular.</label>
-<label class="quiz-option"><input type="radio" name="q-va-015" value="C"> C. Máscara laríngea é proibida em menores de 2 anos.</label>
-<label class="quiz-option"><input type="radio" name="q-va-015" value="D"> D. Lâmina reta pode ser útil para controlar a epiglote.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Supraglóticos podem ser usados em pediatria conforme tamanho/disponibilidade. A, B e D são características clássicas da via aérea infantil.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q34. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q16 | Succinilcolina e masseter.</p>
-<p><strong>16. Após medicação para IOT em criança, ocorre espasmo grave de masseter. Qual droga é a associação clássica?</strong></p>
+<p class="quiz-source">TEME22 Q46 | gabarito oficial: A</p>
+<p><strong>16. Paciente de 33 anos em Monitorização contínua em Sala de Emergência há 2 dias devido quadro de IRpA por COVID-19, atualmente em Intubação Orotraqueal (IOT) e VM em modo Volume Controlado: Volume Corrente (VC) 6-7 ml/kg, Fluxo 65 L/min, PEEP 10 cmH₂O, FiO2 80%, FR 25 IRPM, mantendo Pressão de Platô de 33 mmHg, mantendo SaO2 90% e FC 122 BPM, PA 100 x 70 mmHg sem uso de Drogas Vasoativas (DVA), sob sedoanalgesia em uso de Midazolam EV e Fentanil EV. Você é chamado pela equipe de Enfermagem devido à avisos de alarme no Ventilador e SaO2 75%, após o banho. Após avaliação sistematizada você observa: MV reduzidos globalmente, Curva de Capnografia Abaixo, Aspiração Traqueal sem secreção, POCUS com Linhas A bilateralmente, deslizamento pleural não foi avaliado. Qual a conduta imediata a ser realizada?</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-016" value="A"> A. Succinilcolina.</label>
-<label class="quiz-option"><input type="radio" name="q-va-016" value="B"> B. Fentanil.</label>
-<label class="quiz-option"><input type="radio" name="q-va-016" value="C"> C. Diazepam.</label>
-<label class="quiz-option"><input type="radio" name="q-va-016" value="D"> D. Etomidato.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-016" value="A"> A. Realizar ventilações de resgate</label>
+<label class="quiz-option"><input type="radio" name="q-t001-016" value="B"> B. Iniciar tentativa imediata de IOT por laringoscopia direta</label>
+<label class="quiz-option"><input type="radio" name="q-t001-016" value="C"> C. Drenar o tórax direito e esquerdo</label>
+<label class="quiz-option"><input type="radio" name="q-t001-016" value="D"> D. Trocar o ventilador e seus circuitos</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Espasmo de masseter é alerta após succinilcolina e lembra risco de hipertermia maligna. B, C e D não são a associação clássica.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q46. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q21 | Dispositivo extraglótico.</p>
-<p><strong>17. O que reduz a chance de sucesso/segurança do dispositivo extraglótico?</strong></p>
+<p class="quiz-source">TEME22 Q48 | gabarito oficial: D</p>
+<p><strong>17. Sobre conceitos envolvendo mecanismos de insuficiência respiratória Hipoxêmica, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-017" value="A"> A. Necessidade de altas pressões.</label>
-<label class="quiz-option"><input type="radio" name="q-va-017" value="B"> B. Sangue ou vômitos na boca.</label>
-<label class="quiz-option"><input type="radio" name="q-va-017" value="C"> C. Obstrução ou distorção da via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-va-017" value="D"> D. Todas as anteriores.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-017" value="A"> A. Em pacientes com distúrbios de ventilação-perfusão (V/Q) hipoxemia tende a ocorrer quando áreas de ventilação prejudicada vem acompanhadas de vasoconstrição hipóxica.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-017" value="B"> B. Dentre os principais mecanismos descreve-se: Distúrbios V/Q, Espessamento da Membrana Alveolar, Hiperventilação Alveolar e Redução da Pressão Inspirada de Oxigênio</label>
+<label class="quiz-option"><input type="radio" name="q-t001-017" value="C"> C. A Síndrome do Desconforto Respiratório Agudo (SDRA) é o protótipo da Hipoventilação alveolar, sendo frequentemente eficaz o uso de oxigenoterapia suplementar nesses pacientes.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-017" value="D"> D. Didaticamente o Gradiente Alvéolo-Arterial é a melhor forma de diferenciar entre os mecanismos de IRpA Hipoxêmica</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> DEG é resgate excelente, mas falha com alta pressão, sujeira/aspiração e anatomia distorcida. A, B e C são verdadeiras, mas incompletas.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q37 | Capnografia pós-transporte.</p>
-<p><strong>18. Paciente intubado pós-RCE tinha capnografia normal e, após transferência, perde traçado compatível com ventilação efetiva. Qual diagnóstico deve ser considerado cedo?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-018" value="A"> A. Necessidade de prona imediata.</label>
-<label class="quiz-option"><input type="radio" name="q-va-018" value="B"> B. Hipoventilação resolvida apenas aumentando FR.</label>
-<label class="quiz-option"><input type="radio" name="q-va-018" value="C"> C. Deslocamento/extubação ou mau posicionamento do tubo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-018" value="D"> D. Baixo volume corrente como única causa provável.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Mudança brusca do capnograma após transporte é tubo até prova em contrário. A, B e D ignoram o "D" do DOPE.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q46 | Técnica de RSI.</p>
-<p><strong>19. Sobre RSI, qual sequência é mais correta?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-019" value="A"> A. Pré-oxigenação não precisa ser 12 min; hipnótico + bloqueador define a técnica; obesidade aumenta risco; pré-oxigenação deve ter alto fluxo e boa vedação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-019" value="B"> B. Pré-oxigenação de 12 min é obrigatória em todo caso.</label>
-<label class="quiz-option"><input type="radio" name="q-va-019" value="C"> C. RSI pode ser feita só com sedativo, sem bloqueador.</label>
-<label class="quiz-option"><input type="radio" name="q-va-019" value="D"> D. Obesidade não muda risco peri-intubação.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> É o resumo operacional da RSI. B é absoluto falso; C descaracteriza RSI; D ignora dessaturação rápida e BVM difícil.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q48 | Lâmina padrão vs hiperangulada.</p>
-<p><strong>20. Qual vantagem da lâmina de geometria padrão na videolaringoscopia?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-020" value="A"> A. Não exige deslocamento da língua.</label>
-<label class="quiz-option"><input type="radio" name="q-va-020" value="B"> B. Sempre é melhor em abertura bucal pequena.</label>
-<label class="quiz-option"><input type="radio" name="q-va-020" value="C"> C. Trajeto mais reto pode facilitar passagem do tubo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-020" value="D"> D. Dispensa treinamento próprio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O tubo precisa chegar à glote, não só aparecer na tela. A e B são absolutas; D é falsa segurança.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q48. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q56 | Pré-oxigenação.</p>
-<p><strong>21. Qual descrição mais se aproxima de pré-oxigenação adequada para RSI em adulto grave?</strong></p>
+<p class="quiz-source">TEME22 Q64 | gabarito oficial: D</p>
+<p><strong>18. Marque a alternativa que demonstra uma correlação errada entre um determinado dispositivo de oxigenoterapia e sua função prática.</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-021" value="A"> A. VNI com FiO2 baixa e CPAP por tempo curto.</label>
-<label class="quiz-option"><input type="radio" name="q-va-021" value="B"> B. BVM com fluxo baixo e vedação incerta.</label>
-<label class="quiz-option"><input type="radio" name="q-va-021" value="C"> C. Máscara simples/Venturi improvisada.</label>
-<label class="quiz-option"><input type="radio" name="q-va-021" value="D"> D. Máscara não reinalante bem vedada em flush-rate ou VNI/HFNC com FiO2 alta quando indicado.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-018" value="A"> A. Fluxo de Gás Oxigênio nas válvulas hospitalares é o principal determinante da Fração Inspirada de O2 (FiO2) que os dispositivos são capazes de produzir.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-018" value="B"> B. O uso da máscara associada a válvula com mecanismo de Venturi é indicado para permitir oxigenação com FiO2 mais precisas, sendo pouco útil para pacientes com altas demandas de O2 suplementar (&gt;50%)</label>
+<label class="quiz-option"><input type="radio" name="q-t001-018" value="C"> C. O Dispositivo Bolsa-Válvula-Máscara (BVM) é eficaz em produzir FiO2 próximas a 100% mesmo em respiração espontânea, quando a vedação da máscara no rosto do paciente é robusta e em altas taxas de fluxo de O2.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-018" value="D"> D. O Umidificador e Aquecedor de Ar associado aos Cateteres Nasais de Alto Fluxo (CNAF) tem a intenção de reduzir o conteúdo bacteriano no sistema.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Pré-oxigenação exige FiO2 alta, vedação e tempo/respirações adequadas. A, B e C entregam menos oxigênio do que parecem.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q64. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q64 | Corpo estranho em via aérea.</p>
-<p><strong>22. Corpo estranho não removido com laringoscopia e Magill, paciente não ventila. Qual manobra pode ser usada como resgate temporário?</strong></p>
+<p class="quiz-source">TEME22 Q69 | gabarito oficial: B</p>
+<p><strong>19. Paciente 61 anos, diagnosticado com Diabetes e Hipertensão, procura atendimento com relato de extração dentária há 7 dias, apresentando febre há 2 dias, odinofagia e aumento do volume cervical. Sinais vitais no momento do atendimento estáveis e triado como prioridade Verde de atendimento. Ao exame físico, presença de edema submandibular bilateral com sinais flogísticos e protrusão da língua, segue imagem do exame físico dessa paciente. Sobre o caso acima escolha a alternativa correta:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-022" value="A"> A. Varredura digital às cegas.</label>
-<label class="quiz-option"><input type="radio" name="q-va-022" value="B"> B. Intubar e avançar o corpo estranho para um brônquio principal para ventilar o pulmão contralateral.</label>
-<label class="quiz-option"><input type="radio" name="q-va-022" value="C"> C. Bloqueador neuromuscular como tratamento definitivo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-022" value="D"> D. Aguardar broncoscopia sem ventilação.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-019" value="A"> A. A melhor conduta para o caso é antibioticoterapia por via oral associados a analgésicos e retorno imediato ao consultório odontológico para manejo dessa complicação tardia da cirurgia</label>
+<label class="quiz-option"><input type="radio" name="q-t001-019" value="B"> B. Encaminhar paciente à sala de emergência para avaliação de intubação traqueal precoce e antibiótico parenteral</label>
+<label class="quiz-option"><input type="radio" name="q-t001-019" value="C"> C. Internação em leito de enfermaria para administração de antibiótico parenteral e avaliação do cirurgião de plantão</label>
+<label class="quiz-option"><input type="radio" name="q-t001-019" value="D"> D. Trata-se de um abscesso cervical com bom prognóstico se iniciado antibioticoterapia, a paciente em questão não tem indicação de internação hospitalar</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> É resgate descrito para obstrução completa não removível. A pode impactar mais; C não remove obstrução; D deixa o paciente hipóxico.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q69. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q81 | Ventilação com BVM difícil.</p>
-<p><strong>23. Qual fator aumenta dificuldade de ventilação com bolsa-válvula-máscara?</strong></p>
+<p class="quiz-source">TEME22 Q70 | gabarito oficial: D</p>
+<p><strong>20. Sobre o uso de Ventilação Não Invasiva (VNI) considere os casos descritos abaixo. I) Paciente com Acidente Vascular Encefálico (AVE) isquêmico com ECG de 9, evoluindo com disartria, disfagia grave e acúmulo de secreção em orofaringe, respiração ruidosa e SaO2 90%. II) Vítima de Trauma com dispneia, SaO2 88%, Presença de Linhas A com ausência de Lung Sliding (Deslizamento Pleural) e Presença de Lung Point (Ponto Pulmonar) em Ápice Pulmonar. III) Paciente com queixa de dor torácica e dispneia, SaO2 88%, FR 28 IRPM, FC 113 BPM, PA 70 x 50 mmHg em ritmo sinusal, com sinais de sobrecarga direita, Ecocardiograma demonstrando Ventrículo Direito aumentado e com Sinal do D. Marque a alternativa que demonstra as situações com indicação de uso de VNI.</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-023" value="A"> A. Sexo feminino isolado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-023" value="B"> B. Mobilidade cervical completa.</label>
-<label class="quiz-option"><input type="radio" name="q-va-023" value="C"> C. Idade abaixo de 45 anos.</label>
-<label class="quiz-option"><input type="radio" name="q-va-023" value="D"> D. História de radioterapia cervical.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-020" value="A"> A. I e II</label>
+<label class="quiz-option"><input type="radio" name="q-t001-020" value="B"> B. II</label>
+<label class="quiz-option"><input type="radio" name="q-t001-020" value="C"> C. I e III</label>
+<label class="quiz-option"><input type="radio" name="q-t001-020" value="D"> D. Nenhuma das alternativas</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Radioterapia pode causar rigidez/distorção cervical e de via aérea. A, B e C não são marcadores clássicos de BVM difícil.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q82 | Insuficiência respiratória tipo II.</p>
-<p><strong>24. Em risco de insuficiência ventilatória/hipercapnia, qual monitorização/conduta é mais adequada?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-024" value="A"> A. Oximetria isolada é suficiente.</label>
-<label class="quiz-option"><input type="radio" name="q-va-024" value="B"> B. Gasometria/capnografia ajudam a identificar hipercapnia e necessidade de suporte ventilatório.</label>
-<label class="quiz-option"><input type="radio" name="q-va-024" value="C"> C. Todo opioide hipercápnico deve ser intubado antes de ventilação/naloxona.</label>
-<label class="quiz-option"><input type="radio" name="q-va-024" value="D"> D. VNI nunca tem papel na insuficiência tipo II.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> SpO2 não mede ventilação. C exagera; D ignora DPOC/neuromuscular selecionado; A é a armadilha principal.</p>
-</div>
-</div>
-
-## TEME24
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q3 | Pré-oxigenação em RSI.</p>
-<p><strong>25. Qual cenário representa pré-oxigenação mais robusta antes da RSI?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-025" value="A"> A. Venturi com saturação razoável.</label>
-<label class="quiz-option"><input type="radio" name="q-va-025" value="B"> B. Cateter nasal baixo fluxo por tempo prolongado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-025" value="C"> C. VNI com FiO2 alta, PEEP e respirações profundas/tempo adequado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-025" value="D"> D. Saturação 100% com máscara frouxa.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> PEEP e FiO2 alta importam no hipoxêmico. A e B entregam menos reserva; D lembra que SpO2 alta não prova denitrogenação.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q34 | Hipoxemia + agitação.</p>
-<p><strong>26. Pneumonia grave, P/F baixo, agitação e dessaturação ao retirar máscara. Qual técnica e pré-oxigenação são mais seguras?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-026" value="A"> A. Sequência prolongada/delayed sequence com VNI e FiO2 100%.</label>
-<label class="quiz-option"><input type="radio" name="q-va-026" value="B"> B. Acordado com máscara não reinalante em paciente não cooperativo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-026" value="C"> C. RSI imediata com BVM sem PEEP.</label>
-<label class="quiz-option"><input type="radio" name="q-va-026" value="D"> D. Intubação sem pré-oxigenação porque a saturação já está baixa.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> É o cenário clássico para sedar o bastante para pré-oxigenar. B não é factível; C é inferior sem PEEP; D é desistir da margem de segurança.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q35 | VNI no departamento de emergência.</p>
-<p><strong>27. Sobre VNI em cenários de insuficiência respiratória, qual afirmação é mais aceitável para prova?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-027" value="A"> A. ROX baixo após início do suporte significa baixo risco de falha.</label>
-<label class="quiz-option"><input type="radio" name="q-va-027" value="B"> B. Pode ser estratégia inicial em imunossuprimido selecionado com insuficiência hipoxêmica leve-moderada, com vigilância estreita.</label>
-<label class="quiz-option"><input type="radio" name="q-va-027" value="C"> C. Asma grave tem evidência robusta de redução de mortalidade com VNI.</label>
-<label class="quiz-option"><input type="radio" name="q-va-027" value="D"> D. CPAP é a primeira linha para DPOC hipercápnico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> A prova cobra seleção e vigilância. A inverte o ROX; C exagera evidência; D erra porque DPOC hipercápnico precisa dois níveis.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q52 | Angioedema e via aérea difícil.</p>
-<p><strong>28. Angioedema com língua/lábios, disfagia, voz alterada e estridor. Qual abordagem é mais segura se ainda há tempo e equipe?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-028" value="A"> A. Via aérea acordada/planejada com especialista e crico preparada.</label>
-<label class="quiz-option"><input type="radio" name="q-va-028" value="B"> B. Observar até dessaturar para confirmar gravidade.</label>
-<label class="quiz-option"><input type="radio" name="q-va-028" value="C"> C. RSI padrão sem plano cirúrgico.</label>
-<label class="quiz-option"><input type="radio" name="q-va-028" value="D"> D. VNI como tratamento definitivo da obstrução alta.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Angioedema é via aérea que pode fechar e falhar em resgate. B atrasa; C pode virar CICO; D não resolve edema de via aérea superior.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q70. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q60 | Corpo estranho e falha de remoção.</p>
-<p><strong>29. Engasgo evolui para inconsciência; objeto não é visto/removido à laringoscopia. Qual resgate deve ser lembrado?</strong></p>
+<p class="quiz-source">TEME22 Q77 | gabarito oficial: C</p>
+<p><strong>21. Paciente masculino de 28 anos é resgatado pelo SAMU após colisão moto x poste. Chega ao departamento de emergência imobilização, com colar cervical. Recebe O2 suplementar na Máscara não reinalante (MNR) à 10 l/min, SaO2 88% e com FR 28. Respiração rápida, superficial e paradoxal à direita, ausculta reduzida em Hemitórax (HTX) direito e normal à esquerda. FC 120 bpm, PA 100 x 70 mmHg, perfusão mantida com Tempo de Reenchimento Capilar (TEC) de 2 seg. Escala de Coma de Glasgow (ECG) de 15, Pupilas médias, isocóricas e fotorreagentes, sem déficits. Escoriação em HTX direito com respiração paradoxal. Mantem SaO2 de 88% apesar da Oxigenoterapia. Com base no caso acima, em relação ao diagnóstico e conduta, é CORRETO afirmar:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-029" value="A"> A. Adrenalina IM.</label>
-<label class="quiz-option"><input type="radio" name="q-va-029" value="B"> B. Aguardar broncoscopia sem ventilar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-029" value="C"> C. Via aérea cirúrgica se não há ventilação/oxigenação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-029" value="D"> D. Varredura digital às cegas repetida.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-021" value="A"> A. Pneumotórax hipertensivo à esquerda, toracocentese de alívio seguida de drenagem torácica à esquerda.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-021" value="B"> B. Hemotórax à direita, reposição volêmica e drenagem torácica à direita.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-021" value="C"> C. Tórax instável à direita com contusão pulmonar, sedoanalgesia e intubação orotraqueal.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-021" value="D"> D. Pneumotórax à esquerda e contusão pulmonar à direita, drenagem torácica bilateral.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Em NINO/CICO por obstrução, a via aérea cirúrgica salva vida. A trata anafilaxia; B e D atrasam ventilação.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q64 | Auto-PEEP.</p>
-<p><strong>30. Em DPOC intubado, curva fluxo-tempo não zera antes da próxima inspiração. Qual ajuste é prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-030" value="A"> A. Aumentar FR para baixar PaCO2.</label>
-<label class="quiz-option"><input type="radio" name="q-va-030" value="B"> B. Aumentar volume corrente.</label>
-<label class="quiz-option"><input type="radio" name="q-va-030" value="C"> C. Reduzir FR/volume minuto e prolongar expiração.</label>
-<label class="quiz-option"><input type="radio" name="q-va-030" value="D"> D. Trocar VCV por PCV como solução única.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Auto-PEEP é falta de tempo expiratório. A e B pioram aprisionamento; D pode ajudar em casos, mas não é a correção central.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q66 | Acidose metabólica grave peri-IOT.</p>
-<p><strong>31. Choque séptico, pH 6,8, hiperventilação compensatória e hipoxemia. Qual plano de IOT é mais seguro?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-031" value="A"> A. Otimizar hemodinâmica, pré-oxigenar com PEEP, oxigenação apneica e manter volume minuto alto após IOT.</label>
-<label class="quiz-option"><input type="radio" name="q-va-031" value="B"> B. Propofol dose cheia e VM com baixo volume minuto.</label>
-<label class="quiz-option"><input type="radio" name="q-va-031" value="C"> C. Esperar normalizar pH antes de intubar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-031" value="D"> D. Evitar vasopressores para não mascarar hipotensão.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Acidose grave exige preservar ventilação-minuto e pressão. B precipita colapso; C é inviável; D é perigosa.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q80 | SALAD/aspiração contínua.</p>
-<p><strong>32. Afogado com vômitos, espuma e muita secreção durante laringoscopia. Qual técnica facilita a visualização?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-032" value="A"> A. Cricotireoidostomia como primeira manobra em todo afogado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-032" value="B"> B. Laringoscopia assistida por aspiração contínua/descontaminação da via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-va-032" value="C"> C. Intubação às cegas após aspiração superficial.</label>
-<label class="quiz-option"><input type="radio" name="q-va-032" value="D"> D. Intubação esofágica proposital.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> SALAD/aspiração contínua ajuda em via aérea contaminada. A é resgate, não rotina; C e D são inseguras.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q84 | TEP e ventilação.</p>
-<p><strong>33. TEP com piora respiratória e risco de VD. Qual afirmação é mais correta?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-033" value="A"> A. Intubação pode piorar hemodinâmica; deve ser evitada/planejada com extremo cuidado se possível.</label>
-<label class="quiz-option"><input type="radio" name="q-va-033" value="B"> B. IOT precoce é sempre protetora no TEP porque elimina hipoxemia.</label>
-<label class="quiz-option"><input type="radio" name="q-va-033" value="C"> C. Grandes bolus de cristaloide são regra para todo TEP.</label>
-<label class="quiz-option"><input type="radio" name="q-va-033" value="D"> D. TAPSE baixo significa função de VD preservada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Pressão positiva e sedação podem colapsar VD. B é perigosa; C sobrecarrega VD; D inverte a interpretação do TAPSE.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q77. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q85 | Trauma de face e duplo preparo.</p>
-<p><strong>34. Trauma facial com sangue, Glasgow 5 e obstrução aparente. Qual plano é mais seguro?</strong></p>
+<p class="quiz-source">TEME22 Q78 | gabarito oficial: D</p>
+<p><strong>22. Mulher de 68 anos de idade, natural e procedente de Minas Gerais, fumante de 2 maços de cigarro por dia, há 30 anos, é levada ao DE com queixa de falta de ar, chiado e tosse produtiva há 3 dias. Não sabia referir febre. Ao exame clínico está em regular estado geral, alerta, afebril, acianótica, PA 74x58 mmHg, FC 103 bpm, FR 28 IRPM, SaO2 89% (em AA), murmúrios vesiculares diminuídos globalmente com estertores crepitantes em base de hemitórax direito, bulhas hipofonéticas regulares sem sopros, sem outras alterações relevantes ao exame físico. A paciente foi internada e foram realizados os seguintes exames: Creatinina: 1,8 mg/dl, Ureia: 86 mg/dl, Na+: 138 mEq/L, Hb: 16,0 g/dl, Ht: 50%, leucócitos: 18750 cél/µL (4% bastões e 87% segmentados) e plaquetas: 174.000 cél/µL, gasometria arterial: pH: 7,21, PaO2: 70 mmHg, PaCO2: 50 mmHg, bicarbonato: 14 mEq/L, SaO2: 89%. O principal diagnóstico é:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-034" value="A"> A. Evitar via aérea cirúrgica e tentar várias laringoscopias.</label>
-<label class="quiz-option"><input type="radio" name="q-va-034" value="B"> B. Máscara laríngea como plano definitivo apesar de sangue.</label>
-<label class="quiz-option"><input type="radio" name="q-va-034" value="C"> C. Tomografia antes de abordar A.</label>
-<label class="quiz-option"><input type="radio" name="q-va-034" value="D"> D. Aspirar, pré-oxigenar e preparar laringoscopia com via aérea cirúrgica de resgate.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-022" value="A"> A. Choque séptico por pneumonia, pois trata-se de uma paciente com DPOC, apresentando hipotensão e a principal causa de descompensação é infecção</label>
+<label class="quiz-option"><input type="radio" name="q-t001-022" value="B"> B. Choque obstrutivo por tromboembolia pulmonar, visto que a paciente apresenta hipóxia acentuada com retenção de CO2</label>
+<label class="quiz-option"><input type="radio" name="q-t001-022" value="C"> C. Choque cardiogênico por quadro de insuficiência cardíaca descompensada, visto que paciente apresentava estertores em base</label>
+<label class="quiz-option"><input type="radio" name="q-t001-022" value="D"> D. Sepse por pneumonia, pois trata-se de uma paciente DPOC, apresentando disfunção orgânica e a principal causa de descompensação é infecção</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> É duplo setup. A repete erro; B falha em via aérea suja; C ignora prioridade ABC.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q78. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q97 | Capnografia na PCR.</p>
-<p><strong>35. Durante PCR, a capnografia mostra subida abrupta e sustentada do ETCO2. O que isso sugere?</strong></p>
-<figure class="quiz-figure" aria-label="Esquema autoral de capnografia com subida abrupta do ETCO2">
-<svg viewBox="0 0 760 230" role="img">
-<rect x="18" y="18" width="724" height="194" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
-<line x1="70" y1="180" x2="700" y2="180" stroke="#64748b" stroke-width="2"/>
-<line x1="70" y1="45" x2="70" y2="180" stroke="#64748b" stroke-width="2"/>
-<text x="30" y="55" font-size="14" fill="#334155">ETCO2</text>
-<text x="654" y="202" font-size="14" fill="#334155">tempo</text>
-<polyline points="80,168 105,168 115,142 145,142 155,168 185,168 195,140 225,140 235,168 265,168 275,141 305,141 315,168 345,168 355,139 385,139 395,168 425,168 435,84 475,84 485,168 520,168 530,78 570,78 580,168 615,168 625,76 665,76 675,168" fill="none" stroke="#0f766e" stroke-width="5" stroke-linejoin="round"/>
-<line x1="420" y1="50" x2="420" y2="182" stroke="#ef4444" stroke-width="2" stroke-dasharray="6 6"/>
-<text x="440" y="62" font-size="15" fill="#991b1b">salto sustentado</text>
-</svg>
-<figcaption>Esquema próprio: durante RCP, uma elevação súbita e persistente do ETCO2 sugere aumento de perfusão, frequentemente RCE.</figcaption>
-</figure>
+<p class="quiz-source">TEME22 Q79 | gabarito oficial: C</p>
+<p><strong>23. Paciente de 67 anos, é admitido no DE com quadro de Doença Pulmonar Obstrutiva crônica (DPOC) exacerbada, em Gasometria Arterial (em AA) você observa pH 7.2, PaCO2 90 mmHg, Pressão Arterial de Oxigênio (PaO2) 55 mmHg, Bicarbonato (BIC) 37 mEq/L. Marque a alternativa que descreve a melhor configuração de VNI para esse paciente.</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-035" value="A"> A. Piora da compressão.</label>
-<label class="quiz-option"><input type="radio" name="q-va-035" value="B"> B. Extubação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-035" value="C"> C. Provável retorno da circulação espontânea.</label>
-<label class="quiz-option"><input type="radio" name="q-va-035" value="D"> D. Troca automática do dispositivo de via aérea.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-023" value="A"> A. Modo CPAP, com CPAP 10 mmHg e FiO2 80%</label>
+<label class="quiz-option"><input type="radio" name="q-t001-023" value="B"> B. Modo CPAP, com CPAP 15 mmHg e FiO2 40%</label>
+<label class="quiz-option"><input type="radio" name="q-t001-023" value="C"> C. Modo BiPAP, com IPAP 10 mmHg e EPAP 5 mmHg e FiO2 40%</label>
+<label class="quiz-option"><input type="radio" name="q-t001-023" value="D"> D. Modo BiPAP, com IPAP 12mmHg e EPAP 6 mmHg e FiO2 95%</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Aumento abrupto do ETCO2 durante RCP sugere melhora de perfusão/ROSC. A e B tenderiam a queda; D não é inferência do traçado.</p>
-</div>
-</div>
-
-## TEME25
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q1 | Cocaína, hipertermia e RSI.</p>
-<p><strong>36. Intoxicação por cocaína com agitação extrema e hipertermia antes de RSI. Qual pré-otimização é mais importante?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-036" value="A"> A. Contraindicar cetamina de forma absoluta.</label>
-<label class="quiz-option"><input type="radio" name="q-va-036" value="B"> B. Esmolol isolado como primeira medida.</label>
-<label class="quiz-option"><input type="radio" name="q-va-036" value="C"> C. Succinilcolina automática para todo caso.</label>
-<label class="quiz-option"><input type="radio" name="q-va-036" value="D"> D. Benzodiazepínico, controle de temperatura e segurança da equipe.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> A morte vem de hipertermia/agitação catecolaminérgica. A, B e C são absolutos ou automatismos perigosos.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q2 | Gestante eclâmptica rebaixada.</p>
-<p><strong>37. Gestante após convulsão, rebaixada, secreção em orofaringe e respiração ruidosa. Qual resposta integra via aérea e obstetrícia?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-037" value="A"> A. IOT em sequência rápida com preparo, mantendo magnésio e controle pressórico em paralelo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-037" value="B"> B. Postergar magnésio e anti-hipertensivo para depois da intubação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-037" value="C"> C. Intubação acordada como regra em paciente irresponsiva.</label>
-<label class="quiz-option"><input type="radio" name="q-va-037" value="D"> D. Supraglótico de primeira geração como plano inicial definitivo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> A via aérea é necessária, mas eclâmpsia não espera. B atrasa terapia; C exige cooperação; D é resgate/ponte.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q4 | Curva de capnografia.</p>
-<p><strong>38. Capnograma em intubado mostra padrão compatível com ventilação espontânea/assincronia após sedação insuficiente. Qual conduta inicial faz sentido?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-038" value="A"> A. Otimizar sedação e analgesia, reavaliando sincronia.</label>
-<label class="quiz-option"><input type="radio" name="q-va-038" value="B"> B. Tratar todo traçado alterado como broncoespasmo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-038" value="C"> C. Reposicionar o tubo sem avaliar o restante.</label>
-<label class="quiz-option"><input type="radio" name="q-va-038" value="D"> D. Aspirar por obstrução total como única hipótese.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Capnografia exige reconhecer padrão, não decorar "qualquer alteração = broncoespasmo". B, C e D podem ser causas, mas não são o padrão descrito.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q8 | Fentanil na RSI.</p>
-<p><strong>39. Sobre fentanil na RSI, qual afirmação é correta?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-039" value="A"> A. É contraindicado em toda RSI.</label>
-<label class="quiz-option"><input type="radio" name="q-va-039" value="B"> B. Doses elevadas/rápidas podem causar rigidez torácica e piorar ventilação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-039" value="C"> C. Substitui o hipnótico da indução.</label>
-<label class="quiz-option"><input type="radio" name="q-va-039" value="D"> D. Deve ser sempre administrado rapidamente.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> A prova mira a rigidez torácica. A e D são absolutas falsas; C confunde analgesia com hipnose.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q9 | Infecção cervical/odontogênica.</p>
-<p><strong>40. Infecção cervical odontogênica com insuficiência respiratória e pescoço edemaciado. Qual estratégia deve estar no radar?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-040" value="A"> A. Considerar via aérea cirúrgica/duplo preparo cedo, pois a anatomia pode impedir IOT e ventilação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-040" value="B"> B. Fibroscopia acordada é sempre possível mesmo em franca insuficiência respiratória.</label>
-<label class="quiz-option"><input type="radio" name="q-va-040" value="C"> C. Ultrassom da membrana é obrigatório antes de qualquer ação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-040" value="D"> D. VNI resolve a obstrução de via aérea superior.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Distorção cervical pode virar CICO. B é dependente de tempo/cooperação; C ajuda, mas não é condição obrigatória; D não trata obstrução anatômica alta.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q13 | Curvas de VM e auto-PEEP.</p>
-<p><strong>41. Na curva fluxo-tempo, o fluxo expiratório não retorna a zero antes do próximo ciclo. O achado é:</strong></p>
-<figure class="quiz-figure" aria-label="Esquema autoral de curva fluxo-tempo com aprisionamento aéreo">
-<svg viewBox="0 0 760 230" role="img">
-<rect x="18" y="18" width="724" height="194" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
-<line x1="72" y1="110" x2="700" y2="110" stroke="#64748b" stroke-width="2"/>
-<line x1="72" y1="40" x2="72" y2="185" stroke="#64748b" stroke-width="2"/>
-<text x="28" y="52" font-size="14" fill="#334155">fluxo</text>
-<text x="655" y="202" font-size="14" fill="#334155">tempo</text>
-<polyline points="90,110 110,55 170,55 185,110 245,154 285,145 315,132 335,118 350,110 365,110 385,56 445,56 462,110 520,158 560,151 595,139 625,126 650,118 670,110" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="625" cy="126" r="6" fill="#ef4444"/>
-<text x="430" y="178" font-size="15" fill="#991b1b">expiração ainda não zerou</text>
-</svg>
-<figcaption>Esquema próprio: se o fluxo expiratório não volta à linha de base antes do próximo ciclo, pense em auto-PEEP.</figcaption>
-</figure>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-041" value="A"> A. Pausa expiratória normal.</label>
-<label class="quiz-option"><input type="radio" name="q-va-041" value="B"> B. Auto-PEEP/hiperinsuflação dinâmica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-041" value="C"> C. Melhora da resistência de vias aéreas.</label>
-<label class="quiz-option"><input type="radio" name="q-va-041" value="D"> D. Indicação de aumentar FR.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fluxo expiratório que não zera é aprisionamento. A e C interpretam ao contrário; D piora o mecanismo.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q79. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q14 | Driving pressure e PEEP.</p>
-<p><strong>42. Em paciente séptico ventilado, qual critério é melhor para escolher PEEP após titulação?</strong></p>
+<p class="quiz-source">TEME22 Q88 | gabarito oficial: C</p>
+<p><strong>24. São manobras a serem realizadas caso sua visualização da via aérea não esteja adequada durante a laringoscopia direta, EXCETO:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-042" value="A"> A. Menor PEEP sempre, mesmo com pior driving pressure.</label>
-<label class="quiz-option"><input type="radio" name="q-va-042" value="B"> B. FiO2 100% se a saturação melhora, ignorando mecânica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-042" value="C"> C. Boa oxigenação com menor driving pressure e sem prejuízo hemodinâmico.</label>
-<label class="quiz-option"><input type="radio" name="q-va-042" value="D"> D. Aumentar volume corrente para corrigir acidose metabólica.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-024" value="A"> A. Manipulação externa da laringe</label>
+<label class="quiz-option"><input type="radio" name="q-t001-024" value="B"> B. Manobra de BURP (Back Up right position)</label>
+<label class="quiz-option"><input type="radio" name="q-t001-024" value="C"> C. Manobra de Selick</label>
+<label class="quiz-option"><input type="radio" name="q-t001-024" value="D"> D. Fletir ou elevar a cabeça durante a laringoscopia</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> VM protetora combina oxigenação e mecânica. A pode colapsar; B ignora lesão; D trata pH às custas do pulmão.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q15 | VNI por cenário.</p>
-<p><strong>43. Qual indicação de VNI/modo é mais apropriada?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-043" value="A"> A. DPOC com rebaixamento importante: CPAP sem IPAP ajustável.</label>
-<label class="quiz-option"><input type="radio" name="q-va-043" value="B"> B. Pneumonia extensa hipoxêmica grave como indicação universal de BiPAP.</label>
-<label class="quiz-option"><input type="radio" name="q-va-043" value="C"> C. Edema agudo pulmonar cardiogênico, sem contraindicação, com CPAP/VNI e ajuste de FiO2.</label>
-<label class="quiz-option"><input type="radio" name="q-va-043" value="D"> D. Crise asmática grave com CPAP alto como resposta obrigatória.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> EAP cardiogênico é indicação forte. A erra modo e contraindicação; B exagera pneumonia; D exagera evidência na asma.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q88. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q16 | Incêndio e intoxicação por CO.</p>
-<p><strong>44. Retirado de incêndio em ambiente fechado, cefaleia/vômitos, fuligem nasal e SpO2 normal. Conduta inicial?</strong></p>
+<p class="quiz-source">TEME22 Q89 | gabarito oficial: A</p>
+<p><strong>25. Homem, 64 anos de idade, internado em Sala de Emergência por Síndrome Respiratória Aguda Grave, encontra-se intubado há 48h, em sedação profunda, em ventilação mecânica protetora, sem assincronias e sem sinais de esforço respiratório, com pressão expiratória final positiva – PEEP, titulada. Gasometria arterial: pH 7.22; PaCO2 62 mmHg; PaO2 81 mmHg (FiO2 100%); BIC 16 mEq/L; BE -6, Troca pulmonar (Relação PaO 2/FiO2) 81. Sem histórico de doenças cardiovasculares prévias. Diante da situação atual, a conduta apropriada será:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-044" value="A"> A. Oxigênio a 100% e dosar carboxi-hemoglobina, sem confiar na oximetria.</label>
-<label class="quiz-option"><input type="radio" name="q-va-044" value="B"> B. Aguardar gasometria antes de iniciar oxigênio.</label>
-<label class="quiz-option"><input type="radio" name="q-va-044" value="C"> C. Oxigênio só se SpO2 cair abaixo de 94%.</label>
-<label class="quiz-option"><input type="radio" name="q-va-044" value="D"> D. Observação simples porque a SpO2 está normal.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-025" value="A"> A. Colocar o paciente em posição prona.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-025" value="B"> B. Instalação de óxido nítrico no ramo inspiratório do VM.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-025" value="C"> C. Instalação de óxido nítrico no ramo expiratório do VM.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-025" value="D"> D. ECMO Veno–Venosa</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Oximetria pode ser falsamente normal na intoxicação por CO. B, C e D atrasam antídoto fisiológico: O2 100%.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q89. Gabarito oficial: A.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME22 Q95 | gabarito oficial: C</p>
+<p><strong>26. Sobre o conceito de via aérea falha, escolha a alternativa correta:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-026" value="A"> A. A via aérea falha acontece quando o intubador experiente faz cinco tentativas de intubação sem sucesso independente da oximetria do paciente e independente do quadro clínico</label>
+<label class="quiz-option"><input type="radio" name="q-t001-026" value="B"> B. A via aérea falha acontece quando o intubador experiente faz duas tentativas de intubação sem sucesso independente da oximetria do paciente e independente do quadro clínico</label>
+<label class="quiz-option"><input type="radio" name="q-t001-026" value="C"> C. A via aérea falha pode acontecer após a primeira tentativa de intubação sem sucesso caso realizada por um intubador experiente, com posicionamento otimizado e dispositivos adequados;</label>
+<label class="quiz-option"><input type="radio" name="q-t001-026" value="D"> D. Na situação “não consigo intubar, consigo oxigenar”, o próximo passo seria garantir uma via aérea cirúrgica</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q95. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q21 | TCE grave e intubação.</p>
-<p><strong>45. Sobre TCE grave, qual afirmação é mais correta?</strong></p>
+<p class="quiz-source">TEME23 Q1 | gabarito oficial: D</p>
+<p><strong>27. Caso clínico para as questões 1 e 2: Paciente 45 anos, trazido à emergência por dispneia súbita de início há 15 horas. Previamente hipertenso, DM tipo 2 em uso regular de medicação e tabagismo 40 maços/ano. Ao exame: PA 80 x 40 mmHg, FC 130 bpm, SaO2 82% em ar ambiente. Neuro: Escala de Coma de Glasgow 14, sonolento. AP: MV audível bilateral sem ruídos adventícios. Circulatório: Mal perfundido, tempo de enchimento capilar de 6 segundos. Realizado Ultrassom Beira-leito com o seguinte achado patológico: Responda sobre a melhor conduta imediata:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-045" value="A"> A. Hipotensão permissiva é estratégia de escolha no politrauma com TCE.</label>
-<label class="quiz-option"><input type="radio" name="q-va-045" value="B"> B. Succinilcolina é sempre contraindicada no TCE agudo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-045" value="C"> C. Profilaxia anticonvulsivante reduz crises tardias de forma consistente.</label>
-<label class="quiz-option"><input type="radio" name="q-va-045" value="D"> D. Febre/hipertermia pioram desfechos e devem ser controladas.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-027" value="A"> A. Intubação orotraqueal imediata visto falência respiratória iminente.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-027" value="B"> B. Solicitação de ventilação não invasiva, visto que é uma condição reversível com a pressão positiva.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-027" value="C"> C. Pericardiocentese imediata visto que o tamponamento é o responsável pelo quadro.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-027" value="D"> D. Paciente com Shock Index(SI)&gt;0.9, postergar a intubação ao máximo até ressuscitação com vasopressor e administração de trombólise.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> TCE não tolera hipóxia, hipotensão nem hipertermia. A reduz perfusão cerebral; B é mito clássico; C vale sobretudo para crise precoce, não tardia.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME23 Q1. Gabarito oficial: D.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME23 Q2 | gabarito oficial: C</p>
+<p><strong>28. Caso clínico para as questões 1 e 2: Paciente 45 anos, trazido à emergência por dispneia súbita de início há 15 horas. Previamente hipertenso, DM tipo 2 em uso regular de medicação e tabagismo 40 maços/ano. Ao exame: PA 80 x 40 mmHg, FC 130 bpm, SaO2 82% em ar ambiente. Neuro: Escala de Coma de Glasgow 14, sonolento. AP: MV audível bilateral sem ruídos adventícios. Circulatório: Mal perfundido, tempo de enchimento capilar de 6 segundos. Realizado Ultrassom Beira-leito com o seguinte achado patológico: Em relação a uma possível intubação desse paciente, escolha a melhor combinação de drogas:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-028" value="A"> A. Midazolan + fentanil + rocurônio</label>
+<label class="quiz-option"><input type="radio" name="q-t001-028" value="B"> B. Fentanil + etomidato + succinilcolina</label>
+<label class="quiz-option"><input type="radio" name="q-t001-028" value="C"> C. Cetamina + succinilcolina</label>
+<label class="quiz-option"><input type="radio" name="q-t001-028" value="D"> D. Fentanil + propofol + succinilcolina</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q2. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME23 Q14 | gabarito oficial: C</p>
+<p><strong>29. Assinale a opção errada sobre uma característica da via aérea pediátrica.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-029" value="A"> A. É preferível usar a lâmina reta para pinçar a epiglote.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-029" value="B"> B. Crianças menores podem necessitar com frequência de um coxim interescapular para alinhar os eixos da via aérea.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-029" value="C"> C. A máscara laríngea não é recomendada para crianças com menos de 2 anos</label>
+<label class="quiz-option"><input type="radio" name="q-t001-029" value="D"> D. A epiglote é maior e em forma de ómega.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q14. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q31 | Guillain-Barré.</p>
-<p><strong>46. Na síndrome de Guillain-Barré, qual achado aumenta preocupação com insuficiência respiratória?</strong></p>
+<p class="quiz-source">TEME23 Q16 | gabarito oficial: A</p>
+<p><strong>30. Após a administração de uma medicação para intubação em um menino de 7 anos com insuficiência respiratória, nota-se um espasmo grave do masseter. Qual a mais provável medicação realizada?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-046" value="A"> A. Progressão motora rápida.</label>
-<label class="quiz-option"><input type="radio" name="q-va-046" value="B"> B. Insuficiência respiratória sempre antes da fraqueza de extremidades.</label>
-<label class="quiz-option"><input type="radio" name="q-va-046" value="C"> C. Dissociação proteino-celular como marcador isolado de pior prognóstico ventilatório.</label>
-<label class="quiz-option"><input type="radio" name="q-va-046" value="D"> D. Disautonomia como contraindicação absoluta à intubação.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-030" value="A"> A. Succinilcolina.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-030" value="B"> B. Fentanil.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-030" value="C"> C. Diazepam.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-030" value="D"> D. Rocurônio.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Progressão rápida, bulbar e queda de capacidade vital alertam para falência ventilatória. B, C e D distorcem o quadro.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME23 Q16. Gabarito oficial: A.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME23 Q19 | gabarito oficial: C</p>
+<p><strong>31. Assinale a alternativa correta em relação às patologias relacionadas ao mergulho:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-031" value="A"> A. No mergulho em apneia, após o indivíduo realizar hiperventilação, pode ocorrer o apagamento em águas rasas, condição mais frequentemente encontrada durante a descida do mergulhador</label>
+<label class="quiz-option"><input type="radio" name="q-t001-031" value="B"> B. Os sintomas mais comuns da doença descompressiva são dor intensa na região frontal ou orelhas e sangramento nasal</label>
+<label class="quiz-option"><input type="radio" name="q-t001-031" value="C"> C. A narcose por Nitrogênio é a condição na qual o mergulhador apresenta sintomas semelhantes à embriaguez, e costuma ser mais evidente a partir dos 30 metros de profundidade</label>
+<label class="quiz-option"><input type="radio" name="q-t001-031" value="D"> D. A cada 10 metros de profundidade ganha-se 1 atm de pressão, portanto aos 40 metros de profundidade o mergulhador estará exposto a 4 atm de pressurização em seus pulmões</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q19. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q42 | Trauma cervical penetrante.</p>
-<p><strong>47. Ferimento cervical penetrante com sangramento oral, choque, hipoxemia e agitação. Qual plano é mais completo?</strong></p>
+<p class="quiz-source">TEME23 Q21 | gabarito oficial: D</p>
+<p><strong>32. Qual dos seguintes é uma contraindicação relativa para o uso de dispositivos extra glóticos durante o manejo da via aérea?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-047" value="A"> A. RSI padrão com colar rígido e neurocirurgia como prioridade principal.</label>
-<label class="quiz-option"><input type="radio" name="q-va-047" value="B"> B. Sentar, aspirar e transfundir sem equipe de trauma/cirurgia adequada.</label>
-<label class="quiz-option"><input type="radio" name="q-va-047" value="C"> C. Duplo setup, mas reposição hemostática incompleta.</label>
-<label class="quiz-option"><input type="radio" name="q-va-047" value="D"> D. Duplo setup de via aérea, retirar obstáculo se necessário, ressuscitação hemostática e cirurgia do trauma.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-032" value="A"> A. Necessidade de ventilação altas pressões na via aérea</label>
+<label class="quiz-option"><input type="radio" name="q-t001-032" value="B"> B. Sangue ou vômito na boca</label>
+<label class="quiz-option"><input type="radio" name="q-t001-032" value="C"> C. Obstrução ou distorção da via aérea</label>
+<label class="quiz-option"><input type="radio" name="q-t001-032" value="D"> D. Todas as opções acima são contraindicações</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O caso mistura A e C: via aérea sangrante + choque hemorrágico cervical. A, B e C deixam parte crítica sem cobertura.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME23 Q21. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q55 | PCR, supraglótico e capnografia.</p>
-<p><strong>48. FV refratária com supraglótico e capnografia sugerindo ventilação ruim/hipóxia. O que priorizar?</strong></p>
-<figure class="quiz-figure" aria-label="Esquema autoral de capnografia baixa durante PCR">
-<svg viewBox="0 0 760 220" role="img">
-<rect x="18" y="18" width="724" height="184" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
-<line x1="70" y1="170" x2="700" y2="170" stroke="#64748b" stroke-width="2"/>
-<line x1="70" y1="45" x2="70" y2="170" stroke="#64748b" stroke-width="2"/>
-<text x="30" y="55" font-size="14" fill="#334155">ETCO2</text>
-<text x="650" y="192" font-size="14" fill="#334155">RCP</text>
-<polyline points="88,166 110,166 120,148 145,148 155,166 185,166 195,151 220,151 230,166 260,166 270,153 295,153 305,166 335,166 345,152 370,152 380,166 410,166 420,154 445,154 455,166 485,166 495,150 520,150 530,166 560,166 570,153 595,153 605,166 635,166 645,152 670,152 680,166" fill="none" stroke="#0f766e" stroke-width="5" stroke-linejoin="round"/>
-<text x="405" y="68" font-size="15" fill="#991b1b">traçado baixo + ventilação inadequada</text>
-<path d="M430 78 L500 145" stroke="#ef4444" stroke-width="2" marker-end="url(#arrow-q48)"/>
-<defs><marker id="arrow-q48" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#ef4444"/></marker></defs>
-</svg>
-<figcaption>Esquema próprio: na PCR, capnografia baixa/ineficaz obriga revisar compressões, via aérea, ventilação e hipóxia.</figcaption>
-</figure>
+<p class="quiz-source">TEME23 Q24 | gabarito oficial: C</p>
+<p><strong>33. A doença pulmonar obstrutiva crônica (DPOC) é caracterizada por uma obstrução fixa da via aérea causada por enfisema, bronquite crônica ou ambos. É a terceira maior causa de morte no mundo (5 milhões de mortes anuais ou 6% do total), com 90% das mortes ocorrendo em países com menor desenvolvimento. As manifestações clínicas das exacerbações de DPOC variam desde tosse produtiva, leve aumento da dispneia até insuficiência respiratória devido a acidose respiratória aguda ou hipoxemia. Os principais componentes do tratamento das exacerbações agudas de DPOC incluem a reversão da limitação ao fluxo aéreo, tratamento de infecções e suporte ventilatório, se necessário. Sobre o tratamento do DPOC assinale V (Verdadeiro) ou F (falso) para as afirmativas abaixo: ( ) A administração de oxigênio suplementar deve objetivar atingir saturação de oxigênio (SaO2) maior que 93% ( ) O uso de agonistas beta-adrenérgicos de curta ação injetáveis, como a terbutalina ou a epinefrina, apresenta um alto risco de efeitos adversos, como arritmias ou isquemia miocárdica; Assim, não são indicados para o tratamento de exacerbações de DPOC. ( ) Os glicocorticóides sistêmicos aceleram a melhora do fluxo aéreo, trocas gasosas e sintomas, diminuem tempo de internação hospitalar e reduzem a taxa de falha do tratamento. ( ) A coloração Gram do escarro não é útil no manejo desses pacientes e a cultura da expectoração tem sido reservada para pacientes sem resposta à terapia empírica inicial. ( ) A ventilação não invasiva (VNI) apesar de comumente empregada nas crises não têm evidência estabelecida de diminuição de mortalidade e diminuição de intubação orotraqueal.</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-048" value="A"> A. Trocar vetor das pás antes de avaliar oxigenação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-048" value="B"> B. Trombólise imediata como causa presumida obrigatória.</label>
-<label class="quiz-option"><input type="radio" name="q-va-048" value="C"> C. Garantir via aérea/ventilação efetiva e excluir hipóxia como causa reversível.</label>
-<label class="quiz-option"><input type="radio" name="q-va-048" value="D"> D. Apenas trocar compressor.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-033" value="A"> A. F - V - F - V - F</label>
+<label class="quiz-option"><input type="radio" name="q-t001-033" value="B"> B. V - F - V - V - V</label>
+<label class="quiz-option"><input type="radio" name="q-t001-033" value="C"> C. F - V - V - V - F</label>
+<label class="quiz-option"><input type="radio" name="q-t001-033" value="D"> D. V - V - F - F - V</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Hipóxia é H reversível e capnografia ajuda a perceber ventilação inadequada. A, B e D podem ter lugar, mas não resolvem a pista ventilatória.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q24. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q75 | Via aérea em extricação.</p>
-<p><strong>49. Capotamento, acesso limitado, sangramento orofaríngeo e respiração ruidosa durante extricação prolongada. Qual primeira estratégia é mais realista?</strong></p>
+<p class="quiz-source">TEME23 Q33 | gabarito oficial: A</p>
+<p><strong>34. Assinale a alternativa correta em relação ao atendimento a um paciente vítima de afogamento, que permaneceu submerso por quarenta minutos e foi retirado da água inconsciente e sem respirar:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-049" value="A"> A. Manobras manuais, aspiração possível e cânula enquanto organiza retirada e plano definitivo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-049" value="B"> B. Máscara laríngea como primeira abordagem apesar de sangue e acesso limitado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-049" value="C"> C. IOT imediata porque o tempo de extricação é longo, independentemente do acesso.</label>
-<label class="quiz-option"><input type="radio" name="q-va-049" value="D"> D. VNI para compensar obstrução e sangue em via aérea.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-034" value="A"> A. A primeira medida a ser tomada é o posicionamento da via aérea e a realização de cinco ventilações de resgate</label>
+<label class="quiz-option"><input type="radio" name="q-t001-034" value="B"> B. Durante as manobras de reanimação, deve-se deixar a cabeça do paciente abaixo do nível do restante do corpo, na tentativa de se otimizar a eliminação do líquido aspirado</label>
+<label class="quiz-option"><input type="radio" name="q-t001-034" value="C"> C. Caso não haja resposta às manobras iniciais de ventilação, a reanimação não deve prosseguir neste caso, devido ao tempo de submersão</label>
+<label class="quiz-option"><input type="radio" name="q-t001-034" value="D"> D. Caso haja resposta às manobras iniciais de ventilação, este paciente deve ser classificado como um afogamento Grau 6 e deve-se prosseguir com as manobras de RCP</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Em extricação, acesso e segurança mandam. B e D falham com sangue; C ignora limitação operacional.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME23 Q33. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q83 | Pós-PCR pediátrico.</p>
-<p><strong>50. Criança pós-RCE em VM. Qual alvo/conduta está mais alinhado às boas práticas?</strong></p>
+<p class="quiz-source">TEME23 Q37 | gabarito oficial: C</p>
+<p><strong>35. Caso clínico para as questões 36, 37 e 38: Você está atendendo um paciente de 59 anos vítima de Parada Cardiorrespiratória em ritmo chocável após retorno à circulação espontânea. Foram administrados 04 (quatro) choques desfibriladores, 02 (duas) doses de vasopressor (adrenalina 1 mg) e 01 (uma) dose de antiarrítmico (amiodarona 300 mg). Nos Cuidados Pós-Ressuscitação, você optou por intubar o paciente e iniciar a monitorização por capnografia. O traçado da capnografia estava normal sendo mostrado a abaixo. Após transferir o paciente para seu leito definitivo, verifica–se o seguinte traçado: Qual a conduta mais adequada?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-050" value="A"> A. FiO2 100% por 24 h para neuroproteção.</label>
-<label class="quiz-option"><input type="radio" name="q-va-050" value="B"> B. Usar ETCO2 como substituto perfeito da PaCO2 em qualquer situação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-050" value="C"> C. Evitar hipotensão e ajustar oxigenação/ventilação para evitar hiperóxia, hipoxemia e extremos de CO2.</label>
-<label class="quiz-option"><input type="radio" name="q-va-050" value="D"> D. Bicarbonato rotineiro para toda acidose pós-RCE.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-035" value="A"> A. Aspirar secreções</label>
+<label class="quiz-option"><input type="radio" name="q-t001-035" value="B"> B. Colocar o paciente em prona</label>
+<label class="quiz-option"><input type="radio" name="q-t001-035" value="C"> C. Retirar o tubo orotraqueal e reintubar o paciente</label>
+<label class="quiz-option"><input type="radio" name="q-t001-035" value="D"> D. Aumentar os parâmetros do ventilador devido ao baixo volume corrente do paciente</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Pós-PCR pede oxigenação/ventilação tituladas e pressão adequada. A hiperóxia pode lesar; B exige confirmação/contexto; D não é rotina.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q91 | Asma pediátrica e fadiga.</p>
-<p><strong>51. Criança asmática fica "mais calma", responde mal a comandos, segue hipoxêmica e com esforço; sibilância está menos audível. O que isso sugere?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-051" value="A"> A. Boa resposta ao tratamento.</label>
-<label class="quiz-option"><input type="radio" name="q-va-051" value="B"> B. Broncodilatação eficaz comprovada pela menor sibilância.</label>
-<label class="quiz-option"><input type="radio" name="q-va-051" value="C"> C. Fadiga e falência respiratória iminente.</label>
-<label class="quiz-option"><input type="radio" name="q-va-051" value="D"> D. Saturação 88% aceitável porque a criança está menos agitada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> "Silêncio" e sonolência em asma grave podem ser exaustão, não melhora. A, B e D são a armadilha que mata.</p>
-</div>
-</div>
-
-## Complemento do Mapa Amplo TEME22-25
-
-Estas questões completam o recorte amplo de via aérea, oxigenação, insuficiência respiratória, ventilação e temas conectados nas provas recentes. Seguem reescritas em formato autoral, sem reprodução literal dos enunciados originais.
-
-### TEME22 - complemento
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q3 | Trauma, rebaixamento e lesão torácica vascular.</p>
-<p><strong>52. Vítima de queda de grande altura está com via aérea pérvia e ventilando, mas tem rebaixamento, hipoperfusão e diferença importante de pressão entre membros superiores. Qual medida é a pegadinha menos coerente com a suspeita principal?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-052" value="A"> A. Ressuscitação cuidadosa e controle de hemorragia quando indicado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-052" value="B"> B. Pericardiocentese como tratamento de provável tamponamento.</label>
-<label class="quiz-option"><input type="radio" name="q-va-052" value="C"> C. Controle hemodinâmico, evitando hipertensão e taquicardia se a suspeita for lesão aórtica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-052" value="D"> D. Preparar RSI se houver indicação por proteção de via aérea ou curso clínico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Diferença pressórica após trauma de desaceleração lembra lesão aórtica, não tamponamento como diagnóstico automático. A, C e D podem entrar no plano conforme fisiologia e lesões associadas.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q37. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q5 | Intubado no trauma e assimetria ventilatória.</p>
-<p><strong>53. Politraumatizado chega intubado, hipoxêmico, hipotenso e com murmúrio vesicular reduzido à esquerda. Antes de atribuir tudo ao tórax, qual hipótese precisa ser checada?</strong></p>
+<p class="quiz-source">TEME23 Q38 | gabarito oficial: D</p>
+<p><strong>36. Caso clínico para as questões 36, 37 e 38: Você está atendendo um paciente de 59 anos vítima de Parada Cardiorrespiratória em ritmo chocável após retorno à circulação espontânea. Foram administrados 04 (quatro) choques desfibriladores, 02 (duas) doses de vasopressor (adrenalina 1 mg) e 01 (uma) dose de antiarrítmico (amiodarona 300 mg). Após corrigir a situação anterior, o paciente desenvolve grave hipoxemia com SaO2 oscilando entre 80 a 85% e piora do status hemodinâmico. Você opta por realizar POCUS cardíaco e pulmonar e identifica as seguintes imagens: Imagem 1 Imagem 2: Quais os achados no POCUS e a provável causa dessa nova instabilidade do paciente?</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-053" value="A"> A. Hiperventilação psicogênica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-053" value="B"> B. Intoxicação por monóxido de carbono.</label>
-<label class="quiz-option"><input type="radio" name="q-va-053" value="C"> C. Edema agudo pulmonar cardiogênico isolado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-053" value="D"> D. Intubação seletiva à direita, além de pneumotórax/hemotórax.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-036" value="A"> A. Derrame pleural</label>
+<label class="quiz-option"><input type="radio" name="q-t001-036" value="B"> B. Derrame Pericárdico</label>
+<label class="quiz-option"><input type="radio" name="q-t001-036" value="C"> C. Pneumotórax</label>
+<label class="quiz-option"><input type="radio" name="q-t001-036" value="D"> D. Pneumotórax e Derrame Pericárdico</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Hipoxemia em paciente intubado exige checar posição do tubo, ausculta, capnografia e causas DOPE. A, B e C não explicam tão bem a assimetria após IOT no trauma.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q6 | PCR: prioridade inicial.</p>
-<p><strong>54. Paciente inconsciente e sem pulso chega ao DE. Qual ação tem prioridade imediata?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-054" value="A"> A. Iniciar compressões torácicas de alta qualidade, 100-120/min.</label>
-<label class="quiz-option"><input type="radio" name="q-va-054" value="B"> B. Realizar IOT antes de iniciar compressões.</label>
-<label class="quiz-option"><input type="radio" name="q-va-054" value="C"> C. Preparar adrenalina antes do primeiro ciclo de RCP.</label>
-<label class="quiz-option"><input type="radio" name="q-va-054" value="D"> D. Ventilar isoladamente a 10 incursões por minuto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> A prova cobra o básico que salva: compressões efetivas primeiro. IOT e drogas não devem atrasar compressões e desfibrilação quando indicadas.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q7 | Via aérea avançada na RCP.</p>
-<p><strong>55. Durante RCP em ritmo chocável, após choques, adrenalina e compressões em andamento, qual medida pode ser considerada no mesmo ciclo sem interromper a RCP?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-055" value="A"> A. Amiodarona antes do momento indicado pelo algoritmo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-055" value="B"> B. Via aérea avançada e capnografia contínua em onda.</label>
-<label class="quiz-option"><input type="radio" name="q-va-055" value="C"> C. Pausa prolongada para buscar causas reversíveis.</label>
-<label class="quiz-option"><input type="radio" name="q-va-055" value="D"> D. Lidocaína empírica sem considerar o ritmo e o algoritmo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Capnografia contínua confirma ventilação, monitora qualidade da RCP e pode sugerir RCE. As outras alternativas atropelam timing ou aumentam pausas.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q9 | POCUS pulmonar.</p>
-<p><strong>56. O POCUS pulmonar interpreta principalmente quais elementos?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-056" value="A"> A. Linha pleural e artefatos produzidos pela relação ar-tecido/fluido.</label>
-<label class="quiz-option"><input type="radio" name="q-va-056" value="B"> B. Anatomia alveolar direta em alta definição.</label>
-<label class="quiz-option"><input type="radio" name="q-va-056" value="C"> C. Somente parênquima pulmonar, sem utilidade para pleura.</label>
-<label class="quiz-option"><input type="radio" name="q-va-056" value="D"> D. Apenas linhas horizontais, sem valor dinâmico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Ultrassom pulmonar é leitura de pleura, deslizamento e artefatos. A pegadinha é imaginar que ele "enxerga" alvéolos como uma TC.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q23 | TCE grave e neuroproteção.</p>
-<p><strong>57. Paciente com TCE grave intubado aguarda transferência. Qual meta é mais alinhada à neuroproteção inicial?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-057" value="A"> A. Hipotermia terapêutica de rotina.</label>
-<label class="quiz-option"><input type="radio" name="q-va-057" value="B"> B. Evitar hipóxia e hipotensão, mantendo SpO2 adequada e PAS pelo menos acima de 100 mmHg.</label>
-<label class="quiz-option"><input type="radio" name="q-va-057" value="C"> C. Manter sódio baixo para reduzir osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-va-057" value="D"> D. Manter hipercapnia permissiva como regra.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> TCE grave não tolera hipóxia nem hipotensão. A não é rotina; C e D aumentam risco de piora neurológica.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q24 | Dispneia aguda e POCUS.</p>
-<p><strong>58. Paciente com dispneia aguda, hipoxemia leve e ausculta pouco específica. Qual exame à beira-leito pode orientar rapidamente as próximas condutas?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-058" value="A"> A. Cintilografia pulmonar como primeira medida.</label>
-<label class="quiz-option"><input type="radio" name="q-va-058" value="B"> B. Tomografia de tórax antes de qualquer avaliação dinâmica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-058" value="C"> C. Ultrassonografia point-of-care de tórax.</label>
-<label class="quiz-option"><input type="radio" name="q-va-058" value="D"> D. Radiografia obrigatória antes de oxigênio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> POCUS ajuda a separar pneumotórax, edema, derrame, consolidação e outros perfis respiratórios. TC pode ser necessária, mas não é a resposta inicial mais prática em todo paciente.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q34 | Alvos de oxigenação.</p>
-<p><strong>59. Sobre metas de saturação em insuficiência respiratória, qual afirmação é mais segura para prova?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-059" value="A"> A. Em pacientes com risco de hipercapnia, como síndrome de hipoventilação da obesidade/DPOC, alvo 88-92% pode ser apropriado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-059" value="B"> B. Oxigênio deve ser liberal para todos porque hiperóxia não traz dano.</label>
-<label class="quiz-option"><input type="radio" name="q-va-059" value="C"> C. Frequência respiratória e esforço não influenciam a decisão.</label>
-<label class="quiz-option"><input type="radio" name="q-va-059" value="D"> D. Todo paciente crítico deve ficar em máscara não reinalante até SpO2 100%.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> A banca gosta do alvo 88-92% em retentores de CO2. B e D ignoram hiperóxia; C esquece que trabalho respiratório importa tanto quanto o número.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME23 Q38. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q48 | Mecanismos de hipoxemia.</p>
-<p><strong>60. Em insuficiência respiratória hipoxêmica, qual ferramenta conceitual ajuda a diferenciar mecanismos como V/Q, shunt e hipoventilação?</strong></p>
+<p class="quiz-source">TEME23 Q40 | gabarito oficial: D</p>
+<p><strong>37. Em relação às lesões por inalação de fumaça, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-060" value="A"> A. Apenas a frequência respiratória.</label>
-<label class="quiz-option"><input type="radio" name="q-va-060" value="B"> B. A presença de tosse produtiva.</label>
-<label class="quiz-option"><input type="radio" name="q-va-060" value="C"> C. Oximetria isolada, sem gasometria.</label>
-<label class="quiz-option"><input type="radio" name="q-va-060" value="D"> D. Gradiente alvéolo-arterial de oxigênio.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-037" value="A"> A. Lesões por inalação de fumaça são a segunda causa de óbito mais frequente em vítimas de incêndios, atrás apenas das lesões térmicas e queimaduras</label>
+<label class="quiz-option"><input type="radio" name="q-t001-037" value="B"> B. O desenvolvimento de pele em coloração “vermelho-cereja” é um sinal precoce de intoxicação por monóxido de carbono, e deve estar presente para a confirmação do diagnóstico</label>
+<label class="quiz-option"><input type="radio" name="q-t001-037" value="C"> C. O tratamento mais eficaz para a intoxicação por Cianeto de Hidrogênio é a Hidroxocobalamina, na dose inicial de 2g em 10 minutos por via endovenosa</label>
+<label class="quiz-option"><input type="radio" name="q-t001-037" value="D"> D. O tratamento inicial para pacientes que apresentem níveis séricos de carboxi-hemoglobina entre 20% e 30% é a administração de oxigênio normobárico a 100%.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Gradiente A-a ajuda a organizar a fisiologia da hipoxemia. As outras opções são dados clínicos úteis, mas não discriminam bem o mecanismo.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q64 | Dispositivos de oxigenoterapia.</p>
-<p><strong>61. Qual associação entre dispositivo e função prática está errada?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-061" value="A"> A. Venturi permite FiO2 mais controlada.</label>
-<label class="quiz-option"><input type="radio" name="q-va-061" value="B"> B. BVM com boa vedação e alto fluxo pode entregar FiO2 muito alta.</label>
-<label class="quiz-option"><input type="radio" name="q-va-061" value="C"> C. Fluxo de oxigênio e desenho do dispositivo influenciam a FiO2 entregue.</label>
-<label class="quiz-option"><input type="radio" name="q-va-061" value="D"> D. Aquecimento/umidificação no cateter nasal de alto fluxo tem como objetivo principal reduzir bactérias do sistema.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Umidificação/aquecimento tornam alto fluxo tolerável e reduzem ressecamento; não são um "filtro antibacteriano" como objetivo central. A, B e C estão corretas.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q69 | Infecção odontogênica e via aérea.</p>
-<p><strong>62. Diabético após extração dentária evolui com febre, edema submandibular bilateral e protrusão da língua. Qual conduta é mais segura?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-062" value="A"> A. Antibiótico oral e retorno ao dentista.</label>
-<label class="quiz-option"><input type="radio" name="q-va-062" value="B"> B. Sala de emergência, avaliação precoce de via aérea e antibiótico parenteral.</label>
-<label class="quiz-option"><input type="radio" name="q-va-062" value="C"> C. Enfermaria simples sem avaliação de via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-va-062" value="D"> D. Alta se sinais vitais iniciais estiverem estáveis.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Angina de Ludwig/infecção cervical profunda pode fechar via aérea. Sinal vital estável não tranquiliza quando há língua elevada e edema submandibular.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q77 | Tórax instável e contusão pulmonar.</p>
-<p><strong>63. Trauma torácico com respiração paradoxal, hipoxemia persistente apesar de máscara não reinalante e ausculta reduzida à direita. Qual diagnóstico/conduta melhor encaixa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-063" value="A"> A. Pneumotórax hipertensivo à esquerda, toracocentese esquerda.</label>
-<label class="quiz-option"><input type="radio" name="q-va-063" value="B"> B. Hemotórax simples com observação clínica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-063" value="C"> C. Tórax instável com contusão pulmonar, sedoanalgesia e IOT/VM quando falha oxigenação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-063" value="D"> D. Pneumotórax esquerdo e drenagem bilateral automática.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Respiração paradoxal + hipoxemia persistente apontam tórax instável/contusão. A e D erram lado e automatizam; B subtrata insuficiência respiratória.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME23 Q40. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q78 | DPOC, pneumonia e choque.</p>
-<p><strong>64. Idosa tabagista com exacerbação respiratória, pneumonia provável, hipotensão, leucocitose, acidose e disfunção renal. Qual diagnóstico sindrômico é mais provável?</strong></p>
+<p class="quiz-source">TEME23 Q46 | gabarito oficial: A</p>
+<p><strong>38. Sobre técnica de sequência rápida de intubação (SRI), marque a alternativa com a ordem correta de verdadeiro ou falso: ( ) A pré oxigenação deve ser realizada por no mínimo 12 minutos antes da intubação, sendo parte fundamental dos 7 “Ps”. ( ) Sempre deve ser realizado um hipnótico seguido de um bloqueador neuromuscular de ação rápida para ser considerado SRI ( ) IMC &gt; 25 é um fator de risco para parada cardiorrespiratória durante o manejo da via aérea ( ) A pré-oxigenação pode ser realizada com máscara não reinalante com fluxo de oxigênio de 15 L/min</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-064" value="A"> A. Choque séptico por pneumonia em paciente com DPOC.</label>
-<label class="quiz-option"><input type="radio" name="q-va-064" value="B"> B. Choque obstrutivo por TEP, porque há retenção de CO2.</label>
-<label class="quiz-option"><input type="radio" name="q-va-064" value="C"> C. Choque cardiogênico isolado por estertores em base.</label>
-<label class="quiz-option"><input type="radio" name="q-va-064" value="D"> D. Dispneia ansiosa sem disfunção orgânica.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-038" value="A"> A. F - V - V - F</label>
+<label class="quiz-option"><input type="radio" name="q-t001-038" value="B"> B. F - F - F - F</label>
+<label class="quiz-option"><input type="radio" name="q-t001-038" value="C"> C. F - F - V - F</label>
+<label class="quiz-option"><input type="radio" name="q-t001-038" value="D"> D. V - V - F - V</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O conjunto pneumonia + hipotensão + disfunção orgânica favorece choque séptico. As outras alternativas pinçam achados isolados e ignoram o quadro global.</p>
-</div>
-</div>
-
-### TEME23 - complemento
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q1 | Choque obstrutivo e intubação de alto risco.</p>
-<p><strong>65. Dispneia súbita, hipoxemia, choque e POCUS sugerindo TEP maciço. Qual raciocínio imediato é mais seguro?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-065" value="A"> A. Intubar imediatamente antes de ressuscitar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-065" value="B"> B. VNI como tratamento definitivo do choque obstrutivo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-065" value="C"> C. Pericardiocentese por padrão em todo choque com dispneia.</label>
-<label class="quiz-option"><input type="radio" name="q-va-065" value="D"> D. Evitar/postergar IOT se possível enquanto otimiza vasopressor e trata a causa, como trombólise quando indicada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> IOT em TEP maciço pode colapsar o VD. A banca cobra intubação fisiologicamente difícil: ressuscitar, preparar e só avançar se inevitável.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME23 Q46. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q19 | Emergências do mergulho.</p>
-<p><strong>66. Em relação a patologias do mergulho, qual afirmação é correta?</strong></p>
+<p class="quiz-source">TEME23 Q48 | gabarito oficial: C</p>
+<p><strong>39. Qual é a vantagem de usar uma lâmina de geometria padrão em relação a uma lâmina hiper angulada durante a videolaringoscopia?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-066" value="A"> A. Apagamento em águas rasas ocorre tipicamente na descida após hiperventilação.</label>
-<label class="quiz-option"><input type="radio" name="q-va-066" value="B"> B. Doença descompressiva se manifesta principalmente como dor frontal e epistaxe.</label>
-<label class="quiz-option"><input type="radio" name="q-va-066" value="C"> C. Narcose por nitrogênio lembra embriaguez e costuma ficar mais evidente em maiores profundidades, por volta de 30 m.</label>
-<label class="quiz-option"><input type="radio" name="q-va-066" value="D"> D. A 40 m de profundidade o pulmão está submetido a apenas 4 atm absolutas.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-039" value="A"> A. A língua não precisa ser completamente deslocada para se obter uma boa visão da via aérea.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-039" value="B"> B. A geometria padrão facilita a introdução da lâmina em pacientes com abertura bucal pequena.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-039" value="C"> C. O caminho relativamente reto entre a boca e a laringe facilita a passagem do tubo endotraqueal.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-039" value="D"> D. A técnica é igual da usada durante a laringoscopia direta</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Narcose por nitrogênio é a frase clássica. A erra porque apagamento em água rasa costuma ocorrer na subida; D esquece a atmosfera da superfície, então 40 m equivalem a cerca de 5 atm absolutas.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q24 | Exacerbação de DPOC.</p>
-<p><strong>67. Na exacerbação de DPOC, qual conjunto é mais compatível com a resposta de prova?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-067" value="A"> A. Alvo de SpO2 sempre maior que 93%, sem exceção.</label>
-<label class="quiz-option"><input type="radio" name="q-va-067" value="B"> B. Beta-agonista injetável deve ser rotina por ser mais rápido.</label>
-<label class="quiz-option"><input type="radio" name="q-va-067" value="C"> C. Oxigênio titulado, broncodilatador inalatório, corticoide sistêmico e VNI quando acidose hipercápnica/elegibilidade.</label>
-<label class="quiz-option"><input type="radio" name="q-va-067" value="D"> D. VNI não reduz intubação nem mortalidade na exacerbação.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> A erra o alvo em retentores; B aumenta eventos adversos; D nega uma das indicações mais fortes de VNI na emergência.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q33 | Afogamento e ventilações iniciais.</p>
-<p><strong>68. Vítima de afogamento é retirada inconsciente e sem respirar. Qual primeira medida específica deve entrar no atendimento?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-068" value="A"> A. Posicionar via aérea e realizar ventilações de resgate iniciais.</label>
-<label class="quiz-option"><input type="radio" name="q-va-068" value="B"> B. Colocar a cabeça abaixo do corpo para drenar água.</label>
-<label class="quiz-option"><input type="radio" name="q-va-068" value="C"> C. Não iniciar reanimação se houve submersão prolongada.</label>
-<label class="quiz-option"><input type="radio" name="q-va-068" value="D"> D. Classificar como grau 6 apenas se melhorar após ventilação.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Afogamento é hipóxia: abrir via aérea e ventilar cedo é central. Drenagem postural e desistência precoce são pegadinhas.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q38 | POCUS pós-RCE e hipoxemia.</p>
-<p><strong>69. Pós-RCE, após correção de problema de tubo, o paciente fica hipoxêmico e instável; POCUS pulmonar mostra ausência de deslizamento e achado compatível com ponto pulmonar. Qual causa provável?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-069" value="A"> A. Derrame pleural simples.</label>
-<label class="quiz-option"><input type="radio" name="q-va-069" value="B"> B. Derrame pericárdico isolado.</label>
-<label class="quiz-option"><input type="radio" name="q-va-069" value="C"> C. Pneumotórax.</label>
-<label class="quiz-option"><input type="radio" name="q-va-069" value="D"> D. Edema pulmonar cardiogênico como única hipótese.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Ausência de lung sliding com lung point é pista forte de pneumotórax. Em instabilidade, pense em causa obstrutiva tratável.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q48. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q40 | Inalação de fumaça e CO.</p>
-<p><strong>70. Em vítima de incêndio com suspeita de intoxicação por monóxido de carbono e carboxi-hemoglobina moderadamente elevada, qual tratamento inicial é correto?</strong></p>
+<p class="quiz-source">TEME23 Q56 | gabarito oficial: D</p>
+<p><strong>40. Marque a alternativa que corretamente descreve um paciente que está recebendo uma adequada pré-oxigenação durante uma Intubação em Sequência Rápida, considerando um quadro de insuficiência respiratória aguda grave.</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-070" value="A"> A. Aguardar coloração vermelho-cereja para confirmar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-070" value="B"> B. Confiar na SpO2 normal e observar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-070" value="C"> C. Hidroxocobalamina em dose baixa como tratamento do CO.</label>
-<label class="quiz-option"><input type="radio" name="q-va-070" value="D"> D. Oxigênio normobárico a 100% enquanto avalia gravidade e indicação de terapia hiperbárica.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-040" value="A"> A. Paciente acoplado à Ventilação Não-Invasiva, com CPAP de 10 cmH2O e FiO2 de 40%, por cerca de 5 minutos.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-040" value="B"> B. Paciente bem acoplado a um dispositivo bolsa-valva-máscara conectado à rede de O2 com fluxo de 10L/min, por cerca de 10 minutos.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-040" value="C"> C. Paciente acoplado em máscara facial simples com válvula de venturi, com orifício ocluído com FiO2 prevista de 50% em um fluxo de 15 L/min por 8 minutos.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-040" value="D"> D. Paciente acoplado à Máscara Não Reinalante, bem vedada, conectada à rede de oxigênio em “Flush Rate” (Fluxo em Jato) por 9 incursões respiratórias profundas.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> CO exige O2 a 100% imediatamente; o oxímetro pode enganar. Hidroxocobalamina trata suspeita de cianeto, não CO isolado.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME23 Q56. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q76 | TCE grave e ventilação.</p>
-<p><strong>71. No TCE grave sem sinais de herniação, qual alvo ventilatório é mais adequado?</strong></p>
+<p class="quiz-source">TEME23 Q64 | gabarito oficial: B</p>
+<p><strong>41. No paciente com corpo estranho (CE) na via aérea, o que deve ser feito se as tentativas de remover o CE com laringoscopia e pinça de Magill não forem bem sucedidas?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-071" value="A"> A. Hiperventilar sempre para PaCO2 menor que 30 mmHg.</label>
-<label class="quiz-option"><input type="radio" name="q-va-071" value="B"> B. Buscar normocapnia, com PaCO2 em torno de 35-45 mmHg.</label>
-<label class="quiz-option"><input type="radio" name="q-va-071" value="C"> C. Hipotermia terapêutica de rotina.</label>
-<label class="quiz-option"><input type="radio" name="q-va-071" value="D"> D. Hipercapnia permissiva para aumentar fluxo cerebral.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-041" value="A"> A. Tentar compressões subdiafragmáticas</label>
+<label class="quiz-option"><input type="radio" name="q-t001-041" value="B"> B. Intubar o paciente com o tubo orotraqueal e avançar o CE distalmente em um brônquio principal</label>
+<label class="quiz-option"><input type="radio" name="q-t001-041" value="C"> C. Realizar uma varredura digital às cegas o máximo que conseguir</label>
+<label class="quiz-option"><input type="radio" name="q-t001-041" value="D"> D. Administrar um agente bloqueador neuromuscular</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Hiperventilação profilática pode reduzir fluxo cerebral. Reserve hiperventilação temporária para sinais de herniação enquanto faz tratamento definitivo.</p>
-</div>
-</div>
-
-### TEME24 - complemento
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q6 | Incêndio, via aérea e cianeto.</p>
-<p><strong>72. Três vítimas de incêndio: uma com queimadura de face e respiração ruidosa; outra sonolenta com exposição a fumaça; outra já intubada, hipoxêmica e com lactato muito alto. Qual sequência é mais adequada?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-072" value="A"> A. IOT / O2 100% / cianocobalamina.</label>
-<label class="quiz-option"><input type="radio" name="q-va-072" value="B"> B. IOT / O2 100% / hidroxocobalamina.</label>
-<label class="quiz-option"><input type="radio" name="q-va-072" value="C"> C. O2 100% / IOT / hidroxocobalamina.</label>
-<label class="quiz-option"><input type="radio" name="q-va-072" value="D"> D. O2 100% / O2 100% / cianocobalamina.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Respiração ruidosa/queimadura de face pede via aérea precoce; suspeita de CO recebe O2 100%; lactato muito alto em incêndio sugere cianeto, tratado com hidroxocobalamina.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME23 Q64. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q15 | Bronquiolite grave e bradicardia.</p>
-<p><strong>73. Lactente com bronquiolite fica desacordado, SpO2 70%, entrada de ar muito reduzida, esforço intenso e FC 48 com pulso central. Qual prioridade?</strong></p>
+<p class="quiz-source">TEME23 Q76 | gabarito oficial: B</p>
+<p><strong>42. Em relação à abordagem do trauma cranioencefálico na emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-073" value="A"> A. Máscara facial e expansão volêmica como primeira medida.</label>
-<label class="quiz-option"><input type="radio" name="q-va-073" value="B"> B. Ventilação com pressão positiva conectada a oxigênio, reavaliando FC e iniciando compressões se não melhorar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-073" value="C"> C. Atropina antes de ventilar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-073" value="D"> D. Compressões e adrenalina antes de corrigir hipóxia.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-042" value="A"> A. Para pacientes com trauma cranioencefálico grave e sinais de herniação cerebral, a hiperventilação terapêutica pode ser considerada, buscando-se uma PaCO2 entre 35 e 45 mmHg</label>
+<label class="quiz-option"><input type="radio" name="q-t001-042" value="B"> B. Para pacientes com trauma cranioencefálico grave e sem sinais de herniação cerebral, deve-se buscar a normocapnia, com PaCO2 alvo entre 35 e 45 mmHg</label>
+<label class="quiz-option"><input type="radio" name="q-t001-042" value="C"> C. A hipotermia terapêutica deve ser considerada, nos casos de trauma cranioencefálico grave</label>
+<label class="quiz-option"><input type="radio" name="q-t001-042" value="D"> D. A hipotermia terapêutica deve ser considerada apenas nos pacientes com sinais de herniação cerebral</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Em criança, bradicardia frequentemente é hipóxica. Ventilar bem é a intervenção inicial; se FC permanecer baixa, entram compressões e medicações.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q16 | Asma grave e indicação de IOT.</p>
-<p><strong>74. Em crise asmática grave, qual cenário/estratégia sugere indicação de IOT com maior segurança fisiológica?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-074" value="A"> A. Aumento progressivo de pCO2 com esforço mantido; pré-oxigenação com VNI e considerar sequência prolongada.</label>
-<label class="quiz-option"><input type="radio" name="q-va-074" value="B"> B. Queda de pCO2 com esforço, RSI imediata sem pré-oxigenação otimizada.</label>
-<label class="quiz-option"><input type="radio" name="q-va-074" value="C"> C. Aumento de pCO2, mas pré-oxigenação com máscara não reinalante a baixo fluxo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-074" value="D"> D. Queda de pCO2 isolada como indicação absoluta de IOT.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> CO2 subindo em paciente ainda fazendo esforço sugere falência ventilatória. Asma intubada precisa de pré-oxigenação, preparo e estratégia para evitar hiperinsuflação.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q30 | Antidepressivo tricíclico e via aérea.</p>
-<p><strong>75. Paciente com provável intoxicação por amitriptilina, choque, QRS alargado e secreção em via aérea. Qual conjunto inicial é mais adequado?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-075" value="A"> A. Bicarbonato de sódio EV, expansão/vasopressores e IOT após estabilização inicial.</label>
-<label class="quiz-option"><input type="radio" name="q-va-075" value="B"> B. IOT imediata, flumazenil e observar resposta.</label>
-<label class="quiz-option"><input type="radio" name="q-va-075" value="C"> C. Cardioversão sincronizada e flumazenil como tratamento principal.</label>
-<label class="quiz-option"><input type="radio" name="q-va-075" value="D"> D. Cardioversão elétrica como primeira terapia para todo QRS largo tóxico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> TCA instável pede bicarbonato e suporte hemodinâmico. Flumazenil é perigoso em intoxicação mista/TCA; IOT deve ser planejada sem agravar o colapso.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME23 Q76. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q36 | TCE grave, Cushing e medidas neuroprotetoras.</p>
-<p><strong>76. TCE grave com vômitos, anisocoria e reflexo de Cushing. Qual sequência conceitual é mais adequada para a prova?</strong></p>
+<p class="quiz-source">TEME23 Q81 | gabarito oficial: D</p>
+<p><strong>43. Qual dos seguintes fatores são bem conhecidos por estarem associados à dificuldade de ventilação com dispositivo bolsa válvula máscara?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-076" value="A"> A. Reflexo de Cushing falso; hipotensão permissiva; hiperventilação por 24 h.</label>
-<label class="quiz-option"><input type="radio" name="q-va-076" value="B"> B. Manter sódio até 160 como meta rotineira e suspender profilaxia de crise precoce.</label>
-<label class="quiz-option"><input type="radio" name="q-va-076" value="C"> C. Evitar osmoterapia e aceitar PAS baixa para reduzir sangramento.</label>
-<label class="quiz-option"><input type="radio" name="q-va-076" value="D"> D. Reconhecer Cushing, evitar hipotensão, usar osmoterapia quando indicada e não fazer hiperventilação profilática prolongada.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-043" value="A"> A. Sexo atribuído ao nascimento feminino</label>
+<label class="quiz-option"><input type="radio" name="q-t001-043" value="B"> B. Movimento completo do pescoço</label>
+<label class="quiz-option"><input type="radio" name="q-t001-043" value="C"> C. Idade abaixo de 45 anos</label>
+<label class="quiz-option"><input type="radio" name="q-t001-043" value="D"> D. História de radioterapia no pescoço</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Hiperventilação pode ser ponte curta na herniação, não meta fixa por 24 h. O núcleo é perfusão cerebral, oxigenação, osmoterapia indicada e transferência/neurocirurgia.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q38 | Asma pediátrica grave.</p>
-<p><strong>77. Criança asmática grave, fala entrecortada, SpO2 90% e história de UTI/VM. Qual afirmação é mais correta?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-077" value="A"> A. Se não responder ao primeiro beta-agonista inalatório, beta-agonista EV é obrigatório e imediato.</label>
-<label class="quiz-option"><input type="radio" name="q-va-077" value="B"> B. Corticoide sistêmico precoce, inclusive EV se houver dificuldade de deglutição, é parte do manejo.</label>
-<label class="quiz-option"><input type="radio" name="q-va-077" value="C"> C. Magnésio IV só pode ser feito após dosagem sérica normal.</label>
-<label class="quiz-option"><input type="radio" name="q-va-077" value="D"> D. Terbutalina/adrenalina nunca têm papel fora de anafilaxia.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Corticoide precoce reduz falha e internação; via EV é razoável se a criança não consegue deglutir. A, C e D usam absolutos perigosos.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME23 Q81. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q82 | Overdose, naloxona e PCR.</p>
-<p><strong>78. Usuário de drogas com pulso fraco evolui para PCR durante abordagem. Há suspeita de opioide. Qual conduta resume melhor o atendimento?</strong></p>
+<p class="quiz-source">TEME23 Q82 | gabarito oficial: C</p>
+<p><strong>44. Sobre pacientes com quadro de Insuficiência Respiratória Tipo II, marque a alternativa correta.</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-078" value="A"> A. RCP, mas evitar epinefrina.</label>
-<label class="quiz-option"><input type="radio" name="q-va-078" value="B"> B. Bicarbonato obrigatório e lidocaína preferencial sempre.</label>
-<label class="quiz-option"><input type="radio" name="q-va-078" value="C"> C. Naloxona sem atrasar RCP/ACLS, mantendo epinefrina e antiarrítmico quando indicados.</label>
-<label class="quiz-option"><input type="radio" name="q-va-078" value="D"> D. Benzodiazepínico e trombólise como rotina.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-044" value="A"> A. A oximetria de pulso é o método de monitorização ideal para pacientes com risco de insuficiência respiratória tipo II</label>
+<label class="quiz-option"><input type="radio" name="q-t001-044" value="B"> B. Pacientes com quadro de doença neuromuscular com acometimento respiratório devem ser monitorizados por meio de gasometria arterial, quanto à necessidade de ventilação mecânica invasiva.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-044" value="C"> C. Uso de dispositivos de ventilação mecânica não-invasiva pode ser indicado para alguns dos casos de insuficiência respiratória tipo II</label>
+<label class="quiz-option"><input type="radio" name="q-t001-044" value="D"> D. Em pacientes apresentando quadro de intoxicação por Opióides evoluindo com hipercapnia à medida imediata a ser estabelecida é o uso de ventilação mecânica invasiva.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Naloxona pode ser administrada se suspeita de opioide, mas não substitui compressões, ventilação, desfibrilação e drogas do ACLS quando indicadas.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q82. Gabarito oficial: C.</p>
 </div>
 </div>
-
-### TEME25 - complemento
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q56 | LES, insuficiência respiratória e hemorragia alveolar.</p>
-<p><strong>79. Paciente com lúpus, febre/tosse, hipoxemia, falha de VNI e POCUS com perfil B bilateral. Na suspeita de hemorragia alveolar, qual afirmação é mais correta?</strong></p>
+<p class="quiz-source">TEME24 Q6 | gabarito oficial: B</p>
+<p><strong>45. Três vítimas são encaminhadas ao Departamento de Emergência após terem sido resgatadas de um incêndio secundário à uma explosão de gás em centro de reciclagem. A seguir, encontram-se descritas as avaliações iniciais dos três pacientes. Paciente 1: vibrissas nasais queimadas, respiração ruidosa, frequência respiratória de 33 irpm, saturação periférica da hemoglobina de 99% em Máscara não-reinalante a 15 L/min, Ausculta Respiratória com murmúrio vesícula reduzido globalmente, frequência cardíaca de 101 bpm, pressão arterial (PA) de 133 x 65 mmHg. Escala de coma de Glasgow em 15, com força motora preservada. Queimaduras de segundo grau em face, tronco e dorso. Paciente 2: via aérea pérvia, frequência respiratória de 35 irpm, saturação periférica de oxigênio de 98% em ar ambiente, ausculta respiratória com murmúrio vesicular positivo e sem ruídos adventícios. Membros quentes e bem perfundidos, FC de 105 bpm, PA de 123 x 55 mmHg, Escala de coma de Glasgow em 14, com sonolência leve. Queimaduras de segundo grau em membros superiores. Paciente 3: via aérea sob intubação orotraqueal desde o Atendimento pré-hospitalar encontrado em escala de coma de Glasgow 3 na cena), frequência respiratória de 23 irpm, saturação periférica de oxigênio de 90% em fração inspirada de oxigênio de 100%, ausculta respiratória com murmúrio vesicular positivo e sem ruídos adventícios. Pressão Arterial sistêmica de 93 x 55 mmHg; queimaduras em face presentes. Lactato arterial 100 mg/dL (valor de referência: 16 mg/dL). Marque a alternativa que melhor descreve as medidas prioritárias para cada um dos pacientes, respectivamente:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-va-079" value="A"> A. Ausência de hemoptise afasta hemorragia alveolar.</label>
-<label class="quiz-option"><input type="radio" name="q-va-079" value="B"> B. Broncoscopia com lavado broncoalveolar pode ser importante para confirmar padrão e excluir infecção/lesão brônquica.</label>
-<label class="quiz-option"><input type="radio" name="q-va-079" value="C"> C. Perfil B bilateral confirma pneumonia extensa.</label>
-<label class="quiz-option"><input type="radio" name="q-va-079" value="D"> D. Se sangramento unilateral for suspeito, posicionar o pulmão sangrante para cima.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-045" value="A"> A. Realizar intubação orotraqueal/ iniciar suporte de oxigênio suplementar a 100%/ iniciar infusão de cianocobalamina.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-045" value="B"> B. Realizar intubação orotraqueal/ iniciar suporte de oxigênio suplementar a 100%/ iniciar infusão de hidroxicobalamina.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-045" value="C"> C. Realizar suporte de oxigênio suplementar a 100%/ realizar intubação orotraqueal/ iniciar infusão de hidroxicobalamina.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-045" value="D"> D. Realizar suporte de oxigênio suplementar a 100%/ iniciar suporte de oxigênio suplementar a 100%/ iniciar infusão de cianocobalamina.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Hemorragia alveolar pode ocorrer sem hemoptise. Perfil B é inespecífico; se sangramento unilateral, pulmão sangrante fica para baixo para proteger o pulmão bom.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME24 Q6. Gabarito oficial: B.</p>
 </div>
 </div>
 
-## Revisão Pós-Prova
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME24 Q15 | gabarito oficial: B</p>
+<p><strong>46. Lactente de 6 meses com quadro de bronquiolite em observação aguardando transferência para Serviço Pediátrico. Você vai reavaliar o paciente e o encontra desacordado, com esforço respiratório muito grave e palidez cutânea intensa. Em sua avaliação, você observa frequência respiratória (FR) de 80 irpm, saturação periférica de hemoglobina (SpO2) de 70% com oxigênio no cateter nasal, entrada de ar muito reduzida e esforço intenso. Extremidades frias, perfusão lentificada, pulsos periféricos fracos e centrais palpáveis, frequência cardáica (FC) de 48 bpm. Quais as condutas prioritárias nesse momento?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-046" value="A"> A. Iniciar oxigênio em alto fluxo por máscara facial e expansão volêmica, devido aos sinais de choque.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-046" value="B"> B. Iniciar ventilação com pressão positiva conectada à fonte de oxigênio e reavaliar a frequência cardíaca e sinais de choque. Iniciar compressões e ventilações, se não houver melhora.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-046" value="C"> C. Estimular, aquecer e realizar atropina na dose de 0,02 mg/kg por via endovenosa ou intraóssea. Iniciar a ventilação com pressão positiva.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-046" value="D"> D. Iniciar compressões alternando com ventilações e administrar bólus de epinefrina por via endovenosa ou intraóssea.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME24 Q15. Gabarito oficial: B.</p>
+</div>
+</div>
 
-Use o placar automático no final do tema:
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME24 Q16 | gabarito oficial: A</p>
+<p><strong>47. Marque a alternativa que descreve uma indicação de intubação orotraqueal e a melhor estratégia de realização do procedimento para um paciente em crise asmática grave:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-047" value="A"> A. Aumento da pressão parcial de gás carbônico (pCO2) em mais de 5 mmHg na última hora e manutenção do esforço respiratório. Pré-oxigenar com ventilação não invasiva. Considerar intubação em sequência prolongada.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-047" value="B"> B. Diminuição da pCO2 na última hora e manutenção do esforço respiratório. Préoxigenar com ventilação não invasiva. Considerar duplo preparo. Realizar sequência rápida de intubação (SRI) o mais rapidamente possível.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-047" value="C"> C. Aumento da pCO2 em mais de 5 mmHg na última hora e manutenção do esforço respiratório. Pré-oxigenar com máscara não reinalante a 5 L/minuto. Proceder com SRI.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-047" value="D"> D. Diminuição da pCO2 na última hora e manutenção do esforço respiratório. Realizar lidocaína. Considerar intubação em sequência prolongada.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME24 Q16. Gabarito oficial: A.</p>
+</div>
+</div>
 
-- **>= 85%:** avançar para bloco misto com trauma/choque/respiratório.
-- **70-84%:** revisar pegadinhas erradas e refazer apenas os erros no dia seguinte.
-- **< 70%:** reler o capítulo 001 antes de seguir.
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME24 Q30 | gabarito oficial: A</p>
+<p><strong>48. Paciente do sexo feminino, de 27 anos, é admitida ao Departamento de Emergência após ter sido encontrada desacordada em sua cama. A equipe do atendimento préhospitalar relata diversas caixas de comprimidos na cena, incluindo fluoxetina, clonazepam e amitriptilina. Ao exame, paciente desacordada, com escala de coma de Glasgow em 10, pupilas médias e fotorreagentes, reflexos tendíneos fisiológicos, frequência cardíaca de 131 bpm, pressão arterial de 70 x 50 mmHg, com extremidades frias e pegajosas, frequência respiratória de 28 irpm com respiração ruidosa e acúmulo de secreção em orofaringe. Temperatura 37,9ºC, eletrocardiograma da paciente conforme imagem a seguir. Considerando o quadro descrito, marque a alternativa com o melhor conjunto de medidas indicadas:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-048" value="A"> A. Iniciar bicarbonato de sódio endovenoso, expansão volêmica e drogas vasoativas; realizar intubação orotraqueal após estabilização inicial.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-048" value="B"> B. Realizar intubação orotraqueal e iniciar flumazenil e expansão volêmica e drogas vasoativas.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-048" value="C"> C. Realizar cardioversão elétrica sincronizada, iniciar flumazenil e aguardar a resposta terapêutica, antes de indicar intubação orotraqueal.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-048" value="D"> D. Iniciar bicarbonato de sódio endovenoso, iniciar expansão volêmica e drogas vasoativas e cardioversão elétrica sincronizada.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME24 Q30. Gabarito oficial: A.</p>
+</div>
+</div>
 
-Checklist dos erros mais prováveis:
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME24 Q34 | gabarito oficial: A</p>
+<p><strong>49. Paciente do sexo masculino de 54 anos, previamente etilista, hipertenso, que foi internado há 3 dias por um quadro de síndrome de abstinência alcoólica. No momento, apresenta-se muito agitado, retirando constantemente a máscara de oxigênio, com sudorese profusa e dessaturação rápida. Sinais vitais: pressão arterial de 123 x 56 mmHg, frequência cardíaca de 115 bpm, frequência respiratória de 32 irpm, saturação periférica de hemoglobina (SpO2) de 88% com máscara não reinalante em fluxo máximo (flush-rate). Nos exames complementares, apresenta grande consolidação em lobo inferior direito na tomografia computadorizada de tórax e, na gasometria arterial, apresenta P/F estimada de 130. Para realizar a intubação, qual técnica e qual modalidade de pré-oxigenação seriam mais seguras?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-049" value="A"> A. Intubação por sequência prolongada (delayed sequence intubation). Préoxigenação com ventilação não invasiva e fração inspirada de oxigênio de 100%.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-049" value="B"> B. Intubação com paciente acordado (awake intubation) com anestesia tópica da via aérea com lidocaína. Pré-oxigenação com máscara não reinalante em fluxo máximo (flush-rate) (&gt;40 L/minuto).</label>
+<label class="quiz-option"><input type="radio" name="q-t001-049" value="C"> C. Intubação por sequência rápida. Pré-oxigenação com dispositivo bolsaválvula-máscara a 15 L/minuto.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-049" value="D"> D. Intubação forçada a agir. Não há tempo para pré-oxigenação.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME24 Q34. Gabarito oficial: A.</p>
+</div>
+</div>
 
-- [ ] Indicação de IOT vs observação.
-- [ ] Pré-oxigenação inadequada em hipoxêmico.
-- [ ] Droga automática sem contexto fisiológico.
-- [ ] Falha de via aérea reconhecida tarde.
-- [ ] VNI usada onde há contraindicação.
-- [ ] Auto-PEEP corrigida aumentando FR.
-- [ ] Capnografia interpretada sem pensar em tubo, ventilação e perfusão.
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME24 Q36 | gabarito oficial: D</p>
+<p><strong>50. Paciente do sexo masculino, de 40 anos, sofreu trauma craniencefálico (TCE) após ser atingido na cabeça por um galho. Após o acidente, chegou em casa andando, mas logo começou a apresentar vômitos em jato e sonolência. Levado para a emergência de outro município, onde chegou com escala de coma de Glasgow de 8/15 e anisocoria. Foi imediatamente intubado e contato realizado para transferi-lo para sua unidade, que é a referência em neurocirurgia da região. Na chegada, o paciente apresentava bradicardia e hipertensão, sem o uso de medicamentos vasoativos. Sobre o quadro de TCE grave desse paciente, responda com verdadeiro (V) ou falso (F): ( ) Esse paciente apresenta reflexo de Cushing. ( ) Manter pressão arterial sistólica 110 mmHg. ( ) Manitol por via endovenosa 1 g/kg. ( ) Solução salina 3% por via endovenosa 1 mL/kg até Na 160 mEq/L. ( ) Manter pressão parcial de gás carbônico (pCO2) entre 30 e 35 nas primeiras 24 horas. ( ) Profilaxia para epilepsia pós-traumática nos primeiros 7 dias Qual a sequência correta de respostas:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-050" value="A"> A. F-V-V-F-F-V.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-050" value="B"> B. V-F-F-V-V-F.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-050" value="C"> C. V-V-F-V-F-V.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-050" value="D"> D. V-V-V-F-F-V.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME24 Q36. Gabarito oficial: D.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME24 Q38 | gabarito oficial: B</p>
+<p><strong>51. Paciente do sexo masculino, 8 anos de idade e 32 kg de peso com diagnóstico de asma e história de internações prévias em unidade de terapia intensiva com necessidade de ventilação mecânica por exacerbação chega ao Departamento de Emergência trazido pela mãe por nova exacerbação. Apresenta-se inquieto, taquipneico, com saturação periférica de hemoglobina (SpO2) de 90% e fala entrecortada. Imediatamente, é monitorizado, um acesso venoso periférico é obtido, e é ofertado oxigênio suplementar. Sobre o manejo desse paciente, assinale a alternativa correta:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-051" value="A"> A. Por se tratar de uma crise grave, caso não haja resposta adequada após um primeiro resgate com beta-agonista inalatório, devemos iniciar precocemente o uso de beta-agonista endovenoso.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-051" value="B"> B. Pacientes com exacerbações graves podem apresentar dificuldade de deglutição, sendo recomendada uma dose endovenosa de metilprednisolona ou dexametasona tão logo um acesso venoso seja estabelecido.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-051" value="C"> C. O uso de magnésio intravenoso, quando indicado, deve ser prescrito na dose de 50 a 75 mg/kg em infusão de 20 minutos somente após uma dosagem sérica de magnésio dentro do limite da normalidade.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-051" value="D"> D. O uso de terbutalina subcutânea e adrenalina intramuscular não possuem benefício em pacientes pediátricos com crise asmática grave, devendo ser utilizados exclusivamente em caso de suspeita de broncoespasmo relacionado à anafilaxia.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME24 Q38. Gabarito oficial: B.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME24 Q52 | gabarito oficial: B</p>
+<p><strong>52. Chega para você um paciente de 45 anos, previamente hipertenso, apresentando quadro de edema de face, principalmente lábios e língua. Ele nega sintomas de urticária. Está com dificuldade para falar e deglutir e apresenta um estridor bem audível. Faz uso de enalapril, hidroclorotiazida e anlodipino. Nega sintomas parecidos prévios ou quadro semelhante na família. Sinais vitais: pressão arterial de 150x80 mmHg, frequência cardíaca de 115 bpm, saturação periférica de hemoglobina (SpO2) de 98% em ar ambiente e frequência respiratória de 18 irpm. Marque a alternativa que descreve o motivo para indicar a técnica de intubação acordado para esse paciente:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-052" value="A"> A. Pela impossibilidade de realizar a intubação por via orotraqueal ou nasotraqueal.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-052" value="B"> B. Pelo risco de falha no resgate (garantir a oxigenação).</label>
+<label class="quiz-option"><input type="radio" name="q-t001-052" value="C"> C. Pela inexperiência com via aérea cirúrgica ou indisponibilidade do cirurgião de cabeça e pescoço.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-052" value="D"> D. Para evitar o uso do fentanil, devido ao risco de rigidez torácica.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME24 Q52. Gabarito oficial: B.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME24 Q60 | gabarito oficial: D</p>
+<p><strong>53. A unidade de suporte avançado (USA) do Serviço de Atendimento Móvel de Urgência (Samu) é acionada para atender um paciente adulto com história de engasgo em um restaurante próximo à base operacional. À chegada, o paciente encontra-se alerta e com estridor audível, porém sem conseguir falar. Qual alternativa fornece a melhor conduta?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-053" value="A"> A. Realizar adrenalina 0,3 a 0,5 mg por via intramuscular em vasto lateral da coxa.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-053" value="B"> B. Conduzir o paciente para realização de broncoscopia.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-053" value="C"> C. Caso o paciente fique irresponsivo e o objeto não seja visualizado à laringoscopia, deve ser realizada a cricotireostomia cirúrgica.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-053" value="D"> D. Caso o paciente fique irresponsivo e o objeto não seja visualizado à laringoscopia, deve ser introduzir o tubo orotraqueal com guia o máximo possível, para alocar, de maneira seletiva, o objeto e recuar o tubo para ventilar.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME24 Q60. Gabarito oficial: D.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME24 Q64 | gabarito oficial: C</p>
+<p><strong>54. Paciente tabagista de longa data, admitido no Departamento de Emergência em insuficiência respiratória aguda. A despeito da terapia adjuvante, evolui com necessidade de suporte ventilatório invasivo. Na figura 1, observa-se a curva fluxo versus tempo imediatamente após a intubação orotraqueal. Na figura 2, nota-se a curva fluxo versus tempo após a realização de ajustes no ventilador mecânico. Assinale a alternativa correta: FIGURA 1 FIGURA 2</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-054" value="A"> A. Duplo disparo; mudança de modo de ventilação controlada a volume (VCV) para ventilação a pressão controlada (PCV).</label>
+<label class="quiz-option"><input type="radio" name="q-t001-054" value="B"> B. Disparo reverso; redução da pressão positiva expiratória final (PEEP).</label>
+<label class="quiz-option"><input type="radio" name="q-t001-054" value="C"> C. Auto-PEEP; redução da frequência respiratória.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-054" value="D"> D. Ciclagem tardia: aumento do tempo inspiratório.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q64. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME24 Q66 | gabarito oficial: A</p>
+<p><strong>55. Você está manejando um paciente de 54 anos de idade, previamente portador de hipertensão arterial sistêmica, doença arterial coronariana e diabetes mellitus tipo 2, com quadro de choque séptico de foco pulmonar e indica a intubação orotraqueal. Sinais vitais: pressão arterial de 89 x 45 mmHg com noradrenalina 0,4 mcg/kg/minuto, frequência cardíaca de 135 bpm, saturação periférica de hemoglobina (SpO2) 89% com Máscara não reinalante a 15 L/minuto, porém agitado e retirando o dispositivo de oxigenoterapia, glicemia capilar de 135 mg/dL, gasometria arterial mostrando pH de 6,8, pressão parcial de gás carbônico (pCO2) de 22 mmHg, pressão parcial de oxigênio (pO2) de 76 mmHg, bicarbonato de 3,5 mEq/L, sódio sérico (Na) de 130 mEq/L, cloro (Cl) de 103 mEq/L e lactato 18 mg/dL (valor de referência de 16 mg/dL). Qual sequência indica o planejamento mais seguro para a intubação desse paciente?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-055" value="A"> A. Otimização hemodinâmica; sequência prolongada de intubação; cetamina + rocurônio; pré-oxigenação com ventilação não invasiva (VNI); uso de oxigenação apneica (OxAp) com cateter nasal 15 L/minuto; ajuste de parâmetros da ventilação mecânica (VM) para garantir um volume minuto alto.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-055" value="B"> B. Uso de push-dose de adrenalina; sequência rápida de intubação; etomidato + succinilcolina; hidrocortisona; pré-oxigenação com VNI; uso de OxAp com cateter nasal a 15 L/minuto; ajustar os parâmetros da VM para garantir fração inspirada de oxigênio (FiO2) 100%.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-055" value="C"> C. Otimização hemodinâmica; técnica SALAD de intubação; cetamina + rocurônio; pré-oxigenação com VNI; uso de OxAp com cateter nasal a 8 L/minuto; ajustar os parâmetros da VM para garantir um volume minuto alto.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-055" value="D"> D. Otimização da volemia; sequência atrasada de intubação; propofol + rocurônio; pré-oxigenação com máscara não reinalente em flush-rate; uso de OxAp com cateter nasal a 15 L/minuto; ajustar os parâmetros da VM para garantir uma pressão positiva expiratória final (PEEP) baixa.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME24 Q66. Gabarito oficial: A.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME24 Q80 | gabarito oficial: B</p>
+<p><strong>56. Durante o manejo da via aérea de um paciente afogado na piscina, você se depara com grande quantidade de secreção turva vindo do estômago, com restos alimentares mal digeridos e muita espuma. Para facilitar a visualização durante a laringoscopia, qual técnica pode ser realizada?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-056" value="A"> A. Cricotireoidostomia cirúrgica.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-056" value="B"> B. Laringoscopia assistida por aspiração contínua e descontaminação.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-056" value="C"> C. Aspiração da orofaringe com aspirador flexível seguida por intubação às cegas.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-056" value="D"> D. Intubação esofágica seguida de nova tentativa de laringoscopia direta.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME24 Q80. Gabarito oficial: B.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME24 Q82 | gabarito oficial: B</p>
+<p><strong>57. Paciente de 28 anos é encontrado com pulso central fraco e sem resposta ao estímulo em via pública; segundo relato de amigos, é usuário de drogas. À ectoscopia, presença de pó branco nas narinas. Evolui para parada cardiorrespiratória durante abordagem inicial. Neste momento, marque a alternativa que melhor resume a condução ideal do caso:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-057" value="A"> A. Iniciar manobras de ressuscitação; evitar uso de epinefrina; iniciar amiodarona precocemente em caso de ritmos chocáveis ao monitor; realizar intubação assim que possível.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-057" value="B"> B. Iniciar manobras de ressuscitação; iniciar infusão de bicarbonato de sódio por via endovenosa; usar preferencialmente a lidocaína, caso seja indicado antiarrítmico durante a assistência.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-057" value="C"> C. Administrar naloxona; iniciar manobras de ressuscitação; manter medidas usuais, como uso de epinefrina e amiodarona, conforme indicado na abordagem geral do paciente em parada cardiorrespiratória.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-057" value="D"> D. Iniciar reanimação cardiopulmonar e infusão de benzodiazepínico e trombolítico por via endovenosa e manter a medicação durante a assistência.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME24 Q82. Gabarito oficial: B.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME24 Q85 | gabarito oficial: D</p>
+<p><strong>58. Você recebe na Sala Vermelha um paciente trazido pelos familiares após um acidente de bicicleta em que ele atravessou uma cerca. O paciente apresenta lesões em face e parece estar inconsciente. Segue a avaliação primária do paciente. A: aparente obstrução de via aérea por sangue e queda da língua. B: sem alterações. C: sem alterações. D: escala de coma de Glasgow em 5. E: hematoma e pequena lesão sangrante em região temporal direita; múltiplas lesões em face com sangramento ativo. Aparente fratura desalinhada em braço direito. Na decisão sobre o manejo da via aérea desse paciente, marque a alternativa com melhor conduta a ser realizada:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-058" value="A"> A. Aspirar a via aérea; evitar via aérea cirúrgica; pré-oxigenar com dispositivo bolsa-válvula-máscara; realizar a sequência rápida de intubação; evitar técnicas de intubação com manutenção do drive respiratório.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-058" value="B"> B. Aspirar a via aérea; pré-oxigenar com máscara não reinalente em flush-rate; garantir duplo preparo (“double set-up”): laringoscopia + via aérea cirúrgica de resgate; evitar o uso do dispositivo bolsa-válvula-máscara.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-058" value="C"> C. Aspirar a via aérea; pré-oxigenar com máscara não reinalente em flush-rate; garantir duplo preparo (“double set-up”): laringoscopia + máscara laríngea; considerar técnica KOBI, a depender da complexidade da lesão oral e dos riscos da apneia.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-058" value="D"> D. Aspirar a via aérea; pré-oxigenar com máscara não reinalente em flush-rate; garantir duplo preparo (“double set-up”): laringoscopia + via aérea cirúrgica de resgate; considerar técnica KOBI a depender da complexidade da lesão oral e riscos da apneia.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME24 Q85. Gabarito oficial: D.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME24 Q97 | gabarito oficial: C</p>
+<p><strong>59. Durante o manejo de uma parada cardiorrespiratória, o paciente subitamente apresenta a curva abaixo no monitor multiparamétrico. Marque a alternativa que melhor descreve o que provavelmente aconteceu com o paciente: Fonte: Ward I, Amoroso DM, Brandão Neto RA, Alencar JC. Manual de via aérea na emergência. São Paulo: Manole; 2023.</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-059" value="A"> A. Houve redução da qualidade da compressão torácica.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-059" value="B"> B. Houve extubação do paciente.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-059" value="C"> C. Houve provável retorno à circulação espontânea.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-059" value="D"> D. Houve troca do dispositivo de via aérea.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q97. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME25 Q1 | espelho local do candidato: C (não oficial)</p>
+<p><strong>60. Paciente de 33 anos, previamente hígido, é admitido no Departamento de Emergência após ter feito uso de 10 “carreiras” de cocaína nas últimas 2 horas. Apresenta-se em agitação psicomotora importante, agredindo os profissionais de saúde e com sudorese profusa; com taquicardia em ritmo sinusal com frequência cardíaca de 138 bpm, pressão arterial de 180 × 70 mmHg, frequência respiratória de 28 irpm, sem uso de musculatura acessória, saturação periférica de oxigênio de difícil aferição devido à agitação psicomotora e acesso venoso garantido; temperatura axilar de 39,8 ºC. A equipe opta por indicar intubação em sequência rápida. Sobre o manejo do quadro, marque a alternativa correta:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-060" value="A"> A. O uso da cetamina é absolutamente contraindicado.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-060" value="B"> B. O uso de esmolol por via endovenosa como pré-otimização deve ser preconizado.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-060" value="C"> C. Succinilcolina é a medicação de escolha como bloqueador neuromuscular.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-060" value="D"> D. Deve-se priorizar o controle da temperatura com benzodiazepínicos na pré-otimização.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q1. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME25 Q2 | espelho local do candidato: A (não oficial)</p>
+<p><strong>61. Paciente de 36 anos, em sua 35a semana de gestação, com relato de crise convulsiva tônico-clônica generalizada em domicílio com cerca de 2 minutos de duração, é admitida com rebaixamento importante do nível de consciência há cerca de 2 horas, irresponsiva a estímulos verbais e com retirada inespecífica aos estímulos dolorosos. Além disso, apresentava-se com respiração ruidosa, secreção em orofaringe e pupilas pouco reativas. Suas extremidades eram quentes; tinha pressão arterial de 170 × 110 mmHg, com frequência cardíaca de 115 bpm, frequência respiratória de 22 irpm, saturação periférica de oxigênio de 92% em máscara não reinalante 10L/minuto. Abdome globoso, com útero gravídico acima da cicatriz umbilical, normotônico, sem contrações efetivas e sem sangramento transvaginal ou perda de líquido. Marque a alternativa correta em relação à indicação de manejo de via aérea no caso descrito:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-061" value="A"> A. Intubação orotraqueal em sequência rápida deve ser optada com utilização de succinilcolina como bloqueador neuromuscular.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-061" value="B"> B. A infusão de sulfato de magnésio deve ser postergada até a fase pós-intubação orotraqueal, assim como a infusão de hidralazina por via endovenosa.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-061" value="C"> C. Intubação acordado é a técnica de escolha nessa paciente associada a uma pré-oxigenação otimizada.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-061" value="D"> D. Dispositivos supraglóticos de primeira geração devem ser escolhidos, caso haja dificuldade de ventilação com bolsa-válvula-máscara.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q2. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME25 Q4 | espelho local do candidato: A (não oficial)</p>
+<p><strong>62. Avaliando a curva de capnografia, assinale a alternativa que define a melhor conduta conforme o que está ocorrendo.</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-062" value="A"> A. Otimizar a sedação e a analgesia, pois o paciente iniciou ventilações espontâneas.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-062" value="B"> B. Iniciar broncodilatadores inalatórios, pois se trata de um broncoespasmo.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-062" value="C"> C. Reposicionamento do tubo; trata-se de uma seletivação do tubo.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-062" value="D"> D. Aspiração do tubo; trata-se de uma rolha e obstrução total do dióxido de carbono expirado no fim da expiração.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q4. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME25 Q8 | espelho local do candidato: C (não oficial)</p>
+<p><strong>63. Sobre o uso do fentanil na sequência rápida de intubação:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-063" value="A"> A. O seu uso está contraindicado em toda a sequência rápida de intubação.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-063" value="B"> B. Doses elevadas de fentanil estão associadas com a rigidez torácica.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-063" value="C"> C. A indicação do fentanil é a analgesia durante a laringoscopia.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-063" value="D"> D. O fentanil deve ser administrado rapidamente para prevenção de eventos adversos.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q8. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME25 Q9 | espelho local do candidato: C (não oficial)</p>
+<p><strong>64. Um paciente de 45 anos chega ao Departamento de Emergência hospitalar relatando que, após tratamento dentário, teve “inchaço” importante e dor no pescoço. Chega em insuficiência respiratória franca, com edema cervical importante, especialmente à direita. É tomada a decisão de abordar a via aérea imediatamente. Sobre isso, assinale a alternativa correta:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-064" value="A"> A. A cricotireoidostomia como estratégia primária deve ser considerada nesse caso.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-064" value="B"> B. A abordagem com fibroscopia com o paciente acordado é recomendada nesse caso.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-064" value="C"> C. É imprescindível a utilização do ultrassom point-of-care para correta localização da membrana cricotireoidea.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-064" value="D"> D. Na falha de intubação orotraqueal, ao realizar cricotireoidostomia como resgate, a incisão mediana deve ter 4 a 5 cm a partir da cartilagem tireóidea.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q9. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME25 Q13 | espelho local do candidato: D (não oficial)</p>
+<p><strong>65. O gráfico a seguir mostra as curvas de ventilação mecânica de um paciente admitido no Departamento de Emergência com dispnéia e sibilância. As curvas A e C representam a curva de pressão em função do tempo, e as curvas B e D representam a curva de fluxo em função do tempo, em distintos momentos de sua evolução clínica. Assinale a alternativa correta:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-065" value="A"> A. Trata-se de um paciente com exacerbação de doença pulmonar obstrutiva crônica, em modo assisto-controlada à pressão.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-065" value="B"> B. Na curva D, ocorre o fenômeno de auto-PEEP.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-065" value="C"> C. Na curva C, ocorre uma pausa expiratória.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-065" value="D"> D. Na curva A, a resistência de vias aéreas está aumentada.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q13. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME25 Q14 | espelho local do candidato: C (não oficial)</p>
+<p><strong>66. Você está ventilando um paciente do sexo masculino, de 1,74 m de altura, com sepse pulmonar no Departamento de Emergência. O paciente está sedado em RASS -5, bem acoplado à ventilação mecânica em ventilação controlada a volume, com volume corrente de 420 mL, pressão expiratória positiva final de 8 cmH2O, pressão de pico de 35 cmH2O, pressão de platô de 32 cmH2O, frequência respiratória de 20 irpm, fluxo de 60 L/minuto, fração inspirada de oxigênio de 50%, com gasometria arterial com pH de 7,22/ pressão parcial de dióxido de carbono de 46 mmHg/ oxigênio de 75 mmHg/ saturação periférica de oxigênio de 93%/ HCO3 de 16 mEq/L/ Lactato 4.2 mmol/L. O fisioterapeuta fez as manobras de titulação de pressão expiratória positiva final com 50% de fração inspirada de oxigênio. Durante as manobras, a pressão arterial manteve-se constante em 120 × 80 mmHg à custa de norepinefrina a 0,1 mcg/kg/minuto. Escolha a melhor estratégia de ventilação para o caso: Volume corrente (mL) Pressão expiratória positiva final Driving pressure SpO2 (%)</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-066" value="A"> A. </label>
+<label class="quiz-option"><input type="radio" name="q-t001-066" value="B"> B. </label>
+<label class="quiz-option"><input type="radio" name="q-t001-066" value="C"> C. </label>
+<label class="quiz-option"><input type="radio" name="q-t001-066" value="D"> D. </label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q14. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME25 Q15 | espelho local do candidato: C (não oficial)</p>
+<p><strong>67. Em relação ao uso da ventilação não invasiva em diferentes cenários clínicos, assinale a alternativa que apresenta indicação apropriada e o modo ventilatório corretamente selecionado:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-067" value="A"> A. Paciente com exacerbação de doença pulmonar obstrutiva crônica, acidose respiratória e comprometimento do nível de consciência; indicada ventilação não invasiva em pressão positiva contínua na via aérea, com pressão positiva inspiratória nas vias aéreas e pressão expiratória positiva nas vias aéreas não ajustáveis.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-067" value="B"> B. Em paciente com insuficiência respiratória hipoxêmica secundária à pneumonia extensa, a ventilação não invasiva no modo pressão positiva aérea em dois níveis demonstrou menor necessidade de intubação e necessidade de suporte intensivo.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-067" value="C"> C. Paciente com insuficiência respiratória aguda em edema agudo pulmonar cardiogênico, sem hipercapnia; a ventilação não invasiva em pressão positiva contínua na via aérea, com ajuste progressivo de fração inspirada de oxigênio, é indicada.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-067" value="D"> D. Paciente com crise asmática grave, hipoxemia moderada e taquipneia intensa; é indicada ventilação não invasiva em pressão positiva contínua na via aérea com pressão expiratória positiva final elevada, para reduzir trabalho respiratório e promover recrutamento alveolar.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q15. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME25 Q16 | espelho local do candidato: A (não oficial)</p>
+<p><strong>68. Homem de 36 anos é retirado de incêndio em ambiente fechado após longa tentativa de acesso por equipe de resgate; chega ao hospital referindo cefaléia e vômito. Tem fuligem nasal, FR de 22 irpm, FC de 102 bpm, PA de 125 × 80 mmHg e SpO2 de 99% em ar ambiente. Dentre as opções qual a conduta inicial mais apropriada?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-068" value="A"> A. Iniciar o oxigênio a 100% com máscara não reinalante e solicitar carboxi-hemoglobina arterial.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-068" value="B"> B. Aguardar gasometria arterial antes de iniciar qualquer terapia.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-068" value="C"> C. Iniciar a oxigenoterapia apenas se a saturação cair abaixo de 94%, pelo risco de carbonarcose.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-068" value="D"> D. Observar clinicamente e repetir a oximetria seriada, pois não há sinais de insuficiência respiratória ou instabilidade.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q16. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME25 Q21 | espelho local do candidato: D (não oficial)</p>
+<p><strong>69. Quanto ao manejo do traumatismo craniencefálico:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-069" value="A"> A. Em pacientes vítimas de politrauma associado ao traumatismo craniencefálico, a hipotensão permissiva é uma estratégia de escolha durante o manejo hemodinâmico.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-069" value="B"> B. O uso de succinilcolina é contraindicado na intubação do paciente com traumatismo craniencefálico, devido ao aumento da pressão intracraniana causado pelas fasciculações.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-069" value="C"> C. A profilaxia anticonvulsivante está indicada para pacientes de alto risco, reduzindo o risco de convulsões, tanto na fase aguda (primeiros 7 dias após o trauma) quanto nas crises tardias.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-069" value="D"> D. Febre e hipertermia estão associadas a piores desfechos no traumatismo craniencefálico. O controle pode ser feito com antipiréticos e/ou métodos físicos de resfriamento.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q21. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME25 Q31 | espelho local do candidato: A (não oficial)</p>
+<p><strong>70. Sobre o quadro de insuficiência respiratória aguda em pacientes com síndrome de Guillain-Barré, marque a alternativa correta:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-070" value="A"> A. Quadros de evolução motora mais rápida têm maior risco de progressão para insuficiência respiratória aguda.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-070" value="B"> B. Insuficiência respiratória aguda geralmente acontece antes da perda de força motora das extremidades.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-070" value="C"> C. Presença de dissociação proteino-celular no líquor indica pior prognóstico.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-070" value="D"> D. Disautonomias cardiovasculares contraindicam o uso de succinilcolina.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q31. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME25 Q42 | espelho local do candidato: D (não oficial)</p>
+<p><strong>71. Paciente vítima de uma perfuração por arma de fogo na região cervical direita. Ao exame, apresentava-se com dois orifícios paratraqueal direito, sendo um anterior e outro posterior. É trazido pela ambulância básica em prancha rígida e colar cervical. Está bastante agitado, com FC 140 bpm, PA 80 × 40 mmHg, SpO2 87% em máscara não reinalante a 15 L/minuto, FR 40 irpm. Sangramento importante em cavidade oral e déficit neurológico em hemicorpo esquerdo. Qual a melhor conduta?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-071" value="A"> A. Realizar a intubação orotraqueal em sequência rápida com o colar cervical; iniciar seis concentrados de hemácias, seis plasma frescos congelados e um pool de plaquetas; acionar equipe de neurocirurgia com urgência.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-071" value="B"> B. Retirar o colar cervical; sentar o paciente; aspirar as vias aéreas; iniciar seis concentrados de hemácias, seis plasmas frescos congelados e uma aférese de plaquetas, ácido tranexâmico 1 g por via intravenosa, cálcio 2 g por via intravenosa; acionar equipe da cirurgia geral.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-071" value="C"> C. Preparar para um duplo setup na intubação orotraqueal em sequência rápida com o colar cervical, iniciar quatro concentrados de hemácias, dois plasmas frescos congelados, duas unidades de plaquetas, ácido tranexâmico 1 g por via intravenosa, cálcio 2 g por via intravenosa; acionar equipe da cirurgia geral.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-071" value="D"> D. Preparar um duplo setup na intubação orotraqueal; retirar o colar cervical; iniciar quatro concentrados de hemácias, quatro plasmas frescos congelados, quatro unidades de plaquetas, ácido tranexâmico 1 g por via intravenosa, cálcio 2 g por via intravenosa; acionar equipe da cirurgia do trauma.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q42. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME25 Q55 | espelho local do candidato: A (não oficial)</p>
+<p><strong>72. Você está liderando uma reanimação cardiopulmonar de ritmo inicial fibrilação ventricular, em que já foram realizadas quatro desfibrilações e uma dose de adrenalina 1 mg e de amiodarona 300 mg. Paciente 52 anos, previamente hipertenso e tabagista, chegou já em parada cardiorrespiratória, sem relatos de sintomas pródromos, a equipe do pré-hospitalar aplicou máscara laríngea e a cuja curva de capnografia encontra-se a seguir. Na pausa seguinte para checar o ritmo, paciente se mantém em fibrilação ventricular. O que deve ser priorizado?</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-072" value="A"> A. Trocar os vetores das pás dos desfibriladores, considerando fibrilação ventricular refratária.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-072" value="B"> B. Trombólise farmacológica com tenecteplase, considerando principal hipótese diagnóstica de síndrome coronariana aguda.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-072" value="C"> C. Garantir a intubação orotraqueal e descartar hipóxia como uma das causas da parada cardiorrespiratória.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-072" value="D"> D. Realizar a troca da pessoa que está realizando as compressões torácicas.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q55. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME25 Q56 | espelho local do candidato: B (não oficial)</p>
+<p><strong>73. Uma paciente de 24 anos portadora de lúpus eritematoso sistêmico é admitida no Departamento de Emergência com queixas de febre, tosse produtiva, cansaço e falta de ar com 5 dias de evolução. No momento da avaliação, apresentava taquidispneia e hipoxemia. Foi instituído suporte ventilatório não invasivo de forma escalonada, sem resposta clínica, e, na sequência, foi indicada intubação orotraqueal. No exame com ultrassom point-of-care, os seguintes achados foram identificados: - Veias femorais compressíveis. - Relação entre ventrículo direito/esquerdo preservada e ausência de sinais de disfunção de ventrículos direito e esquerdo. - Perfil B bilateralmente na avaliação pulmonar. Em entrevista com familiares, são relatados o consumo ocasional de álcool e o uso de cigarro eletrônico. Sobre esse caso, assinale a alternativa correta:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-073" value="A"> A. A ausência de hemoptise afasta a possibilidade de hemorragia alveolar, direcionando a investigação para outras etiologias, como lesão pulmonar induzida pelo cigarro eletrônico.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-073" value="B"> B. Na suspeita de hemorragia alveolar, a realização de broncoscopia com lavado broncoalveolar tem importante relevância para exclusão de causas infecciosas ou lesões brônquicas.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-073" value="C"> C. Achados do ultrassom point-of-care apontam para consolidação pulmonar, indicando fortemente o diagnóstico de pneumonia extensa.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-073" value="D"> D. Para pacientes com hemorragia alveolar unilateral com suspeita de sangramento pulmonar localizado, o paciente deve ser posicionado lateralmente com o pulmão sangrante no plano superior, permitindo melhor expansão e troca gasosa pelo pulmão funcional.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q56. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME25 Q75 | espelho local do candidato: D (não oficial)</p>
+<p><strong>74. Homem de 45 anos, vítima de capotamento de veículo em rodovia, apresenta abertura ocular ao chamado, localiza a dor, não obedece comandos e emite sons incompreensíveis. Apresenta ainda sangramento orofaríngeo ativo e respiração ruidosa. Sinais vitais: frequência cardíaca de 115 bpm, frequência respiratória de 28 irpm, saturação de oxigênio de 88% em ar ambiente, pressão arterial de 90/60 mmHg. O acesso ao paciente está limitado, e o tempo estimado de extricação é de 40 minutos. Qual a conduta mais adequada para o manejo da via aérea nesse cenário?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-074" value="A"> A. Realização de manobras manuais e cânula orofaríngea.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-074" value="B"> B. Inserir máscara laríngea já na primeira abordagem.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-074" value="C"> C. Realizar prontamente a intubação orotraqueal, diante do cenário favorável pelo tempo de extricação.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-074" value="D"> D. Iniciar ventilação não invasiva para fornecer oxigenação adequada.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q75. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME25 Q83 | espelho local do candidato: B (não oficial)</p>
+<p><strong>75. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-075" value="A"> A. Manutenção da fração inspirada de oxigênio em 100% durante as primeiras 24 horas, visando à oxigenação máxima e neuroproteção.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-075" value="B"> B. Utilização de dióxido de carbono expirado como marcador confiável de normocapnia para ajuste da ventilação no pós-parada cardiorrespiratória.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-075" value="C"> C. Correção rigorosa da hipotensão com vasopressores para manter a pressão arterial sistólica ≥ p50 para a idade.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-075" value="D"> D. Administração rotineira de bicarbonato de sódio para correção da acidose metabólica observada após retorno da circulação espontânea.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q83. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME25 Q91 | espelho local do candidato: C (não oficial)</p>
+<p><strong>76. Um menino de 7 anos, com histórico de asma, chega ao Departamento de Emergência, em crise, apresentando sibilância intensa, taquipneia e uso de musculatura acessória. Após a administração de broncodilatadores inalatórios e corticosteroides sistêmicos, a mãe relata que ele “parece mais calmo” e “menos agitado”. Ao reavaliar a criança, você observa que, apesar da aparente calma, ele está com dificuldade para responder a comandos simples; sua sibilância está menos audível, mas o esforço respiratório persiste. A saturação de oxigênio é de 88% em máscara não reinalante, a 10 L/minuto. Qual a alternativa melhor descreve a evolução clínica?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t001-076" value="A"> A. A criança está respondendo bem ao tratamento. A diminuição da agitação indica melhora do quadro.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-076" value="B"> B. A sibilância menos audível é um sinal positivo de broncodilatação eficaz, indicando que o tratamento está surtindo efeito.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-076" value="C"> C. A aparente melhora do estado geral, combinada com a hipoxemia e a persistência do esforço, sugere fadiga e falência respiratória iminente.</label>
+<label class="quiz-option"><input type="radio" name="q-t001-076" value="D"> D. A saturação de oxigênio de 88% é aceitável para o momento, considerando que a criança está mais calma e menos agitada.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q91. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+## Itens não pontuados
+
+- TEME24 Q3: anulada.
+- TEME24 Q35: anulada.
+- TEME24 Q84: texto não extraído.

@@ -1,823 +1,367 @@
 # Prova: Gastro, hepatologia e abdome agudo
 
-Banco refinado do tema 014, baseado no capítulo **Gastro, hepatologia e abdome agudo**, nas questões/estações mapeadas, nas pegadinhas e no checklist de revisão. Resolva como prova: escolha a melhor alternativa e depois clique em **Checar resposta**.
+Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Questões autorais e reescritas para estudo, sem cópia literal dos cadernos, livros ou slides. O foco é treinar decisão clínica, padrão da banca e armadilhas recorrentes.
+> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-## Questões e estações
+**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 7 do TEME25 com espelho local.
 
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q14</p>
-<p><strong>1. Em uma questão/estação inspirada em TEME22 Q14, aparece este padrão: hemorragia digestiva alta em cirrose/hipertensão portal. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+## Questões em estilo TEME
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME22 Q14 | gabarito oficial: D</p>
+<p><strong>1. Em relação à hemorragia digestiva alta em pacientes com cirrose e hipertensão portal, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-001" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: hemorragia digestiva alta em cirrose/hipertensão portal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-001" value="B"> B. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-001" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-001" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-001" value="A"> A. A recorrência de sangramento após a descompressão do balão de Sengstaken-Blakemore ocorre em 3 a cada 4 pacientes</label>
+<label class="quiz-option"><input type="radio" name="q-t014-001" value="B"> B. A administração de eritromicina 250 mg endovenosa 60 minutos antes da realização da endoscopia digestiva alta previne o desenvolvimento de peritonite bacteriana espontânea</label>
+<label class="quiz-option"><input type="radio" name="q-t014-001" value="C"> C. A terlipressina na dose de 2 mg 4/4 horas por via endovenosa deve ser administrada caso a terapêutica endoscópica não seja eficaz</label>
+<label class="quiz-option"><input type="radio" name="q-t014-001" value="D"> D. Não há evidências de que a endoscopia digestiva alta realizada em menos de 6 horas traga melhores desfechos em relação à endoscopia realizada em até 12 horas da admissão do paciente, se estável hemodinamicamente.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: hemorragia digestiva alta em cirrose/hipertensão portal. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q31</p>
-<p><strong>2. Em uma questão/estação inspirada em TEME22 Q31, aparece este padrão: pancreatite aguda/biliar e decisão sobre hidratação, imagem e CPRE. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-002" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-002" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: pancreatite aguda/biliar e decisão sobre hidratação, imagem e CPRE.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-002" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-002" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: pancreatite aguda/biliar e decisão sobre hidratação, imagem e CPRE. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q39-40</p>
-<p><strong>3. Em uma questão/estação inspirada em TEME22 Q39-40, aparece este padrão: diverticulite/dor abdominal com imagem. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-003" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-003" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-003" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: diverticulite/dor abdominal com imagem.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-003" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: diverticulite/dor abdominal com imagem. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q14. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q62</p>
-<p><strong>4. Em uma questão/estação inspirada em TEME22 Q62, aparece este padrão: cirrose grave/descompensação. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q27 | gabarito oficial: D</p>
+<p><strong>2. Paciente masculino de 43 anos, previamente hígido, dá entrada no DE com quadro de náuseas, vômitos e dor na porção superior do abdome há 1 dia. Ao exame encontra-se em bom estado geral, consciente, orientado, eupneico, afebril, FR 16 IRPM, SaO2 97% em ar ambiente, FC 88 BPM, PA 118 x 76 mmHg, com dor à palpação difusamente em andar superior do abdome, sem descompressão brusca dolorosa. Exames laboratoriais revelam creatinina de 1,2 mg/dL, alanina amino transferase de 180 u/L, amilase de 426 u/L, lipase de 632 u/L, triglicérides de 180 mg/dL, bilirrubina direta de 0,8 mg/dL. A ultrassonografia de abdome evidenciou discreta dilatação de vias biliares, com cálculo de 1,6 cm em colédoco distal e imagens hipoecoicas em topografia de pâncreas. Dentre as alternativas abaixo, assinale a melhor conduta inicial para esse paciente:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-004" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-004" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-004" value="C"> C. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-004" value="D"> D. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: cirrose grave/descompensação.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-002" value="A"> A. Analgesia com meperidina, hidratação com solução fisiológica 0.9% endovenosa 20ml/kg/hora nas primeiras 24 horas e jejum</label>
+<label class="quiz-option"><input type="radio" name="q-t014-002" value="B"> B. Analgesia com dipirona e morfina se necessário, hidratação com ringer lactato endovenoso 10mL/kg/hora, ciprofloxacino 400mg endovenosa 12/12 horas associado a metronidazol 500 mg endovenoso 8/8 horas e jejum</label>
+<label class="quiz-option"><input type="radio" name="q-t014-002" value="C"> C. Analgesia com morfina, hidratação com ringer lactato endovenoso 20mL/ Kg/hora nas primeiras 24 horas, indicar colangiopancreatografia endoscópica retrógrada e jejum</label>
+<label class="quiz-option"><input type="radio" name="q-t014-002" value="D"> D. Analgesia com dipirona e morfina se necessário, hidratação com ringer lactato endovenoso 10mL/Kg/hora, indicar colangiopancreatografia endoscópica retrógrada e jejum</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: cirrose grave/descompensação. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q90</p>
-<p><strong>5. Em uma questão/estação inspirada em TEME22 Q90, aparece este padrão: peritonite bacteriana espontânea em cirrótico com ascite. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-005" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: peritonite bacteriana espontânea em cirrótico com ascite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-005" value="B"> B. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-005" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-005" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: peritonite bacteriana espontânea em cirrótico com ascite. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q27. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q97</p>
-<p><strong>6. Em uma questão/estação inspirada em TEME22 Q97, aparece este padrão: abordagem do paciente com dor abdominal; leucograma normal não exclui abdome agudo inflamatório. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q35 | gabarito oficial: B</p>
+<p><strong>3. Paciente masculino de 72 anos de idade, com diagnóstico prévio de diverticulose colônica, dá entrada no departamento de emergência com quadro de dor abdominal em fossa ilíaca esquerda, associada a febre não aferida. Ao exame encontra-se consciente, orientado, afebril, estável hemodinamicamente, com dor à palpação de quadrante inferior esquerdo do abdome, associada à descompressão brusca dolorosa. Realizada tomografia de abdome que evidenciou parede de cólon sigmóide com 6mm de espessura e inflamação de gordura pericólica. Assinale dentre as alternativas abaixo a conduta mais adequada para a condução desse paciente:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-006" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-006" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: abordagem do paciente com dor abdominal; leucograma normal não exclui abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-006" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-006" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-003" value="A"> A. Tratamento ambulatorial com ciprofloxacino 500mg via oral 12/12 horas associado a metronidazol 500 mg via oral 8/8 horas por 10 dias</label>
+<label class="quiz-option"><input type="radio" name="q-t014-003" value="B"> B. Internação, jejum, analgesia e ciprofloxacino 400mg endovenosa 12/12 horas associado a metronidazol 500 mg endovenoso 8/8 horas</label>
+<label class="quiz-option"><input type="radio" name="q-t014-003" value="C"> C. Internação, jejum, analgesia, piperacilina + tazobactam 4,5 mg endovenosa 6/6 horas e avaliação do cirurgião para realização de drenagem percutânea</label>
+<label class="quiz-option"><input type="radio" name="q-t014-003" value="D"> D. Internação, jejum, analgesia, cefepime 2g endovenoso 8/8 horas associado a metronidazol 500 mg endovenoso 8/8 horas e avaliação do cirurgião para realização de drenagem cirúrgica</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: abordagem do paciente com dor abdominal; leucograma normal não exclui abdome agudo inflamatório. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q4</p>
-<p><strong>7. Em uma questão/estação inspirada em TEME23 Q4, aparece este padrão: cirrótico com ascite volumosa, icterícia e alteração de consciência. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-007" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-007" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-007" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: cirrótico com ascite volumosa, icterícia e alteração de consciência.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-007" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: cirrótico com ascite volumosa, icterícia e alteração de consciência. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q35. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q13 e Q94</p>
-<p><strong>8. Em uma questão/estação inspirada em TEME23 Q13 e Q94, aparece este padrão: ferimento por arma branca em parede anterior do abdome; conduta conforme estabilidade/peritonite/achados. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q62 | gabarito oficial: D</p>
+<p><strong>4. Paciente com diagnóstico de cirrose hepática grave, dá entrada no Departamento de Emergência com quadro de agitação psicomotora, confusão mental e agressividade. Ao exame físico apresenta ataxia e flapping. O acompanhante relata que o paciente está sem realizar evacuações há três dias. Dentre as alternativas abaixo, escolha a mais adequada como medida inicial para o tratamento desse paciente:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-008" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-008" value="B"> B. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-008" value="C"> C. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-008" value="D"> D. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: ferimento por arma branca em parede anterior do abdome; conduta conforme estabilidade/peritonite/achados.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-004" value="A"> A. Enema de Glicerina 12% Via Retal</label>
+<label class="quiz-option"><input type="radio" name="q-t014-004" value="B"> B. Rifaximina 550 mg via oral de 12/12 horas</label>
+<label class="quiz-option"><input type="radio" name="q-t014-004" value="C"> C. Lactulose 20 mL via oral de 8/8 horas associada a Neomicina 1 g via oral de 6/6 horas</label>
+<label class="quiz-option"><input type="radio" name="q-t014-004" value="D"> D. Lactulose 40 mL de 8/8 horas por via oral</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: ferimento por arma branca em parede anterior do abdome; conduta conforme estabilidade/peritonite/achados. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q22</p>
-<p><strong>9. Em uma questão/estação inspirada em TEME23 Q22, aparece este padrão: apendicite aguda é conduta inicial. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-009" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: apendicite aguda é conduta inicial.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-009" value="B"> B. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-009" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-009" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: apendicite aguda é conduta inicial. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q32</p>
-<p><strong>10. Em uma questão/estação inspirada em TEME23 Q32, aparece este padrão: lombar/testicular com hidronefrose e infecção: pielonefrite obstrutiva + antibiótico EV + desobstrução. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-010" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-010" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: lombar/testicular com hidronefrose e infecção: pielonefrite obstrutiva + antibiótico EV + desobstrução.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-010" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-010" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: lombar/testicular com hidronefrose e infecção: pielonefrite obstrutiva + antibiótico EV + desobstrução. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q58</p>
-<p><strong>11. Em uma questão/estação inspirada em TEME23 Q58, aparece este padrão: obstrução intestinal baixa/volvo. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-011" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-011" value="B"> B. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-011" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: obstrução intestinal baixa/volvo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-011" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: obstrução intestinal baixa/volvo. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q62. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q70</p>
-<p><strong>12. Em uma questão/estação inspirada em TEME23 Q70, aparece este padrão: escorpião pode cursar com pancreatite aguda. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q90 | gabarito oficial: D</p>
+<p><strong>5. Paciente masculino, 58 anos, diagnóstico prévio de cirrose hepática avançada, dá entrada no Departamento de Emergência com quadro de febre e dor abdominal difusa. Apresenta ascite volumosa ao exame físico. Você realiza uma punção do líquido ascítico e diagnostica uma peritonite bacteriana espontânea. Assinale a alternativa que apresenta o achado laboratorial da análise da líquido ascítico que possibilitou a realização desse diagnóstico:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-012" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-012" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-012" value="C"> C. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-012" value="D"> D. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: escorpião pode cursar com pancreatite aguda.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-005" value="A"> A. Glicose &lt; 50 mg/dL</label>
+<label class="quiz-option"><input type="radio" name="q-t014-005" value="B"> B. Cultura polimicrobiana</label>
+<label class="quiz-option"><input type="radio" name="q-t014-005" value="C"> C. Proteínas totais &gt; 1 g/dL</label>
+<label class="quiz-option"><input type="radio" name="q-t014-005" value="D"> D. Presença de 300 polimorfonucleares/mL</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: escorpião pode cursar com pancreatite aguda. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q18</p>
-<p><strong>13. Em uma questão/estação inspirada em TEME24 Q18, aparece este padrão: abdome agudo em mulher; diagnósticos diferenciais ginecológicos e beta-hCG. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-013" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: abdome agudo em mulher; diagnósticos diferenciais ginecológicos e beta-hCG.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-013" value="B"> B. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-013" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-013" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: abdome agudo em mulher; diagnósticos diferenciais ginecológicos e beta-hCG. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q40</p>
-<p><strong>14. Em uma questão/estação inspirada em TEME24 Q40, aparece este padrão: cólica/flanco, POCUS é ureterolitíase/pielonefrite obstrutiva. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-014" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-014" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: cólica/flanco, POCUS é ureterolitíase/pielonefrite obstrutiva.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-014" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-014" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: cólica/flanco, POCUS é ureterolitíase/pielonefrite obstrutiva. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q90. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q44</p>
-<p><strong>15. Em uma questão/estação inspirada em TEME24 Q44, aparece este padrão: dor epigástrica com POCUS/imagem sugerindo úlcera perfurada. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q97 | gabarito oficial: C</p>
+<p><strong>6. Em relação à abordagem do paciente com dor abdominal no Departamento de Emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-015" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-015" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-015" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: dor epigástrica com POCUS/imagem sugerindo úlcera perfurada.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-015" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-006" value="A"> A. A analgesia com opioides deve ser evitada, pois interfere no processo de investigação diagnóstica e tratamento</label>
+<label class="quiz-option"><input type="radio" name="q-t014-006" value="B"> B. Mais de 40% dos pacientes não terão a etiologia da dor definida do Departamento de Emergência, devendo ser admitidos para complementação da investigação</label>
+<label class="quiz-option"><input type="radio" name="q-t014-006" value="C"> C. O leucograma normal não exclui a possibilidade de abdome agudo inflamatório</label>
+<label class="quiz-option"><input type="radio" name="q-t014-006" value="D"> D. A tomografia computadorizada tem acurácia superior ao ultrassom para o diagnóstico de dor originária do trato biliar</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: dor epigástrica com POCUS/imagem sugerindo úlcera perfurada. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q63</p>
-<p><strong>16. Em uma questão/estação inspirada em TEME24 Q63, aparece este padrão: analgesia em dor abdominal aguda sem etiologia definida. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-016" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-016" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-016" value="C"> C. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-016" value="D"> D. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: analgesia em dor abdominal aguda sem etiologia definida.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: analgesia em dor abdominal aguda sem etiologia definida. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q5</p>
-<p><strong>17. Em uma questão/estação inspirada em TEME25 Q5, aparece este padrão: cirrótico com ascite no POCUS; pensar ascite/PBE conforme contexto, não hemoperitônio automaticamente. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-017" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: cirrótico com ascite no POCUS; pensar ascite/PBE conforme contexto, não hemoperitônio automaticamente.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-017" value="B"> B. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-017" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-017" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: cirrótico com ascite no POCUS; pensar ascite/PBE conforme contexto, não hemoperitônio automaticamente. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q97. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q37 e Q58</p>
-<p><strong>18. Em uma questão/estação inspirada em TEME25 Q37 e Q58, aparece este padrão: HDA, estabilização e decisão endoscópica/transfusional. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME23 Q4 | gabarito oficial: B</p>
+<p><strong>7. Paciente sexo masculino, 59 anos, dá entrada ao DE com quadro de alteração de nível de consciência. Familiar refere também piora do padrão respiratório devido ao aumento importante do volume abdominal nos últimos dias. Histórico de etilismo há cerca de 30 anos e tabagismo há 40 anos, ambos ativos. Ao exame paciente desnutrido, desidratado, em mal estado geral, sinais vitais eram PA 78x43 mmHg; FC 123 bpm; FR 25 irpm; SaO2 94%; Glicemia Capilar 71 mg/dL; apresentava tempo de enchimento capilar maior que 3 seg, icterícia ++/4+, desidratação ++/4+, ausculta cardíaca e pulmonar não apresentavam alterações importantes, abdome extremamente distendido, doloroso à palpação difusa, sem possibilidade de palpação de vísceras devido a ascite volumosa, RHA diminuídos; extremidades apresentavam edema ++/4+, sem sinais de trombose venosa, com pulsos finos e simétricos, toque retal sem sinais de sangramentos. Das possibilidades abaixo, qual poderia ser um diagnóstico do quadro, conduta e melhor tratamento a serem tomados?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-018" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-018" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: HDA, estabilização e decisão endoscópica/transfusional.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-018" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-018" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-007" value="A"> A. Paciente pode estar apresentando quadro de peritonite bacteriana espontânea, com todos os sinais correspondendo a choque séptico, o tratamento seria uso empírico de ceftriaxona e solicitação de exames e conduta para quadro de choque séptico;</label>
+<label class="quiz-option"><input type="radio" name="q-t014-007" value="B"> B. Paciente pode estar apresentando quadro de encefalopatia hepática, pelo rebaixamento do nível de consciência e quadro compatível com cirrose, o tratamento já em sala de emergência está voltado para a diminuição de amônia produzida pelas bactérias intestinais, assim iniciar imediatamente lactulose para promover aumento das evacuações é necessário;</label>
+<label class="quiz-option"><input type="radio" name="q-t014-007" value="C"> C. Paciente pode estar apresentando quadro de desconforto respiratório devido ao volume abdominal causado pela ascite, pode ser realizado portanto paracentese de alívio visando a melhora do padrão respiratório, sem a necessidade de reposição de albumina, independente do volume, devido ao risco de edema pulmonar de reperfusão após drenagem;</label>
+<label class="quiz-option"><input type="radio" name="q-t014-007" value="D"> D. Paciente pode estar apresentando quadro de hemorragia digestiva alta, devido a taquicardia sem ainda quadro de hipotensão, quadro compatível com choque hemorrágico, sendo a conduta administração de octreotida e concentrado de hemácias.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: HDA, estabilização e decisão endoscópica/transfusional. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME23 Q4. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q57</p>
-<p><strong>19. Em uma questão/estação inspirada em TEME25 Q57, aparece este padrão: dor HCD + febre/icterícia: colangite e CPRE/drenagem quando grave. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME23 Q13 | gabarito oficial: C</p>
+<p><strong>8. Em relação ao manejo inicial de um paciente vítima de lesão por arma branca em parede anterior do abdome, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-019" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-019" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-019" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: dor HCD + febre/icterícia: colangite e CPRE/drenagem quando grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-019" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-008" value="A"> A. A presença de ar intraperitoneal evidenciada em exame de imagem é indicação de laparotomia de emergência.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-008" value="B"> B. A exploração local do ferimento não é medida confiável para determinar penetração na cavidade peritoneal, e não deve ser utilizada de rotina.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-008" value="C"> C. Pacientes com evidência de violação da cavidade peritoneal e sem indicação para laparotomia de emergência podem ser manejados de maneira não-operatória.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-008" value="D"> D. A ausência de sinais de peritonite pode excluir com segurança a presença de lesões de órgão intraperitoneais.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: dor HCD + febre/icterícia: colangite e CPRE/drenagem quando grave. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q70</p>
-<p><strong>20. Em uma questão/estação inspirada em TEME25 Q70, aparece este padrão: POCUS sugestivo de apendicite em contexto rural/remoto. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-020" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-020" value="B"> B. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-020" value="C"> C. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-020" value="D"> D. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: POCUS sugestivo de apendicite em contexto rural/remoto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: POCUS sugestivo de apendicite em contexto rural/remoto. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q89</p>
-<p><strong>21. Em uma questão/estação inspirada em TEME25 Q89, aparece este padrão: diverticulite não complicada em TC, sem abscesso. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-021" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: diverticulite não complicada em TC, sem abscesso.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-021" value="B"> B. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-021" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-021" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: diverticulite não complicada em TC, sem abscesso. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q13. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q98</p>
-<p><strong>22. Em uma questão/estação inspirada em TEME25 Q98, aparece este padrão: diarreia após fluoroquinolona: suspeitar C. difficile. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME23 Q22 | gabarito oficial: B</p>
+<p><strong>9. Em relação ao manejo de pacientes com apendicite aguda, assinale a alternativa correta</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-022" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-022" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: diarreia após fluoroquinolona: suspeitar C. difficile.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-022" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-022" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-009" value="A"> A. Antibioticoterapia pode ser postergada até a avaliação do paciente pela equipe de cirurgia</label>
+<label class="quiz-option"><input type="radio" name="q-t014-009" value="B"> B. Até um terço de pacientes gestantes com diagnóstico de apendicite evoluem com perfuração do apêndice como complicação</label>
+<label class="quiz-option"><input type="radio" name="q-t014-009" value="C"> C. O tratamento cirúrgico de uma apendicite não complicada pode ser realizado com segurança até 24 horas após a realização do diagnóstico, em qualquer faixa etária</label>
+<label class="quiz-option"><input type="radio" name="q-t014-009" value="D"> D. O tratamento não operatório da apendicite aguda está associado a maiores taxas de complicações em caso de recorrência.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: diarreia após fluoroquinolona: suspeitar C. difficile. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME23 Q22. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q99</p>
-<p><strong>23. Em uma questão/estação inspirada em TEME25 Q99, aparece este padrão: torção testicular: dor súbita, náusea/vômito e sinais clínicos. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME23 Q32 | gabarito oficial: C</p>
+<p><strong>10. Paciente de 29 anos com quadro de lombar e testicular à esquerda de forte intensidade há 02 horas associada a náuseas e vômitos. Procura a Unidade de Pronto Atendimento referindo 03 episódios de dor intensa nos últimos 07 dias. Ao exame clínico: febril com Tax 38°C e com calafrios, taquicárdico FC 112 bpm, PA 138 x 76 mmHg, AC: RR,2T,BNF,S/S AR: MV presente bilateralmente sem ruídos. Abdome doloroso à punho percussão em flanco esquerdo. Realizado o POCUS e você observa a imagem abaixo. Qual o possível diagnóstico e conduta (s) apropriada (s)?</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-023" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-023" value="B"> B. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-023" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. O achado-chave do enunciado é: torção testicular: dor súbita, náusea/vômito e sinais clínicos.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-023" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-010" value="A"> A. Diverticulite aguda não complicada + antibioticoterapia endovenosa</label>
+<label class="quiz-option"><input type="radio" name="q-t014-010" value="B"> B. Orquiepidimite aguda + antibioticoterapia endovenosa</label>
+<label class="quiz-option"><input type="radio" name="q-t014-010" value="C"> C. Pielonefrite aguda com provável obstrução (hidronefrose) + antibioticoterapia endovenosa e desobstrução ureteral</label>
+<label class="quiz-option"><input type="radio" name="q-t014-010" value="D"> D. Apendicite aguda + Apendicectomia</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: torção testicular: dor súbita, náusea/vômito e sinais clínicos. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-## Pegadinhas TEME
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>24. A banca tenta derrubar com a seguinte ideia: Analgesia máscara abdome agudo: falso. Analgesia adequada e reavaliação seriada. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-024" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-024" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-024" value="C"> C. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-024" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Analgesia máscara abdome agudo: falso. Analgesia adequada e reavaliação seriada. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>25. A banca tenta derrubar com a seguinte ideia: Leucograma normal exclui apendicite/diverticulite: falso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-025" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-025" value="B"> B. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-025" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-025" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Leucograma normal exclui apendicite/diverticulite: falso. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>26. A banca tenta derrubar com a seguinte ideia: FAST negativo descarta lesão abdominal: falso, principalmente em paciente estável. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-026" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-026" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-026" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-026" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: FAST negativo descarta lesão abdominal: falso, principalmente em paciente estável. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q32. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>27. A banca tenta derrubar com a seguinte ideia: Toda dor abdominal em mulher e apendicite até provar: falso. beta-hCG primeiro. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME23 Q58 | gabarito oficial: C</p>
+<p><strong>11. Sobre os quadros de obstrução intestinal baixa, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-027" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-027" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-027" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-027" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-011" value="A"> A. O volvo de ceco pode ser tratado de maneira endoscópica</label>
+<label class="quiz-option"><input type="radio" name="q-t014-011" value="B"> B. O volvo de sigmóide tem tratamento cirúrgico mandatório</label>
+<label class="quiz-option"><input type="radio" name="q-t014-011" value="C"> C. Mais da metade dos casos de obstrução baixa está associada a lesão neoplásica colorretal</label>
+<label class="quiz-option"><input type="radio" name="q-t014-011" value="D"> D. A diverticulite aguda complicada é a segunda causa mais frequente de obstrução intestinal baixa</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Toda dor abdominal em mulher e apendicite até provar: falso. beta-hCG primeiro. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>28. A banca tenta derrubar com a seguinte ideia: HDA em cirrótico espera EDA para iniciar vasoativo/ceftriaxone: falso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-028" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-028" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-028" value="C"> C. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-028" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: HDA em cirrótico espera EDA para iniciar vasoativo/ceftriaxone: falso. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>29. A banca tenta derrubar com a seguinte ideia: Antibiótico na HDA varicosa só se febre: falso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-029" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-029" value="B"> B. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-029" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-029" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Antibiótico na HDA varicosa só se febre: falso. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>30. A banca tenta derrubar com a seguinte ideia: Transfundir cirrótico para Hb normal: falso; piora pressão portal e ressangramento. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-030" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-030" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-030" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-030" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Transfundir cirrótico para Hb normal: falso; piora pressão portal e ressangramento. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q58. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>31. A banca tenta derrubar com a seguinte ideia: Amônia alta diagnostica encefalopatia isoladamente: falso. Diagnóstico é clínico e por exclusão de gatilhos. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME23 Q70 | gabarito oficial: C</p>
+<p><strong>12. Dos acidentes com animais peçonhentos abaixo, qual deles pode levar a quadro de pancreatite aguda?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-031" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-031" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-031" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-031" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-012" value="A"> A. Aranha Gênero Loxosceles;</label>
+<label class="quiz-option"><input type="radio" name="q-t014-012" value="B"> B. Cobra Gênero Crotalus;</label>
+<label class="quiz-option"><input type="radio" name="q-t014-012" value="C"> C. Escorpião Gênero Tityus;</label>
+<label class="quiz-option"><input type="radio" name="q-t014-012" value="D"> D. Caravelas da Classe Hydrozoa;</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Amônia alta diagnostica encefalopatia isoladamente: falso. Diagnóstico é clínico e por exclusão de gatilhos. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>32. A banca tenta derrubar com a seguinte ideia: Ascite sem dor não precisa paracentese se internou: falso no cirrótico descompensado/internado. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-032" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-032" value="B"> B. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-032" value="C"> C. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-032" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Ascite sem dor não precisa paracentese se internou: falso no cirrótico descompensado/internado. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>33. A banca tenta derrubar com a seguinte ideia: Pancreatite biliar sempre CPRE urgente: falso sem colangite/obstrução persistente. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-033" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-033" value="B"> B. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-033" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-033" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Pancreatite biliar sempre CPRE urgente: falso sem colangite/obstrução persistente. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>34. A banca tenta derrubar com a seguinte ideia: Antibiótico profilatico em pancreatite necrotica esteril: falso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-034" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-034" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-034" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-034" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Antibiótico profilatico em pancreatite necrotica esteril: falso. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q70. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>35. A banca tenta derrubar com a seguinte ideia: Colecistite e colangite são iguais: falso. Colangite precisa pensar em drenagem biliar. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME24 Q18 | gabarito oficial: C</p>
+<p><strong>13. Mulher, 37 anos, referenciada à Unidade de Emergência com suspeita de abdome agudo. Refere dor abdominal em andar inferior do abdome e fossa ilíaca direita. Apresentou náuseas, vômitos e um episódio de febre aferida. Queixa-se ainda de dispareunia e corrimento vaginal de coloração amarelada. Ao exame físico apresenta abdome flácido, doloroso à palpação superficial e profunda de andar inferior de abdome sem descompressão brusca dolorosa. Ao toque vaginal, observa-se dor na mobilização do colo uterino. Com base nesse caso, podemos afirmar que:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-035" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-035" value="B"> B. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-035" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-035" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-013" value="A"> A. O diagnóstico de doença inflamatória pélvica aguda necessita da confirmação por exames de imagem como ultrassonografia pélvica e tomografia de abdome com contraste.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-013" value="B"> B. O diagnóstico de apendicite aguda deve ser considerado, porém, com base nos dados clínicos apresentados nesse caso, essa hipótese pode ser descartada.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-013" value="C"> C. Os dados clínicos apresentados fortalecem a hipótese diagnóstica de doença inflamatória pélvica aguda e exames de imagens podem ser importantes na exclusão de diagnósticos diferenciais e complicações.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-013" value="D"> D. Gravidez ectópica é o diagnóstico diferencial de abdome agudo em mulher jovem, porém ausência de sangramento vaginal e instabilidade hemodinâmica excluem esse diagnóstico, nesse caso.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Colecistite e colangite são iguais: falso. Colangite precisa pensar em drenagem biliar. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>36. A banca tenta derrubar com a seguinte ideia: Diverticulite sempre precisa antibiótico: falso na prática atual para selecionados, mas leia o enunciado. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-036" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-036" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-036" value="C"> C. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-036" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Diverticulite sempre precisa antibiótico: falso na prática atual para selecionados, mas leia o enunciado. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>37. A banca tenta derrubar com a seguinte ideia: Dor desproporcional com lactato normal exclui isquemia mesenterica: falso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-037" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-037" value="B"> B. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-037" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-037" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Dor desproporcional com lactato normal exclui isquemia mesenterica: falso. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>38. A banca tenta derrubar com a seguinte ideia: Volvo de ceco resolve com colonoscopia: falso em geral; sigmoide estável pode descomprimir. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-038" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-038" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-038" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-038" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Volvo de ceco resolve com colonoscopia: falso em geral; sigmoide estável pode descomprimir. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q18. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>39. A banca tenta derrubar com a seguinte ideia: Pielonefrite obstrutiva é só antibiótico: falso; precisa drenagem. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME24 Q40 | gabarito oficial: C</p>
+<p><strong>14. Homem, 38 anos, com dor abdominal há 3 dias localizada em flanco esquerdo do tipo cólica de forte intensidade associada a náuseas e vômitos. Paciente clinicamente estável e exame físico do abdome sem sinais de peritonite. Realizada analgesia com dipirona e tenoxicam por via intravenosa com melhora transitória. Hemograma com hemoglobina em 12 g/dL, hematócrito em 38%, leucócitos em 17.000 cél/mm3 com 84% segmentados. Urina I/EAS: 500.000 hemácias/mL (referência &lt; 10.000/mL) e 800.000 leucócitos/mL (referência &lt; 10.000/mL), nitrito positivo. Realizado ultrassom point-of-care (PoCUS) abdominal, e a janela do quadrante superior esquerdo evidenciou a seguinte imagem: Com base nos achados encontrados, qual a melhor conduta para o caso?</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-039" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-039" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-039" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-039" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-014" value="A"> A. Na imagem há sinais de hidronefrose leve. Quadro clínico sugere ureterolitíase sem complicações. Tratamento ambulatorial com analgesia e antibioticoterapia para infecção urinária não complicada.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-014" value="B"> B. A imagem mostra a presença de líquido livre no espaço esplenorrenal, sendo necessária tomografia computadorizada contrastada para avaliar outras possibilidades diagnósticas.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-014" value="C"> C. A imagem evidencia hidronefrose importante à esquerda. Diante do quadro clínico e dos exames laboratoriais, a hipótese diagnóstica é pielonefrite obstrutiva. Nesses casos, além da antibioticoterapia e do manejo da dor, é fundamental a solicitação de consulta urológica especializada, para avaliar a possibilidade de desobstrução.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-014" value="D"> D. A imagem sugere sinais de dilatação de alças de intestino delgado, sugerindo diagnóstico de abdome agudo obstrutivo. É fundamental, nesse caso, a realização de tomografia de abdome com contraste e avaliação cirúrgica na sequência.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Pielonefrite obstrutiva é só antibiótico: falso; precisa drenagem. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>40. A banca tenta derrubar com a seguinte ideia: Torção testicular espera Doppler se clínica forte: falso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-040" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-040" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-040" value="C"> C. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-040" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Torção testicular espera Doppler se clínica forte: falso. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>41. A banca tenta derrubar com a seguinte ideia: Loperamida em colite grave/febril: perigoso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-041" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-041" value="B"> B. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-041" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-041" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Loperamida em colite grave/febril: perigoso. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-## Checklist de revisão
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>42. Antes da prova, este ponto precisa estar automático: Sei reconhecer abdome que mata: choque, peritonite, isquemia, perfuração, AAA, obstrução estrangulada. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-042" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-042" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei reconhecer abdome que mata: choque, peritonite, isquemia, perfuração, AAA, obstrução estrangulada.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-042" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-042" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei reconhecer abdome que mata: choque, peritonite, isquemia, perfuração, AAA, obstrução estrangulada. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q40. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>43. Antes da prova, este ponto precisa estar automático: Sei que analgesia não mascara diagnóstico. Qual resposta traduz melhor essa prioridade?</strong></p>
+<p class="quiz-source">TEME24 Q44 | gabarito oficial: C</p>
+<p><strong>15. Homem de 65 anos, coronariopata. Procura atendimento devido à dor abdominal de forte intensidade em região epigástrica com irradiação para dorso há 1 dia. Apresenta vômitos de conteúdo gástrico. Infarto prévio há 1 ano. Faz uso regular de ácido acetilsalicílico 100 mg, clopidogrel 75 mg e enalapril 20 mg. Na avaliação inicial, apresenta pressão arterial de 100 x 60 mmHg, frequência cardíaca de 133 bpm frequência respiratória de 24 ipm, tempo de enchimento capilar &lt; 2 segundos, saturação periférica de hemoglobina (SpO2) de 95%. Abdome plano, doloroso à palpação superficial e profunda de epigastro Ruídos hidroaéreos presentes, descompressão brusca dolorosa positiva, eletrocardiograma admissão mostrando taquicardia sinusal. Sem alterações de ST. Realizado ultrassom point-of-care (PoCUS) abdominal, que revelou a seguinte imagem: Com base nos achados da história, do exame físico e da imagem do PoCUS, o diagnóstico mais provável é:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-043" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-043" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-043" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei que analgesia não mascara diagnóstico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-043" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-015" value="A"> A. Pancreatite aguda.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-015" value="B"> B. Colecistite aguda.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-015" value="C"> C. Úlcera gástrica perfurada.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-015" value="D"> D. Aneurisma de aorta abdominal.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei que analgesia não mascara diagnóstico. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>44. Antes da prova, este ponto precisa estar automático: Sei pedir beta-hCG em mulher em idade fertil. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-044" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-044" value="B"> B. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-044" value="C"> C. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-044" value="D"> D. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei pedir beta-hCG em mulher em idade fertil.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei pedir beta-hCG em mulher em idade fertil. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q44. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>45. Antes da prova, este ponto precisa estar automático: Sei diferenciar HDA varicosa de não varicosa e iniciar vasoativo/ceftriaxone quando cirrose. Qual resposta traduz melhor essa prioridade?</strong></p>
+<p class="quiz-source">TEME24 Q63 | gabarito oficial: A</p>
+<p><strong>16. Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-045" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei diferenciar HDA varicosa de não varicosa e iniciar vasoativo/ceftriaxone quando cirrose.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-045" value="B"> B. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-045" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-045" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-016" value="A"> A. Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-016" value="B"> B. Sulfato de magnésio por via intravenosa empírica, na dose de 1 a 2 g, deve ser evitado.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-016" value="C"> C. A cardioversão elétrica em pacientes instáveis com TdP só pode ser realizada se houver sincronização.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-016" value="D"> D. Antiarrítmicos classe IA (procainamida) ou IC (propafenona) devem ser utilizados para controle da arritmia.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei diferenciar HDA varicosa de não varicosa e iniciar vasoativo/ceftriaxone quando cirrose. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME24 Q63. Gabarito oficial: A.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME25 Q5 | espelho local do candidato: D (não oficial)</p>
+<p><strong>17. Homem de 54 anos, com história conhecida de etilismo crônico, é levado ao Departamento de Emergência após ferimento por arma branca durante briga em bar. Está consciente e hemodinamicamente estável. Ao exame físico, apresenta telangiectasias, ginecomastia e abdome globoso com circulação colateral, percussão maciça em flancos e sem sinais de irritação peritoneal. Ferimento de 2 cm em sétimo espaço intercostal anterior esquerdo. A avaliação com ultrassom demonstra presença de líquido anecóico difuso na cavidade abdominal, deslizamento pleural bilateral e derrame pleural bibasal. Com base nesse caso, assinale a conduta mais apropriada:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t014-017" value="A"> A. Realizar exploração local digital.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-017" value="B"> B. Realizar lavado peritoneal diagnóstico.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-017" value="C"> C. Realizar drenagem torácica em selo d&#x27;água.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-017" value="D"> D. Encaminhar para tomografia de tórax e abdome com contraste.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q5. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME25 Q49 | espelho local do candidato: A (não oficial)</p>
+<p><strong>18. Em um Departamento de Emergência referenciado, você recebe um paciente de 61 anos, cirrótico, regulado devido a um quadro de hemorragia digestiva alta de origem varicosa. O hospital em questão não apresentava Serviço de Endoscopia Digestiva Alta e, devido à gravidade do quadro, foi optado pela passagem de um balão gastresofágico cerca de 72 horas antes. Paciente é admitido em estado grave, sedado em Escala de Agitação-Sedação de Richmond -3, em ventilação mecânica com parâmetros mínimos e saturação periférica de oxigênio de 95%, ausculta pulmonar normal e sem alterações patológicas bilateralmente. Hipotensão com pressão arterial 92 × 47 mmHg em uso de noradrenalina a 0,3 mcg/kg/minuto, ausculta cardíaca normal, sem alterações patológicas; É notável também a presença de enfisema subcutâneo cervical, ao ultrassom point-of-care lung sliding preservado bilateralmente. Balão esofágico encontra-se bem acoplado, tracionado com 2 L de soro fisiológico como contrapeso, e o manômetro demonstra pressão de 50 mmHg no balão esofágico. Hemoglobina atual encontra-se em 8,1 g/dL. Sobre o manejo definitivo do quadro, marque a alternativa correta:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t014-018" value="A"> A. Paciente deve ser submetido à extubação, seguida de endoscopia digestiva alta.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-018" value="B"> B. Paciente deve receber mais dois concentrados de hemácias e, logo após, ser submetido à endoscopia digestiva alta.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-018" value="C"> C. Deve-se descomprimir o tórax bilateralmente com cateter intravenoso.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-018" value="D"> D. Paciente deve ser mantido em ventilação mecânica, abrir protocolo de sepse e avaliação cirúrgica de emergência.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q49. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>46. Antes da prova, este ponto precisa estar automático: Sei PMN &gt;=250 para PBE e albumina 1,5/1,0 g/kg. Qual resposta traduz melhor essa prioridade?</strong></p>
+<p class="quiz-source">TEME25 Q53 | espelho local do candidato: B (não oficial)</p>
+<p><strong>19. Mulher, 60 anos, procura atendimento no Departamento de Emergência em Teresina (PI), devido à dor abdominal em hipocôndrio direito de forte intensidade há 2 dias. Refere ainda quadro de febre que teve início há 5 dias. No exame físico, há dor à palpação profunda do andar superior do abdome, mas não há sinais de descompressão brusca dolorosa. Realizou hemograma na admissão, que revelou hemoglobinas em 14,5, hematócritos em 49%, leucócitos em 4.500, plaquetas em 120 mil. Sem outras alterações relevantes nos exames. Foi realizado um ultrassom a beira do leito que revelou a seguinte imagem: Com base nas informações fornecidas, qual das alternativas expressa a melhor hipótese diagnóstica e conduta:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-046" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-046" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei PMN &gt;=250 para PBE e albumina 1,5/1,0 g/kg.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-046" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-046" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-019" value="A"> A. Colecistite calculosa aguda; tratamento cirúrgico precoce.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-019" value="B"> B. Dengue com sinais de alarme; início de hidratação endovenosa.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-019" value="C"> C. Colangite aguda; Colangiopancreatografia retrógrada em caráter de urgência.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-019" value="D"> D. Hepatite aguda; início imediato tratamento com interferon alfa.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei PMN &gt;=250 para PBE e albumina 1,5/1,0 g/kg. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q53. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME25 Q58 | espelho local do candidato: D (não oficial)</p>
+<p><strong>20. Um paciente de 63 anos com hematêmese foi atendido no plantão anterior e está na Sala Vermelha aguardando endoscopia. O paciente chegou com frequência cardíaca de 140 bpm, pressão arterial de 80 × 40 mmHg, com exteriorização de hemorragia importante após abuso de anti-inflamatórios. O colega do plantão anterior realizou expansão volêmica com 20 mL/kg de solução cristaloide, omeprazol em dose plena, acionou a endoscopia e solicitou exames laboratoriais. No momento, o paciente encontra-se com frequência cardíaca de 87 bpm, pressão arterial de 110 × 80 mmHg e conversando. Exames laboratoriais solicitados antes da passagem de plantão: hemoglobinas em 7,4/ plaquetas em 120 mil/ Razão Normalizada Internacional de 1,2/ creatinina de 1,5/ ureia de 87. O interno colheu uma gasometria com o seguinte resultado: pH de 7.32/ pressão parcial de dióxido de carbono de 29 mmHg/ oxigênio de 88 mmHg/ lactato: 1,9 mmol/L/ excesso de base de - 6/ HCO3 de 19 mEq/L. Sobre o caso, é correto afirmar:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t014-020" value="A"> A. O paciente não foi ressuscitado adequadamente; deve-se iniciar protocolo de transfusão maciça 1:1:1.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-020" value="B"> B. O paciente foi ressuscitado adequadamente; deve-se transfundir um concentrado de hemácias.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-020" value="C"> C. Embora o paciente não tenha sido ressuscitado adequadamente, encontra-se estável hemodinamicamente e deve aguardar a endoscopia.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-020" value="D"> D. O paciente foi ressuscitado adequadamente; deve-se seriar a dosagem de hemoglobina e a gasometria, para avaliar a possível persistência do sangramento. As questões 59 e 60 referem-se ao seguinte enunciado: Você atende uma jovem de 15 anos vítima de violência sexual. Ela apresenta ferimento corto-contuso em crânio, edema traumático de face, equimose periorbitária, além de escoriações difusas no pescoço.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q58. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME25 Q70 | espelho local do candidato: B (não oficial)</p>
+<p><strong>21. Mulher de 19 anos, previamente hígida, procura a emergência com dor abdominal há 18 horas. Refere náuseas, inapetência e dor à deambulação. Última menstruação há 12 dias. Nega uso de anticoncepcional. Ao exame físico: temperatura axilar de 37,8°C, frequência cardíaca 102 bpm, dor à palpação profunda em fossa ilíaca direita com defesa voluntária. Toque vaginal com dor à mobilização do colo e com presença de corrimento esbranquiçado. Em um hospital rural com recursos limitados, o emergencista realiza ultrassom point-of-care com transdutor linear em fossa ilíaca direita, encontrando a seguinte imagem: Janela da fossa ilíaca direita com transdutor linear. Manobra de compressão no eixo transversal. Diante do caso e dos achados, assinale a alternativa CORRETA:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t014-021" value="A"> A. Em mulher jovem com dor na fossa ilíaca direita, devem ser afastados primeiramente diagnósticos ginecológicos. Porém, quando descartados, o ultrassom point-of-care pode ser útil, afastando com alta acurácia o diagnóstico de apendicite aguda.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-021" value="B"> B. Os achados demonstrados no ultrassom point-of-care são altamente sugestivos de apendicite aguda e, nesse cenário de hospital rural, podem antecipar conduta cirúrgica e regulação do recurso e logística necessários para o tratamento definitivo.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-021" value="C"> C. Trata-se do sinal do alvo, típico do cisto ovariano roto com líquido livre ao redor da estrutura; essa paciente necessita de transferência para realização de uma tomografia de pelve para diagnóstico e planejamento cirúrgico de urgência.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-021" value="D"> D. O aumento da ecogenicidade da gordura ao redor e a não compressibilidade da estrutura apresentada na imagem, somados ao quadro clínico apresentado, são sugestivos de salpingite aguda.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>47. Antes da prova, este ponto precisa estar automático: Sei lactulose para 2-3 evacuações/dia e busca de gatilho na encefalopatia. Qual resposta traduz melhor essa prioridade?</strong></p>
+<p class="quiz-source">TEME25 Q89 | espelho local do candidato: C (não oficial)</p>
+<p><strong>22. Um paciente de 70 anos, acamado há alguns meses, dependente para atividades básicas de vida, com insuficiência cardíaca New York Heart Association Classe IV com tratamento otimizado, apresenta, nos últimos 3 dias, uma piora significativa: dispneia ao repouso, permanece a maior parte do tempo sonolento, com períodos de despertar apenas para gemer ou queixar-se de cansaço, não responde com coerência, recusa totalmente a ingestão de alimentos e líquidos (Palliative Performance Scale - PPS - de 20). Apresenta queda do sulco nasolabial e mottling. Conversas sobre diretivas antecipadas com o paciente já vem acontecendo ambulatorialmente. Considerando o quadro clínico descrito, responda às duas questões a seguir. Qual a principal inferência diagnóstica e a prioridade de cuidado?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-047" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-047" value="B"> B. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-047" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei lactulose para 2-3 evacuações/dia e busca de gatilho na encefalopatia.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-047" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-022" value="A"> A. O paciente está em uma fase de descompensação aguda da insuficiência cardíaca; a prioridade é ajustar as medicações.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-022" value="B"> B. O rebaixamento de nível de consciência é ameaçador à vida; a prioridade é garantir Suporte Avançado de Vida e medidas farmacológicas para compensação do quadro clínico.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-022" value="C"> C. O paciente está na fase ativa de morte; a prioridade é o manejo dos sintomas para garantir o máximo conforto e dignidade.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-022" value="D"> D. O paciente está em sepse; a prioridade é a investigação de foco infeccioso, descartar disfunções orgânicas no contexto da infecção e iniciar antibioticoterapia empírica.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei lactulose para 2-3 evacuações/dia e busca de gatilho na encefalopatia. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>48. Antes da prova, este ponto precisa estar automático: Sei pancreatite: 2/3 critérios, RL moderado, sem antibiótico rotineiro, CPRE só se indicado. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-048" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-048" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-048" value="C"> C. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-048" value="D"> D. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei pancreatite: 2/3 critérios, RL moderado, sem antibiótico rotineiro, CPRE só se indicado.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei pancreatite: 2/3 critérios, RL moderado, sem antibiótico rotineiro, CPRE só se indicado. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>49. Antes da prova, este ponto precisa estar automático: Sei colecistite vs colangite. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-049" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei colecistite vs colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-049" value="B"> B. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-049" value="C"> C. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-049" value="D"> D. Negar analgesia para não mascarar exame físico.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei colecistite vs colangite. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>50. Antes da prova, este ponto precisa estar automático: Sei apendicite/diverticulite e quando TC/cirurgia entram. Qual resposta traduz melhor essa prioridade?</strong></p>
+<p class="quiz-source">TEME25 Q98 | espelho local do candidato: B (não oficial)</p>
+<p><strong>23. Paciente de 73 anos, com doença pulmonar obstrutiva crônica, fez uso recente de levofloxacino por uma exacerbação do seu quadro de base. Hoje procura o Departamento de Emergência com quadro de cinco evacuações líquidas associadas a dor abdominal em cólica e febre. No exame físico abdominal, está sem sinais de abdome agudo e com sinais vitais dentro da normalidade. Você suspeita de infecção por clostridium e solicita teste de antígeno e para toxina A e B. O resultado é positivo para o teste antígeno e negativo para teste toxina A e B. Baseado nesse caso, qual a melhor conduta e tratamento?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-050" value="A"> A. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-050" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei apendicite/diverticulite e quando TC/cirurgia entram.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-050" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-050" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-023" value="A"> A. Resultado indeterminado, solicitar teste molecular; se positiva tratar com vancomicina por via oral.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-023" value="B"> B. Resultado positivo, tratar com vancomicina por via oral.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-023" value="C"> C. Resultado positivo, tratar com metronidazol por via oral.</label>
+<label class="quiz-option"><input type="radio" name="q-t014-023" value="D"> D. Resultado indeterminado, solicitar teste molecular, se positivo tratar com metronidazol por via oral.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei apendicite/diverticulite e quando TC/cirurgia entram. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q98. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>51. Antes da prova, este ponto precisa estar automático: Sei isquemia mesenterica: dor desproporcional e angioTC. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-051" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-051" value="B"> B. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-051" value="C"> C. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei isquemia mesenterica: dor desproporcional e angioTC.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-051" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei isquemia mesenterica: dor desproporcional e angioTC. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
+## Itens não pontuados
 
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>52. Antes da prova, este ponto precisa estar automático: Sei obstrução: sinais de estrangulamento e necessidade de cirurgia. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-052" value="A"> A. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-052" value="B"> B. Ignorar beta-hCG em mulher em idade fértil com dor abdominal.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-052" value="C"> C. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-052" value="D"> D. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei obstrução: sinais de estrangulamento e necessidade de cirurgia.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei obstrução: sinais de estrangulamento e necessidade de cirurgia. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>53. Antes da prova, este ponto precisa estar automático: Sei ureter infectado obstruido e torção testicular. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-053" value="A"> A. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei ureter infectado obstruido e torção testicular.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-053" value="B"> B. Negar analgesia para não mascarar exame físico.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-053" value="C"> C. Aguardar leucocitose para considerar abdome agudo inflamatório.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-053" value="D"> D. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei ureter infectado obstruido e torção testicular. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>54. Antes da prova, este ponto precisa estar automático: Sei C. difficile inicial vs fulminante. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t014-054" value="A"> A. Liberar dor abdominal com sinal de peritonite porque a TC ainda não foi feita.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-054" value="B"> B. Reconhecer abdome que mata, estabilizar, pedir beta-hCG quando cabe e acionar endoscopia/cirurgia/drenagem no tempo certo. Para revisão final, fixe especificamente: Sei C. difficile inicial vs fulminante.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-054" value="C"> C. Tratar HDA varicosa como não varicosa e esquecer vasoativo/ceftriaxone.</label>
-<label class="quiz-option"><input type="radio" name="q-t014-054" value="D"> D. Usar antibiótico de rotina em pancreatite sem suspeita de infecção ou colangite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei C. difficile inicial vs fulminante. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
+- TEME23 Q94: anulada.

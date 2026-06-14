@@ -1,598 +1,180 @@
 # Prova: Distúrbios metabólicos, endócrinos, renais e gasometria
 
-Banco refinado do tema 011, baseado no capítulo **Distúrbios metabólicos, endócrinos, renais e gasometria**, nas questões/estações mapeadas, nas pegadinhas e no checklist de revisão. Resolva como prova: escolha a melhor alternativa e depois clique em **Checar resposta**.
+Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Questões autorais e reescritas para estudo, sem cópia literal dos cadernos, livros ou slides. O foco é treinar decisão clínica, padrão da banca e armadilhas recorrentes.
+> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-## Questões e estações
+**Itens pontuados neste banco:** 8 com gabarito oficial TEME22-24 + 3 do TEME25 com espelho local.
+
+## Questões em estilo TEME
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME22 Q51 | gabarito oficial: D</p>
+<p><strong>1. Paciente de 16 anos dá entrada no departamento de emergência com quadro de dor abdominal aguda. Apresenta-se desidratado, com odor fétido na boca. FR 24 IRPM, SaO2 94%, MV com crepitações em base direita, FC 130 BPM, PA 80x60 mmHg, TEC 4 seg, ECG 11 (AO 2 RV 4 RM 5) pupilas 2+2+, TAx. 37,9 ̊C. Glicemia capilar 390 mg/dl. Solicitados exames laboratoriais e iniciado suporte sendo a conduta imediata:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t011-001" value="A"> A. Hidratação 1000ml com Soro fisiológico 0,45% + insulina regular bolus 0,1 U/kg + Bicarbonato de Sódio 8.4% 100 mEq + KCl 19.1% 30 mEq em 1h + Antibiótico na primeira hora</label>
+<label class="quiz-option"><input type="radio" name="q-t011-001" value="B"> B. Hidratação vigorosa com Soro fisiológico 0,9% + insulina regular bolus 0,1 U/kg + Antibiótico na primeira hora</label>
+<label class="quiz-option"><input type="radio" name="q-t011-001" value="C"> C. Hidratação 1500ml com Soro fisiológico 0,9% + insulina regular bolus 0,1 U/kg + Bicarbonato de Sódio 8.4% 100 mEq + KCl 19.1% 30 mEq em 1h + Antibiótico na primeira hora</label>
+<label class="quiz-option"><input type="radio" name="q-t011-001" value="D"> D. Hidratação 1500ml com Soro fisiológico 0,9% + Antibiótico na primeira hora</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q51. Gabarito oficial: D.</p>
+</div>
+</div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q51</p>
-<p><strong>1. Em uma questão/estação inspirada em TEME22 Q51, aparece este padrão: suspeita de CAD com choque/infecção: hidratação com SF 0,9% + antibiótico na primeira hora; evitar bolus de insulina/bicarbonato/KCl as cegas. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q57 | gabarito oficial: A</p>
+<p><strong>2. Paciente com quadro de choque dá entrada no DE. São iniciadas medidas para o choque, tendo sido colhidos exames e realizada ressuscitação volêmica com cristalóide. Quais dos parâmetros abaixo podem ser usados para avaliar a melhora do paciente após a ressuscitação volêmica?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-001" value="A"> A. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: suspeita de CAD com choque/infecção: hidratação com SF 0,9% + antibiótico na primeira hora; evitar bolus de insulina/bicarbonato/KCl as cegas.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-001" value="B"> B. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-001" value="C"> C. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-001" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-002" value="A"> A. Diminuição dos níveis séricos de Lactato entre 10-20%, aumento dos valores de Base excess, diurese superior a 1 mL/kg/h</label>
+<label class="quiz-option"><input type="radio" name="q-t011-002" value="B"> B. Aumento do índice cardíaco medido por cateter de artéria pulmonar, aumento do pH, diurese superior a 0,5 mL/kg/h</label>
+<label class="quiz-option"><input type="radio" name="q-t011-002" value="C"> C. Diminuição dos níveis séricos de Lactato entre 10-20%, aumento do índice cardíaco medido por cateter de artéria pulmonar, aumento da PAS acima de 90 mmHg</label>
+<label class="quiz-option"><input type="radio" name="q-t011-002" value="D"> D. Aumento de PAM acima de 65 mmHg, aumento do débito cardíaco avaliado por ultrassonografia, diurese superior a 0,5 mL/kg/h</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: suspeita de CAD com choque/infecção: hidratação com SF 0,9% + antibiótico na primeira hora; evitar bolus de insulina/bicarbonato/KCl as cegas. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q58</p>
-<p><strong>2. Em uma questão/estação inspirada em TEME22 Q58, aparece este padrão: definição de CAD: glicemia &gt;250 mg/dL + pH &lt;7,3 + cetonemia positiva. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-002" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-002" value="B"> B. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: definição de CAD: glicemia &gt;250 mg/dL + pH &lt;7,3 + cetonemia positiva.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-002" value="C"> C. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-002" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: definição de CAD: glicemia &gt;250 mg/dL + pH &lt;7,3 + cetonemia positiva. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q57. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q63</p>
-<p><strong>3. Em uma questão/estação inspirada em TEME22 Q63, aparece este padrão: crise renal esclerodérmica com PA alta, convulsão, creatinina/proteinúria/hematúria: captopril. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q58 | gabarito oficial: C</p>
+<p><strong>3. A Cetoacidose Diabética (CAD) é uma complicação relacionada à hiperglicemia e representa 4,9% das internações por diabetes mellitus (DM). Definimos a CAD pela tríade:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-003" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-003" value="B"> B. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-003" value="C"> C. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: crise renal esclerodérmica com PA alta, convulsão, creatinina/proteinúria/hematúria: captopril.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-003" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-003" value="A"> A. Glicemia &gt;600 mg/dl , pH &lt;7,3 , Cetonemia positiva</label>
+<label class="quiz-option"><input type="radio" name="q-t011-003" value="B"> B. Glicemia &gt;250 mg/dl , Osmolaridade &gt;320 mosm/Kg, Cetonúria fortemente positiva</label>
+<label class="quiz-option"><input type="radio" name="q-t011-003" value="C"> C. Glicemia &gt;250 mg/dl, pH &lt;7,3 , Cetonemia positiva</label>
+<label class="quiz-option"><input type="radio" name="q-t011-003" value="D"> D. Glicemia &gt; 600 mg/dl, Osmolaridade &gt;320 mosm/Kg, Cetonemia positiva</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: crise renal esclerodérmica com PA alta, convulsão, creatinina/proteinúria/hematúria: captopril. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q58. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME22 Q63 | gabarito oficial: B</p>
+<p><strong>4. Paciente do sexo feminino, 35 anos, com diagnóstico de esclerose sistêmica difusa há cerca de 1 ano, em acompanhamento no ambulatório de Reumatologia, dá entrada no pronto socorro com crises convulsivas de difícil controle. Exame físico revela PA 180x110 mmHg e laboratório com creatinina sérica 2,8 mg/dL e análise do sedimento urinário com presença de proteinúria e hematúria. Diante da hipótese diagnóstica de crise renal esclerodérmica, marque a alternativa que apresenta a conduta terapêutica adequada.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t011-004" value="A"> A. Pulsoterapia com metilprednisolona 1g IV por 3 dias.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-004" value="B"> B. Captopril 25mg de 8 em 8 horas.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-004" value="C"> C. Pulsoterapia com ciclofosfamida 1g IV por 1 dia.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-004" value="D"> D. Prednisona oral 2mg/kg/dia.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q63. Gabarito oficial: B.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME23 Q30 | gabarito oficial: A</p>
+<p><strong>5. Você admite no DE paciente do sexo masculino com história de ter sido envenenado com bebida oferecida por um desconhecido, realizada gasometria que apresentava acidose metabólica com anion gap elevado, além de eletrocardiograma apresentando prolongamento do intervalo QT e presença de cristais de oxalato de cálcio na urina. Qual a provável substância responsável pela intoxicação?</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t011-005" value="A"> A. Etilenoglicol</label>
+<label class="quiz-option"><input type="radio" name="q-t011-005" value="B"> B. Álcool isopropílico</label>
+<label class="quiz-option"><input type="radio" name="q-t011-005" value="C"> C. Propilenoglicol</label>
+<label class="quiz-option"><input type="radio" name="q-t011-005" value="D"> D. Metanol</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME23 Q30. Gabarito oficial: A.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME23 Q63 | gabarito oficial: C</p>
+<p><strong>6. Cetoacidose diabética(CAD) é uma complicação relacionada à hiperglicemia e representa 4,9% das internações por diabetes mellitus (DM). Definimos a CAD pela tríade:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t011-006" value="A"> A. Glicemia &gt;600 mg/dl , pH &lt;7,3 , Cetonemia positiva</label>
+<label class="quiz-option"><input type="radio" name="q-t011-006" value="B"> B. Glicemia &gt;250 mg/dl , Osmolaridade &gt;320 mosm/Kg, Cetonúria fortemente positiva</label>
+<label class="quiz-option"><input type="radio" name="q-t011-006" value="C"> C. Glicemia &gt;250 mg/dl, pH &lt;7,3 , Cetonemia positiva</label>
+<label class="quiz-option"><input type="radio" name="q-t011-006" value="D"> D. Glicemia &gt; 600 mg/dl, Osmolaridade &gt;320 mosm/Kg, Cetonemia positiva</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q63. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME24 Q30 | gabarito oficial: A</p>
+<p><strong>7. Paciente do sexo feminino, de 27 anos, é admitida ao Departamento de Emergência após ter sido encontrada desacordada em sua cama. A equipe do atendimento préhospitalar relata diversas caixas de comprimidos na cena, incluindo fluoxetina, clonazepam e amitriptilina. Ao exame, paciente desacordada, com escala de coma de Glasgow em 10, pupilas médias e fotorreagentes, reflexos tendíneos fisiológicos, frequência cardíaca de 131 bpm, pressão arterial de 70 x 50 mmHg, com extremidades frias e pegajosas, frequência respiratória de 28 irpm com respiração ruidosa e acúmulo de secreção em orofaringe. Temperatura 37,9ºC, eletrocardiograma da paciente conforme imagem a seguir. Considerando o quadro descrito, marque a alternativa com o melhor conjunto de medidas indicadas:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t011-007" value="A"> A. Iniciar bicarbonato de sódio endovenoso, expansão volêmica e drogas vasoativas; realizar intubação orotraqueal após estabilização inicial.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-007" value="B"> B. Realizar intubação orotraqueal e iniciar flumazenil e expansão volêmica e drogas vasoativas.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-007" value="C"> C. Realizar cardioversão elétrica sincronizada, iniciar flumazenil e aguardar a resposta terapêutica, antes de indicar intubação orotraqueal.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-007" value="D"> D. Iniciar bicarbonato de sódio endovenoso, iniciar expansão volêmica e drogas vasoativas e cardioversão elétrica sincronizada.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME24 Q30. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q57</p>
-<p><strong>4. Em uma questão/estação inspirada em TEME22 Q57, aparece este padrão: melhora pós-ressuscitação no choque: queda de lactato, melhora de BE e diurese. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME24 Q79 | gabarito oficial: D</p>
+<p><strong>8. Sobre o acidente com abelhas, marque a correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-004" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-004" value="B"> B. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-004" value="C"> C. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-004" value="D"> D. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: melhora pós-ressuscitação no choque: queda de lactato, melhora de BE e diurese.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-008" value="A"> A. Em um paciente picado por uma única abelha com quadro urticária associado a náuseas, vômitos persistentes e diarreia na primeira hora do acidente, antihistamínicos e sintomáticos devem ser iniciados prioritariamente.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-008" value="B"> B. O quadro de síndrome de envenenamento por múltiplas picadas de abelha geralmente se manifesta precocemente, portanto a alta segura pode ocorrer se não houver intercorrências nas primeiras 12 horas do acidente.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-008" value="C"> C. Tanto no caso da anafilaxia, quanto no da síndrome do envenenamento por abelhas, a epinefrina é a base do tratamento, pois o choque circulatório é a via comum das duas entidades.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-008" value="D"> D. Na síndrome do envenenamento por abelhas, além de coagulação intravascular disseminada, alterações cardiovasculares e neurológicas, a insuficiência renal é frequente, e pode haver necessidade de hemodiálise.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: melhora pós-ressuscitação no choque: queda de lactato, melhora de BE e diurese. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q30</p>
-<p><strong>5. Em uma questão/estação inspirada em TEME23 Q30, aparece este padrão: etilenoglicol: acidose metabólica com anion gap aumentado, QT prolongado e cristais de oxalato de cálcio. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-005" value="A"> A. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: etilenoglicol: acidose metabólica com anion gap aumentado, QT prolongado e cristais de oxalato de cálcio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-005" value="B"> B. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-005" value="C"> C. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-005" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: etilenoglicol: acidose metabólica com anion gap aumentado, QT prolongado e cristais de oxalato de cálcio. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q63</p>
-<p><strong>6. Em uma questão/estação inspirada em TEME23 Q63, aparece este padrão: repetiu definição de CAD. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-006" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-006" value="B"> B. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: repetiu definição de CAD.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-006" value="C"> C. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-006" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: repetiu definição de CAD. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME24 Q79. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q30</p>
-<p><strong>7. Em uma questão/estação inspirada em TEME24 Q30, aparece este padrão: intoxicação por tricíclico com instabilidade/ECG: bicarbonato de sódio, volume/vasoativo e via aérea após estabilização inicial. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME25 Q32 | espelho local do candidato: C (não oficial)</p>
+<p><strong>9. Paciente 23 anos, encontrado confuso, com vômitos e taquipneico em via pública, estável hemodinamicamente, sem outras alterações no exame físico. Resultado de exames coletados à admissão: - pH: 7,01 / PaO2: 90 mmHg / PaCO2: 17 mmHg / HCO3: 6,0 mEq/L. - Lactato sérico: 15 mmol/L. - Ânion gap: 44 mmol/L. - Potássio: 5,4 mEq/L. - Glicemia capilar: 227 mg/dL. Sobre o caso, marque a correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-007" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-007" value="B"> B. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-007" value="C"> C. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: intoxicação por tricíclico com instabilidade/ECG: bicarbonato de sódio, volume/vasoativo e via aérea após estabilização inicial.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-007" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-009" value="A"> A. A cetoacidose diabética pode ser descartada como causa direta.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-009" value="B"> B. A cetoacidose alcoólica pode ser descartada nesse caso.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-009" value="C"> C. A acidose lática como causa direta pode ser descartada.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-009" value="D"> D. A acidose tubular renal como causa direta pode ser descartada.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: intoxicação por tricíclico com instabilidade/ECG: bicarbonato de sódio, volume/vasoativo e via aérea após estabilização inicial. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q32. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME25 Q83 | espelho local do candidato: B (não oficial)</p>
+<p><strong>10. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t011-010" value="A"> A. Manutenção da fração inspirada de oxigênio em 100% durante as primeiras 24 horas, visando à oxigenação máxima e neuroproteção.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-010" value="B"> B. Utilização de dióxido de carbono expirado como marcador confiável de normocapnia para ajuste da ventilação no pós-parada cardiorrespiratória.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-010" value="C"> C. Correção rigorosa da hipotensão com vasopressores para manter a pressão arterial sistólica ≥ p50 para a idade.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-010" value="D"> D. Administração rotineira de bicarbonato de sódio para correção da acidose metabólica observada após retorno da circulação espontânea.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q83. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q79</p>
-<p><strong>8. Em uma questão/estação inspirada em TEME24 Q79, aparece este padrão: múltiplas picadas de abelha podem causar síndrome de envenenamento com IRA e necessidade de hemodialise. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME25 Q97 | espelho local do candidato: D (não oficial)</p>
+<p><strong>11. Mulher de 35 anos com hipertireoidismo, dá entrada com febre alta, frequência cardíaca 158 bpm, pressão arterial: 130 x 90 mmHg, desorientação, vômitos e sudorese intensa. O eletrocardiograma mostra taquicardia sinusal. O hormônio estimulante da tireoide era indetectável, T4 livre aumentado, transaminases e bilirrubinas elevadas e Razão Normalizada Internacional 1,8; sem sinais localizatórios de infecção. Qual a melhor conduta inicial diante da suspeita clínica?</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-008" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-008" value="B"> B. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-008" value="C"> C. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-008" value="D"> D. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: múltiplas picadas de abelha podem causar síndrome de envenenamento com IRA e necessidade de hemodialise.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-011" value="A"> A. Iniciar metimazol, dexametasona e propranolol, mantendo iodeto de potássio para 4 a 6 horas após controle da temperatura.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-011" value="B"> B. Iniciar propiltiouracil, hidrocortisona e iodeto de potássio em sequência imediata, sem betabloqueador diante do risco de colapso circulatório.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-011" value="C"> C. Iniciar metimazol, propranolol e corticosteroide, introduzindo iodeto de potássio após 1 hora, independentemente da presença de febre.</label>
+<label class="quiz-option"><input type="radio" name="q-t011-011" value="D"> D. Priorizar controle hemodinâmico com volume e antipiréticos, aguardando rastreio infeccioso antes de iniciar terapêutica antitireoidiana.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: múltiplas picadas de abelha podem causar síndrome de envenenamento com IRA e necessidade de hemodialise. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q83</p>
-<p><strong>9. Em uma questão/estação inspirada em TEME25 Q83, aparece este padrão: pós-RCE pediátrico: não usar bicarbonato de sódio rotineiramente para acidose metabólica. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-009" value="A"> A. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: pós-RCE pediátrico: não usar bicarbonato de sódio rotineiramente para acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-009" value="B"> B. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-009" value="C"> C. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-009" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: pós-RCE pediátrico: não usar bicarbonato de sódio rotineiramente para acidose metabólica. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q97</p>
-<p><strong>10. Em uma questão/estação inspirada em TEME25 Q97, aparece este padrão: crise tireotóxica: antitireoidiano + beta-bloqueio + corticoide, iodeto após antitireoidiano. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-010" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-010" value="B"> B. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: crise tireotóxica: antitireoidiano + beta-bloqueio + corticoide, iodeto após antitireoidiano.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-010" value="C"> C. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-010" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: crise tireotóxica: antitireoidiano + beta-bloqueio + corticoide, iodeto após antitireoidiano. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Emergency Talks Aula 16</p>
-<p><strong>11. Em uma questão/estação inspirada em Emergency Talks Aula 16, aparece este padrão: IRA, DRC, indicações de diálise e rabdomiólise. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-011" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-011" value="B"> B. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-011" value="C"> C. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: IRA, DRC, indicações de diálise e rabdomiólise.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-011" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: IRA, DRC, indicações de diálise e rabdomiólise. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Emergency Talks Aula 33</p>
-<p><strong>12. Em uma questão/estação inspirada em Emergency Talks Aula 33, aparece este padrão: gasometria, compensações, AG, delta e osmolar gap. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-012" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-012" value="B"> B. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-012" value="C"> C. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-012" value="D"> D. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: gasometria, compensações, AG, delta e osmolar gap.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: gasometria, compensações, AG, delta e osmolar gap. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Emergency Talks Aula 42</p>
-<p><strong>13. Em uma questão/estação inspirada em Emergency Talks Aula 42, aparece este padrão: K, Na, Ca, Mg é tratamento emergente. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-013" value="A"> A. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: K, Na, Ca, Mg é tratamento emergente.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-013" value="B"> B. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-013" value="C"> C. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-013" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: K, Na, Ca, Mg é tratamento emergente. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Emergency Talks Aula 59</p>
-<p><strong>14. Em uma questão/estação inspirada em Emergency Talks Aula 59, aparece este padrão: hipoglicemia, CAD/EHH, mixedema, tireotoxicose e adrenal. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-014" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-014" value="B"> B. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. O achado-chave do enunciado é: hipoglicemia, CAD/EHH, mixedema, tireotoxicose e adrenal.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-014" value="C"> C. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-014" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: hipoglicemia, CAD/EHH, mixedema, tireotoxicose e adrenal. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-## Pegadinhas TEME
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>15. A banca tenta derrubar com a seguinte ideia: CAD = glicemia &gt;600: falso. Isso é mais EHH. CAD de prova e &gt;250 + pH &lt;7,3 + cetonemia. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-015" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-015" value="B"> B. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-015" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-015" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: CAD = glicemia &gt;600: falso. Isso é mais EHH. CAD de prova e &gt;250 + pH &lt;7,3 + cetonemia. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>16. A banca tenta derrubar com a seguinte ideia: Insulina em bolus sempre primeiro na CAD: falso. Primeiro volume e K; no caso TEME22, a melhor resposta imediata foi SF 0,9% + antibiótico. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-016" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-016" value="B"> B. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-016" value="C"> C. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-016" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Insulina em bolus sempre primeiro na CAD: falso. Primeiro volume e K; no caso TEME22, a melhor resposta imediata foi SF 0,9% + antibiótico. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>17. A banca tenta derrubar com a seguinte ideia: Bicarbonato em toda acidose metabólica: falso. Trate causa; reserve para indicações específicas. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-017" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-017" value="B"> B. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-017" value="C"> C. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-017" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Bicarbonato em toda acidose metabólica: falso. Trate causa; reserve para indicações específicas. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>18. A banca tenta derrubar com a seguinte ideia: K alto com ECG alterado: glicose-insulina primeiro: incompleto. Cálcio estabiliza membrana e vem antes se ECG/instabilidade. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-018" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-018" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-018" value="C"> C. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-018" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: K alto com ECG alterado: glicose-insulina primeiro: incompleto. Cálcio estabiliza membrana e vem antes se ECG/instabilidade. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>19. A banca tenta derrubar com a seguinte ideia: ECG normal exclui hiperK: falso. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-019" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-019" value="B"> B. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-019" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-019" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: ECG normal exclui hiperK: falso. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>20. A banca tenta derrubar com a seguinte ideia: Resina/Sorcal resolve hiperK emergente: falso. início tardio e efeitos GI; não é resposta de sala vermelha. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-020" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-020" value="B"> B. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-020" value="C"> C. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-020" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Resina/Sorcal resolve hiperK emergente: falso. início tardio e efeitos GI; não é resposta de sala vermelha. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>21. A banca tenta derrubar com a seguinte ideia: Hiponatremia grave precisa normalizar Na: falso. Bolus inicial para sintomas; depois corrigir devagar. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-021" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-021" value="B"> B. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-021" value="C"> C. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-021" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Hiponatremia grave precisa normalizar Na: falso. Bolus inicial para sintomas; depois corrigir devagar. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>22. A banca tenta derrubar com a seguinte ideia: Hipernatremia com choque não pode receber SF 0,9%: falso. Perfusão vem primeiro. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-022" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-022" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-022" value="C"> C. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-022" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Hipernatremia com choque não pode receber SF 0,9%: falso. Perfusão vem primeiro. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>23. A banca tenta derrubar com a seguinte ideia: Furosemida para hipercalcemia como rotina: falso. Volume, calcitonina e bisfosfonato são base; furosemida só se sobrecarga. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-023" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-023" value="B"> B. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-023" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-023" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Furosemida para hipercalcemia como rotina: falso. Volume, calcitonina e bisfosfonato são base; furosemida só se sobrecarga. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>24. A banca tenta derrubar com a seguinte ideia: Creatinina alta isolada indica diálise: falso. Use AEIOU. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-024" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-024" value="B"> B. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-024" value="C"> C. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-024" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Creatinina alta isolada indica diálise: falso. Use AEIOU. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>25. A banca tenta derrubar com a seguinte ideia: Rabdomiolise tem que alcalinizar urina/manitol: falso como rotina. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-025" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-025" value="B"> B. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-025" value="C"> C. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-025" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Rabdomiolise tem que alcalinizar urina/manitol: falso como rotina. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>26. A banca tenta derrubar com a seguinte ideia: Crise tireotóxica espera TSH/T4 ou rastreio infeccioso: falso. Diagnóstico é clínico; tratar cedo. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-026" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-026" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-026" value="C"> C. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-026" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Crise tireotóxica espera TSH/T4 ou rastreio infeccioso: falso. Diagnóstico é clínico; tratar cedo. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>27. A banca tenta derrubar com a seguinte ideia: Crise adrenal espera cortisol: falso se instável. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-027" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-027" value="B"> B. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-027" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-027" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Crise adrenal espera cortisol: falso se instável. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>28. A banca tenta derrubar com a seguinte ideia: Cetonuria negativa encerra CAD: falso. Beta-hidroxibutirato/cetose e AG importam mais. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-028" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-028" value="B"> B. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-028" value="C"> C. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-028" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Cetonuria negativa encerra CAD: falso. Beta-hidroxibutirato/cetose e AG importam mais. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-## Checklist de revisão
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>29. Antes da prova, este ponto precisa estar automático: Sei interpretar gasometria em 5 passos e calcular compensação. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-029" value="A"> A. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei interpretar gasometria em 5 passos e calcular compensação.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-029" value="B"> B. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-029" value="C"> C. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-029" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei interpretar gasometria em 5 passos e calcular compensação. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>30. Antes da prova, este ponto precisa estar automático: Sei calcular AG, corrigir por albumina e pensar em osmolar gap. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-030" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-030" value="B"> B. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei calcular AG, corrigir por albumina e pensar em osmolar gap.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-030" value="C"> C. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-030" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei calcular AG, corrigir por albumina e pensar em osmolar gap. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>31. Antes da prova, este ponto precisa estar automático: Sei tratar hiperK emergente na ordem: cálcio, shift, remoção. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-031" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-031" value="B"> B. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-031" value="C"> C. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei tratar hiperK emergente na ordem: cálcio, shift, remoção.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-031" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei tratar hiperK emergente na ordem: cálcio, shift, remoção. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>32. Antes da prova, este ponto precisa estar automático: Sei que ECG normal não exclui hiperK. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-032" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-032" value="B"> B. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-032" value="C"> C. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-032" value="D"> D. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei que ECG normal não exclui hiperK.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei que ECG normal não exclui hiperK. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>33. Antes da prova, este ponto precisa estar automático: Sei tratar hiponatremia grave com bolus de NaCl 3% sem normalizar rápido. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-033" value="A"> A. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei tratar hiponatremia grave com bolus de NaCl 3% sem normalizar rápido.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-033" value="B"> B. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-033" value="C"> C. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-033" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei tratar hiponatremia grave com bolus de NaCl 3% sem normalizar rápido. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>34. Antes da prova, este ponto precisa estar automático: Sei diferenciar CAD e EHH e não iniciar insulina com K baixo. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-034" value="A"> A. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-034" value="B"> B. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei diferenciar CAD e EHH e não iniciar insulina com K baixo.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-034" value="C"> C. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-034" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei diferenciar CAD e EHH e não iniciar insulina com K baixo. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>35. Antes da prova, este ponto precisa estar automático: Sei quando bicarbonato ajuda e quando atrapalha. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-035" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-035" value="B"> B. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-035" value="C"> C. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei quando bicarbonato ajuda e quando atrapalha.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-035" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei quando bicarbonato ajuda e quando atrapalha. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>36. Antes da prova, este ponto precisa estar automático: Sei AEIOU da diálise de urgência. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-036" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-036" value="B"> B. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-036" value="C"> C. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-036" value="D"> D. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei AEIOU da diálise de urgência.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei AEIOU da diálise de urgência. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>37. Antes da prova, este ponto precisa estar automático: Sei manejar rabdomiólise com volume, diurese alvo e monitorização de K/IRA. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-037" value="A"> A. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei manejar rabdomiólise com volume, diurese alvo e monitorização de K/IRA.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-037" value="B"> B. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-037" value="C"> C. Esperar gasometria perfeita antes de tratar hipercalemia com ECG alterado.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-037" value="D"> D. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei manejar rabdomiólise com volume, diurese alvo e monitorização de K/IRA. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>38. Antes da prova, este ponto precisa estar automático: Sei reconhecer crise tireotóxica, mixedema e crise adrenal. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-038" value="A"> A. Usar bicarbonato como rotina em toda acidose metabólica.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-038" value="B"> B. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei reconhecer crise tireotóxica, mixedema e crise adrenal.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-038" value="C"> C. Esquecer monitorização seriada de glicemia, potássio, sódio e osmolaridade.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-038" value="D"> D. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei reconhecer crise tireotóxica, mixedema e crise adrenal. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>39. Antes da prova, este ponto precisa estar automático: Sei as questões TEME: CAD &gt;250/pH&lt;7,3/cetonemia; etilenoglicol; captopril na crise renal esclerodérmica; bicarbonato no TCA. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t011-039" value="A"> A. Indicar diálise apenas pelo número da creatinina, sem olhar AEIOU e contexto.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-039" value="B"> B. Começar insulina na cetoacidose sem checar e proteger potássio.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-039" value="C"> C. Tratar primeiro a ameaça elétrica/metabólica, corrigir água e eletrólitos com metas seguras e monitorização seriada. Para revisão final, fixe especificamente: Sei as questões TEME: CAD &gt;250/pH&lt;7,3/cetonemia; etilenoglicol; captopril na crise renal esclerodérmica; bicarbonato no TCA.</label>
-<label class="quiz-option"><input type="radio" name="q-t011-039" value="D"> D. Corrigir hiponatremia crônica rapidamente até normalizar sódio.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei as questões TEME: CAD &gt;250/pH&lt;7,3/cetonemia; etilenoglicol; captopril na crise renal esclerodérmica; bicarbonato no TCA. Metabólico/renal cai em sequência: estabilizar membrana quando hipercalemia, insulinizar CAD com potássio seguro e corrigir sódio devagar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q97. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>

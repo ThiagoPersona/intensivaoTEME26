@@ -1,628 +1,223 @@
 # Prova: Hemato-oncologia na emergência
 
-Banco refinado do tema 015, baseado no capítulo **Hemato-oncologia na emergência**, nas questões/estações mapeadas, nas pegadinhas e no checklist de revisão. Resolva como prova: escolha a melhor alternativa e depois clique em **Checar resposta**.
+Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Questões autorais e reescritas para estudo, sem cópia literal dos cadernos, livros ou slides. O foco é treinar decisão clínica, padrão da banca e armadilhas recorrentes.
+> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-## Questões e estações
+**Itens pontuados neste banco:** 9 com gabarito oficial TEME22-24 + 5 do TEME25 com espelho local.
 
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q45</p>
-<p><strong>1. Em uma questão/estação inspirada em TEME22 Q45, aparece este padrão: choque hemorrágico traumático persistente após cristaloide/torniquete: transfusão balanceada 1:1:1. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+## Questões em estilo TEME
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME22 Q45 | gabarito oficial: D</p>
+<p><strong>1. Paciente apresentando sangramento intenso devido à amputação traumática de membro inferior direito, trazido pelo atendimento pré-hospitalar que já iniciou Ringer Lactato 1500 ml em bolus Endovenoso (EV) e aplicou Torniquete no Membro. Mantendo hipotensão e outros sinais hemodinâmicos de choque, hipoperfusão tecidual, taquicardia e taquipneia. Qual das condutas abaixo seria a mais prioritária neste momento?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-001" value="A"> A. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: choque hemorrágico traumático persistente após cristaloide/torniquete: transfusão balanceada 1:1:1.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-001" value="B"> B. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-001" value="C"> C. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-001" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-001" value="A"> A. Administração de mais 1000 ml de cristalóide</label>
+<label class="quiz-option"><input type="radio" name="q-t015-001" value="B"> B. Administração de 500ml de NaCl 3% EV</label>
+<label class="quiz-option"><input type="radio" name="q-t015-001" value="C"> C. Transfusão de 3 Bolsas de concentrados de hemácias EV</label>
+<label class="quiz-option"><input type="radio" name="q-t015-001" value="D"> D. Transfusão de Hemocomponentes na proporção 1:1:1 concentrado de hemácias, plasma fresco congelado e plaquetas</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: choque hemorrágico traumático persistente após cristaloide/torniquete: transfusão balanceada 1:1:1. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q62</p>
-<p><strong>2. Em uma questão/estação inspirada em TEME22 Q62, aparece este padrão: encefalopatia hepática: lactulose como medida inicial. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-002" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-002" value="B"> B. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: encefalopatia hepática: lactulose como medida inicial.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-002" value="C"> C. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-002" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: encefalopatia hepática: lactulose como medida inicial. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q90</p>
-<p><strong>3. Em uma questão/estação inspirada em TEME22 Q90, aparece este padrão: PBE em cirrótico: PMN no líquido ascítico &gt;=250/mm3. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-003" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-003" value="B"> B. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-003" value="C"> C. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: PBE em cirrótico: PMN no líquido ascítico &gt;=250/mm3.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-003" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: PBE em cirrótico: PMN no líquido ascítico &gt;=250/mm3. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q45. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q113</p>
-<p><strong>4. Em uma questão/estação inspirada em TEME22 Q113, aparece este padrão: sangramento uterino anormal: corrigir coagulopatia e transfundir se anemia sintomática; cuidado com condutas inadequadas. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q62 | gabarito oficial: D</p>
+<p><strong>2. Paciente com diagnóstico de cirrose hepática grave, dá entrada no Departamento de Emergência com quadro de agitação psicomotora, confusão mental e agressividade. Ao exame físico apresenta ataxia e flapping. O acompanhante relata que o paciente está sem realizar evacuações há três dias. Dentre as alternativas abaixo, escolha a mais adequada como medida inicial para o tratamento desse paciente:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-004" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-004" value="B"> B. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-004" value="C"> C. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-004" value="D"> D. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: sangramento uterino anormal: corrigir coagulopatia e transfundir se anemia sintomática; cuidado com condutas inadequadas.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-002" value="A"> A. Enema de Glicerina 12% Via Retal</label>
+<label class="quiz-option"><input type="radio" name="q-t015-002" value="B"> B. Rifaximina 550 mg via oral de 12/12 horas</label>
+<label class="quiz-option"><input type="radio" name="q-t015-002" value="C"> C. Lactulose 20 mL via oral de 8/8 horas associada a Neomicina 1 g via oral de 6/6 horas</label>
+<label class="quiz-option"><input type="radio" name="q-t015-002" value="D"> D. Lactulose 40 mL de 8/8 horas por via oral</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: sangramento uterino anormal: corrigir coagulopatia e transfundir se anemia sintomática; cuidado com condutas inadequadas. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q20</p>
-<p><strong>5. Em uma questão/estação inspirada em TEME23 Q20, aparece este padrão: dor lombar com história de neoplasia exige imagem para rastrear metástase/causa grave. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-005" value="A"> A. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: dor lombar com história de neoplasia exige imagem para rastrear metástase/causa grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-005" value="B"> B. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-005" value="C"> C. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-005" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: dor lombar com história de neoplasia exige imagem para rastrear metástase/causa grave. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q39</p>
-<p><strong>6. Em uma questão/estação inspirada em TEME24 Q39, aparece este padrão: falciforme com dor torácica, febre e hipoxemia: síndrome torácica aguda, O2, imagem, analgesia, ATB e considerar transfusão. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-006" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-006" value="B"> B. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: falciforme com dor torácica, febre e hipoxemia: síndrome torácica aguda, O2, imagem, analgesia, ATB e considerar transfusão.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-006" value="C"> C. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-006" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: falciforme com dor torácica, febre e hipoxemia: síndrome torácica aguda, O2, imagem, analgesia, ATB e considerar transfusão. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24</p>
-<p><strong>7. Em uma questão/estação inspirada em TEME24, aparece este padrão: neutropenia febril em linfoma/quimioterapia: antibiótico precoce e estratificação de risco. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-007" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-007" value="B"> B. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-007" value="C"> C. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: neutropenia febril em linfoma/quimioterapia: antibiótico precoce e estratificação de risco.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-007" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: neutropenia febril em linfoma/quimioterapia: antibiótico precoce e estratificação de risco. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q62. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q71</p>
-<p><strong>8. Em uma questão/estação inspirada em TEME24 Q71, aparece este padrão: síndrome de veia cava superior: grave se via aérea, edema cerebral ou instabilidade; anticoagulação não é sempre contraindicada. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q90 | gabarito oficial: D</p>
+<p><strong>3. Paciente masculino, 58 anos, diagnóstico prévio de cirrose hepática avançada, dá entrada no Departamento de Emergência com quadro de febre e dor abdominal difusa. Apresenta ascite volumosa ao exame físico. Você realiza uma punção do líquido ascítico e diagnostica uma peritonite bacteriana espontânea. Assinale a alternativa que apresenta o achado laboratorial da análise da líquido ascítico que possibilitou a realização desse diagnóstico:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-008" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-008" value="B"> B. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-008" value="C"> C. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-008" value="D"> D. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: síndrome de veia cava superior: grave se via aérea, edema cerebral ou instabilidade; anticoagulação não é sempre contraindicada.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-003" value="A"> A. Glicose &lt; 50 mg/dL</label>
+<label class="quiz-option"><input type="radio" name="q-t015-003" value="B"> B. Cultura polimicrobiana</label>
+<label class="quiz-option"><input type="radio" name="q-t015-003" value="C"> C. Proteínas totais &gt; 1 g/dL</label>
+<label class="quiz-option"><input type="radio" name="q-t015-003" value="D"> D. Presença de 300 polimorfonucleares/mL</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: síndrome de veia cava superior: grave se via aérea, edema cerebral ou instabilidade; anticoagulação não é sempre contraindicada. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME22 Q90. Gabarito oficial: D.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q29</p>
-<p><strong>9. Em uma questão/estação inspirada em TEME25 Q29, aparece este padrão: linfoma de Burkitt em quimioterapia com hiperK, hiperP, úrico alto, hipocalcemia e IRA: síndrome de lise tumoral. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q113 | gabarito oficial: A</p>
+<p><strong>4. O termo sangramento uterino anormal (SUA) diz respeito a todas as causas de sangramento uterino em mulheres não gestantes, e as causas mais prováveis são determinadas pela idade da paciente. Frente a um quadro no departamento de emergência de SUA são boas opções terapêuticas, EXCETO:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-009" value="A"> A. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: linfoma de Burkitt em quimioterapia com hiperK, hiperP, úrico alto, hipocalcemia e IRA: síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-009" value="B"> B. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-009" value="C"> C. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-009" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-004" value="A"> A. Tamponamento vaginal protetor exerce uma função hemostática e pode proteger infecções e perdas sanguíneas subsequentes</label>
+<label class="quiz-option"><input type="radio" name="q-t015-004" value="B"> B. Correção de coagulopatias subjacentes</label>
+<label class="quiz-option"><input type="radio" name="q-t015-004" value="C"> C. Transfusão de Concentrado de Hemácias se anemia sintomática</label>
+<label class="quiz-option"><input type="radio" name="q-t015-004" value="D"> D. Uso de Ácido Tranexâmico EV e Anti-inflamatórios em caso de hemorragia grave</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: linfoma de Burkitt em quimioterapia com hiperK, hiperP, úrico alto, hipocalcemia e IRA: síndrome de lise tumoral. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME22 Q113. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25</p>
-<p><strong>10. Em uma questão/estação inspirada em TEME25, aparece este padrão: reação transfusional com TRALI/TACO/anafilaxia/sepse: parar transfusão e tratar fenótipo. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME23 Q20 | gabarito oficial: B</p>
+<p><strong>5. Sobre o uso de Exame Complementares para avaliação de pacientes com quadro de Dor lombar no Departamento de Emergência marque a alternativa correta.</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-010" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-010" value="B"> B. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: reação transfusional com TRALI/TACO/anafilaxia/sepse: parar transfusão e tratar fenótipo.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-010" value="C"> C. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-010" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-005" value="A"> A. Paciente com histórico de neoplasia, exames de imagem devem ser utilizados, como forma de rastreio de metástases.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-005" value="B"> B. Na presença de trauma e dor lombar, sem sinais de trauma raquimedular, a Tomografia de Coluna Total é um exame útil para rastrear a presença de fraturas.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-005" value="C"> C. Em pacientes com quadros persistentes de febre e dor lombar, a presença de aumento de Proteína C Reativa é um marcador confirmatório do diagnóstico de Espondilodiscite.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-005" value="D"> D. Na ausência de trauma, o uso da RNM não deve ser priorizado, pelo baixo risco de lesões medulares agudas.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: reação transfusional com TRALI/TACO/anafilaxia/sepse: parar transfusão e tratar fenótipo. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME23 Q20. Gabarito oficial: B.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">TEME23 Q91 | gabarito oficial: A</p>
+<p><strong>6. Uma criança de 5 anos em tratamento com quimioterapia para uma leucemia mieloide aguda é trazida para o DE pelos pais. Eles relatam que a criança está com febre e letargia. Ao exame clínico percebe–se: frequência cardíaca de 158 bpm, frequência respiratória de 37 irpm, pressão arterial de 78/51 mmHg, tempo de preenchimento capilar de 1 segundo e temperatura axilar de 39,1°C. Estabeleceu-se um acesso IV e obteve-se uma hemocultura. Qual é a intervenção mais apropriada a seguir?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t015-006" value="A"> A. Administrar de 10 a 20 ml/Kg de cristalóide isotônico em 5 a 10 minutos</label>
+<label class="quiz-option"><input type="radio" name="q-t015-006" value="B"> B. Administrar de 20 a 30 ml/Kg de cristalóide isotônico em 5 a 10 minutos</label>
+<label class="quiz-option"><input type="radio" name="q-t015-006" value="C"> C. Administrar de 5 a 10 ml/Kg de concentrado de hemácias</label>
+<label class="quiz-option"><input type="radio" name="q-t015-006" value="D"> D. Obter uma radiografia do tórax</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: TEME23 Q91. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q69</p>
-<p><strong>11. Em uma questão/estação inspirada em TEME25 Q69, aparece este padrão: AVC hemorrágico e reversão de coagulopatias/anticoagulantes. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME24 Q39 | gabarito oficial: C</p>
+<p><strong>7. Um paciente de 32 anos, 75 kg, portador de anemia falciforme dá entrada no Departamento de Emergência de um hospital terciário com dor torácica importante, dispneia e dessaturação. Refere ter tido dor em braço esquerdo importante há 1 semana e, há 3 meses, faz uso irregular de hidroxiureia, pois não consegue ter acesso à medicação. Frequência cardíaca de 120 bpm, ritmo regular; pressão arterial de 120 x 80 mmHg; saturação periférica da hemoglobina (SpO2) de 89% ar ambiente curva ruim do oxímetro; temperatura de 38,3ºC. Sobre a conduta no Departamento de Emergência:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-011" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-011" value="B"> B. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-011" value="C"> C. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: AVC hemorrágico e reversão de coagulopatias/anticoagulantes.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-011" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-007" value="A"> A. Administrar oxigênio e ácido acetilsalicílico 200 mg; fazer eletrocardiograma, raio X de tórax e curva de troponina.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-007" value="B"> B. Administrar oxigênio; fazer angiotomografia computadorizada de tórax, ecocardiograma transtorácico, expansão volêmica com Ringer Lactato, enoxaparina em dose plena; dosar troponina e pró-peptídeo natriurético cerebral.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-007" value="C"> C. Administrar oxigênio; fazer tomografia computadorizada de tórax, expansão volêmica com Ringer Lactato; administrar morfina 10 mg por via endovenosa, dipirona 2 g por via endovenosa, ceftriaxona 2 g + azitromicina 500 mg; colher hemoculturas.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-007" value="D"> D. Administrar oxigênio; fazer tomografia computadorizada de tórax, expansão volêmica com Ringer Lactato; administrar ceftriaxona 2 g + azitromicina 500 mg; fazer hemoculturas e exames laboratoriais para sepse.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: AVC hemorrágico e reversão de coagulopatias/anticoagulantes. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q39. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q72</p>
-<p><strong>12. Em uma questão/estação inspirada em TEME25 Q72, aparece este padrão: síndrome torácica aguda em criança HbSS: ceftriaxone + azitromicina, O2 e considerar transfusão se queda de Hb. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME24 Q48 | gabarito oficial: C</p>
+<p><strong>8. Chega ao Departamento de Emergência paciente de 15 anos, sexo masculino, com relato de confusão mental, febre e calafrios. Paciente portador de linfoma de células B, em tratamento quimioterápico, tendo recebido a última infusão há 3 dias. Ele é levado imediatamente à sala de emergência. Sinais vitais da admissão: frequência cardíaca de 120 bpm; pressão arterial de 85 x 50 mmHg; frequência respiratória de 25 irpm; saturação periférica da hemoglobina (SpO2) de 97% ar ambiente temperatura de 39,5ºC; glicemia capilar de 120 mg/dL. Sobre o manejo da neutropenia febril, qual a alternativa correta?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-012" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-012" value="B"> B. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-012" value="C"> C. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-012" value="D"> D. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. O achado-chave do enunciado é: síndrome torácica aguda em criança HbSS: ceftriaxone + azitromicina, O2 e considerar transfusão se queda de Hb.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-008" value="A"> A. Pacientes neutropênicos não devem receber terapia antimicrobiana até confirmação de diagnóstico infeccioso.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-008" value="B"> B. Cobertura empírica para Gram-positivos está recomendada se suspeita de celulite, infecção associada a cateter, pneumonia e instabilidade hemodinâmica. Nesses casos, não se recomenda cobertura antipseudomonas.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-008" value="C"> C. Para avaliação de infecções anorretais, baseado em opinião de especialistas, recomenda-se que toque retal não seja realizado de rotina.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-008" value="D"> D. O escore MASCC pode ser utilizado para identificação do agente etiológico, enquanto o Clinical Index of Stable Febrile Neutropenia (CISNE) pode ser utilizado para escolha do antibiótico a ser utilizado.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: síndrome torácica aguda em criança HbSS: ceftriaxone + azitromicina, O2 e considerar transfusão se queda de Hb. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q48. Gabarito oficial: C.</p>
 </div>
 </div>
 
-## Pegadinhas TEME
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>13. A banca tenta derrubar com a seguinte ideia: neutropênico febril espera cultura para antibiótico: falso. Qual alternativa evita a armadilha?</strong></p>
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME24 Q71 | gabarito oficial: C</p>
+<p><strong>9. A síndrome de veia cava superior (SVCS) ocorre devido à compressão externa ou obstrução intraluminal (trombose) da veia cava superior. Mais de 60% dos casos estão associados à doença oncológica. Assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-013" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-013" value="B"> B. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-013" value="C"> C. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-013" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-009" value="A"> A. Edema de extremidades de membros superiores, face e tórax, bem como eritema facial, dispneia, dor torácica e tosse, são manifestações clínicas pouco usuais.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-009" value="B"> B. Corticoide e diuréticos devem ser utilizados de rotina.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-009" value="C"> C. A SVCS raramente é fatal; quadros mais graves podem apresentar comprometimento de via aérea, edema cerebral e instabilidade hemodinâmica.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-009" value="D"> D. Mesmo na presença de trombose, a anticoagulação está sempre contraindicada.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: neutropênico febril espera cultura para antibiótico: falso. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q71. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>14. A banca tenta derrubar com a seguinte ideia: Ceftriaxone basta para neutropenia febril de alto risco: falso; precisa antipseudomonas. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q29 | espelho local do candidato: B (não oficial)</p>
+<p><strong>10. Paciente do sexo masculino de 48 anos, portador de linfoma de Burkitt, sem outras comorbidades prévias ao diagnóstico hematológico, comparece ao serviço para a segunda sessão de quimioterapia. Após a triagem para procedimento foi imediatamente encaminhado ao Departamento de Emergência. Admitido com queixas de astenia, fadiga progressiva, náuseas e vômitos abundantes, além de diminuição do volume urinário hoje; um episódio diarréico isolado. Nega febre em domicílio, sem queixas respiratórias. Ao exame físico, apresenta-se com mucosas secas, porém normotenso, sem alteração na perfusão tecidual. Taquipneico (FR 25 irpm); afebril e sem outras alterações relevantes no exame físico. Exames laboratoriais (coletados no dia anterior a sessão): - pH: 7,32 / PaCO2 30mmHg / HCO₃: 18 mEq/L / Excesso de base: -6. - Hemoglobina: 8,5 g/dL / Leucócitos: 1.500 células/mm3 / Neutrófilos: 1.000 células/mm3. - Potássio: 6,5 mEq/L / Fósforo: 5,0 mg/dL / Ácido úrico: 9,2 mg/dL. - Cálcio iônico: 3,5 mg/dL (referência: 4,0 a 5,1 mg/dL). - Creatinina: 2,0 mg/dL / Ureia: 85mg/dL - Albumina: 3,5 g/dL / Razão Normalizada Internacional: 1,0 / Bilirrubinas totais: 0,6mg/dL - Aspartato aminotransferase: 20 U/L. / Alanina aminotransferase: 35U/L. - Com base nos dados acima, qual é o diagnóstico mais provável?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-014" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-014" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-014" value="C"> C. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-014" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-010" value="A"> A. Cardiotoxicidade por quimioterápicos.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-010" value="B"> B. Síndrome de lise tumoral clínica e laboratorial.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-010" value="C"> C. Neutropenia febril devido a foco urinário, com insuficiência renal aguda e acidose metabólica.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-010" value="D"> D. Doença renal crônica com injúria renal aguda sobreposta por toxicidade quimioterápica.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Ceftriaxone basta para neutropenia febril de alto risco: falso; precisa antipseudomonas. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>15. A banca tenta derrubar com a seguinte ideia: Vancomicina para todo neutropênico febril: falso; use por indicação. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-015" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-015" value="B"> B. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-015" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-015" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Vancomicina para todo neutropênico febril: falso; use por indicação. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>16. A banca tenta derrubar com a seguinte ideia: MASCC alto libera automaticamente: falso; instabilidade, pneumonia, dor abdominal, organ dysfunction e suporte social mandam. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-016" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-016" value="B"> B. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-016" value="C"> C. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-016" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: MASCC alto libera automaticamente: falso; instabilidade, pneumonia, dor abdominal, organ dysfunction e suporte social mandam. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q29. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>17. A banca tenta derrubar com a seguinte ideia: Allopurinol trata úrico já alto rapidamente: falso. Rasburicase degrada úrico existente. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q40 | espelho local do candidato: A (não oficial)</p>
+<p><strong>11. Paciente admitido no Departamento de Emergência com febre de 38,5°C e sem outros sintomas aparentes. Em tratamento de neoplasia de pulmão, está no 10º dia após a quimioterapia. Durante a avaliação inicial, recebeu antibioticoterapia parenteral de amplo espectro na primeira hora. Encontra-se hemodinamicamente estável, sem foco infeccioso evidente, com estratificação de risco nas escalas MASCC alta e CISNE baixa e contagem total de leucócitos em 500 cel/mm3. Considerando o cenário e as informações do texto, qual é a conduta mais apropriada?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-017" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-017" value="B"> B. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-017" value="C"> C. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-017" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-011" value="A"> A. Manter antibióticos de amplo espectro por via endovenosa e realizar internação hospitalar.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-011" value="B"> B. Realizar observação e exames complementares, manter antibioticoterapia até a identificação do agente causador.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-011" value="C"> C. Descalonar para tratamento empírico com amoxicilina + clavulanato de potássio e ciprofloxacino via oral; reavaliar clinicamente em 72 horas ou antes, se houver deterioração.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-011" value="D"> D. Administrar fator estimulador de colônias de granulócitos o mais rapidamente possível</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Allopurinol trata úrico já alto rapidamente: falso. Rasburicase degrada úrico existente. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>18. A banca tenta derrubar com a seguinte ideia: Alcalinizar urina na lise tumoral é rotina: falso na prática atual. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-018" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-018" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-018" value="C"> C. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-018" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Alcalinizar urina na lise tumoral é rotina: falso na prática atual. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>19. A banca tenta derrubar com a seguinte ideia: Hipocalcemia na lise sempre repor: falso; repor se sintomática/ECG, pois pode piorar deposição Ca-P. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-019" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-019" value="B"> B. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-019" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-019" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Hipocalcemia na lise sempre repor: falso; repor se sintomática/ECG, pois pode piorar deposição Ca-P. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>20. A banca tenta derrubar com a seguinte ideia: Leucostase depende só do valor de leucócitos: falso; sintoma manda. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-020" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-020" value="B"> B. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-020" value="C"> C. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-020" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Leucostase depende só do valor de leucócitos: falso; sintoma manda. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q40. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>21. A banca tenta derrubar com a seguinte ideia: Transfundir hemacia em leucostase sempre ajuda: pode piorar viscosidade se não indispensável. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q69 | espelho local do candidato: A (não oficial)</p>
+<p><strong>12. Nos casos de acidente vascular cerebral hemorrágico, a reversão de coagulopatias é de vital importância para evitar a expansão do hematoma. Sobre esse tema, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-021" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-021" value="B"> B. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-021" value="C"> C. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-021" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-012" value="A"> A. Andexanet alfa é o agente de escolha para reverter os inibidores do fator Xa, pela melhor eficácia hemostática e pelo menor número de eventos trombóticos que o cuidado usual.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-012" value="B"> B. Idarucizumab é o agente de escolha para reverter os inibidores do fator Xa, pois tem maior eficácia hemostática que o complexo protrombínico.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-012" value="C"> C. Complexo concentrado de protrombina é o agente de escolha para reversão dos derivados de varfarina por seu efeito mais rápido que o plasma fresco congelado, mas sem diferença na expansão do hematoma entre os dois agentes.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-012" value="D"> D. A transfusão de plaquetas na vigência de plaquetopenia é controversa e contraindicada na maioria dos casos.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Transfundir hemacia em leucostase sempre ajuda: pode piorar viscosidade se não indispensável. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>22. A banca tenta derrubar com a seguinte ideia: SVCS sempre é emergência fatal: falso; grave se via aérea/cérebro/instabilidade. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-022" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-022" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-022" value="C"> C. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-022" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: SVCS sempre é emergência fatal: falso; grave se via aérea/cérebro/instabilidade. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>23. A banca tenta derrubar com a seguinte ideia: Corticoide em toda SVCS antes de biópsia: falso; pode atrapalhar diagnóstico de linfoma. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-023" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-023" value="B"> B. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-023" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-023" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Corticoide em toda SVCS antes de biópsia: falso; pode atrapalhar diagnóstico de linfoma. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q69. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>24. A banca tenta derrubar com a seguinte ideia: Dor lombar em câncer sem trauma e "lombalgia comum": perigoso; pensar compressão medular. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q72 | espelho local do candidato: D (não oficial)</p>
+<p><strong>13. Uma menina de 6 anos, portadora de anemia falciforme (HbSS), é trazida ao Departamento de Emergência com dor torácica intensa e febre aferida de 38,9°C. Encontra-se taquipneica (frequência respiratória de 42 irpm), com discretas retrações intercostais, saturação periférica de oxigênio de 93% em ar ambiente. Refere início da dor há 12 horas, que se intensificou progressivamente, associada à tosse seca e à dor abdominal. O exame físico revela murmúrio vesicular reduzido em base direita. Exames complementares demonstram hemoglobina em 6,5 g/dL (hemoglobina prévia recente de 8,2), leucócitos em 27.000/mm³ e plaquetas em 110.000/mm³. Raio X de tórax mostra infiltrado alveolar em base direita. Qual das condutas a seguir é mais adequada no atendimento inicial?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-024" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-024" value="B"> B. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-024" value="C"> C. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-024" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-013" value="A"> A. Iniciar transfusão de concentrado de hemácias visando à elevação da hemoglobina para 11 g/dL, sem necessidade de antibiótico empírico.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-013" value="B"> B. Prescrever cetoprofeno e paracetamol para dor, observar evolução clínica por 6 horas antes de decidir por antibioticoterapia, pois se trata de síndrome torácica aguda leve e autolimitada.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-013" value="C"> C. Iniciar antibioticoterapia empírica com ceftriaxona e azitromicina, oxigenoterapia para manter saturação de oxigênio ≥ 94% e considerar transfusão caso queda de hemoglobina ≥ 2 g/dL em relação ao basal.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-013" value="D"> D. Administrar corticoterapia sistêmica de início precoce para reduzir inflamação pulmonar, iniciar dipirona e manter observação sem oxigenoterapia, já que a saturação de oxigênio está &gt; 90%.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Dor lombar em câncer sem trauma e "lombalgia comum": perigoso; pensar compressão medular. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q72. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>25. A banca tenta derrubar com a seguinte ideia: TTP recebe plaqueta porque plaqueta está baixa: falso salvo sangramento ameaçador. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q74 | espelho local do candidato: A (não oficial)</p>
+<p><strong>14. Um homem de 58 anos, com histórico de adenocarcinoma de pulmão tratado há 1 ano, é trazido à emergência por familiares após apresentar quadro de sonolência progressiva e dificuldade de fala nas últimas 24 horas. Ao exame físico: escala de coma de Glasgow 11 (resposta ocular 3, resposta verbal 3, resposta motora de 5), pupilas isocóricas e reativas, PA 190 × 100 mmHg, FC de 65 bpm, sem sinais localizatórios evidentes. A equipe realiza ultrassonografia à beira do leito com sonda linear em modo B, obtendo a imagem a seguir e as medidas aferidas estão descritas ao lado: Medida diâmetro da bainha do nervo óptico: - Olho esquerdo: 0,78 cm. - Olho direito: 0,74 cm. Com base no quadro clínico e nos achados do ultrassom, assinale a alternativa correta:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-025" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-025" value="B"> B. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-025" value="C"> C. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-025" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-014" value="A"> A. O achado do diâmetro da bainha do nervo óptico &gt; 6 mm, nesse contexto clínico, é compatível com hipertensão intracraniana e pode orientar a adoção precoce de medidas terapêuticas, mesmo antes da tomografia.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-014" value="B"> B. A preservação da morfologia do disco óptico à ultrassonografia descarta hipertensão intracraniana clinicamente significativa.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-014" value="C"> C. O diâmetro da bainha do nervo óptico &gt; 6 mm é útil apenas em pacientes com traumatismo cranioencefálico grave, não tendo valor preditivo comprovado em causas não traumáticas.</label>
+<label class="quiz-option"><input type="radio" name="q-t015-014" value="D"> D. Para ser considerado sugestivo de hipertensão intracraniana, o aumento do diâmetro da bainha do nervo óptico deve ser acompanhado de sinais pupilares, como anisocoria ou midríase fixa.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: TTP recebe plaqueta porque plaqueta está baixa: falso salvo sangramento ameaçador. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>26. A banca tenta derrubar com a seguinte ideia: Reação transfusional: diminuir velocidade e observar: falso se suspeita relevante; pare e investigue. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-026" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-026" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-026" value="C"> C. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-026" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Reação transfusional: diminuir velocidade e observar: falso se suspeita relevante; pare e investigue. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>27. A banca tenta derrubar com a seguinte ideia: TRALI e TACO são iguais: falso; TACO é sobrecarga e responde a diurético, TRALI é lesão pulmonar não cardiogênica. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-027" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-027" value="B"> B. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-027" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-027" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: TRALI e TACO são iguais: falso; TACO é sobrecarga e responde a diurético, TRALI é lesão pulmonar não cardiogênica. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>28. A banca tenta derrubar com a seguinte ideia: Falciforme com Sat 93 e infiltrado pode observar sem antibiótico: falso; STA. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-028" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-028" value="B"> B. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-028" value="C"> C. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-028" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Falciforme com Sat 93 e infiltrado pode observar sem antibiótico: falso; STA. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>29. A banca tenta derrubar com a seguinte ideia: AVC hemorrágico em varfarina reverte com PFC por ser mais disponível: PCC + vitamina K é mais rápido/efetivo se disponível. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-029" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-029" value="B"> B. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-029" value="C"> C. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-029" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: AVC hemorrágico em varfarina reverte com PFC por ser mais disponível: PCC + vitamina K é mais rápido/efetivo se disponível. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-## Checklist de revisão
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>30. Antes da prova, este ponto precisa estar automático: Sei definir febre e ANC na neutropenia febril. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-030" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-030" value="B"> B. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei definir febre e ANC na neutropenia febril.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-030" value="C"> C. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-030" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei definir febre e ANC na neutropenia febril. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>31. Antes da prova, este ponto precisa estar automático: Sei iniciar cefepime/pip-tazo/meropenem em até 60 min. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-031" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-031" value="B"> B. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-031" value="C"> C. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei iniciar cefepime/pip-tazo/meropenem em até 60 min.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-031" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei iniciar cefepime/pip-tazo/meropenem em até 60 min. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>32. Antes da prova, este ponto precisa estar automático: Sei quando adicionar vancomicina. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-032" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-032" value="B"> B. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-032" value="C"> C. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-032" value="D"> D. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei quando adicionar vancomicina.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei quando adicionar vancomicina. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>33. Antes da prova, este ponto precisa estar automático: Sei reconhecer TLS e tratar hiperK antes do resto. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-033" value="A"> A. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei reconhecer TLS e tratar hiperK antes do resto.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-033" value="B"> B. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-033" value="C"> C. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-033" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei reconhecer TLS e tratar hiperK antes do resto. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>34. Antes da prova, este ponto precisa estar automático: Sei diferenciar allopurinol de rasburicase. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-034" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-034" value="B"> B. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei diferenciar allopurinol de rasburicase.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-034" value="C"> C. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-034" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei diferenciar allopurinol de rasburicase. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>35. Antes da prova, este ponto precisa estar automático: Sei suspeitar leucostase/hiperviscosidade por sintomas. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-035" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-035" value="B"> B. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-035" value="C"> C. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei suspeitar leucostase/hiperviscosidade por sintomas.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-035" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei suspeitar leucostase/hiperviscosidade por sintomas. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>36. Antes da prova, este ponto precisa estar automático: Sei SVCS grave vs estável e quando corticoide não é rotina. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-036" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-036" value="B"> B. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-036" value="C"> C. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-036" value="D"> D. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei SVCS grave vs estável e quando corticoide não é rotina.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei SVCS grave vs estável e quando corticoide não é rotina. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>37. Antes da prova, este ponto precisa estar automático: Sei compressão medular metastática: dexametasona, RM e radio/neuro. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-037" value="A"> A. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei compressão medular metastática: dexametasona, RM e radio/neuro.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-037" value="B"> B. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-037" value="C"> C. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-037" value="D"> D. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei compressão medular metastática: dexametasona, RM e radio/neuro. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>38. Antes da prova, este ponto precisa estar automático: Sei STA falciforme e quando transfundir. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-038" value="A"> A. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-038" value="B"> B. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei STA falciforme e quando transfundir.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-038" value="C"> C. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-038" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei STA falciforme e quando transfundir. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>39. Antes da prova, este ponto precisa estar automático: Sei parar transfusão e diferenciar TRALI/TACO/anafilaxia/hemólise. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-039" value="A"> A. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-039" value="B"> B. Atribuir dispneia pós-transfusão sempre a ansiedade, sem pensar TRALI/TACO.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-039" value="C"> C. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei parar transfusão e diferenciar TRALI/TACO/anafilaxia/hemólise.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-039" value="D"> D. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei parar transfusão e diferenciar TRALI/TACO/anafilaxia/hemólise. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>40. Antes da prova, este ponto precisa estar automático: Sei reversão de varfarina, dabigatrana, Xa e heparina. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-040" value="A"> A. Aguardar confirmação histológica para manejar compressão medular/SVCS crítica.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-040" value="B"> B. Esperar neutrófilos ou culturas para iniciar antibiótico em febre neutropênica grave.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-040" value="C"> C. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-040" value="D"> D. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei reversão de varfarina, dabigatrana, Xa e heparina.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei reversão de varfarina, dabigatrana, Xa e heparina. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>41. Antes da prova, este ponto precisa estar automático: Sei TTP: plasma exchange, não plaqueta de rotina. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t015-041" value="A"> A. Reconhecer emergência hemato-oncológica, tratar infecção/hiperviscosidade/lise/coagulopatia cedo e acionar especialista sem atrasar suporte. Para revisão final, fixe especificamente: Sei TTP: plasma exchange, não plaqueta de rotina.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-041" value="B"> B. Tratar dor falciforme só com hidratação e deixar analgesia potente para depois.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-041" value="C"> C. Transfundir reação suspeita sem parar hemocomponente e reavaliar ABC.</label>
-<label class="quiz-option"><input type="radio" name="q-t015-041" value="D"> D. Ignorar hipercalemia/hiperfosfatemia na síndrome de lise tumoral.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei TTP: plasma exchange, não plaqueta de rotina. Hemato-onco cobra tempo: febre neutropênica é antibiótico rápido, lise tumoral é rim/eletrólito, transfusão exige identificar reação. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q74. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>

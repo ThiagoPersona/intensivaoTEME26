@@ -1,268 +1,193 @@
 # Prova: Oftalmo, otorrino e odonto
 
-Banco refinado do tema 019, baseado no capítulo **Oftalmo, otorrino e odonto**, nas questões/estações mapeadas, nas pegadinhas e no checklist de revisão. Resolva como prova: escolha a melhor alternativa e depois clique em **Checar resposta**.
+Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Questões autorais e reescritas para estudo, sem cópia literal dos cadernos, livros ou slides. O foco é treinar decisão clínica, padrão da banca e armadilhas recorrentes.
+> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-## Questões e estações
+**Itens pontuados neste banco:** 8 com gabarito oficial TEME22-24 + 4 do TEME25 com espelho local.
 
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22</p>
-<p><strong>1. Em uma questão/estação inspirada em TEME22, aparece este padrão: fotoceratite/lesão ocular por solda; glaucoma agudo; questões com termos ocular/oftalmo/otorrino/odonto. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+## Questões em estilo TEME
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">TEME22 Q26 | gabarito oficial: B</p>
+<p><strong>1. Paciente procura o DE por volta das 23:00h com queixa de intensa dor ocular, a avaliação apresenta edema importante de pálpebras e hiperemia conjuntival, ele refere que trabalhou com solda durante o dia, há cerca de 6 horas, e depois iniciou a irritação ocular. Qual sua conduta inicial?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-001" value="A"> A. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. O achado-chave do enunciado é: fotoceratite/lesão ocular por solda; glaucoma agudo; questões com termos ocular/oftalmo/otorrino/odonto.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-001" value="B"> B. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-001" value="C"> C. Ignorar trismo, disfagia ou elevação de assoalho em infecção odontogênica.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-001" value="D"> D. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-001" value="A"> A. Solicitar transferência com urgência para serviço de oftalmologia</label>
+<label class="quiz-option"><input type="radio" name="q-t019-001" value="B"> B. Lavagem exaustiva com soro fisiológico e limpeza local com algodão</label>
+<label class="quiz-option"><input type="radio" name="q-t019-001" value="C"> C. Uso de colírio anestésico</label>
+<label class="quiz-option"><input type="radio" name="q-t019-001" value="D"> D. Uso de substância neutralizante de pH</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: fotoceratite/lesão ocular por solda; glaucoma agudo; questões com termos ocular/oftalmo/otorrino/odonto. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q26. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24</p>
-<p><strong>2. Em uma questão/estação inspirada em TEME24, aparece este padrão: olho vermelho/glaucoma, vertigem/otorrino, epistaxe e POCUS ocular em contexto de prova. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q69 | gabarito oficial: B</p>
+<p><strong>2. Paciente 61 anos, diagnosticado com Diabetes e Hipertensão, procura atendimento com relato de extração dentária há 7 dias, apresentando febre há 2 dias, odinofagia e aumento do volume cervical. Sinais vitais no momento do atendimento estáveis e triado como prioridade Verde de atendimento. Ao exame físico, presença de edema submandibular bilateral com sinais flogísticos e protrusão da língua, segue imagem do exame físico dessa paciente. Sobre o caso acima escolha a alternativa correta:</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-002" value="A"> A. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-002" value="B"> B. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. O achado-chave do enunciado é: olho vermelho/glaucoma, vertigem/otorrino, epistaxe e POCUS ocular em contexto de prova.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-002" value="C"> C. Tratar olho vermelho doloroso com corticoide tópico sem excluir úlcera/herpes/glaucoma.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-002" value="D"> D. Fazer curativo compressivo em suspeita de globo aberto.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-002" value="A"> A. A melhor conduta para o caso é antibioticoterapia por via oral associados a analgésicos e retorno imediato ao consultório odontológico para manejo dessa complicação tardia da cirurgia</label>
+<label class="quiz-option"><input type="radio" name="q-t019-002" value="B"> B. Encaminhar paciente à sala de emergência para avaliação de intubação traqueal precoce e antibiótico parenteral</label>
+<label class="quiz-option"><input type="radio" name="q-t019-002" value="C"> C. Internação em leito de enfermaria para administração de antibiótico parenteral e avaliação do cirurgião de plantão</label>
+<label class="quiz-option"><input type="radio" name="q-t019-002" value="D"> D. Trata-se de um abscesso cervical com bom prognóstico se iniciado antibioticoterapia, a paciente em questão não tem indicação de internação hospitalar</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: olho vermelho/glaucoma, vertigem/otorrino, epistaxe e POCUS ocular em contexto de prova. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME22 Q69. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25</p>
-<p><strong>3. Em uma questão/estação inspirada em TEME25, aparece este padrão: POCUS ocular/descolamento de retina; ONSD/HIC em POCUS/neuro; vertigem e deficiência visual. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME22 Q106 | gabarito oficial: C</p>
+<p><strong>3. Paciente, sexo feminino, 63 anos, procura DE com quadro de dor ocular intensa, vômitos e diminuição da acuidade visual há 4 horas, apresentando edema de córnea e pupila hiporreativa. Qual sua principal hipótese diagnósti ca?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-003" value="A"> A. Fazer curativo compressivo em suspeita de globo aberto.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-003" value="B"> B. Chamar vertigem de labirintite sem exame neurológico ou sinais centrais.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-003" value="C"> C. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. O achado-chave do enunciado é: POCUS ocular/descolamento de retina; ONSD/HIC em POCUS/neuro; vertigem e deficiência visual.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-003" value="D"> D. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-003" value="A"> A. Uveíte Anterior</label>
+<label class="quiz-option"><input type="radio" name="q-t019-003" value="B"> B. Conjuntivite</label>
+<label class="quiz-option"><input type="radio" name="q-t019-003" value="C"> C. Glaucoma Agudo</label>
+<label class="quiz-option"><input type="radio" name="q-t019-003" value="D"> D. Endoftalmite</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: POCUS ocular/descolamento de retina; ONSD/HIC em POCUS/neuro; vertigem e deficiência visual. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME22 Q106. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Práticas</p>
-<p><strong>4. Em uma questão/estação inspirada em Práticas, aparece este padrão: temas de via aérea difícil podem envolver infecção cervical/angioedema e necessidade de chamar ajuda cedo. Qual raciocínio é mais seguro para marcar a alternativa?</strong></p>
+<p class="quiz-source">TEME23 Q61 | gabarito oficial: D</p>
+<p><strong>4. Paciente de 29 anos refere episódios intermitentes e súbitos de dor periorbitária esquerda, em “pontada”, irradiada para a região frontal de forte intensidade (intensidade 10/10), Ao exame apresenta: Lacrimejamento, hiperemia conjuntival, discreta ptose e miose esquerdas de acordo com a imagem abaixo. As crises de dor têm duração de 60 minutos e piora após abuso de álcool. Nega dor à mastigação e dor à palpação da região temporal. Veja imagem abaixo: Qual a conduta apropriada inicial para controle da crise de cefaléia e a hipótese diagnóstica mais provável?</strong></p>
+<p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-004" value="A"> A. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-004" value="B"> B. Ignorar trismo, disfagia ou elevação de assoalho em infecção odontogênica.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-004" value="C"> C. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-004" value="D"> D. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. O achado-chave do enunciado é: temas de via aérea difícil podem envolver infecção cervical/angioedema e necessidade de chamar ajuda cedo.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-004" value="A"> A. Corticoide / Arterite temporal</label>
+<label class="quiz-option"><input type="radio" name="q-t019-004" value="B"> B. Triptano + AINEs / Migrânea</label>
+<label class="quiz-option"><input type="radio" name="q-t019-004" value="C"> C. Tomografia de crânio / Hemorragia subaracnóidea</label>
+<label class="quiz-option"><input type="radio" name="q-t019-004" value="D"> D. Sumatriptano Nasal + Oxigênio / Cluster Headache</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: temas de via aérea difícil podem envolver infecção cervical/angioedema e necessidade de chamar ajuda cedo. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME23 Q61. Gabarito oficial: D.</p>
 </div>
 </div>
 
-## Pegadinhas TEME
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>5. A banca tenta derrubar com a seguinte ideia: Olho vermelho = conjuntivite: falso se dor forte, baixa visual, fotofobia, pupila/córnea alterada ou trauma/químico. Qual alternativa evita a armadilha?</strong></p>
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME23 Q85 | gabarito oficial: C</p>
+<p><strong>5. O homem procura o DE por vir apresentando há 5 dias hiperemia conjuntival mais intensa em um dos olhos, presença de folículos na conjuntiva e adenopatia pré-auricular. Qual a conduta mais correta para o quadro?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-005" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-005" value="B"> B. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-005" value="C"> C. Tratar olho vermelho doloroso com corticoide tópico sem excluir úlcera/herpes/glaucoma.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-005" value="D"> D. Fazer curativo compressivo em suspeita de globo aberto.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-005" value="A"> A. Prescrever antialérgicos orais e colírios oftálmicos com ação antialérgica.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-005" value="B"> B. Colírio de antibiótico (quinolonas de amplo espectro – ofloxacino ou ciprofloxacino) 4x/dia por 5 a 7 dias.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-005" value="C"> C. Colírios lubrificantes, compressas frias, orientações de higiene e cuidados para evitar contaminação e transmissão.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-005" value="D"> D. Eritromicina pomada 0,5% 4 x/dia e via oral de 6/6h por 10-14 dias e coletar secreção (Gram e cultura).</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Olho vermelho = conjuntivite: falso se dor forte, baixa visual, fotofobia, pupila/córnea alterada ou trauma/químico. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME23 Q85. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME24 Q10 | gabarito oficial: C</p>
+<p><strong>6. Dentre as quatro alternativas, marque aquela que mais provavelmente descreve um paciente com diagnóstico de glaucoma agudo de ângulo fechado:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t019-006" value="A"> A. Paciente trabalhador de indústria metalúrgica com queixa de olho vermelho após turno de trabalho, com dor importante no olho direito e hiperemia difusa de conjuntiva.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-006" value="B"> B. Paciente com relato de infecção de vias áreas recente, evoluindo com dor e hiperemia da conjuntiva e da pálpebra do olho direito.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-006" value="C"> C. Paciente com dor intensa de início súbito, no olho esquerdo, com consistência pétrea ao toque e náuseas e vômitos associados.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-006" value="D"> D. Paciente com dor intensa no olho esquerdo de início há alguns dias, associada à turvação visual e reação de câmara anterior ao exame de lâmpada de fenda. Utilize o enunciado a seguir como referências das questões 11 a 13. Paciente de 89 anos, com histórico (descrito em prontuário) de insuficiência cardíaca com fração de ejeção reduzida (28%) após infarto agudo do miocárdio no ano anterior, está em sala de emergência de um grande centro urbano brasileiro há cerca de 6 horas após ter sofrido queda da própria altura associada à fratura transtrocanteriana de fêmur. Evoluiu com quadro de choque e insuficiência respiratória refratários. A equipe multiprofissional, após conversa com familiares, opta por não indicar tratamento cirúrgico ou Suporte Avançado à Vida, considerando comorbidades e funcionalidade prévia.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q10. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME24 Q47 | gabarito oficial: C</p>
+<p><strong>7. Paciente do sexo masculino, 46 anos, com hipertensão arterial sistêmica de difícil controle. Vem à Emergência por quadro de vertigem persistente com mais de 24 horas de duração e piora progressiva. Nunca teve quadro parecido previamente e não relata fator desencadeante. Apresenta head impulse test positivo, Skew deviation negativo e nistagmo horizontal. Qual o melhor diagnóstico para o paciente e qual manejo sintomático?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t019-007" value="A"> A. Vertigem Posicional Paroxística Benigna e manobra de Epley.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-007" value="B"> B. Acidente vascular encefálico de fossa posterior e ácido acetilsalicílico + estatina.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-007" value="C"> C. Neurite vestibular e corticoide.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-007" value="D"> D. Vertigem Posicional Paroxística Benigna e teste de Hallpike.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME24 Q47. Gabarito oficial: C.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">TEME24 Q61 | gabarito oficial: D</p>
+<p><strong>8. Sobre o manejo da epistaxe anterior, marque a verdadeira:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t019-008" value="A"> A. A cauterização com nitrato de prata só deve ser realizada em pacientes que não respondam à aplicação de ácido tranexâmico.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-008" value="B"> B. O tamponamento nasal resulta na resolução mais rápida do sangramento e em menor tempo de permanência no Departamento de Emergência comparado ao ácido tranexâmico.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-008" value="C"> C. A cauterização com nitrato de prata é a melhor opção diante de um paciente com sangramento ativo abundante.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-008" value="D"> D. Se a cauterização não for eficaz, pode-se considerar o uso de ácido tranexâmico antes de proceder à colocação do tampão nasal.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: TEME24 Q61. Gabarito oficial: D.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">TEME25 Q9 | espelho local do candidato: C (não oficial)</p>
+<p><strong>9. Um paciente de 45 anos chega ao Departamento de Emergência hospitalar relatando que, após tratamento dentário, teve “inchaço” importante e dor no pescoço. Chega em insuficiência respiratória franca, com edema cervical importante, especialmente à direita. É tomada a decisão de abordar a via aérea imediatamente. Sobre isso, assinale a alternativa correta:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="q-t019-009" value="A"> A. A cricotireoidostomia como estratégia primária deve ser considerada nesse caso.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-009" value="B"> B. A abordagem com fibroscopia com o paciente acordado é recomendada nesse caso.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-009" value="C"> C. É imprescindível a utilização do ultrassom point-of-care para correta localização da membrana cricotireoidea.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-009" value="D"> D. Na falha de intubação orotraqueal, ao realizar cricotireoidostomia como resgate, a incisão mediana deve ter 4 a 5 cm a partir da cartilagem tireóidea.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q9. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>6. A banca tenta derrubar com a seguinte ideia: Queimadura química espera oftalmo: falso. Irrigação é imediata. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q77 | espelho local do candidato: B (não oficial)</p>
+<p><strong>10. Paciente de 28 anos, previamente míope de grau elevado há 10 anos, com uso regular de óculos corretor, procura o Departamento de Emergência após notar uma dificuldade de enxergar do olho esquerdo desde que acordou. Relata a sensação de flashes luminosos na visão periférica do olho esquerdo, nega dor local. Ao exame físico, ele não apresenta alterações à inspeção ao olho nu. Seus reflexos fotomotor e consensual encontram-se preservados e ele não possui alterações no teste de Snellen (feito com os óculos). Sobre o quadro desse paciente, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-006" value="A"> A. Fazer curativo compressivo em suspeita de globo aberto.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-006" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-006" value="C"> C. Chamar vertigem de labirintite sem exame neurológico ou sinais centrais.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-006" value="D"> D. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-010" value="A"> A. A ausência de dor neste contexto descarta a possibilidade de quadros graves, sendo indicado o manejo ambulatorial.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-010" value="B"> B. A ultrassonografia point-of-care ocular pode confirmar o diagnóstico mesmo na ausência de exame de lâmpada de fenda.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-010" value="C"> C. Uso de colírios hipotensores deve ser iniciado imediatamente.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-010" value="D"> D. Ausência de trauma associado tranquiliza sobre a possibilidade de o tratamento ser cirúrgico.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Queimadura química espera oftalmo: falso. Irrigação é imediata. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q77. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>7. A banca tenta derrubar com a seguinte ideia: Descolamento de retina dói muito: geralmente não. Flashes, moscas e cortina são pistas. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q93 | espelho local do candidato: C (não oficial)</p>
+<p><strong>11. Paciente do sexo masculino, 66 anos, hipertenso e cardiopata isquêmico, vem ao Departamento de Emergência com queixa de vertigem há 1 dia. Nega trauma, febre, hemorragias ou uso de algum remédio fora do habitual. No exame físico do HINTS plus apresentou: - Teste do impulso cefálico normal. - Nistagmo unilateral evocado pelo olhar e sem nistagmo espontâneo. - Skew Test com deslocamento horizontal dos olhos. - Perda de audição: unilateral. Conforme o quadro acima, qual a melhor investigação para confirmação diagnóstica?</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-007" value="A"> A. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-007" value="B"> B. Ignorar trismo, disfagia ou elevação de assoalho em infecção odontogênica.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-007" value="C"> C. Não comprar a frase-armadilha; responder pelo princípio: Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-007" value="D"> D. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-011" value="A"> A. Tomografia computadorizada de crânio com angiotomografia.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-011" value="B"> B. Ressonância magnética de encéfalo com urgência.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-011" value="C"> C. Manobra de Dix-Hallpike seguido de manobra de Epley.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-011" value="D"> D. Ressonância magnética de encéfalo após 48 horas do início dos sintomas.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Descolamento de retina dói muito: geralmente não. Flashes, moscas e cortina são pistas. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q93. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>8. A banca tenta derrubar com a seguinte ideia: PIO deve ser medida em todo trauma ocular: falso se suspeita globo aberto. Qual alternativa evita a armadilha?</strong></p>
+<p class="quiz-source">TEME25 Q95 | espelho local do candidato: D (não oficial)</p>
+<p><strong>12. Paciente de 25 anos, em tratamento para doença de Crohn, apresenta-se ao Departamento de Emergência com queixa de sensação de face congesta e dor tipo pressão facial há 7 dias. Ele relata que apresentou um quadro de sintomas gripais, com descarga nasal, e febre ao início dos sintomas; estava em melhora clínica, porém voltou a ter sintomas intensos nos últimos 3 dias. Baseado nesse quadro clínico, está indicado:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-008" value="A"> A. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-008" value="B"> B. Tratar olho vermelho doloroso com corticoide tópico sem excluir úlcera/herpes/glaucoma.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-008" value="C"> C. Fazer curativo compressivo em suspeita de globo aberto.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-008" value="D"> D. Não comprar a frase-armadilha; responder pelo princípio: Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-012" value="A"> A. Cultura de aspirado do seio nasal (se disponível) e início de antibioticoterapia oral empírica.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-012" value="B"> B. Solicitar raio X de seios da face e aguardar resultado para definir tratamento.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-012" value="C"> C. Tomografia computadorizada de seios da face com contraste e aguardar resultado para definir tratamento.</label>
+<label class="quiz-option"><input type="radio" name="q-t019-012" value="D"> D. Indicar lavagem nasal e sintomáticos, por se tratar de possível quadro viral.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: PIO deve ser medida em todo trauma ocular: falso se suspeita globo aberto. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>9. A banca tenta derrubar com a seguinte ideia: HINTS normal por qualquer médico exclui AVC: falso. Exige cenário e técnica corretos. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-009" value="A"> A. Não comprar a frase-armadilha; responder pelo princípio: Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-009" value="B"> B. Fazer curativo compressivo em suspeita de globo aberto.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-009" value="C"> C. Chamar vertigem de labirintite sem exame neurológico ou sinais centrais.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-009" value="D"> D. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: HINTS normal por qualquer médico exclui AVC: falso. Exige cenário e técnica corretos. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Pegadinhas TEME</p>
-<p><strong>10. A banca tenta derrubar com a seguinte ideia: Infecção dentária é sempre ambulatorial: falso se trismo, disfagia, assoalho de boca, sialorreia ou estridor. Qual alternativa evita a armadilha?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-010" value="A"> A. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-010" value="B"> B. Não comprar a frase-armadilha; responder pelo princípio: Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-010" value="C"> C. Ignorar trismo, disfagia ou elevação de assoalho em infecção odontogênica.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-010" value="D"> D. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Infecção dentária é sempre ambulatorial: falso se trismo, disfagia, assoalho de boca, sialorreia ou estridor. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-## Checklist de revisão
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>11. Antes da prova, este ponto precisa estar automático: Sei red flags do olho vermelho. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-011" value="A"> A. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-011" value="B"> B. Tratar olho vermelho doloroso com corticoide tópico sem excluir úlcera/herpes/glaucoma.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-011" value="C"> C. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. Para revisão final, fixe especificamente: Sei red flags do olho vermelho.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-011" value="D"> D. Fazer curativo compressivo em suspeita de globo aberto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei red flags do olho vermelho. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>12. Antes da prova, este ponto precisa estar automático: Sei glaucoma agudo: dor, halos, vômitos, pupila média, córnea turva. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-012" value="A"> A. Fazer curativo compressivo em suspeita de globo aberto.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-012" value="B"> B. Chamar vertigem de labirintite sem exame neurológico ou sinais centrais.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-012" value="C"> C. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-012" value="D"> D. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. Para revisão final, fixe especificamente: Sei glaucoma agudo: dor, halos, vômitos, pupila média, córnea turva.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei glaucoma agudo: dor, halos, vômitos, pupila média, córnea turva. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>13. Antes da prova, este ponto precisa estar automático: Sei retina: flashes, moscas novas e cortina. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-013" value="A"> A. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. Para revisão final, fixe especificamente: Sei retina: flashes, moscas novas e cortina.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-013" value="B"> B. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-013" value="C"> C. Ignorar trismo, disfagia ou elevação de assoalho em infecção odontogênica.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-013" value="D"> D. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei retina: flashes, moscas novas e cortina. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>14. Antes da prova, este ponto precisa estar automático: Sei que químico ocular é irrigação imediata. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-014" value="A"> A. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-014" value="B"> B. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. Para revisão final, fixe especificamente: Sei que químico ocular é irrigação imediata.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-014" value="C"> C. Tratar olho vermelho doloroso com corticoide tópico sem excluir úlcera/herpes/glaucoma.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-014" value="D"> D. Fazer curativo compressivo em suspeita de globo aberto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> O gatilho da questão é: Sei que químico ocular é irrigação imediata. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>15. Antes da prova, este ponto precisa estar automático: Sei epistaxe anterior vs posterior. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-015" value="A"> A. Fazer curativo compressivo em suspeita de globo aberto.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-015" value="B"> B. Chamar vertigem de labirintite sem exame neurológico ou sinais centrais.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-015" value="C"> C. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. Para revisão final, fixe especificamente: Sei epistaxe anterior vs posterior.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-015" value="D"> D. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> O gatilho da questão é: Sei epistaxe anterior vs posterior. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="D">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>16. Antes da prova, este ponto precisa estar automático: Sei quando vertigem é AVC posterior. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-016" value="A"> A. Liberar epistaxe posterior/anticoagulado sem controle e observação adequada.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-016" value="B"> B. Ignorar trismo, disfagia ou elevação de assoalho em infecção odontogênica.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-016" value="C"> C. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-016" value="D"> D. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. Para revisão final, fixe especificamente: Sei quando vertigem é AVC posterior.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> O gatilho da questão é: Sei quando vertigem é AVC posterior. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">Checklist de revisão</p>
-<p><strong>17. Antes da prova, este ponto precisa estar automático: Sei sinais de infecção odontogênica ameaçando via aérea. Qual resposta traduz melhor essa prioridade?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t019-017" value="A"> A. Separar queixa benigna de ameaça a visão/via aérea, controlar dor/sangramento e acionar especialista quando há red flag. Para revisão final, fixe especificamente: Sei sinais de infecção odontogênica ameaçando via aérea.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-017" value="B"> B. Atrasar irrigação de queimadura química ocular para medir acuidade primeiro.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-017" value="C"> C. Tratar olho vermelho doloroso com corticoide tópico sem excluir úlcera/herpes/glaucoma.</label>
-<label class="quiz-option"><input type="radio" name="q-t019-017" value="D"> D. Fazer curativo compressivo em suspeita de globo aberto.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> O gatilho da questão é: Sei sinais de infecção odontogênica ameaçando via aérea. Oftalmo/ORL/odonto costuma ser prova de red flags: olho vermelho perigoso, epistaxe grave, vertigem central e infecção odontogênica profunda. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q95. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
 </div>
 </div>
