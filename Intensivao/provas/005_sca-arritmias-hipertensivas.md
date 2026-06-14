@@ -11,7 +11,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q22 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q22</p>
 <p><strong>1. Mulher 34 anos deu entrada no Departamento de Emergência inconsciente mas com pulso central presente. Apresentava o ECG mostrado abaixo. Apesar dos esforços iniciais da equipe, a paciente desenvolve parada cardiorrespiratória com ritmo organizado (bradicardia sinusal FC 40 BPM). Qual a provável causa da PCR da paciente?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -27,7 +27,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q44 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q44</p>
 <p><strong>2. Paciente, sexo masculino, 78 anos, procura o DE com quadro de falta de ar importante e sensação de pressão no peito, apresenta histórico de hipertensão arterial sistêmica, diabetes mellitus e doença coronariana crônica. Faz uso de ácido acetilsalicílico, betabloqueador, clopidogrel e anlodipino. Apresentando ao exame físico PA: 74x58 mmHg, FC: 89 BPM; FR: 22 IRPM; SaO2: 93%, ausculta cardíaca com bulhas hipofonéticas, ausculta pulmonar com estertores crepitantes, edema de extremidades. Ao realizar eletrocardiograma apresenta supradesnivelamento de segmento ST em parede inferior, o paciente foi encaminhado imediatamente para a hemodinâmica. Foi realizado então angioplastia primária de artéria coronária direita. Após 6 horas da realização da angioplastia foi realizada coleta de exames, apresentando neste momento uma creatinina de 3,9 mg/dl e uréia de 108 mg/dl. Das razões abaixo, qual provavelmente não deve ser atribuída como causa da alteração renal?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -43,7 +43,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q68 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q68</p>
 <p><strong>3. Mulher 58 anos deu entrada com quadro de síncope no seu Departamento de Emergência. É hipertensa e diabética em uso regular de medicação. Apresenta história familiar de doença arterial coronariana. O Score San Francisco Syncope Rule apresenta 03 pontos (anormalidade ECG, hipotensão arterial e dispnéia). Segue o ECG: Quais as suas medidas terapêuticas iniciais?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -59,7 +59,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q93 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q93</p>
 <p><strong>4. Referência para Questões 92 e 93: Homem, 76 anos de idade, hipertenso há 10 anos em uso regular do tratamento medicamentoso, admitido na sala de emergência com quadro de confusão mental, letargia há duas horas associado a dispnéia em repouso. Apresenta também dor torácica em aperto, retroesternal, tipo A. Previamente independente para atividades básicas da vida diária. Faz uso de anlodipina 10mg por dia, AAS 100mg por dia e atorvastatina 40mg por dia. Ao exame clínico: ECG 14. FC: 38 BPM; PA: 88 x 52 mmHg; FR: 28 IRPM; SaO2: 88% em AA. Sem outras alterações ao exame. Foi obtido um eletrocardiograma de 12 derivações, reproduzido a seguir: Durante a estabilização e controle da frequência cardíaca acima, observou-se supradesnivelamento do segmento ST. Indicado intervenção coronariana percutânea mas o tempo de transporte até o hospital terciário somado ao tempo para a realização da angioplastia seria maior do que 120 minutos. Você opta por indicar tratamento fibrino-específico. Quais seriam as opções terapêuticas medicamentosas para o caso acima na ausência de contra–indicações?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -75,7 +75,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q111 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q111</p>
 <p><strong>5. Sobre choque cardiogênico, assinale a alternativa incorreta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-005" value="A"> A. O uso de vasodilatadores é possível no contexto para otimizar a póscarga, a vasodilatação melhora o quadro clínico por diminuir o trabalho cardíaco</label>
@@ -90,7 +90,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q8 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q8</p>
 <p><strong>6. Caso clínico para as questões 8 e 9: Uma menina de 10 anos de idade deu entrada no DE letárgica e com palidez cutânea-mucosa. Iniciado atendimento inicial, observa–se a pressão arterial é de 68/45 mmHg, a frequência cardíaca é de 180 bpm e a frequência respiratória é de 14 irpm. A SaO2 não é detectável. O tempo de preenchimento capilar é de 6 segundos. O acesso IV foi estabelecido. O ritmo cardíaco da paciente é mostrado abaixo: Qual a arritmia cardíaca da paciente?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-006" value="A"> A. Fibrilação atrial</label>
@@ -105,7 +105,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q9 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q9</p>
 <p><strong>7. Caso clínico para as questões 8 e 9: Uma menina de 10 anos de idade deu entrada no DE letárgica e com palidez cutânea-mucosa. Iniciado atendimento inicial, observa–se a pressão arterial é de 68/45 mmHg, a frequência cardíaca é de 180 bpm e a frequência respiratória é de 14 irpm. A SaO2 não é detectável. O tempo de preenchimento capilar é de 6 segundos. O acesso IV foi estabelecido. O ritmo cardíaco da paciente é mostrado abaixo: Qual a intervenção terapêutica indicada a seguir?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-007" value="A"> A. Cardioversão elétrica sincronizada com 0,5 a 1,0 J/Kg de peso</label>
@@ -120,7 +120,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q15 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q15</p>
 <p><strong>8. Homem 64 anos hipertenso e diabético tipo 2 deu entrada na Sala de Emergência com desconforto epigástrico após alimentação copiosa. Apresenta–se com palidez cutânea–mucosa e sudorese leve. Iniciado a monitorização evidenciando PA 74 x 56 mmHg; FC 67 bpm; SaO2 92%. POCUS Pulmonar: Eletrocardiograma: Qual a conduta correta mais apropriada para o paciente?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -136,7 +136,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q90 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q90</p>
 <p><strong>9. Paciente do sexo masculino, 60 anos, hipertenso em uso irregular de medicação. A filha informa que o paciente suspendeu por conta própria há 15 dias seus anti hipertensivos (captopril 75 mg/dia; propranolol 80 mg/dia; hidroclorotiazida 25 mg/dia). Há 08 dias refere mal estar, cefaléia, vertigem rotatória e náuseas. Ontem o paciente apresentou um borramento visual acentuado e hoje pela manhã apresentou crise convulsiva tônico-clônica generalizada, sendo trazido para o DE Ao exame clínico: - Neurológico: Sonolento/torporoso, GCS pontuando AO 2, RV 3 e RM 5, pupilas isocóricas, fotorreagentes, sem sinais neurológicos focais e sem rigidez de nuca. - Cardiovascular: PA = 227 x 151 mmHg, FC = 62 bpm. AC: RR, 2T, BNF, S/S - Respiratório: FR = 23 irpm, MV audível bilateralmente, sem ruídos adventícios, - Abdome e MMII sem alterações. Ao POCUS: - Pulmão: Padrão A bilateralmente - Coração: Qualitativamente com sinais hipertrofia ventricular concêntrica e Sem sinais derrame pericárdico - Abdome: ausência líquido livre; - Nervo Óptico: espessura da bainha nervo óptico com 7 mm Fundoscopia Qual o achado na fundoscopia e a hipótese diagnóstica mais provável/mecanismo fisiopatológico para o paciente em questão?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-009" value="A"> A. Papiledema; Acidente Vascular Cerebral Isquêmico e Aterosclerose</label>
@@ -151,7 +151,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q25 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q25</p>
 <p><strong>10. Mulher de 45 anos apresentou dor torácica retroesternal seguida de síncope, trazida ao hospital por familiares. À admissão na triagem do hospital, apresentava-se pálida, sudoreica, hipotensa e taquicardica, sendo encaminhada para a Sala Vermelha. Durante a monitorização, ficou irresponsiva. Confirmada a ausência de pulso central. São iniciadas manobras de ressuscitação cardiopulmonar. Seu serviço dispõe de ultrassonografia à beira leito e você decide utilizá-lo para avaliação. Com base na imagem a seguir, qual seria a melhor conduta?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -167,7 +167,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q26 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q26</p>
 <p><strong>11. Paciente do sexo masculino, 48 anos, tabagista, trabalhador da construção civil, teve um episódio de dor torácica associada à dispneia. A seguir, apresenta-se o eletrocardiograma do paciente, após melhora do quadro de dor. Fonte: Walls R, Hockberger R, Gausche-Hill M, Erickson TB, Wilcox SR. Rosen&#x27;s Emergency Medicine: Concepts and Clinical Practice. 10 ed. Philadelphia, PA: Elsevier; 2022. Com base nos achados desse traçado, o que pode ser afirmado?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -183,7 +183,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q55 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q55</p>
 <p><strong>12. Os tempos de tratamento refletem a eficiência e a qualidade do atendimento de um sistema que gerencia o cuidado de pacientes com suspeita de síndromes coronarianas agudas. Em relação ao enunciado, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-012" value="A"> A. Recomenda-se a realização e a interpretação do eletrocardiograma de 12 derivações em até 15 minutos da chegada do paciente ao hospital.</label>
@@ -198,7 +198,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q63 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q63</p>
 <p><strong>13. Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-013" value="A"> A. Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.</label>
@@ -213,7 +213,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q76 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q76</p>
 <p><strong>14. Sobre a abordagem do paciente com insuficiência cardíaca (IC) descompensada no Departamento de Emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-014" value="A"> A. O achado de crepitações na ausculta pulmonar apresenta razão de verossimilhança positiva superior ao do achado de turgência jugular.</label>
@@ -228,7 +228,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q98 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q98</p>
 <p><strong>15. Paciente do sexo masculino, 23 anos, previamente hígido, chega ao Departamento de Emergência após quadro de síncope durante partida de futebol com corrida de grande intensidade. Nega sintomas prévios, como febre, trauma ou uso de substâncias exógenas. Sinais vitais e exame físico sem alterações, incluindo medida da pressão arterial deitado e sentado. A equipe no atendimento inicial solicitou um eletrocardiograma, recebendo o resultado abaixo. Fonte: Walls R, Hockberger R, Gausche-Hill M, Erickson TB, Wilcox SR. Rosen&#x27;s Emergency Medicine: Concepts and Clinical Practice. 10 ed. Philadelphia, PA: Elsevier; 2022. Conforme a análise do eletrocardiograma e do quadro clínico, qual a melhor conduta?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -244,7 +244,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q99 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q99</p>
 <p><strong>16. Homem, de 58 anos, encaminhado da unidade de pronto atendimento devido a episódio súbito de dor torácica, seguida de rebaixamento de consciência e perda de pulso central. Recebeu Suporte Avançado de Vida na origem, com ressuscitação cardiopulmonar, apresentando retorno à circulação espontânea com 20 minutos. Na admissão na sala de emergência, encontra-se em uso midazolam, em infusão contínua e noradrenalina, na dose de 0,15 mcg/kg/minuto. Sinais vitais: pressão arterial de 130 X 70 mmHg, frequência cardíaca de 88 bpm, frequência respiratória de 16 irpm, saturação periférica de hemoglobina (SpO2) de 98%, tempo de enchimento capilar &lt; 2 segundos, temperatura de 34,7ºC, glicemia capilar de 120 mg/dL. Avaliação neurológica: escala de coma de Glasgow em 3/15, pupilas médias fixas, ausência de reflexo córneo-palpebral e ausência de reflexo de tosse. Drive ventilatório está ausente. Durante a avaliação, notam-se episódios de mioclonia. Com base nos achados da avaliação inicial desse caso e sabendo que a sedação foi desligada na admissão, podemos considerar a abertura do protocolo de Morte Encefálica (ME):</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-016" value="A"> A. Após 6 horas da admissão hospitalar e após aguardar cinco meia-vidas do desligamento da sedação, desde que mantidos os parâmetros hemodinâmicos da admissão.</label>
@@ -259,7 +259,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q30 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q30</p>
 <p><strong>17. Paciente 52 anos, etilista com histórico de miocardiopatia dilatada, chega ao Departamento de Emergência consciente, porém sudoreico, com início dos sintomas de tontura há 30 minutos. Apresenta esse traçado eletrocardiográfico: Conforme o quadro acima, qual o melhor manejo para o paciente?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-017" value="A"> A. Cardioversão elétrica sincronizada com 100 J, seguida de infusão de amiodarona na dose de 150 mg em 30 minutos.</label>
@@ -274,7 +274,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q35 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q35</p>
 <p><strong>18. Homem de 64 anos, hipertenso, tabagista, é atendido pelo Serviço de Atendimento Móvel de Urgência por dor torácica opressiva iniciada há 30 minutos. Encontra-se lúcido, sudorético, com pressão arterial 118 x 76 mmHg, frequência cardíaca de 86 bpm, saturação de oxigênio de 97% em ar ambiente. O eletrocardiograma obtido no atendimento pré-hospitalar é o seguinte: Para esse caso, assinale a alternativa com a melhor conduta para a equipe pré-hospitalar:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -290,7 +290,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q57 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q57</p>
 <p><strong>19. Um paciente doente renal crônico de 76 anos deu entrada na Emergência em bradicardia sintomática e instabilidade hemodinâmica. Foram realizadas medidas para restauração da frequência sem sucesso, e o paciente evoluiu com necessidade de marca-passo transvenoso. Após o término da diálise, o paciente ficou bastante agitado, referindo que estava sentindo soluços. Você foi chamado para avaliar o paciente: O que está acontecendo e qual a melhor conduta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-019" value="A"> A. O marca-passo está mal posicionado; deve-se impactar novamente o marca-passo de maneira estéril.</label>
@@ -305,7 +305,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q89 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q89</p>
 <p><strong>20. Um paciente de 70 anos, acamado há alguns meses, dependente para atividades básicas de vida, com insuficiência cardíaca New York Heart Association Classe IV com tratamento otimizado, apresenta, nos últimos 3 dias, uma piora significativa: dispneia ao repouso, permanece a maior parte do tempo sonolento, com períodos de despertar apenas para gemer ou queixar-se de cansaço, não responde com coerência, recusa totalmente a ingestão de alimentos e líquidos (Palliative Performance Scale - PPS - de 20). Apresenta queda do sulco nasolabial e mottling. Conversas sobre diretivas antecipadas com o paciente já vem acontecendo ambulatorialmente. Considerando o quadro clínico descrito, responda às duas questões a seguir. Qual a principal inferência diagnóstica e a prioridade de cuidado?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-020" value="A"> A. O paciente está em uma fase de descompensação aguda da insuficiência cardíaca; a prioridade é ajustar as medicações.</label>
@@ -320,7 +320,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q90 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q90</p>
 <p><strong>21. Para o mesmo paciente da questão 89, quais as medidas iniciais mais apropriadas para o manejo da dispneia?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t005-021" value="A"> A. Oferecer oxigênio suplementar em cateter nasal para conforto com morfina em bomba de infusão contínua para sedação paliativa.</label>
@@ -335,7 +335,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q97 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q97</p>
 <p><strong>22. Mulher de 35 anos com hipertireoidismo, dá entrada com febre alta, frequência cardíaca 158 bpm, pressão arterial: 130 x 90 mmHg, desorientação, vômitos e sudorese intensa. O eletrocardiograma mostra taquicardia sinusal. O hormônio estimulante da tireoide era indetectável, T4 livre aumentado, transaminases e bilirrubinas elevadas e Razão Normalizada Internacional 1,8; sem sinais localizatórios de infecção. Qual a melhor conduta inicial diante da suspeita clínica?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">

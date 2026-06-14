@@ -11,7 +11,7 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q40 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q40</p>
 <p><strong>1. Paciente feminina, 24 anos, dá entrada por meios próprios no DE devido a abaulamento doloroso em região escapular direita há 3 dias. Nega comorbidades, nega febre. Está em bom estado geral, consciente, orientada, hidratada, afebril, eupneica. Ao exame físico apresentava lesão nodular abaulada de aproximadamente 2 cm de diâmetro, com ponto de flutuação central, acompanhada de eritema e aumento de temperatura locais. A melhor conduta para esse caso seria:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t023-001" value="A"> A. Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com orientações</label>
@@ -26,7 +26,7 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q63 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q63</p>
 <p><strong>2. Paciente do sexo feminino, 35 anos, com diagnóstico de esclerose sistêmica difusa há cerca de 1 ano, em acompanhamento no ambulatório de Reumatologia, dá entrada no pronto socorro com crises convulsivas de difícil controle. Exame físico revela PA 180x110 mmHg e laboratório com creatinina sérica 2,8 mg/dL e análise do sedimento urinário com presença de proteinúria e hematúria. Diante da hipótese diagnóstica de crise renal esclerodérmica, marque a alternativa que apresenta a conduta terapêutica adequada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t023-002" value="A"> A. Pulsoterapia com metilprednisolona 1g IV por 3 dias.</label>
@@ -41,7 +41,7 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q97 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q97</p>
 <p><strong>3. Em relação à abordagem do paciente com dor abdominal no Departamento de Emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t023-003" value="A"> A. A analgesia com opioides deve ser evitada, pois interfere no processo de investigação diagnóstica e tratamento</label>
@@ -56,7 +56,7 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q41 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q41</p>
 <p><strong>4. Sobre a indicação de bloqueios anestésicos guiados por ultrassom point-of-care (PoCUS) realizados no Departamento de Emergência, assinale a alternativa que correlaciona adequadamente o bloqueio e a respectiva analgesia oferecida:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -72,7 +72,7 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q63 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q63</p>
 <p><strong>5. Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t023-005" value="A"> A. Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.</label>
@@ -87,7 +87,7 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q52 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q52</p>
 <p><strong>6. Homem de 68 anos, sem comorbidades conhecidas, é admitido no Departamento de Emergência após colisão automobilística de alta energia. Apresenta fraturas confirmadas por tomografia computadorizada em arcos costais posteriores esquerdos de T5 à T9, com dor torácica intensa e limitação ventilatória, mesmo após analgesia endovenosa com opioides. Considerando a anatomia envolvida, a extensão das fraturas e os objetivos analgésicos, qual das opções a seguir representa a técnica regional mais apropriada e com melhor perfil de segurança no cenário descrito?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t023-006" value="A"> A. Bloqueio intercostal em múltiplos níveis, com injeção de anestésico local diretamente sob a margem inferior de cada costela envolvida, entre o ângulo costal e a linha axilar média.</label>
@@ -102,7 +102,7 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q63 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q63</p>
 <p><strong>7. Durante o atendimento de um paciente politraumatizado com fratura exposta de tíbia, a equipe optou por realizar um bloqueio periférico guiado por ultrassonografia como estratégia de analgesia multimodal. Considerando as técnicas, a farmacologia e a segurança envolvidas nos bloqueios anestésicos periféricos, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t023-007" value="A"> A. A adição de vasoconstritor ao anestésico local pode auxiliar na identificação precoce de injeção intravascular inadvertida, mesmo em concentrações diluídas como 1:200 mil.</label>

@@ -11,7 +11,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q26 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q26</p>
 <p><strong>1. Paciente procura o DE por volta das 23:00h com queixa de intensa dor ocular, a avaliação apresenta edema importante de pálpebras e hiperemia conjuntival, ele refere que trabalhou com solda durante o dia, há cerca de 6 horas, e depois iniciou a irritação ocular. Qual sua conduta inicial?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-001" value="A"> A. Solicitar transferência com urgência para serviço de oftalmologia</label>
@@ -26,7 +26,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q69 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q69</p>
 <p><strong>2. Paciente 61 anos, diagnosticado com Diabetes e Hipertensão, procura atendimento com relato de extração dentária há 7 dias, apresentando febre há 2 dias, odinofagia e aumento do volume cervical. Sinais vitais no momento do atendimento estáveis e triado como prioridade Verde de atendimento. Ao exame físico, presença de edema submandibular bilateral com sinais flogísticos e protrusão da língua, segue imagem do exame físico dessa paciente. Sobre o caso acima escolha a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -42,7 +42,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q106 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q106</p>
 <p><strong>3. Paciente, sexo feminino, 63 anos, procura DE com quadro de dor ocular intensa, vômitos e diminuição da acuidade visual há 4 horas, apresentando edema de córnea e pupila hiporreativa. Qual sua principal hipótese diagnósti ca?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-003" value="A"> A. Uveíte Anterior</label>
@@ -57,7 +57,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q61 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q61</p>
 <p><strong>4. Paciente de 29 anos refere episódios intermitentes e súbitos de dor periorbitária esquerda, em “pontada”, irradiada para a região frontal de forte intensidade (intensidade 10/10), Ao exame apresenta: Lacrimejamento, hiperemia conjuntival, discreta ptose e miose esquerdas de acordo com a imagem abaixo. As crises de dor têm duração de 60 minutos e piora após abuso de álcool. Nega dor à mastigação e dor à palpação da região temporal. Veja imagem abaixo: Qual a conduta apropriada inicial para controle da crise de cefaléia e a hipótese diagnóstica mais provável?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -73,7 +73,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q85 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q85</p>
 <p><strong>5. O homem procura o DE por vir apresentando há 5 dias hiperemia conjuntival mais intensa em um dos olhos, presença de folículos na conjuntiva e adenopatia pré-auricular. Qual a conduta mais correta para o quadro?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-005" value="A"> A. Prescrever antialérgicos orais e colírios oftálmicos com ação antialérgica.</label>
@@ -88,7 +88,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q10 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q10</p>
 <p><strong>6. Dentre as quatro alternativas, marque aquela que mais provavelmente descreve um paciente com diagnóstico de glaucoma agudo de ângulo fechado:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-006" value="A"> A. Paciente trabalhador de indústria metalúrgica com queixa de olho vermelho após turno de trabalho, com dor importante no olho direito e hiperemia difusa de conjuntiva.</label>
@@ -103,7 +103,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q47 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q47</p>
 <p><strong>7. Paciente do sexo masculino, 46 anos, com hipertensão arterial sistêmica de difícil controle. Vem à Emergência por quadro de vertigem persistente com mais de 24 horas de duração e piora progressiva. Nunca teve quadro parecido previamente e não relata fator desencadeante. Apresenta head impulse test positivo, Skew deviation negativo e nistagmo horizontal. Qual o melhor diagnóstico para o paciente e qual manejo sintomático?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-007" value="A"> A. Vertigem Posicional Paroxística Benigna e manobra de Epley.</label>
@@ -118,7 +118,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q61 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q61</p>
 <p><strong>8. Sobre o manejo da epistaxe anterior, marque a verdadeira:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-008" value="A"> A. A cauterização com nitrato de prata só deve ser realizada em pacientes que não respondam à aplicação de ácido tranexâmico.</label>
@@ -133,7 +133,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q9 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q9</p>
 <p><strong>9. Um paciente de 45 anos chega ao Departamento de Emergência hospitalar relatando que, após tratamento dentário, teve “inchaço” importante e dor no pescoço. Chega em insuficiência respiratória franca, com edema cervical importante, especialmente à direita. É tomada a decisão de abordar a via aérea imediatamente. Sobre isso, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-009" value="A"> A. A cricotireoidostomia como estratégia primária deve ser considerada nesse caso.</label>
@@ -148,7 +148,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q77 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q77</p>
 <p><strong>10. Paciente de 28 anos, previamente míope de grau elevado há 10 anos, com uso regular de óculos corretor, procura o Departamento de Emergência após notar uma dificuldade de enxergar do olho esquerdo desde que acordou. Relata a sensação de flashes luminosos na visão periférica do olho esquerdo, nega dor local. Ao exame físico, ele não apresenta alterações à inspeção ao olho nu. Seus reflexos fotomotor e consensual encontram-se preservados e ele não possui alterações no teste de Snellen (feito com os óculos). Sobre o quadro desse paciente, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-010" value="A"> A. A ausência de dor neste contexto descarta a possibilidade de quadros graves, sendo indicado o manejo ambulatorial.</label>
@@ -163,7 +163,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q93 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q93</p>
 <p><strong>11. Paciente do sexo masculino, 66 anos, hipertenso e cardiopata isquêmico, vem ao Departamento de Emergência com queixa de vertigem há 1 dia. Nega trauma, febre, hemorragias ou uso de algum remédio fora do habitual. No exame físico do HINTS plus apresentou: - Teste do impulso cefálico normal. - Nistagmo unilateral evocado pelo olhar e sem nistagmo espontâneo. - Skew Test com deslocamento horizontal dos olhos. - Perda de audição: unilateral. Conforme o quadro acima, qual a melhor investigação para confirmação diagnóstica?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-011" value="A"> A. Tomografia computadorizada de crânio com angiotomografia.</label>
@@ -178,7 +178,7 @@ Banco do tema 019 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q95 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q95</p>
 <p><strong>12. Paciente de 25 anos, em tratamento para doença de Crohn, apresenta-se ao Departamento de Emergência com queixa de sensação de face congesta e dor tipo pressão facial há 7 dias. Ele relata que apresentou um quadro de sintomas gripais, com descarga nasal, e febre ao início dos sintomas; estava em melhora clínica, porém voltou a ter sintomas intensos nos últimos 3 dias. Baseado nesse quadro clínico, está indicado:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t019-012" value="A"> A. Cultura de aspirado do seio nasal (se disponível) e início de antibioticoterapia oral empírica.</label>

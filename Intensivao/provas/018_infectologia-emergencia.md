@@ -11,7 +11,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q65 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q65</p>
 <p><strong>1. Paciente de 60 anos, masculino, hipertenso em uso regular da sua medicação e diabético tipo II em acompanhamento regular. Procura o DE com relato de febre não aferida, tosse com expectoração amarelada e dispneia. Refere necessidade de internação hospitalar no último mês com uso de antibiótico endovenoso . O exame radiológico abaixo corresponde ao paciente em questão. Ao exame físico, paciente acordado, cooperativo. Sinais vitais: ECG 15, PA: 142 X 73 mmHg, FC: 88 BPM, FR: 24 IRPM, SaO2: 96 (em AA), TAx 37.3. Cº. Exames laboratoriais: Creatinina sérica: 1.2 mg/dl, Uréia: 90 mg/dl, restante dos exames laboratoriais dentro do valor de referência de normalidade. Sobre o caso acima responda VERDADEIRO ou FALSO para as questões abaixo e marque a alternativa que corresponde à ordem dessas respostas: ( ) A solicitação de exames laboratoriais é fundamental no caso em questão para estratificação do caso pelo CURB-65; ( ) Paciente com quadro de pneumonia em curso necessitando de internação hospitalar e uso de antibioticoterapia com cobertura para Pseudomonas aeruginosa; ( ) Paciente com quadro de pneumonia em curso não necessitando de internação hospitalar podendo ser tratado em nível ambulatorial ( ) O uso de Levofloxacina oferece cobertura antimicrobiana necessária para o paciente em questão ( ) O uso de Azitromicina oferece cobertura antimicrobiana necessária para o paciente em questão</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -27,7 +27,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q69 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q69</p>
 <p><strong>2. Paciente 61 anos, diagnosticado com Diabetes e Hipertensão, procura atendimento com relato de extração dentária há 7 dias, apresentando febre há 2 dias, odinofagia e aumento do volume cervical. Sinais vitais no momento do atendimento estáveis e triado como prioridade Verde de atendimento. Ao exame físico, presença de edema submandibular bilateral com sinais flogísticos e protrusão da língua, segue imagem do exame físico dessa paciente. Sobre o caso acima escolha a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -43,7 +43,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q72 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q72</p>
 <p><strong>3. São características mais factíveis do líquor da meningite tuberculosa:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-003" value="A"> A. Pressão de abertura: normal; celularidade 5 a 500; contagem diferencial: linfócitos/monócitos; glicose: normal; Proteína: &lt;100 mg/dL; Bacterioscopia: negativa</label>
@@ -58,7 +58,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q75 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q75</p>
 <p><strong>4. Sobre o quadro de Dengue, responda Verdadeiro ou Falso nas afirmações abaixo e marque a alternativa que corresponde à ordem dessas respostas. ( ) As sorologias devem ser colhidas apenas após o 6˚ dia do início da sintomatologia ( ) A prescrição de colóide é contra indicada durante qualquer etapa da ressuscitação hemodinamicamente do paciente com dengue grave ( ) Dengue é sempre uma doença de notificação compulsória no Brasil ( ) O uso de plasma fresco congelado é contra indicado independente dos exames laboratoriais</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-004" value="A"> A. V - F - V - F</label>
@@ -73,7 +73,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q90 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q90</p>
 <p><strong>5. Paciente masculino, 58 anos, diagnóstico prévio de cirrose hepática avançada, dá entrada no Departamento de Emergência com quadro de febre e dor abdominal difusa. Apresenta ascite volumosa ao exame físico. Você realiza uma punção do líquido ascítico e diagnostica uma peritonite bacteriana espontânea. Assinale a alternativa que apresenta o achado laboratorial da análise da líquido ascítico que possibilitou a realização desse diagnóstico:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-005" value="A"> A. Glicose &lt; 50 mg/dL</label>
@@ -88,7 +88,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q12 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q12</p>
 <p><strong>6. Paciente de 32 anos dá entrada em serviço de emergência após ter sido vítima de violência sexual, paciente se apresenta clinicamente bem, chorosa e pouco contactuante. Segundo relata, o agressor era desconhecido. No caso da prescrição de PEP (profilaxia pós-exposição) para HIV para esta paciente, assinale a alternativa incorreta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-006" value="A"> A. Está indicada independente da sorologia da vítima ser positiva ou negativa;</label>
@@ -103,7 +103,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q72 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q72</p>
 <p><strong>7. As pneumonias adquiridas na comunidade continuam sendo uma importante causa de morbimortalidade, especialmente em menores de cinco anos, em todo o mundo. Diante de uma criança com sintomas respiratórios, em que se avalia a possibilidade de diagnóstico de pneumonia, deve ser considerado que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-007" value="A"> A. A tosse, a febre e a presença de dificuldade para respirar são queixas comuns, e a ausculta pulmonar com estertores crepitantes é o sinal de maior sensibilidade para o diagnóstico.</label>
@@ -118,7 +118,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q74 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q74</p>
 <p><strong>8. Criança de 9 meses, sexo masculino, é trazido ao DE devido a quadro de febre e inapetência, apresentando diurese preservada e discreto sinal de desidratação, histórico de infecção de vias aéreas altas recentemente, criança ativa e reativa, sem alterações de exame físico, com exceção da febre 39,2°C e ulceras orais e lesões bolhosas em pés e mãos. Qual conduta adequada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-008" value="A"> A. Aciclovir oral;</label>
@@ -133,7 +133,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q85 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q85</p>
 <p><strong>9. O homem procura o DE por vir apresentando há 5 dias hiperemia conjuntival mais intensa em um dos olhos, presença de folículos na conjuntiva e adenopatia pré-auricular. Qual a conduta mais correta para o quadro?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-009" value="A"> A. Prescrever antialérgicos orais e colírios oftálmicos com ação antialérgica.</label>
@@ -148,7 +148,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q88 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q88</p>
 <p><strong>10. Em relação às doenças transmitidas por carrapatos, assinale a correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-010" value="A"> A. A doença de Lyme pode apresentar mais de 70% de letalidade, quando não diagnosticada e tratada adequadamente</label>
@@ -163,7 +163,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q9 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q9</p>
 <p><strong>11. Paciente de 56 anos, previamente hipertenso, apresentou-se no Departamento de Emergência com suspeita de dengue, no quarto dia da doença, após síncope no domicílio. Apresentava sonolência, temperatura de 38,5°C, frequência cardíaca de 123 bpm, pressão arterial de 112 x 69 mmHg, frequência respiratória de 25 irpm, saturação periférica de hemoglobina (SpO2) de 96%, escala do coma de Glasgow apresentando taquicardia sinusal. Ao ultrassom point-of-care (PoCUS) foi evidenciado derrame pleural bilateral pequeno, sem outras alterações. Assinale a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -179,7 +179,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q19 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q19</p>
 <p><strong>12. Uma paciente de 43 anos, sem comorbidades, apresenta-se no Departamento de Emergência de um hospital secundário trazida pelo marido em uma cadeira de rodas. O marido encontra-se desesperado, pois, segundo ele, a paciente apresentava funcionalidade normal há 2 semanas, quando teve febre alta e diarreia e nunca mais se recuperou. Obteve o diagnóstico de dengue na ocasião. Paciente relata que está se sentindo um pouco mais fraca que o habitual, não consegue se colocar em pé e não tem conseguido trabalhar; refere formigamento em mãos e pés. Ao exame físico, apresenta-se lúcida e orientada, ausência de sinais meníngeos, reflexo patelar diminuído bilateralmente. Negou perda do controle esfincteriano. Negou febre ou cefaleia. Frequência cardíaca de 80 bpm; pressão arterial de 130x80 mmHg; frequência respiratória de 12 irpm; saturação periférica de hemoglobina (SpO2) de 98% em ar ambiente, temperatura de 36,3 ºC. Assinale a alternativa com a conduta adequada no Departamento de Emergência:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-012" value="A"> A. Realizar punção lombar; fazer admissão hospitalar; administrar corticoide, imunoglobulina 400 mg/kg por via endovenosa; transferir para enfermaria.</label>
@@ -194,7 +194,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q32 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q32</p>
 <p><strong>13. Sobre doenças exantemáticas na população pediátrica, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-013" value="A"> A. O exantema súbito é uma doença causada por herpesvírus caracterizada por febre e rash cutâneo, que aparece tipicamente após defervescência febril. Convulsões febris podem ocorrer e devem levantar o alerta para a hipótese de encefalite, complicação comum, haja vista seu agente etiológico, porém com evolução benigna.</label>
@@ -209,7 +209,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q45 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q45</p>
 <p><strong>14. Recém-nascido de 23 dias, com 4 kg, chega ao Departamento de Emergência trazido pela mãe com relato de “estar estranho” há cerca de 15 minutos. Ao exame físico, apresentando movimentos tônico-clônicos sugestivos de crise convulsiva. Sobre o manejo desse paciente, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-014" value="A"> A. O manejo de crises convulsivas desencadeadas por hipoglicemia, se esse for o diagnóstico, deve ser manejado com glicose 50% em bólus de 5 mL/kg, com repetição do bólus, conforme necessário, até normalização da glicemia.</label>
@@ -224,7 +224,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q48 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q48</p>
 <p><strong>15. Chega ao Departamento de Emergência paciente de 15 anos, sexo masculino, com relato de confusão mental, febre e calafrios. Paciente portador de linfoma de células B, em tratamento quimioterápico, tendo recebido a última infusão há 3 dias. Ele é levado imediatamente à sala de emergência. Sinais vitais da admissão: frequência cardíaca de 120 bpm; pressão arterial de 85 x 50 mmHg; frequência respiratória de 25 irpm; saturação periférica da hemoglobina (SpO2) de 97% ar ambiente temperatura de 39,5ºC; glicemia capilar de 120 mg/dL. Sobre o manejo da neutropenia febril, qual a alternativa correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-015" value="A"> A. Pacientes neutropênicos não devem receber terapia antimicrobiana até confirmação de diagnóstico infeccioso.</label>
@@ -239,7 +239,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q78 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q78</p>
 <p><strong>16. Uma paciente gestante de 39 semanas procura uma unidade de pronto atendimento com contrações uterinas efetivas. Ao revisar a documentação, a equipe descobre que a paciente é portadora de HIV e não aderente ao tratamento. Ao exame físico, ela se apresenta com pressão arterial de 150 x 80 mmHg, frequência cardíaca de 95 bpm, saturação periférica de hemoglobina (SpO2) de 99%, frequência respiratória de 22 irpm, glicemia capilar de 101 mg/dL e temperatura de 36,5°C. A paciente apresenta contrações a cada 3 minutos, efetivas, com colo médio e 6 cm de dilatação, apresentação cefálica e prolapso de cordão umbilical ao toque vaginal. O local onde você se encontra não dispõe de outras especialidades. Assinale a conduta correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-016" value="A"> A. Iniciar infusão de zidovudina intravenosa.</label>
@@ -254,7 +254,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q90 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q90</p>
 <p><strong>17. Um paciente de 22 anos é trazido para a Sala de Emergência com saturação periférica de hemoglobina (SpO2) de 77% e extremamente dispneico. Ele refere que iniciou um cansaço progressivo há aproximadamente 3 semanas, evoluindo com febre baixa, perda ponderal e tosse seca não progressiva. Ao ser colocado no suporte de oxigênio, rapidamente respondeu, evoluindo com melhora da frequência respiratória e saturação periférica de hemoglobina (SpO2) de 98% com cateter nasal de oxigênio a 3 L/minuto. Radiografia de tórax evidenciava infiltrados intersticiais e alveolares bilaterais difusos com predomínio peri-hilar e uma cavitação em ápice de hemitórax direito. Gasometria arterial em ar ambiente: pressão parcial de oxigênio de 54 mmHg e gradiente alvéolo-arterial de 42 mmHg. Realizado teste rápido de HIV, que resultou positivo. Sobre as prioridades de tratamento desse paciente no Departamento de Emergência, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-017" value="A"> A. Deve-se iniciar a terapia antirretroviral imediatamente, associar amoxicilina + ácido clavulânico e azitromicina por via intravenosa em até 1 hora e iniciar hidrocortisona 200 mg/dia.</label>
@@ -269,7 +269,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q40 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q40</p>
 <p><strong>18. Paciente admitido no Departamento de Emergência com febre de 38,5°C e sem outros sintomas aparentes. Em tratamento de neoplasia de pulmão, está no 10º dia após a quimioterapia. Durante a avaliação inicial, recebeu antibioticoterapia parenteral de amplo espectro na primeira hora. Encontra-se hemodinamicamente estável, sem foco infeccioso evidente, com estratificação de risco nas escalas MASCC alta e CISNE baixa e contagem total de leucócitos em 500 cel/mm3. Considerando o cenário e as informações do texto, qual é a conduta mais apropriada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-018" value="A"> A. Manter antibióticos de amplo espectro por via endovenosa e realizar internação hospitalar.</label>
@@ -284,7 +284,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q46 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q46</p>
 <p><strong>19. Um paciente de 29 anos dá entrada no Departamento de Emergência com história de febre e cansaço de início há 3 dias. Sinais vitais: saturação periférica de oxigênio de 70% em ar ambiente, frequência respiratória de 40 irpm; pressão arterial de 120 x 80 mmHg; frequência cardíaca de 124 bpm. Após instalar cateter nasal a 4 L/minuto, apresenta saturação periférica de oxigênio de 94%, frequência respiratória de 26 irpm, frequência cardíaca de 90 bpm, pressão arterial de 110 x 90 mmHg. Refere diagnóstico recente de HIV e tuberculose, mas não iniciou tratamento ainda. Raio X de tórax apresenta infiltrado intersticial bilateral e simétrico, com caverna em ápice pulmonar direito. Negou sintomas neurológicos, incluindo cefaleia, défices focais ou rigidez de nuca. Sobre a melhor conduta, é correto afirmar:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-019" value="A"> A. Manter oxigenoterapia proposta; prednisolona 40 mg via oral a cada 12 horas; sulfametoxazol + trimetoprima por via intravenosa; RHZE imediatamente; iniciar terapia antirretroviral após 7 dias, pelo risco de síndrome inflamatória da reconstituição imune.</label>
@@ -299,7 +299,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q48 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q48</p>
 <p><strong>20. Sobre mordeduras por mamíferos, marque a CORRETA:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-020" value="A"> A. No caso de mordedura por mamíferos domésticos de interesse econômico (bovinos, suínos, equinos) passíveis de observação, mas o soro antirrábico é indicado.</label>
@@ -314,7 +314,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q53 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q53</p>
 <p><strong>21. Mulher, 60 anos, procura atendimento no Departamento de Emergência em Teresina (PI), devido à dor abdominal em hipocôndrio direito de forte intensidade há 2 dias. Refere ainda quadro de febre que teve início há 5 dias. No exame físico, há dor à palpação profunda do andar superior do abdome, mas não há sinais de descompressão brusca dolorosa. Realizou hemograma na admissão, que revelou hemoglobinas em 14,5, hematócritos em 49%, leucócitos em 4.500, plaquetas em 120 mil. Sem outras alterações relevantes nos exames. Foi realizado um ultrassom a beira do leito que revelou a seguinte imagem: Com base nas informações fornecidas, qual das alternativas expressa a melhor hipótese diagnóstica e conduta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -330,7 +330,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q60 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q60</p>
 <p><strong>22. Em relação às profilaxias recomendas à vítima de violência sexual, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-022" value="A"> A. A profilaxia de infecções sexualmente transmissíveis não virais está indicada apenas se realizada nas primeiras 72 horas.</label>
@@ -345,7 +345,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q68 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q68</p>
 <p><strong>23. Homem, 32 anos, privado de liberdade, trazido à emergência com histórico de tosse seca, febre e dor torácica posterior na transição toracoabdominal a direita. Nega dispneia e desconforto respiratório. Realizado raio X de tórax em pressão arterial, que não visualizou alterações. Devido à refratariedade de dor torácica, foi optada pela realização de ultrassonografia pulmonar com transdutor linear. Segue a imagem obtida do ponto PLAPS à direita: Imagem do ultrassom pulmonar – ponto PLAPS à direita. Com base na história clínica e na imagem apresentada, a melhor conduta é:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -361,7 +361,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q78 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q78</p>
 <p><strong>24. Paciente de 26 anos é admitido ao Departamento de Emergência de um hospital público em São Paulo em julho, com relato de febre não aferida há cerca de 12 horas; nega tosse, dispneia, dor torácica, dor abdominal, disúria ou outros sintomas urinários; nega lesões cutâneas novas ou sangramentos; nega traumas. Ele relata ser previamente hígido e nega uso de medicações contínuas. Relata ter feito uso de dipirona por via oral com melhora parcial da febre. Ao exame físico, ele se encontra em BEG, consciente e orientado, sem rigidez de nuca, sem lesões cutâneas novas, eupneico em ar ambiente, exame dos aparelhos cardiorrespiratório sem alterações. Oroscopia sem hiperemia ou outros achados patológicos. frequência cardíaca de 96 bpm, pressão arterial de 128 x 60 mmHg, frequência respiratória de 21 ipm, saturação periférica de oxigênio de 98%, temperatura de 38,3ºC, prova do laço negativa. Sobre as condutas a serem realizadas nesse paciente, marque a correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-024" value="A"> A. O paciente deve receber alta hospitalar com orientação de sinais de alarme e seguimento em Unidade Básica de Saúde.</label>
@@ -376,7 +376,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q82 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q82</p>
 <p><strong>25. Um paciente com AIDS chega à emergência com quadro de cefaleia, confusão mental, febre e ataxia. A tomografia mostra lesões que captam contraste associado a edema perilesional em gânglios da base, O líquor apresenta proteína de 40 mg/dL, glicose 80 mg/dL e predomínio de neutrófilos. Sobre o caso, escolha a alternativa correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-025" value="A"> A. O diagnóstico mais provável é toxoplasmose cerebral. O tratamento inicial deve ser com sulfametoxazol + trimetoprima.</label>
@@ -391,7 +391,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q95 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q95</p>
 <p><strong>26. Paciente de 25 anos, em tratamento para doença de Crohn, apresenta-se ao Departamento de Emergência com queixa de sensação de face congesta e dor tipo pressão facial há 7 dias. Ele relata que apresentou um quadro de sintomas gripais, com descarga nasal, e febre ao início dos sintomas; estava em melhora clínica, porém voltou a ter sintomas intensos nos últimos 3 dias. Baseado nesse quadro clínico, está indicado:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-026" value="A"> A. Cultura de aspirado do seio nasal (se disponível) e início de antibioticoterapia oral empírica.</label>
@@ -406,7 +406,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q98 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q98</p>
 <p><strong>27. Paciente de 73 anos, com doença pulmonar obstrutiva crônica, fez uso recente de levofloxacino por uma exacerbação do seu quadro de base. Hoje procura o Departamento de Emergência com quadro de cinco evacuações líquidas associadas a dor abdominal em cólica e febre. No exame físico abdominal, está sem sinais de abdome agudo e com sinais vitais dentro da normalidade. Você suspeita de infecção por clostridium e solicita teste de antígeno e para toxina A e B. O resultado é positivo para o teste antígeno e negativo para teste toxina A e B. Baseado nesse caso, qual a melhor conduta e tratamento?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-027" value="A"> A. Resultado indeterminado, solicitar teste molecular; se positiva tratar com vancomicina por via oral.</label>

@@ -11,7 +11,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q45 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q45</p>
 <p><strong>1. Paciente apresentando sangramento intenso devido à amputação traumática de membro inferior direito, trazido pelo atendimento pré-hospitalar que já iniciou Ringer Lactato 1500 ml em bolus Endovenoso (EV) e aplicou Torniquete no Membro. Mantendo hipotensão e outros sinais hemodinâmicos de choque, hipoperfusão tecidual, taquicardia e taquipneia. Qual das condutas abaixo seria a mais prioritária neste momento?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-001" value="A"> A. Administração de mais 1000 ml de cristalóide</label>
@@ -26,7 +26,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q62 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q62</p>
 <p><strong>2. Paciente com diagnóstico de cirrose hepática grave, dá entrada no Departamento de Emergência com quadro de agitação psicomotora, confusão mental e agressividade. Ao exame físico apresenta ataxia e flapping. O acompanhante relata que o paciente está sem realizar evacuações há três dias. Dentre as alternativas abaixo, escolha a mais adequada como medida inicial para o tratamento desse paciente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-002" value="A"> A. Enema de Glicerina 12% Via Retal</label>
@@ -41,7 +41,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q90 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q90</p>
 <p><strong>3. Paciente masculino, 58 anos, diagnóstico prévio de cirrose hepática avançada, dá entrada no Departamento de Emergência com quadro de febre e dor abdominal difusa. Apresenta ascite volumosa ao exame físico. Você realiza uma punção do líquido ascítico e diagnostica uma peritonite bacteriana espontânea. Assinale a alternativa que apresenta o achado laboratorial da análise da líquido ascítico que possibilitou a realização desse diagnóstico:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-003" value="A"> A. Glicose &lt; 50 mg/dL</label>
@@ -56,7 +56,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q113 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q113</p>
 <p><strong>4. O termo sangramento uterino anormal (SUA) diz respeito a todas as causas de sangramento uterino em mulheres não gestantes, e as causas mais prováveis são determinadas pela idade da paciente. Frente a um quadro no departamento de emergência de SUA são boas opções terapêuticas, EXCETO:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-004" value="A"> A. Tamponamento vaginal protetor exerce uma função hemostática e pode proteger infecções e perdas sanguíneas subsequentes</label>
@@ -71,7 +71,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q20 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q20</p>
 <p><strong>5. Sobre o uso de Exame Complementares para avaliação de pacientes com quadro de Dor lombar no Departamento de Emergência marque a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-005" value="A"> A. Paciente com histórico de neoplasia, exames de imagem devem ser utilizados, como forma de rastreio de metástases.</label>
@@ -86,7 +86,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q91 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q91</p>
 <p><strong>6. Uma criança de 5 anos em tratamento com quimioterapia para uma leucemia mieloide aguda é trazida para o DE pelos pais. Eles relatam que a criança está com febre e letargia. Ao exame clínico percebe–se: frequência cardíaca de 158 bpm, frequência respiratória de 37 irpm, pressão arterial de 78/51 mmHg, tempo de preenchimento capilar de 1 segundo e temperatura axilar de 39,1°C. Estabeleceu-se um acesso IV e obteve-se uma hemocultura. Qual é a intervenção mais apropriada a seguir?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-006" value="A"> A. Administrar de 10 a 20 ml/Kg de cristalóide isotônico em 5 a 10 minutos</label>
@@ -101,7 +101,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q39 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q39</p>
 <p><strong>7. Um paciente de 32 anos, 75 kg, portador de anemia falciforme dá entrada no Departamento de Emergência de um hospital terciário com dor torácica importante, dispneia e dessaturação. Refere ter tido dor em braço esquerdo importante há 1 semana e, há 3 meses, faz uso irregular de hidroxiureia, pois não consegue ter acesso à medicação. Frequência cardíaca de 120 bpm, ritmo regular; pressão arterial de 120 x 80 mmHg; saturação periférica da hemoglobina (SpO2) de 89% ar ambiente curva ruim do oxímetro; temperatura de 38,3ºC. Sobre a conduta no Departamento de Emergência:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -117,7 +117,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q48 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q48</p>
 <p><strong>8. Chega ao Departamento de Emergência paciente de 15 anos, sexo masculino, com relato de confusão mental, febre e calafrios. Paciente portador de linfoma de células B, em tratamento quimioterápico, tendo recebido a última infusão há 3 dias. Ele é levado imediatamente à sala de emergência. Sinais vitais da admissão: frequência cardíaca de 120 bpm; pressão arterial de 85 x 50 mmHg; frequência respiratória de 25 irpm; saturação periférica da hemoglobina (SpO2) de 97% ar ambiente temperatura de 39,5ºC; glicemia capilar de 120 mg/dL. Sobre o manejo da neutropenia febril, qual a alternativa correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-008" value="A"> A. Pacientes neutropênicos não devem receber terapia antimicrobiana até confirmação de diagnóstico infeccioso.</label>
@@ -132,7 +132,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q71 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q71</p>
 <p><strong>9. A síndrome de veia cava superior (SVCS) ocorre devido à compressão externa ou obstrução intraluminal (trombose) da veia cava superior. Mais de 60% dos casos estão associados à doença oncológica. Assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-009" value="A"> A. Edema de extremidades de membros superiores, face e tórax, bem como eritema facial, dispneia, dor torácica e tosse, são manifestações clínicas pouco usuais.</label>
@@ -147,7 +147,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q29 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q29</p>
 <p><strong>10. Paciente do sexo masculino de 48 anos, portador de linfoma de Burkitt, sem outras comorbidades prévias ao diagnóstico hematológico, comparece ao serviço para a segunda sessão de quimioterapia. Após a triagem para procedimento foi imediatamente encaminhado ao Departamento de Emergência. Admitido com queixas de astenia, fadiga progressiva, náuseas e vômitos abundantes, além de diminuição do volume urinário hoje; um episódio diarréico isolado. Nega febre em domicílio, sem queixas respiratórias. Ao exame físico, apresenta-se com mucosas secas, porém normotenso, sem alteração na perfusão tecidual. Taquipneico (FR 25 irpm); afebril e sem outras alterações relevantes no exame físico. Exames laboratoriais (coletados no dia anterior a sessão): - pH: 7,32 / PaCO2 30mmHg / HCO₃: 18 mEq/L / Excesso de base: -6. - Hemoglobina: 8,5 g/dL / Leucócitos: 1.500 células/mm3 / Neutrófilos: 1.000 células/mm3. - Potássio: 6,5 mEq/L / Fósforo: 5,0 mg/dL / Ácido úrico: 9,2 mg/dL. - Cálcio iônico: 3,5 mg/dL (referência: 4,0 a 5,1 mg/dL). - Creatinina: 2,0 mg/dL / Ureia: 85mg/dL - Albumina: 3,5 g/dL / Razão Normalizada Internacional: 1,0 / Bilirrubinas totais: 0,6mg/dL - Aspartato aminotransferase: 20 U/L. / Alanina aminotransferase: 35U/L. - Com base nos dados acima, qual é o diagnóstico mais provável?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-010" value="A"> A. Cardiotoxicidade por quimioterápicos.</label>
@@ -162,7 +162,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q40 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q40</p>
 <p><strong>11. Paciente admitido no Departamento de Emergência com febre de 38,5°C e sem outros sintomas aparentes. Em tratamento de neoplasia de pulmão, está no 10º dia após a quimioterapia. Durante a avaliação inicial, recebeu antibioticoterapia parenteral de amplo espectro na primeira hora. Encontra-se hemodinamicamente estável, sem foco infeccioso evidente, com estratificação de risco nas escalas MASCC alta e CISNE baixa e contagem total de leucócitos em 500 cel/mm3. Considerando o cenário e as informações do texto, qual é a conduta mais apropriada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-011" value="A"> A. Manter antibióticos de amplo espectro por via endovenosa e realizar internação hospitalar.</label>
@@ -177,7 +177,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q69 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q69</p>
 <p><strong>12. Nos casos de acidente vascular cerebral hemorrágico, a reversão de coagulopatias é de vital importância para evitar a expansão do hematoma. Sobre esse tema, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-012" value="A"> A. Andexanet alfa é o agente de escolha para reverter os inibidores do fator Xa, pela melhor eficácia hemostática e pelo menor número de eventos trombóticos que o cuidado usual.</label>
@@ -192,7 +192,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q72 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q72</p>
 <p><strong>13. Uma menina de 6 anos, portadora de anemia falciforme (HbSS), é trazida ao Departamento de Emergência com dor torácica intensa e febre aferida de 38,9°C. Encontra-se taquipneica (frequência respiratória de 42 irpm), com discretas retrações intercostais, saturação periférica de oxigênio de 93% em ar ambiente. Refere início da dor há 12 horas, que se intensificou progressivamente, associada à tosse seca e à dor abdominal. O exame físico revela murmúrio vesicular reduzido em base direita. Exames complementares demonstram hemoglobina em 6,5 g/dL (hemoglobina prévia recente de 8,2), leucócitos em 27.000/mm³ e plaquetas em 110.000/mm³. Raio X de tórax mostra infiltrado alveolar em base direita. Qual das condutas a seguir é mais adequada no atendimento inicial?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t015-013" value="A"> A. Iniciar transfusão de concentrado de hemácias visando à elevação da hemoglobina para 11 g/dL, sem necessidade de antibiótico empírico.</label>
@@ -207,7 +207,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q74 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q74</p>
 <p><strong>14. Um homem de 58 anos, com histórico de adenocarcinoma de pulmão tratado há 1 ano, é trazido à emergência por familiares após apresentar quadro de sonolência progressiva e dificuldade de fala nas últimas 24 horas. Ao exame físico: escala de coma de Glasgow 11 (resposta ocular 3, resposta verbal 3, resposta motora de 5), pupilas isocóricas e reativas, PA 190 × 100 mmHg, FC de 65 bpm, sem sinais localizatórios evidentes. A equipe realiza ultrassonografia à beira do leito com sonda linear em modo B, obtendo a imagem a seguir e as medidas aferidas estão descritas ao lado: Medida diâmetro da bainha do nervo óptico: - Olho esquerdo: 0,78 cm. - Olho direito: 0,74 cm. Com base no quadro clínico e nos achados do ultrassom, assinale a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">

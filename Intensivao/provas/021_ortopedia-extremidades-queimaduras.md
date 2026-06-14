@@ -11,7 +11,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q45 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q45</p>
 <p><strong>1. Paciente apresentando sangramento intenso devido à amputação traumática de membro inferior direito, trazido pelo atendimento pré-hospitalar que já iniciou Ringer Lactato 1500 ml em bolus Endovenoso (EV) e aplicou Torniquete no Membro. Mantendo hipotensão e outros sinais hemodinâmicos de choque, hipoperfusão tecidual, taquicardia e taquipneia. Qual das condutas abaixo seria a mais prioritária neste momento?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-001" value="A"> A. Administração de mais 1000 ml de cristalóide</label>
@@ -26,7 +26,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q56 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q56</p>
 <p><strong>2. Em relação às lesões por explosão, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-002" value="A"> A. Ruptura da membrana timpânica é um exemplo de lesão primária</label>
@@ -41,7 +41,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q73 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q73</p>
 <p><strong>3. Referência para Questões 73 e 74: Você faz parte de uma equipe de resgate que é acionada para atender uma ocorrência de queda de um ônibus em ribanceira, em um trecho de serra de uma estrada de pista simples. Há relatos de que são mais de 30 vítimas e diversas equipes de socorro estão se dirigindo para o local. Considerando que sua equipe é a primeira a chegar ao local do acidente, sua prioridade de conduta deve ser:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-003" value="A"> A. Realizar a contagem do número de vítimas, a fim de obter uma real dimensão da ocorrência e poder solicitar apoio adequado</label>
@@ -56,7 +56,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q74 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q74</p>
 <p><strong>4. Referência para Questões 73 e 74: Você faz parte de uma equipe de resgate que é acionada para atender uma ocorrência de queda de um ônibus em ribanceira, em um trecho de serra de uma estrada de pista simples. Há relatos de que são mais de 30 vítimas e diversas equipes de socorro estão se dirigindo para o local. Sua equipe inicia o atendimento e se depara com uma vítima que está consciente e bastante agitada, porém consegue se comunicar verbalmente e queixa-se de muita dor em membros inferiores. Ao examiná-la você constata que sua FC 128, FR 24 IRPM, seu TEC é de 1 segundo e ela apresenta uma fratura exposta de perna esquerda, com movimentação espontânea do membro inferior direito. Utilizando o método de triagem START (Simple Triage And Rapid Treatment), sua conduta seria:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-004" value="A"> A. Classificá-lo como vítima vermelha, pois deverá apresentar grande sangramento da perna fraturada e tem sinais de choque</label>
@@ -71,7 +71,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q91 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q91</p>
 <p><strong>5. Ciclista atropelado por automóvel, apresenta fratura exposta de terço médio do fêmur, com desvio acentuado e sangramento externo volumoso em coxa esquerda. A conduta mais adequada, em ambiente pré-hospitalar, em relação à contenção da hemorragia e imobilização da fratura são, respectivamente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-005" value="A"> A. Curativo compressivo sobre o foco de sangramento e elevação do membro fraturado, buscando restauração da posição anatômica normal.</label>
@@ -86,7 +86,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q6 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q6</p>
 <p><strong>6. Em relação à abordagem das fraturas expostas na emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-006" value="A"> A. A Cefazolina pode ser o antibiótico de escolha para os pacientes com fratura exposta classificada como Gustilo-Anderson I ou II e sem evidência de contaminação</label>
@@ -101,7 +101,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q34 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q34</p>
 <p><strong>7. Em relação ao controle de hemorragias externas exsanguinantes, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-007" value="A"> A. Exceto nos casos de amputação traumática, os torniquetes devem ser afrouxados a cada 15 minutos, viabilizando fluxo sanguíneo intermitente para a extremidade e diminuindo assim a chance de amputação do membro.</label>
@@ -116,7 +116,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q67 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q67</p>
 <p><strong>8. Paciente de 33 anos do sexo masculino, previamente hígido, é admitido após acidente doméstico há cerca de 2 horas em que derrubou uma faca de cozinha sobre seu antebraço, ele é admitido com quadro estável e apresenta ferida de profundidade dérmica em face ventral do antebraço esquerdo, com cerca de 4cm de extensão, sem sinais grosseiros de contaminação. Após a lavagem e sutura da ferida em ambiente de DE a equipe decidiu por iniciar antibioticoterapia profilática por meio de cefalexina VO 500mg 6/6h por 5 dias, marque a alternativa que representa uma correta avaliação da conduta tomada por essa equipe.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-008" value="A"> A. Essa conduta deve ser tida como errada já que o uso de antibioticoterapia profilática não deve ser indicado para feridas em antebraço</label>
@@ -131,7 +131,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q87 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q87</p>
 <p><strong>9. Marque a alternativa que descreve um paciente que mais provavelmente encontra-se com um quadro de Luxação Anterior da Articulação do Ombro.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-009" value="A"> A. Paciente de 25 anos com relato de dor súbita no ombro após tentativa de “toco” em jogo de basquete, apoiando o membro doloroso com o lado contra-lateral</label>
@@ -146,7 +146,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q100 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q100</p>
 <p><strong>10. Em relação ao manejo inicial de lesões geradas por exposição a produtos químicos, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-010" value="A"> A. A abordagem inicial das queimaduras químicas deve incluir a administração tópica de um agente neutralizante.</label>
@@ -161,7 +161,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q6 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q6</p>
 <p><strong>11. Três vítimas são encaminhadas ao Departamento de Emergência após terem sido resgatadas de um incêndio secundário à uma explosão de gás em centro de reciclagem. A seguir, encontram-se descritas as avaliações iniciais dos três pacientes. Paciente 1: vibrissas nasais queimadas, respiração ruidosa, frequência respiratória de 33 irpm, saturação periférica da hemoglobina de 99% em Máscara não-reinalante a 15 L/min, Ausculta Respiratória com murmúrio vesícula reduzido globalmente, frequência cardíaca de 101 bpm, pressão arterial (PA) de 133 x 65 mmHg. Escala de coma de Glasgow em 15, com força motora preservada. Queimaduras de segundo grau em face, tronco e dorso. Paciente 2: via aérea pérvia, frequência respiratória de 35 irpm, saturação periférica de oxigênio de 98% em ar ambiente, ausculta respiratória com murmúrio vesicular positivo e sem ruídos adventícios. Membros quentes e bem perfundidos, FC de 105 bpm, PA de 123 x 55 mmHg, Escala de coma de Glasgow em 14, com sonolência leve. Queimaduras de segundo grau em membros superiores. Paciente 3: via aérea sob intubação orotraqueal desde o Atendimento pré-hospitalar encontrado em escala de coma de Glasgow 3 na cena), frequência respiratória de 23 irpm, saturação periférica de oxigênio de 90% em fração inspirada de oxigênio de 100%, ausculta respiratória com murmúrio vesicular positivo e sem ruídos adventícios. Pressão Arterial sistêmica de 93 x 55 mmHg; queimaduras em face presentes. Lactato arterial 100 mg/dL (valor de referência: 16 mg/dL). Marque a alternativa que melhor descreve as medidas prioritárias para cada um dos pacientes, respectivamente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-011" value="A"> A. Realizar intubação orotraqueal/ iniciar suporte de oxigênio suplementar a 100%/ iniciar infusão de cianocobalamina.</label>
@@ -176,7 +176,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q41 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q41</p>
 <p><strong>12. Sobre a indicação de bloqueios anestésicos guiados por ultrassom point-of-care (PoCUS) realizados no Departamento de Emergência, assinale a alternativa que correlaciona adequadamente o bloqueio e a respectiva analgesia oferecida:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -192,7 +192,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q62 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q62</p>
 <p><strong>13. Homem, 52 anos, vítima de queda de moto com trauma em terço proximal do braço esquerdo com ferimento aberto e exposição óssea e provável fratura de úmero esquerdo. Admitido no Departamento de Emergência com dor intensa local, desvio do membro, incapacidade de movimentação, crepitação à palpação local e pulsos distais no membro presentes. A avaliação inicial sistematizada do trauma não evidencia lesões ameaçadoras de vida. Após medidas iniciais, você decide realizar um bloqueio anestésico guiado por ultrassom para controle da dor. Com base nesse procedimento, responda com a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -208,7 +208,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q71 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q71</p>
 <p><strong>14. A síndrome de veia cava superior (SVCS) ocorre devido à compressão externa ou obstrução intraluminal (trombose) da veia cava superior. Mais de 60% dos casos estão associados à doença oncológica. Assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-014" value="A"> A. Edema de extremidades de membros superiores, face e tórax, bem como eritema facial, dispneia, dor torácica e tosse, são manifestações clínicas pouco usuais.</label>
@@ -223,7 +223,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q72 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q72</p>
 <p><strong>15. Sobre o manejo do paciente queimado no Departamento de Emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-015" value="A"> A. A recomendação de ressuscitação volêmica no grande queimado difere entre adultos e crianças, sendo recomendada em adultos com superfície corporal queimada maior que 10% e em crianças maior que 20%.</label>
@@ -238,7 +238,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q94 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q94</p>
 <p><strong>16. Em comparação ao tratamento dos pacientes adultos vítimas de queimaduras, existem algumas particulares, que necessitam ser observadas no atendimento das crianças. Sobre isso, é correto afirmar:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-016" value="A"> A. A quantidade de volume que deve ser infundida é relativamente menor do que em adultos.</label>
@@ -253,7 +253,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q24 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q24</p>
 <p><strong>17. A síndrome compartimental é uma complicação grave das lesões de extremidades. O atraso no tratamento em poucas horas pode levar a dano muscular e neuronal permanente. Sobre esse tema, qual resposta está correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-017" value="A"> A. O primeiro sinal clínico presente é a parestesia, seguida da dor e da paralisia.</label>
@@ -268,7 +268,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q47 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q47</p>
 <p><strong>18. Assinale como verdadeiro (V) ou falso (F) as seguintes afirmativas sobre fraturas e luxações. Ao fim, escolha a alternativa correta: ( ) Para fraturas expostas, a classificação de Gustilo-Anderson é a mais utilizada na prática clínica e auxilia o prognóstico tardio. ( ) A luxação de ombro posterior pode passar despercebida em mais de 50% dos casos na incidência anteroposterior do raio X. ( ) O atraso na redução da luxação de quadril pode levar à necrose avascular da cabeça do fêmur. ( ) O médico emergencista deve evitar o alinhamento de membro grosseiramente desalinhado pelo risco de lesão neurovascular.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-018" value="A"> A. F-V-V-V.</label>
@@ -283,7 +283,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q52 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q52</p>
 <p><strong>19. Homem de 68 anos, sem comorbidades conhecidas, é admitido no Departamento de Emergência após colisão automobilística de alta energia. Apresenta fraturas confirmadas por tomografia computadorizada em arcos costais posteriores esquerdos de T5 à T9, com dor torácica intensa e limitação ventilatória, mesmo após analgesia endovenosa com opioides. Considerando a anatomia envolvida, a extensão das fraturas e os objetivos analgésicos, qual das opções a seguir representa a técnica regional mais apropriada e com melhor perfil de segurança no cenário descrito?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-019" value="A"> A. Bloqueio intercostal em múltiplos níveis, com injeção de anestésico local diretamente sob a margem inferior de cada costela envolvida, entre o ângulo costal e a linha axilar média.</label>
@@ -298,7 +298,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q63 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q63</p>
 <p><strong>20. Durante o atendimento de um paciente politraumatizado com fratura exposta de tíbia, a equipe optou por realizar um bloqueio periférico guiado por ultrassonografia como estratégia de analgesia multimodal. Considerando as técnicas, a farmacologia e a segurança envolvidas nos bloqueios anestésicos periféricos, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-020" value="A"> A. A adição de vasoconstritor ao anestésico local pode auxiliar na identificação precoce de injeção intravascular inadvertida, mesmo em concentrações diluídas como 1:200 mil.</label>
@@ -313,7 +313,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q71 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q71</p>
 <p><strong>21. Eletricista durante trabalho com energia elétrica de alta tensão recebe uma descarga elétrica com consequente combustão da roupa e lesão térmica associada. Ao ser examinado, apresenta 10% de superfície corporal queimada de primeiro grau, 12% de superfície corporal queimada de segundo grau e 3% de superfície corporal queimada de terceiro grau. Sobre o quadro, qual a resposta correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-021" value="A"> A. Superfície corporal queimada de 25%, grau de complexidade média, hidratação 4 mL × peso (kg) x % superfície corporal queimada, 1 a 1,5 mL/kg/hora de débito urinário.</label>
@@ -328,7 +328,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q76 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q76</p>
 <p><strong>22. Paciente de 35 anos é admitido no Departamento de Emergência após acidente automobilístico em zona urbana. Apresenta fratura exposta de tíbia proximal, com ferida extensa de 12 cm, contaminada por terra. Não há evidências de lesão neurovascular. Qual a antibioticoprofilaxia inicial mais apropriada para esse paciente?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t021-022" value="A"> A. Cefazolina 1 g por via endovenosa a cada 8 horas, por 24 a 72 horas, ou até o desbridamento cirúrgico.</label>

@@ -11,7 +11,7 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q32 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q32</p>
 <p><strong>1. Paciente de 29 anos com quadro de lombar e testicular à esquerda de forte intensidade há 02 horas associada a náuseas e vômitos. Procura a Unidade de Pronto Atendimento referindo 03 episódios de dor intensa nos últimos 07 dias. Ao exame clínico: febril com Tax 38°C e com calafrios, taquicárdico FC 112 bpm, PA 138 x 76 mmHg, AC: RR,2T,BNF,S/S AR: MV presente bilateralmente sem ruídos. Abdome doloroso à punho percussão em flanco esquerdo. Realizado o POCUS e você observa a imagem abaixo. Qual o possível diagnóstico e conduta (s) apropriada (s)?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -27,7 +27,7 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q40 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q40</p>
 <p><strong>2. Homem, 38 anos, com dor abdominal há 3 dias localizada em flanco esquerdo do tipo cólica de forte intensidade associada a náuseas e vômitos. Paciente clinicamente estável e exame físico do abdome sem sinais de peritonite. Realizada analgesia com dipirona e tenoxicam por via intravenosa com melhora transitória. Hemograma com hemoglobina em 12 g/dL, hematócrito em 38%, leucócitos em 17.000 cél/mm3 com 84% segmentados. Urina I/EAS: 500.000 hemácias/mL (referência &lt; 10.000/mL) e 800.000 leucócitos/mL (referência &lt; 10.000/mL), nitrito positivo. Realizado ultrassom point-of-care (PoCUS) abdominal, e a janela do quadrante superior esquerdo evidenciou a seguinte imagem: Com base nos achados encontrados, qual a melhor conduta para o caso?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -43,7 +43,7 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q51 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q51</p>
 <p><strong>3. Paciente com 35 anos está em observação no Departamento de Emergência devido a quadro de cólica nefrética com dor lombar intensa. Recebeu medicações analgésicas; enquanto recebia as medicações, queixou-se de desconforto gastrointestinal e tontura; foi, então, levado à sala de emergência e deitado no leito. Durante avaliação inicial na sala de emergência, paciente apresentava-se com pressão arterial de 65 × 35 mmHg, frequência cardíaca de 132 bpm, frequência respiratória de 25 irpm, saturação periférica de oxigênio de 98% em ar ambiente. Tinha extremidades frias e tempo de enchimento prolongado. Qual a primeira linha de tratamento?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t020-003" value="A"> A. Ceftriaxona 2 g por via endovenosa.</label>
@@ -58,7 +58,7 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q99 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q99</p>
 <p><strong>4. Com relação ao manejo da crise convulsiva no recém-nascido, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t020-004" value="A"> A. O diazepam é a droga de primeira escolha por via intravenosa no neonato, devido à sua rápida ação e ao menor risco de encefalopatia bilirrubínica.</label>
@@ -73,7 +73,7 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q100 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q100</p>
 <p><strong>5. Paciente de 16 anos se apresenta ao Departamento de Emergência com quadro de dor testicular esquerda súbita, associado a náuseas e vômitos. Nega sintomas urinários. Quais dos sinais clínicos a seguir torna a suspeita de torção testicular mais provável? (I) Ausência do reflexo cremastérico. (II) Sinal de Prehn (elevação do testículo) negativo. (III) Um achado de massa (“nó”) acima do testículo. (IV) Sinal de Prehn (elevação do testículo) positivo.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t020-005" value="A"> A. Apenas I e II estão corretas.</label>

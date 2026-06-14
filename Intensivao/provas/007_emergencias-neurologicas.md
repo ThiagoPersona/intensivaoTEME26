@@ -11,7 +11,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q11 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q11</p>
 <p><strong>1. Paciente de 23 anos é admitido ao DE após queda de moto em alta velocidade, encontrado pela equipe do APH na cena com ECG de 7, sem outras disfunções na avaliação primária. Na admissão ao DE primário às 14:00h, paciente recebe IOT, por meio de SRI com Etomidato e Succinilcolina e é iniciado ventilação mecânica, TC de crânio descreve hemorragia subaracnóide volumosa, focos de contusão cerebral e edema cerebral difuso, paciente segue em Sala de Emergência sem sedação e 1 hora após a admissão a equipe médica identifica anisocoria, sendo indicada transferência imediata, ao ser admitido em DE terciário foi levantada a hipótese que o paciente apresen- tava-se em morte encefálica. Qual das alternativas abaixo, se presente à avaliação do DE terciário às 16:00h, corrobora com essa hipótese?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -27,7 +27,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q23 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q23</p>
 <p><strong>2. Paciente de 25 anos vítima queda de moto sem uso de capacete, da entrada no Departamento de Emergência (DE) conduzido por uma unidade de suporte básico. Encontra-se com colar cervical, imobilizado em prancha rígida (que já foi prontamente retirada). Vias aéreas pérvias, SaO2 92%. FR 24 irpm, MV sem ruídos adventícios porém reduzido na base direita. FC 110 bpm, PA 90 x 70 mmHg, TEC de 4 seg. Abre os olhos ao estímulo pressórico no tórax, confuso, localiza estímulos. Escoriação em hemitórax direito e joelho direito. Rx de tórax com fratura do 5̊ arco costal direito e moderado hemotórax. Rx de coluna cervical sem alterações, assim como Rx de MID também sem fraturas. Paciente é submetido à Intubação Orotraqueal e é iniciado Ventilação Mecânica (VM), recebe 1L de Ringer Lactato aquecido e tem agora PA 100 x 80 mmHg. Submetido a drenagem torácica à direita com drenagem de 500ml de sangue sem débito adicional. Realizada TC de crânio (apresentada abaixo) Está agora sob suporte no DE aguardando transferência para centro de referência. Em relação às medidas neuroprotetoras assinale a afirmativa CORRETA:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-002" value="A"> A. Manter o paciente em hipotermia terapêutica</label>
@@ -42,7 +42,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q49 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q49</p>
 <p><strong>3. Segundo a Regra Canadense de Tomografia Computadorizada, no paciente com Traumatismo Cranioencefálico leve, são critérios que indicam a realização de uma tomografia computadorizada de crânio, EXCETO:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-003" value="A"> A. Uso de anticoagulantes</label>
@@ -57,7 +57,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q53 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q53</p>
 <p><strong>4. Referência para Questões 52 e 53: Paciente sexo masculino, 63 anos, hipertenso e diabético, deu entrada no DE com quadro de desvio de rima labial para direita e hemiparesia à esquerda, de início há 03 h da admissão. Os sinais vitais da entrada eram PA: 175 x 105 mmHg, FC: 82 bpm, FR: 14 IRPM, SaO2: 95% em ar ambiente. Glicemia capilar 98 mg/dl Realizado tomografia de crânio imediatamente, demonstrada abaixo. Considerando os achados do corte o tomográfico acima, qual o diagnóstico mais provável e a melhor conduta indicada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-004" value="A"> A. Acidente vascular encefálico hemorrágico. Infusão de Alteplase EV se não houver contraindicações.</label>
@@ -72,7 +72,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q67 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q67</p>
 <p><strong>5. Paciente de 18 anos vítima de agressão com uma garrafada na cabeça, chega ao DE conduzido por familiares. Consciente, mantém via aérea pérvia, coluna cervical livre. Tórax livre, ventila bem bilateralmente, porém com FR 22 IRPM, SaO2 96%. FC de 120 BPM, PA 100 x 70 mmHg, TEC 4 seg, hipocorado +/4. ECG de 14, pupilas isocóricas e sem déficits. Escoriação em flanco direito com abdome livre e peristáltico. Em uso de O2 no Cateter Nasal de Baixo Fluxo (CN) à 2 l/min, já com um acesso venoso foi submetido ao exame Focused Assessment Sonography Trauma Estendido (E-FAST) que se mostrou negativo. Em relação ao exame E-FAST podemos afirmar:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -88,7 +88,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q83 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q83</p>
 <p><strong>6. Sobre as escalas para avaliação de acometimento neurológico, marque a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-006" value="A"> A. A Escala de Coma de Glasgow, isoladamente, é eficaz em identificar complicações em doentes neurológicos, como perda de proteção de via aérea e risco de broncoaspiração.</label>
@@ -103,7 +103,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q98 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q98</p>
 <p><strong>7. Paciente sexo masculino, 18 anos, vítima de acidente motociclístico, dá entrada em DE com ECG 3, pupilas midiáticas não fotorreagentes. Apresentando Trauma crânio encefálico (TCE) grave, a impressão inicial é que o paciente potencialmente encontra-se em morte encefálica. A família procura a recepção do DE buscando por informações e é direcionada até o emergencista. Qual a postura mais adequada a ser adotada?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -119,7 +119,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q99 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q99</p>
 <p><strong>8. Marque a alternativa abaixo que descreve um quadro clínico mais provavelmente compatível com um paciente vítima de Acidente Vascular Encefálico de etiologia isquêmica.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-008" value="A"> A. Paciente de 23 anos, previamente epiléptico, com quadro de IVAS evoluindo com Crise Convulsiva tônico-clônica generalizada e ao acordar com hemiparesia em MSD.</label>
@@ -134,7 +134,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q110 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q110</p>
 <p><strong>9. Paciente de 23 anos, sexo feminino, procura o DE com queixa de cefaleia de intensidade moderada (6/10) de início há cerca de 6 horas, pulsátil, em face temporal do crânio, com náuseas intensas e dor ao olhar para luzes fortes, nega mialgia, febre ou artralgia, relata episódios prévios semelhantes. Sobre o uso de medicações para controle dos sintomas nessa paciente marque a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-009" value="A"> A. O uso de metoclopramida EV isoladamente ou em associação a outras drogas pode ser utilizada para o manejo desses pacientes.</label>
@@ -149,7 +149,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q120 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q120</p>
 <p><strong>10. Qual dos pacientes abaixo, se evoluir com ausência de sinais de tronco encefálico deve ser observado por tempo prolongado antes da avaliação de Morte Encefálica.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-010" value="A"> A. Crianças vítimas de Trauma Crânio Encefálico</label>
@@ -164,7 +164,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q57 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q57</p>
 <p><strong>11. Sobre a Trombólise no AVE responda verdadeiro ou falso: ( ) Idade maior que 18 anos faz parte do pré requisito para candidato a trombólise ( ) Os sintomas neurológicos devem ter iniciado em até 5.5 horas para o paciente ser candidato à trombólise ( ) Paciente com apresentação típica de endocardite é uma contraindicação absoluta para a trombólise ( ) TCE grave há 6 meses é uma contra indicação absoluta para trombólise</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-011" value="A"> A. V - F - V - F</label>
@@ -179,7 +179,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q60 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q60</p>
 <p><strong>12. Sobre a Trombectomia Mecânica (TME) do acidente vascular encefálico isquêmico (AVEi) agudo, responda verdadeiro ou falso: ( ) A TME pode ser considerada em até 12 horas em que o paciente estava assintomático ( ) Os critérios de indicação para TME variam conforme o deltaT de evolução do AVCi ( ) Não há evidências de benefício de TME quando há oclusão de segmento M2 ou M3 ( ) Suspeita de endocardite bacteriana ou êmbolo séptico é uma contra indicação para a realização da TME</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-012" value="A"> A. F - V - F - V</label>
@@ -194,7 +194,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q61 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q61</p>
 <p><strong>13. Paciente de 29 anos refere episódios intermitentes e súbitos de dor periorbitária esquerda, em “pontada”, irradiada para a região frontal de forte intensidade (intensidade 10/10), Ao exame apresenta: Lacrimejamento, hiperemia conjuntival, discreta ptose e miose esquerdas de acordo com a imagem abaixo. As crises de dor têm duração de 60 minutos e piora após abuso de álcool. Nega dor à mastigação e dor à palpação da região temporal. Veja imagem abaixo: Qual a conduta apropriada inicial para controle da crise de cefaléia e a hipótese diagnóstica mais provável?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -210,7 +210,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q68 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q68</p>
 <p><strong>14. Mulher de 24 anos, portadora de nefrite lúpica tipo IV, hipertensão e doença renal crônica dialítica, realizando hemodiálise 3 vezes por semana. Apresentou quadro súbito de cefaleia intensa, seguida de um episódio de convulsão tônico-clônica generalizada e amaurose bilateral. Na avaliação você observa PA: 240 x 150 mmHg. Após estabilização inicial na Sala de Emergência, é realizado tomografia de crânio em 20 minutos que identifica imagem hipodensa na região parieto-occipital bilateralmente. Outros exames: hemoglobina 7,9 g/dL; plaquetas 101.000/mm3; albumina 2,7 g/dL; complemento C3: 44 mg/dL (referência: 89-202 mg/dL); FAN 1/1280; anti-DNA positivo. Submetida a tratamento com nitroprussiato de sódio endovenoso e estabilização da pressão arterial com redução de 15% da pressão arterial média na primeira hora, ao longo do dia, a paciente voltou a enxergar e não teve mais convulsões. Após estabilização do quadro clínico e controle pressórico, é realizado novo exame de imagem craniana (ressonância nuclear magnética de crânio) que identifica um edema vasogênico na região parieto-occipital bilateralmente IMAGEM TOMOGRAFIA DE CRÂNIO IMAGEM RNM DE CRÂNIO A: sequência FLAIR B: Sequência Difusão Qual a principal hipótese diagnóstica para o caso descrito?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -226,7 +226,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q76 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q76</p>
 <p><strong>15. Em relação à abordagem do trauma cranioencefálico na emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-015" value="A"> A. Para pacientes com trauma cranioencefálico grave e sinais de herniação cerebral, a hiperventilação terapêutica pode ser considerada, buscando-se uma PaCO2 entre 35 e 45 mmHg</label>
@@ -241,7 +241,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q77 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q77</p>
 <p><strong>16. Responda verdadeiro ou falso sobre hemorragia subaracnóide (HSA): ( ) A regra de Ottawa é uma ferramenta que pode auxiliar no diagnóstico da HSA com uma sensibilidade próxima a 100%. ( ) A sensibilidade da tomografia de crânio para o diagnóstico de HSA aumenta após 6 horas do início da cefaléia. ( ) A escala de Fisher é uma forma de fazer a graduação da gravidade clínica conforme a imagem da tomografia. ( ) A droga de primeira linha para o tratamento durante a crise convulsiva relacionada a HSA é a fenitoína</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -257,7 +257,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q80 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q80</p>
 <p><strong>17. Sobre o escore PECARN na avaliação do traumatismo crânio encefálico (TCE) pediátrico, escolha a alternativa errada:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-017" value="A"> A. O PECARN é usado somente para avaliação de TCE leve</label>
@@ -272,7 +272,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q4 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q4</p>
 <p><strong>18. Paciente vítima de traumatismo craniencefálico grave, evoluindo após 24 horas de permanência no Departamento de Emergência com coma não perceptivo e ausência de atividade supraespinhal. Sobre o choque circulatório associado a essa situação, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-018" value="A"> A. A dopamina é considerada o vasopressor de primeira escolha, por aumentar o débito cardíaco.</label>
@@ -287,7 +287,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q7 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q7</p>
 <p><strong>19. Nos casos de traumatismo craniencefálico leve, temos como estatística norteamericana a necessidade de intervenção neurocirúrgica ou morte em apenas 0,9% dos casos. Baseado nesses fatos, surgiram múltiplos escores de avaliação para traumatismo craniencefálico leve, com o objetivo de reduzir o número desnecessário de tomografias computadorizadas. Temos quatro principais escores, com dois deles apresentando maior validação internacionalmente, sendo que um se destaca na especificidade, mantendo sensibilidade semelhante nos casos de doença neurocirúrgica. Qual escore atenderia melhor o sistema de saúde, considerando a sensibilidade e especificidade dos escores e o uso racional dos recursos?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-019" value="A"> A. Canadian CT Head Rule.</label>
@@ -302,7 +302,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q29 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q29</p>
 <p><strong>20. Mulher de 55 anos, previamente independente, admitida no Departamento de Emergência às 10h, com relato de ter ido dormir bem às 21h da véspera e encontrada às 8h, com dificuldade para comunicação verbal e paralisia de um lado do corpo. É hipertensa e diabética, em uso de enalapril e metformina. Não há histórico de trauma, cirurgia ou outras condições clínicas dignas de nota. À chegada, pressão arterial de 164/88 mmHg, frequência cardíaca de 101 bpm, com ritmo cardíaco irregular, glicemia capilar de 159 mg/dL, obedecendo a comandos, alerta, afásica, com paralisia facial e com hemiparesia completa à direita, com pontuação na escala de acidente vascular cerebral do National Institutes of Health de 12. Submetida à ressonância do crânio com angiorressonância, que revelou hipersinal na difusão em metade do território da artéria cerebral média esquerda, com sequência FLAIR sem alterações e oclusão do segmento proximal da mesma artéria. Com base nesses achados, a conduta imediata que mais trará benefícios funcionais a esse paciente é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-020" value="A"> A. Indicar trombólise endovenosa com alteplase na dose de 0,9 mg/kg, sendo 10% administrados em bólus e o restante da dose infundida em 1 hora.</label>
@@ -317,7 +317,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q36 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q36</p>
 <p><strong>21. Paciente do sexo masculino, de 40 anos, sofreu trauma craniencefálico (TCE) após ser atingido na cabeça por um galho. Após o acidente, chegou em casa andando, mas logo começou a apresentar vômitos em jato e sonolência. Levado para a emergência de outro município, onde chegou com escala de coma de Glasgow de 8/15 e anisocoria. Foi imediatamente intubado e contato realizado para transferi-lo para sua unidade, que é a referência em neurocirurgia da região. Na chegada, o paciente apresentava bradicardia e hipertensão, sem o uso de medicamentos vasoativos. Sobre o quadro de TCE grave desse paciente, responda com verdadeiro (V) ou falso (F): ( ) Esse paciente apresenta reflexo de Cushing. ( ) Manter pressão arterial sistólica 110 mmHg. ( ) Manitol por via endovenosa 1 g/kg. ( ) Solução salina 3% por via endovenosa 1 mL/kg até Na 160 mEq/L. ( ) Manter pressão parcial de gás carbônico (pCO2) entre 30 e 35 nas primeiras 24 horas. ( ) Profilaxia para epilepsia pós-traumática nos primeiros 7 dias Qual a sequência correta de respostas:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-021" value="A"> A. F-V-V-F-F-V.</label>
@@ -332,7 +332,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q47 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q47</p>
 <p><strong>22. Paciente do sexo masculino, 46 anos, com hipertensão arterial sistêmica de difícil controle. Vem à Emergência por quadro de vertigem persistente com mais de 24 horas de duração e piora progressiva. Nunca teve quadro parecido previamente e não relata fator desencadeante. Apresenta head impulse test positivo, Skew deviation negativo e nistagmo horizontal. Qual o melhor diagnóstico para o paciente e qual manejo sintomático?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-022" value="A"> A. Vertigem Posicional Paroxística Benigna e manobra de Epley.</label>
@@ -347,7 +347,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q68 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q68</p>
 <p><strong>23. Sobre a avaliação e o manejo da criança vítima de traumatismo craniencefálico (TCE), assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-023" value="A"> A. O algoritmo da PECARN para avaliação do TCE pediátrico é um algoritmo único validado com os mesmos critérios para todas as crianças menores de 12 anos vítimas de TCE contuso e tem por objetivo a redução do uso da tomografia computadorizada, permitindo uma alta segura do Departamento de Emergência desses pacientes.</label>
@@ -362,7 +362,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q95 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q95</p>
 <p><strong>24. Sobre as particularidades do trauma pediátrico, em especial o raquimedular, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-024" value="A"> A. São considerados fatores de risco para lesões de coluna cervical em criança: alteração do status mental (incluindo intoxicações), défices neurológicos focais, dor cervical apenas em linha média, torcicolo, lesões significativas em torso, condições predisponentes para lesões de coluna cervical, mecanismo de trauma relacionado a mergulho e colisões automotoras de alto risco.</label>
@@ -377,7 +377,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q18 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q18</p>
 <p><strong>25. Durante uma expedição ao Aconcágua (mais alta montanha da América Latina), um homem de 34 anos, previamente hígido, apresenta fadiga intensa, ataxia de marcha e confusão mental progressiva no terceiro dia após atingir 4.800 m de altitude. A equipe de resgate observa hipoxemia à oximetria de pulso, sem alterações à ausculta pulmonar. Considerando os mecanismos fisiopatológicos da altitude, qual das abordagens está corretamente indicada para esse paciente?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-025" value="A"> A. Iniciar acetazolamida oral imediatamente e manter observação na mesma altitude por 24 horas antes de iniciar a descida.</label>
@@ -392,7 +392,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q21 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q21</p>
 <p><strong>26. Quanto ao manejo do traumatismo craniencefálico:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-026" value="A"> A. Em pacientes vítimas de politrauma associado ao traumatismo craniencefálico, a hipotensão permissiva é uma estratégia de escolha durante o manejo hemodinâmico.</label>
@@ -407,7 +407,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q43 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q43</p>
 <p><strong>27. Paciente do sexo masculino, 65 anos, hipertenso, diabético e dislipidêmico, é admitido no Departamento Emergência com história de ter apresentado, há cerca de 16 horas, quadro com dor precordial, diaforese e dispneia. Ao exame, sonolento, tempo de enchimento capilar de 5 segundos, saturação periférica de oxigênio de 90% com presença de estertores finos em ambos os hemitórax, frequência cardíaca de 110 bpm, pressão arterial sistólica de 80 mmHg. Exames iniciais evidenciam lactato de 3 mmol/L. O eletrocardiograma da admissão é o da imagem acima. Entre as opções a seguir, qual corresponde ao estágio de gravidade apresentado por esse paciente com relação ao choque cardiogênico conforme a classificação da SCAI (Society for Cardiovascular Angiography and Invertentions)?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -423,7 +423,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q69 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q69</p>
 <p><strong>28. Nos casos de acidente vascular cerebral hemorrágico, a reversão de coagulopatias é de vital importância para evitar a expansão do hematoma. Sobre esse tema, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-028" value="A"> A. Andexanet alfa é o agente de escolha para reverter os inibidores do fator Xa, pela melhor eficácia hemostática e pelo menor número de eventos trombóticos que o cuidado usual.</label>
@@ -438,7 +438,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q80 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q80</p>
 <p><strong>29. Um paciente de 61 anos foi encontrado caído em casa, apresentando hemiparesia direita. É trazido por familiares que informam que ele foi visto bem pela última vez há 2 horas, quando se queixou de indisposição e dor no peito súbita. Ele é hipertenso e diabético. Admissão: pressão arterial de 100 x 70 mmHg, frequência cardíaca de 110 bpm; glicemia capilar de 89 mg/dL. Foi realizada a tomografia computadorizada de crânio em 25 minutos de acordo com o protocolo da instituição. Não há sinais de sangramento intracraniano. O National Institutes of Health Stroke Scale (NIHSS) é de 24, e o Alberta Stroke Program Early CT Score (ASPECTS) 7. Qual o próximo passo?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-029" value="A"> A. Não realizar trombólise, realizar angiotomografia computadorizada de pescoço e crânio.</label>
@@ -453,7 +453,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q81 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q81</p>
 <p><strong>30. Mulher de 55 anos, sem nenhuma incapacidade funcional prévia, admitida no Departamento de Emergência com história de dificuldade para comunicação verbal e paralisia de um lado do corpo há 3 horas. É hipertensa e diabética, em uso de enalapril e metformina. Não há histórico de trauma, cirurgia ou outras condições clínicas dignas de nota. À chegada, pressão arterial de 164/88 mmHg, frequência cardíaca de 101 bpm, com ritmo cardíaco irregular, glicemia capilar de 159 mg/dL, obedecendo a comandos, alerta, afásica, com paralisia facial e com hemiparesia completa à direita, com pontuação na National Institutes of Health Stroke Scale (NIHSS) de 12. Ela foi submetida à tomografia computadorizada de crânio, com escore Alberta Stroke Program Early CT Score (ASPECTS) de 8. Assinale a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-030" value="A"> A. O ASPECTS avalia a extensão tomográfica do insulto, com boa acurácia para circulação vertebrobasilar.</label>
@@ -468,7 +468,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q82 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q82</p>
 <p><strong>31. Um paciente com AIDS chega à emergência com quadro de cefaleia, confusão mental, febre e ataxia. A tomografia mostra lesões que captam contraste associado a edema perilesional em gânglios da base, O líquor apresenta proteína de 40 mg/dL, glicose 80 mg/dL e predomínio de neutrófilos. Sobre o caso, escolha a alternativa correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-031" value="A"> A. O diagnóstico mais provável é toxoplasmose cerebral. O tratamento inicial deve ser com sulfametoxazol + trimetoprima.</label>
@@ -483,7 +483,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q96 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q96</p>
 <p><strong>32. Conforme a resolução do Conselho Federal de Medicina 2.173/2017, o médico emergencista é um dos especialistas que são considerados capacitados para realização dos procedimentos de morte encefálica pela sua atuação e sua expertise em atendimento ao paciente em coma, assim como médicos intensivistas e neurologistas. Dessa forma, é fundamental o conhecimento detalhado por parte do emergencista acerca dos processos que envolvem a determinação de morte encefálica. Com base nessa afirmação e considerando que o paciente em questão se encontra em coma de causa conhecida e irreversível, estável hemodinamicamente, sem sinais de hipertensão intracraniana e normotérmico, qual das situações listadas a seguir é uma condição que impede a realização dos testes clínicos para determinação da morte encefálica?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-032" value="A"> A. Tratamento para sepse de foco pulmonar.</label>

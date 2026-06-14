@@ -11,7 +11,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q1 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q1</p>
 <p><strong>1. Utilize o caso a seguir como referência às questões 1, 2 e 3: Você faz parte de uma equipe de Suporte Avançado de Vida pré-hospitalar que foi acionada para atender uma vítima de tentativa de suicídio por precipitação. Segundo informações do solicitante, a paciente se jogou de um viaduto de aproximadamente 8 metros de altura, que passa sobre uma rodovia de alta velocidade. Chegando ao local, você identifica uma vítima feminina ao solo, na faixa 1 da via. Considerando que sua equipe foi a primeira a chegar ao local, o posicionamento mais correto de estacionamento da viatura seria:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-001" value="A"> A. Transversalmente ao sentido do fluxo, de maneira a bloquear qualquer circulação de veículos na via</label>
@@ -26,7 +26,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q25 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q25</p>
 <p><strong>2. Em relação à cinemática do trauma nos acidentes com veículos automotores, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-002" value="A"> A. Passageiros de um carro de passeio atingido lateralmente por uma van têm 13 vezes mais probabilidade de morrer do que os ocupantes da van</label>
@@ -41,7 +41,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q30 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q30</p>
 <p><strong>3. Sobre o uso de Escalas de Triagem para definir prioridades de cuidado no DE, marque a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-003" value="A"> A. A escala de Manchester é muito utilizada no Brasil e é especialmente sensível para identificar pacientes com Sepse.</label>
@@ -56,7 +56,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q41 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q41</p>
 <p><strong>4. Você é o médico de uma companhia de exploração de petróleo e encontra-se embarcado em uma plataforma offshore. É levado para sua avaliação indivíduo masculino de 37 anos, que após realizar um mergulho para um reparo estrutural na plataforma, a 40 metros de profundidade, iniciou quadro de dor em articulações de ombro e cotovelo, associado a rash cutâneo e prurido em região do tronco. Sinais vitais: FR 20 IRPM, SaO2 95% em ar ambiente, FC 88 BPM, PA 110 x 75 mmHg, TEC &lt; 2 segundos e ECG de 15. Sua hipótese diagnóstica e conduta imediata seriam:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -72,7 +72,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q54 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q54</p>
 <p><strong>5. Você é o médico que está acompanhando um grupo de montanhistas brasileiros que está realizando a subida do monte Aconcágua, na Argentina. No segundo dia de expedição, ao atingirem 3000 metros de altitude, um dos montanhistas inicia quadro de cefaleia moderada, fadiga, náuseas e tontura. Sua hipótese diagnóstica mais provável e conduta imediata seriam, respectivamente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-005" value="A"> A. Edema Cerebral da Alta Altitude, indicar câmara hiperbárica</label>
@@ -87,7 +87,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q56 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q56</p>
 <p><strong>6. Em relação às lesões por explosão, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-006" value="A"> A. Ruptura da membrana timpânica é um exemplo de lesão primária</label>
@@ -102,7 +102,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q118 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q118</p>
 <p><strong>7. Durante um Incidente com Múltiplas vítimas umas das prioridades no manejo pré-hospitalar é identificar os pacientes mais graves e priorizar o suporte a essas vítimas, nesse contexto marque a alternativa que descreve um conceito correto sobre medidas a serem iniciados pelo profissional responsável pela triagem.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-007" value="A"> A. Ao identificar um paciente que não respira, Intubação orotraqueal é a medida inicial a ser indicada</label>
@@ -117,7 +117,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q19 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q19</p>
 <p><strong>8. Assinale a alternativa correta em relação às patologias relacionadas ao mergulho:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-008" value="A"> A. No mergulho em apneia, após o indivíduo realizar hiperventilação, pode ocorrer o apagamento em águas rasas, condição mais frequentemente encontrada durante a descida do mergulhador</label>
@@ -132,7 +132,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q27 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q27</p>
 <p><strong>9. Em relação ao atendimento pré-hospitalar em ambiente tático, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-009" value="A"> A. Na fase de “Cuidado Sob Fogo/Ameaça Direta”, as únicas intervenções médicas recomendadas são a aplicação de torniquete nos casos de hemorragia e a restrição de mobilidade da coluna cervical</label>
@@ -147,7 +147,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q33 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q33</p>
 <p><strong>10. Assinale a alternativa correta em relação ao atendimento a um paciente vítima de afogamento, que permaneceu submerso por quarenta minutos e foi retirado da água inconsciente e sem respirar:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-010" value="A"> A. A primeira medida a ser tomada é o posicionamento da via aérea e a realização de cinco ventilações de resgate</label>
@@ -162,7 +162,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q93 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q93</p>
 <p><strong>11. A intermação, também chamada de insolação ou heat stroke, é condição grave que pode acometer atletas, militares, bombeiros, profissionais que atuam no APH, entre outros. Sobre essa condição, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-011" value="A"> A. A intermação pode ser definida por um paciente com temperatura central acima de 40°C associada a sinais de choque hipovolêmico.</label>
@@ -177,7 +177,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q96 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q96</p>
 <p><strong>12. Em relação às Resoluções que norteiam os funcionamento das diversas modalidades de serviços de emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-012" value="A"> A. Em uma UPA não há necessidade de sistema de classificação de risco implantado;</label>
@@ -192,7 +192,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q42 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q42</p>
 <p><strong>13. Você encontra-se reavaliando suas decisões após um atendimento em cena de um incidente com múltiplas vítimas (IMV) em um grande centro urbano brasileiro, em que você e sua equipe eram os responsáveis pelo serviço de triagem. O incidente envolveu a explosão de um caminhão de combustível na entrada da cidade, afetando diversos carros de passeio na área. Foram avaliadas cinco vítimas. Vítima 1: criança aparentemente menor que 8 anos, com frequência respiratória de 38 irpm, triada como vermelha e encaminhada para centro de trauma terciário. Vítima 2: criança aparentemente menor que 8 anos, com frequência respiratória de 25 irpm, tempo de enchimento capilar &lt; 3 segundos, fala com sons inapropriados, triada como vermelha e encaminhada para centro de trauma terciário. Vítima 3: adulto do sexo masculino com amputação traumática de membro inferir direito, recebendo torniquete ainda em cena, frequência respiratória de 23 irpm, tempo de enchimento capilar &gt; 3 seg, triado como vermelho encaminhado para centro de trauma terciário. Vítima 4: adulto em apneia e sem melhora após abertura de via aérea e cinco respirações de resgate, triado como cinza/preto e mantido em cena. Vítima 5: criança mantida em apneia após abertura de via aérea e cinco respirações de resgate, triada como cinza/preto e mantida em cena. Considerando que sua equipe optou pela realização do método START e JumpSTART como forma de triagem, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-013" value="A"> A. Vítimas 1 e 2 receberam supertriagem (overtriage) e poderiam ter sido enviadas para uma unidade de pronto atendimento.</label>
@@ -207,7 +207,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q75 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q75</p>
 <p><strong>14. De acordo com a resolução 2.077 de 2014 do Conselho Federal de Medicina (CFM), é obrigatória a implantação de acolhimento com classificação de risco nos Serviços Hospitalares de Urgência e Emergência. Ainda sobre a resolução, qual a alternativa correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-014" value="A"> A. Pacientes classificados como baixíssimo risco pelo enfermeiro podem ser encaminhados para unidades de menor complexidade, sem avaliação médica.</label>
@@ -222,7 +222,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q87 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q87</p>
 <p><strong>15. A resolução 2.077 de 2014 do Conselho Federal de Medicina (CFM) estabelece normativas acerca do funcionamento dos Serviços Hospitalares de Urgência e Emergência. Sobre esse tema, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-015" value="A"> A. A presença do médico emergencista com registro de qualificação da especialidade (RQE) é obrigatória na coordenação dos serviços hospitalares de urgência e emergência.</label>
@@ -237,7 +237,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q92 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q92</p>
 <p><strong>16. Você é o médico plantonista da Central de Regulação de um estado no Norte do país. Recebe a seguinte solicitação de transferência oriunda de um hospital secundário da sua região: “paciente vítima de colisão moto x carro, apresentando traumatismo craniencefálico grave, evoluindo com necessidade suporte ventilatório mecânico. Os sinais vitais estão estáveis. A instituição em questão não dispõe de equipamento de tomografia computadorizada. Avaliação ultrassonográfica da bainha do nervo óptico identifica 6 mm de diâmetro”. Em contato com o hospital de referência, constatou-se a indisponibilidade de vagas, em razão de superlotação. Considerando o caso clínico em questão, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-016" value="A"> A. Deve-se encaminhar paciente para unidade de terapia intensiva.</label>
@@ -252,7 +252,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q3 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q3</p>
 <p><strong>17. Considerando as intensas frentes frias e enchentes que atingiram o Rio Grande do Sul em maio de 2024 e levando em conta a vulnerabilidade das áreas afetadas pelas enchentes, marque a alternativa verdadeira, em relação à hipotermia acidental:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-017" value="A"> A. Em pacientes com hipotermia grau I, deve-se suspender a ingestão de líquidos e alimentos, pelo risco de arritmias e instabilidade hemodinâmica associadas à condição.</label>
@@ -267,7 +267,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q45 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q45</p>
 <p><strong>18. Você está na praia e percebe que um adulto jovem está se afogando a poucos metros de você e se dirige até o local onde ele está para prestar socorro. Ao alcançá-lo, você percebe que ele está inconsciente. Você percebe que uma equipe com mais dois socorristas aguarda para dar continuidade no atendimento fora da água. O paciente está inconsciente e sem pulso. Qual a melhor abordagem?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-018" value="A"> A. Iniciar ventilação ainda dentro da água (boca a boca), aspirar vias aéreas e promover intubação orotraqueal assim que possível, mantendo ressuscitação cardiopulmonar na proporção de duas ventilações a cada 15 compressões; permanecer na cena até que todo o atendimento avançado possa ser realizado.</label>
@@ -282,7 +282,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q70 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q70</p>
 <p><strong>19. Mulher de 19 anos, previamente hígida, procura a emergência com dor abdominal há 18 horas. Refere náuseas, inapetência e dor à deambulação. Última menstruação há 12 dias. Nega uso de anticoncepcional. Ao exame físico: temperatura axilar de 37,8°C, frequência cardíaca 102 bpm, dor à palpação profunda em fossa ilíaca direita com defesa voluntária. Toque vaginal com dor à mobilização do colo e com presença de corrimento esbranquiçado. Em um hospital rural com recursos limitados, o emergencista realiza ultrassom point-of-care com transdutor linear em fossa ilíaca direita, encontrando a seguinte imagem: Janela da fossa ilíaca direita com transdutor linear. Manobra de compressão no eixo transversal. Diante do caso e dos achados, assinale a alternativa CORRETA:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -298,7 +298,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q75 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q75</p>
 <p><strong>20. Homem de 45 anos, vítima de capotamento de veículo em rodovia, apresenta abertura ocular ao chamado, localiza a dor, não obedece comandos e emite sons incompreensíveis. Apresenta ainda sangramento orofaríngeo ativo e respiração ruidosa. Sinais vitais: frequência cardíaca de 115 bpm, frequência respiratória de 28 irpm, saturação de oxigênio de 88% em ar ambiente, pressão arterial de 90/60 mmHg. O acesso ao paciente está limitado, e o tempo estimado de extricação é de 40 minutos. Qual a conduta mais adequada para o manejo da via aérea nesse cenário?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-020" value="A"> A. Realização de manobras manuais e cânula orofaríngea.</label>
@@ -313,7 +313,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q79 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q79</p>
 <p><strong>21. Sobre as competências e atribuições do médico regulador nas Centrais de Regulação de Urgência (CRU), assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-021" value="A"> A. Caso o médico regulador entenda que está diante de uma parada cardiorrespiratória, sua função se limita a acionar a viatura e orientar a equipe quando ela estiver no local.</label>
@@ -328,7 +328,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q87 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q87</p>
 <p><strong>22. Sobre o atendimento pré-hospitalar fixo, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t013-022" value="A"> A. A classificação de risco das Unidades de Pronto Atendimento é o principal parâmetro utilizado na decisão de encaminhar pacientes diretamente a outros serviços de menor complexidade.</label>

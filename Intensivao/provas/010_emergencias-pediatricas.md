@@ -11,7 +11,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q10 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q10</p>
 <p><strong>1. Sobre COVID-19, escolha a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-001" value="A"> A. Os coronavírus são um grupo de vírus de genoma de DNA</label>
@@ -26,7 +26,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q12 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q12</p>
 <p><strong>2. Referência para Questões 12 e 13: Criança de 09 meses de idade apresenta febre, vômitos e diarreia há 03 dias. Na avaliação no DE, você percebe que a criança está sonolenta. A FC 170 BPM, TAx 38.9 °C, PA: 64 x 42 mmHg e FR 60 IRPM e superficial. O TEC é de 3 a 4 segundos, com sinal da prega evidente. Com base na apresentação dessa criança, qual tipo de choque ele apresenta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-002" value="A"> A. Obstrutivo</label>
@@ -41,7 +41,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q13 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q13</p>
 <p><strong>3. Referência para Questões 12 e 13: Criança de 09 meses de idade apresenta febre, vômitos e diarreia há 03 dias. Na avaliação no DE, você percebe que a criança está sonolenta. A FC 170 BPM, TAx 38.9 °C, PA: 64 x 42 mmHg e FR 60 IRPM e superficial. O TEC é de 3 a 4 segundos, com sinal da prega evidente. Qual a conduta terapêutica inicial apropriada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-003" value="A"> A. Iniciar Noradrenalina EV em BIC à 0,10 mcg/kg/min</label>
@@ -56,7 +56,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q100 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q100</p>
 <p><strong>4. Paciente masculino com 14 anos de idade, previamente hígido, vem ao DE com queixa de aumento na frequência de evacuações, relatando fezes líquidas e com sangue há um dia. Nega náuseas ou vômitos, relata sensação de febre. Sinais vitais: FR 16 IRPM, FC 88 BPM, PA 110 x 72 mmHg. Dentre as medidas abaixo, assinale a mais correta para o quadro apresentado por esse paciente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-004" value="A"> A. Orientar terapia de reidratação oral</label>
@@ -71,7 +71,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q102 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q102</p>
 <p><strong>5. Criança de 06 anos, 25 kg, deu entrada no Departamento de Emergência inconsciente. Iniciada avaliação primária e detectou-se PCR. Iniciada RCP de alta qualidade e na análise do ritmo cardíaco observou-se o seguinte ritmo: Qual a sua conduta a seguir?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-005" value="A"> A. Desfibrilação com 2 a 4 J/Kg g</label>
@@ -86,7 +86,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q119 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q119</p>
 <p><strong>6. De acordo com as Diretrizes do ILCOR de 2020, qual a relação de compressões e ventilações em um paciente lactente com 01 socorrista?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-006" value="A"> A. 15 compressões e 02 ventilações</label>
@@ -101,7 +101,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q14 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q14</p>
 <p><strong>7. Assinale a opção errada sobre uma característica da via aérea pediátrica.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-007" value="A"> A. É preferível usar a lâmina reta para pinçar a epiglote.</label>
@@ -116,7 +116,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q16 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q16</p>
 <p><strong>8. Após a administração de uma medicação para intubação em um menino de 7 anos com insuficiência respiratória, nota-se um espasmo grave do masseter. Qual a mais provável medicação realizada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-008" value="A"> A. Succinilcolina.</label>
@@ -131,7 +131,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q17 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q17</p>
 <p><strong>9. Paciente, sexo masculino, 4 anos, dá entrada em departamento de emergência com quadro de febre e vômitos há 4 dias e queixa de dor abdominal difusa, além de discreta distensão abdominal. A mãe refere que a criança apresentou diarreia nos primeiros 2 dias e nos últimos 2 dias não apresentou evacuações. Ao exame: criança prostrada, em regular estado geral, desidratada ++/4+, corada, acianótica, anictérica, febril (TAX. 38,6ºC), taquicárdica (FC: 138 bpm), taquipneica (FR: 37 irpm) e hipotensa (PA: 56/34 mmHg). Ausculta cardíaca e pulmonar sem alterações; oroscopia e otoscopia com hiperemia; língua em framboesa, pele espessa com presença de placas eritematosas difusas e sufusões hemorrágicas; abdome distendido, doloroso à palpação difusa, sem sinais de defesa voluntária, RHA diminuídos, DB negativo, hepatoesplenomegalia discreta. Exames laboratoriais apresentando leucocitose com desvio à esquerda, plaquetopenia discreta, aumento de PCR e aumento discreto de escórias nitrogenadas e enzimas hepáticas. Qual a hipótese diagnóstica provável?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-009" value="A"> A. Apendicite aguda, reforçado pelo quadro de distensão abdominal, dor, vômitos e parada de eliminação de fezes;</label>
@@ -146,7 +146,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q50 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q50</p>
 <p><strong>10. Com base na apresentação deste paciente, qual tipo de choque mais provável?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-010" value="A"> A. Obstrutivo</label>
@@ -161,7 +161,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q51 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q51</p>
 <p><strong>11. Após a definição do tipo de choque, qual a conduta terapêutica apropriada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-011" value="A"> A. Noradrenalina 0,10 mcg/Kg/min</label>
@@ -176,7 +176,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q72 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q72</p>
 <p><strong>12. As pneumonias adquiridas na comunidade continuam sendo uma importante causa de morbimortalidade, especialmente em menores de cinco anos, em todo o mundo. Diante de uma criança com sintomas respiratórios, em que se avalia a possibilidade de diagnóstico de pneumonia, deve ser considerado que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-012" value="A"> A. A tosse, a febre e a presença de dificuldade para respirar são queixas comuns, e a ausculta pulmonar com estertores crepitantes é o sinal de maior sensibilidade para o diagnóstico.</label>
@@ -191,7 +191,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q74 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q74</p>
 <p><strong>13. Criança de 9 meses, sexo masculino, é trazido ao DE devido a quadro de febre e inapetência, apresentando diurese preservada e discreto sinal de desidratação, histórico de infecção de vias aéreas altas recentemente, criança ativa e reativa, sem alterações de exame físico, com exceção da febre 39,2°C e ulceras orais e lesões bolhosas em pés e mãos. Qual conduta adequada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-013" value="A"> A. Aciclovir oral;</label>
@@ -206,7 +206,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q80 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q80</p>
 <p><strong>14. Sobre o escore PECARN na avaliação do traumatismo crânio encefálico (TCE) pediátrico, escolha a alternativa errada:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-014" value="A"> A. O PECARN é usado somente para avaliação de TCE leve</label>
@@ -221,7 +221,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q86 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q86</p>
 <p><strong>15. Você recebe no departamento de emergência, criança de 4 anos com quadro de febre e erupção cutânea difusa há 7 dias, apresenta também hiperemia conjuntival bilateral e linfonodomegalias cervicais. Quais exames você solicitaria para auxiliar a investigação diagnóstica?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-015" value="A"> A. Sorologia para vírus Epstein-Barr;</label>
@@ -236,7 +236,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q91 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q91</p>
 <p><strong>16. Uma criança de 5 anos em tratamento com quimioterapia para uma leucemia mieloide aguda é trazida para o DE pelos pais. Eles relatam que a criança está com febre e letargia. Ao exame clínico percebe–se: frequência cardíaca de 158 bpm, frequência respiratória de 37 irpm, pressão arterial de 78/51 mmHg, tempo de preenchimento capilar de 1 segundo e temperatura axilar de 39,1°C. Estabeleceu-se um acesso IV e obteve-se uma hemocultura. Qual é a intervenção mais apropriada a seguir?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-016" value="A"> A. Administrar de 10 a 20 ml/Kg de cristalóide isotônico em 5 a 10 minutos</label>
@@ -251,7 +251,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q15 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q15</p>
 <p><strong>17. Lactente de 6 meses com quadro de bronquiolite em observação aguardando transferência para Serviço Pediátrico. Você vai reavaliar o paciente e o encontra desacordado, com esforço respiratório muito grave e palidez cutânea intensa. Em sua avaliação, você observa frequência respiratória (FR) de 80 irpm, saturação periférica de hemoglobina (SpO2) de 70% com oxigênio no cateter nasal, entrada de ar muito reduzida e esforço intenso. Extremidades frias, perfusão lentificada, pulsos periféricos fracos e centrais palpáveis, frequência cardáica (FC) de 48 bpm. Quais as condutas prioritárias nesse momento?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-017" value="A"> A. Iniciar oxigênio em alto fluxo por máscara facial e expansão volêmica, devido aos sinais de choque.</label>
@@ -266,7 +266,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q16 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q16</p>
 <p><strong>18. Marque a alternativa que descreve uma indicação de intubação orotraqueal e a melhor estratégia de realização do procedimento para um paciente em crise asmática grave:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-018" value="A"> A. Aumento da pressão parcial de gás carbônico (pCO2) em mais de 5 mmHg na última hora e manutenção do esforço respiratório. Pré-oxigenar com ventilação não invasiva. Considerar intubação em sequência prolongada.</label>
@@ -281,7 +281,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q32 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q32</p>
 <p><strong>19. Sobre doenças exantemáticas na população pediátrica, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-019" value="A"> A. O exantema súbito é uma doença causada por herpesvírus caracterizada por febre e rash cutâneo, que aparece tipicamente após defervescência febril. Convulsões febris podem ocorrer e devem levantar o alerta para a hipótese de encefalite, complicação comum, haja vista seu agente etiológico, porém com evolução benigna.</label>
@@ -296,7 +296,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q38 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q38</p>
 <p><strong>20. Paciente do sexo masculino, 8 anos de idade e 32 kg de peso com diagnóstico de asma e história de internações prévias em unidade de terapia intensiva com necessidade de ventilação mecânica por exacerbação chega ao Departamento de Emergência trazido pela mãe por nova exacerbação. Apresenta-se inquieto, taquipneico, com saturação periférica de hemoglobina (SpO2) de 90% e fala entrecortada. Imediatamente, é monitorizado, um acesso venoso periférico é obtido, e é ofertado oxigênio suplementar. Sobre o manejo desse paciente, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-020" value="A"> A. Por se tratar de uma crise grave, caso não haja resposta adequada após um primeiro resgate com beta-agonista inalatório, devemos iniciar precocemente o uso de beta-agonista endovenoso.</label>
@@ -311,7 +311,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q45 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q45</p>
 <p><strong>21. Recém-nascido de 23 dias, com 4 kg, chega ao Departamento de Emergência trazido pela mãe com relato de “estar estranho” há cerca de 15 minutos. Ao exame físico, apresentando movimentos tônico-clônicos sugestivos de crise convulsiva. Sobre o manejo desse paciente, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-021" value="A"> A. O manejo de crises convulsivas desencadeadas por hipoglicemia, se esse for o diagnóstico, deve ser manejado com glicose 50% em bólus de 5 mL/kg, com repetição do bólus, conforme necessário, até normalização da glicemia.</label>
@@ -326,7 +326,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q68 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q68</p>
 <p><strong>22. Sobre a avaliação e o manejo da criança vítima de traumatismo craniencefálico (TCE), assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-022" value="A"> A. O algoritmo da PECARN para avaliação do TCE pediátrico é um algoritmo único validado com os mesmos critérios para todas as crianças menores de 12 anos vítimas de TCE contuso e tem por objetivo a redução do uso da tomografia computadorizada, permitindo uma alta segura do Departamento de Emergência desses pacientes.</label>
@@ -341,7 +341,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q70 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q70</p>
 <p><strong>23. Lesões físicas são uma das principais causas de morte e perda de funcionalidade em crianças. Qual das alternativas a seguir representa lesões mais sugestivas de maus tratos na população pediátrica?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-023" value="A"> A. Fratura distal do rádio e queimaduras em padrão de luva.</label>
@@ -356,7 +356,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q94 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q94</p>
 <p><strong>24. Em comparação ao tratamento dos pacientes adultos vítimas de queimaduras, existem algumas particulares, que necessitam ser observadas no atendimento das crianças. Sobre isso, é correto afirmar:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-024" value="A"> A. A quantidade de volume que deve ser infundida é relativamente menor do que em adultos.</label>
@@ -371,7 +371,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q95 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q95</p>
 <p><strong>25. Sobre as particularidades do trauma pediátrico, em especial o raquimedular, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-025" value="A"> A. São considerados fatores de risco para lesões de coluna cervical em criança: alteração do status mental (incluindo intoxicações), défices neurológicos focais, dor cervical apenas em linha média, torcicolo, lesões significativas em torso, condições predisponentes para lesões de coluna cervical, mecanismo de trauma relacionado a mergulho e colisões automotoras de alto risco.</label>
@@ -386,7 +386,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q100 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q100</p>
 <p><strong>26. O triângulo da avaliação pediátrica é uma ferramenta muito importante na avaliação inicial de pacientes, ajudando a reconhecer rapidamente pacientes pediátricos graves em risco. Seus três componentes são:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-026" value="A"> A. Aparência, padrão respiratório e perfusão/circulação da pele.</label>
@@ -401,7 +401,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q11 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q11</p>
 <p><strong>27. Criança previamente hígida, com quadro súbito de rebaixamento do nível de consciência, bradicardia, sudorese e vômitos; com leucocitose, hiperglicemia, disfunção de ventrículo esquerdo e presença de linhas B bibasais ao ultrassom point-of-care se associam mais provavelmente a qual dos diagnósticos a seguir:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -417,7 +417,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q39 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q39</p>
 <p><strong>28. Durante a avaliação de um lactente vítima de atropelamento em baixa velocidade, é observado tempo de enchimento capilar prolongado, letargia e coloração pálida. A criança apresenta sinais vitais dentro dos limites da normalidade para a faixa etária, e o FAST realizado à beira do leito é negativo. Considerando o manejo do trauma na população pediátrica e os aspectos fisiológicos específicos, qual das condutas a seguir está mais adequada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-028" value="A"> A. Solicitar tomografia de abdome com contraste, pois um exame FAST negativo em crianças tem alto valor preditivo negativo para descartar lesões intra-abdominais clinicamente relevantes.</label>
@@ -432,7 +432,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q72 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q72</p>
 <p><strong>29. Uma menina de 6 anos, portadora de anemia falciforme (HbSS), é trazida ao Departamento de Emergência com dor torácica intensa e febre aferida de 38,9°C. Encontra-se taquipneica (frequência respiratória de 42 irpm), com discretas retrações intercostais, saturação periférica de oxigênio de 93% em ar ambiente. Refere início da dor há 12 horas, que se intensificou progressivamente, associada à tosse seca e à dor abdominal. O exame físico revela murmúrio vesicular reduzido em base direita. Exames complementares demonstram hemoglobina em 6,5 g/dL (hemoglobina prévia recente de 8,2), leucócitos em 27.000/mm³ e plaquetas em 110.000/mm³. Raio X de tórax mostra infiltrado alveolar em base direita. Qual das condutas a seguir é mais adequada no atendimento inicial?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-029" value="A"> A. Iniciar transfusão de concentrado de hemácias visando à elevação da hemoglobina para 11 g/dL, sem necessidade de antibiótico empírico.</label>
@@ -447,7 +447,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q83 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q83</p>
 <p><strong>30. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-030" value="A"> A. Manutenção da fração inspirada de oxigênio em 100% durante as primeiras 24 horas, visando à oxigenação máxima e neuroproteção.</label>
@@ -462,7 +462,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q91 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q91</p>
 <p><strong>31. Um menino de 7 anos, com histórico de asma, chega ao Departamento de Emergência, em crise, apresentando sibilância intensa, taquipneia e uso de musculatura acessória. Após a administração de broncodilatadores inalatórios e corticosteroides sistêmicos, a mãe relata que ele “parece mais calmo” e “menos agitado”. Ao reavaliar a criança, você observa que, apesar da aparente calma, ele está com dificuldade para responder a comandos simples; sua sibilância está menos audível, mas o esforço respiratório persiste. A saturação de oxigênio é de 88% em máscara não reinalante, a 10 L/minuto. Qual a alternativa melhor descreve a evolução clínica?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t010-031" value="A"> A. A criança está respondendo bem ao tratamento. A diminuição da agitação indica melhora do quadro.</label>

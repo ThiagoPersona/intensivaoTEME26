@@ -11,7 +11,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q51 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q51</p>
 <p><strong>1. Paciente de 16 anos dá entrada no departamento de emergência com quadro de dor abdominal aguda. Apresenta-se desidratado, com odor fétido na boca. FR 24 IRPM, SaO2 94%, MV com crepitações em base direita, FC 130 BPM, PA 80x60 mmHg, TEC 4 seg, ECG 11 (AO 2 RV 4 RM 5) pupilas 2+2+, TAx. 37,9 ̊C. Glicemia capilar 390 mg/dl. Solicitados exames laboratoriais e iniciado suporte sendo a conduta imediata:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -27,7 +27,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q57 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q57</p>
 <p><strong>2. Paciente com quadro de choque dá entrada no DE. São iniciadas medidas para o choque, tendo sido colhidos exames e realizada ressuscitação volêmica com cristalóide. Quais dos parâmetros abaixo podem ser usados para avaliar a melhora do paciente após a ressuscitação volêmica?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t011-002" value="A"> A. Diminuição dos níveis séricos de Lactato entre 10-20%, aumento dos valores de Base excess, diurese superior a 1 mL/kg/h</label>
@@ -42,7 +42,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q58 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q58</p>
 <p><strong>3. A Cetoacidose Diabética (CAD) é uma complicação relacionada à hiperglicemia e representa 4,9% das internações por diabetes mellitus (DM). Definimos a CAD pela tríade:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t011-003" value="A"> A. Glicemia &gt;600 mg/dl , pH &lt;7,3 , Cetonemia positiva</label>
@@ -57,7 +57,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q63 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q63</p>
 <p><strong>4. Paciente do sexo feminino, 35 anos, com diagnóstico de esclerose sistêmica difusa há cerca de 1 ano, em acompanhamento no ambulatório de Reumatologia, dá entrada no pronto socorro com crises convulsivas de difícil controle. Exame físico revela PA 180x110 mmHg e laboratório com creatinina sérica 2,8 mg/dL e análise do sedimento urinário com presença de proteinúria e hematúria. Diante da hipótese diagnóstica de crise renal esclerodérmica, marque a alternativa que apresenta a conduta terapêutica adequada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t011-004" value="A"> A. Pulsoterapia com metilprednisolona 1g IV por 3 dias.</label>
@@ -72,7 +72,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q30 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q30</p>
 <p><strong>5. Você admite no DE paciente do sexo masculino com história de ter sido envenenado com bebida oferecida por um desconhecido, realizada gasometria que apresentava acidose metabólica com anion gap elevado, além de eletrocardiograma apresentando prolongamento do intervalo QT e presença de cristais de oxalato de cálcio na urina. Qual a provável substância responsável pela intoxicação?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -88,7 +88,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q63 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q63</p>
 <p><strong>6. Cetoacidose diabética(CAD) é uma complicação relacionada à hiperglicemia e representa 4,9% das internações por diabetes mellitus (DM). Definimos a CAD pela tríade:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t011-006" value="A"> A. Glicemia &gt;600 mg/dl , pH &lt;7,3 , Cetonemia positiva</label>
@@ -103,7 +103,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q30 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q30</p>
 <p><strong>7. Paciente do sexo feminino, de 27 anos, é admitida ao Departamento de Emergência após ter sido encontrada desacordada em sua cama. A equipe do atendimento préhospitalar relata diversas caixas de comprimidos na cena, incluindo fluoxetina, clonazepam e amitriptilina. Ao exame, paciente desacordada, com escala de coma de Glasgow em 10, pupilas médias e fotorreagentes, reflexos tendíneos fisiológicos, frequência cardíaca de 131 bpm, pressão arterial de 70 x 50 mmHg, com extremidades frias e pegajosas, frequência respiratória de 28 irpm com respiração ruidosa e acúmulo de secreção em orofaringe. Temperatura 37,9ºC, eletrocardiograma da paciente conforme imagem a seguir. Considerando o quadro descrito, marque a alternativa com o melhor conjunto de medidas indicadas:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -119,7 +119,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q79 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q79</p>
 <p><strong>8. Sobre o acidente com abelhas, marque a correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t011-008" value="A"> A. Em um paciente picado por uma única abelha com quadro urticária associado a náuseas, vômitos persistentes e diarreia na primeira hora do acidente, antihistamínicos e sintomáticos devem ser iniciados prioritariamente.</label>
@@ -134,7 +134,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q32 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q32</p>
 <p><strong>9. Paciente 23 anos, encontrado confuso, com vômitos e taquipneico em via pública, estável hemodinamicamente, sem outras alterações no exame físico. Resultado de exames coletados à admissão: - pH: 7,01 / PaO2: 90 mmHg / PaCO2: 17 mmHg / HCO3: 6,0 mEq/L. - Lactato sérico: 15 mmol/L. - Ânion gap: 44 mmol/L. - Potássio: 5,4 mEq/L. - Glicemia capilar: 227 mg/dL. Sobre o caso, marque a correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t011-009" value="A"> A. A cetoacidose diabética pode ser descartada como causa direta.</label>
@@ -149,7 +149,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q83 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q83</p>
 <p><strong>10. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t011-010" value="A"> A. Manutenção da fração inspirada de oxigênio em 100% durante as primeiras 24 horas, visando à oxigenação máxima e neuroproteção.</label>
@@ -164,7 +164,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q97 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q97</p>
 <p><strong>11. Mulher de 35 anos com hipertireoidismo, dá entrada com febre alta, frequência cardíaca 158 bpm, pressão arterial: 130 x 90 mmHg, desorientação, vômitos e sudorese intensa. O eletrocardiograma mostra taquicardia sinusal. O hormônio estimulante da tireoide era indetectável, T4 livre aumentado, transaminases e bilirrubinas elevadas e Razão Normalizada Internacional 1,8; sem sinais localizatórios de infecção. Qual a melhor conduta inicial diante da suspeita clínica?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">

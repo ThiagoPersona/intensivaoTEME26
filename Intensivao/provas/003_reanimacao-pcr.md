@@ -11,7 +11,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q6 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q6</p>
 <p><strong>1. Referência para Questões 6 e 7: Paciente de 19 anos é trazido ao DE por familiares. Você verifica que ele está inconsciente e não apresenta pulso. Qual das seguintes estratégias deve ser realizada de modo prioritário?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-001" value="A"> A. Iniciar Compressões cardíacas na frequência de 100 a 120 por minuto</label>
@@ -26,7 +26,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q7 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q7</p>
 <p><strong>2. Referência para Questões 6 e 7: Paciente de 19 anos é trazido ao DE por familiares. Você verifica que ele está inconsciente e não apresenta pulso. Você administrou 02 choques não sincronizados de 200 J no paciente acima. Foram reiniciadas as compressões torácicas com profundidade de mínimo 5 cm e no máximo 6 cm, com retorno total do tórax à posição de repouso. Nesse mesmo ciclo, foi administrado 1 mg de adrenalina EV e feito flush de 20 ml soro fisiológico. Ainda resta 1 minuto para a próxima verificação do ritmo. Qual conduta prioritária sequencial você poderia considerar no manejo desse caso ainda nesse ciclo?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-002" value="A"> A. Administrar amiodarona EV 300 mg</label>
@@ -41,7 +41,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q22 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q22</p>
 <p><strong>3. Mulher 34 anos deu entrada no Departamento de Emergência inconsciente mas com pulso central presente. Apresentava o ECG mostrado abaixo. Apesar dos esforços iniciais da equipe, a paciente desenvolve parada cardiorrespiratória com ritmo organizado (bradicardia sinusal FC 40 BPM). Qual a provável causa da PCR da paciente?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -57,7 +57,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q50 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q50</p>
 <p><strong>4. Paciente chega ao departamento de emergência, conduzido pelo SAMU, em parada cardiorrespiratória, em vigência de Reanimação Cardiopulmonar (RCP). Seu colega assume a condução da RCP e te pede para auxiliá-lo com o ultrassom. Utilizando o Protocolo Cardiac Arrest Sonographic Assessment (CASA), nos intervalos das compressões, estando o paciente em AESP, você começa a realizar as janelas ultrassonográficas. Se deparando com a imagem abaixo e tendo a informação de que o paciente não tinha cardiopatia prévia, qual seria sua provável conduta em relação a possível causa da PCR?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -73,7 +73,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q82 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q82</p>
 <p><strong>5. Equipe do Atendimento pré-hospitalar chega em local de acidente automobilístico, carro X carro, apresentando 2 vítimas graves, ao retirar a primeira vítima, esta é encaminhada para o DE mais próximo, ela é admitida em bradicardia e respiração ruidosa e evolui rapidamente com Parada Cardiorrespiratória (PCR) em AESP, a vítima está gestante, com abdome gravídico evidente há cerca de 35cm de altura uterina. São iniciadas as manobras de ressuscitação cardiorrespiratórias, e o emergencista opta pela realização de cesárea perimortem. Assinale a alternativa correta quanto a conduta escolhida:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-005" value="A"> A. Não deve ser realizada pois a paciente está com provavelmente com menos de 24 semanas de gestação</label>
@@ -88,7 +88,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q102 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q102</p>
 <p><strong>6. Criança de 06 anos, 25 kg, deu entrada no Departamento de Emergência inconsciente. Iniciada avaliação primária e detectou-se PCR. Iniciada RCP de alta qualidade e na análise do ritmo cardíaco observou-se o seguinte ritmo: Qual a sua conduta a seguir?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-006" value="A"> A. Desfibrilação com 2 a 4 J/Kg g</label>
@@ -103,7 +103,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q119 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q119</p>
 <p><strong>7. De acordo com as Diretrizes do ILCOR de 2020, qual a relação de compressões e ventilações em um paciente lactente com 01 socorrista?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-007" value="A"> A. 15 compressões e 02 ventilações</label>
@@ -118,7 +118,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q7 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q7</p>
 <p><strong>8. Na identificação da Parada Cardiorrespiratória na gestação deve ser considerada a realização do parto cesáreo perimortem. Admite-se que o parto cesárea perimortem está relacionado à sobrevida materna em 31,7% e sem efeito prejudicial adicional à mãe. Caso clínico: Gestante no 2° trimestre de gestação portadora de cardiopatia reumática mitral corrigida cirurgicamente é trazida pelo SAMU e dá entrada no DE em franca insuficiência respiratória aguda, apresentando parada cardiorrespiratória logo após a admissão. Você e sua equipe (provedores de saúde experientes) assumiram os cuidados de Suporte Avançado de Vida e procederam imediatamente à manobra manual de tracionamento do útero à esquerda durante todo o atendimento e os cuidados durante a parada cardiorrespiratória. Quais as sequências corretas de atendimento nesse cenário?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-008" value="A"> A. Iniciar as compressões torácicas otimizadas em superfície rígida, com compressões e 02 ventilações com dispositivo bolsa–válvula–máscara; analisar ritmo cardíaco o mais rapidamente possível e se for ritmo chocável, administrar choque desfibrilatório com onda bifásica em carga máxima imediatamente. Após o 1° choque administrar adrenalina e considerar histerotomia em até 05 minutos e a partir de 18 semanas</label>
@@ -133,7 +133,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q23 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q23</p>
 <p><strong>9. A unidade de atendimento pré-hospitalar onde você trabalha é acionada para avaliar paciente em possível parada cardiorrespiratória sabidamente cardiopata. Ao chegar na cena, você verifica que paciente já está em óbito, o mesmo está caído no último degrau de uma escada, aparentemente não há sinais externos de lesão. Qual a conduta que você pode tomar?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-009" value="A"> A. Por não haver lesões externas, pode constatar o óbito e realizar a declaração de óbito;</label>
@@ -148,7 +148,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q33 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q33</p>
 <p><strong>10. Assinale a alternativa correta em relação ao atendimento a um paciente vítima de afogamento, que permaneceu submerso por quarenta minutos e foi retirado da água inconsciente e sem respirar:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-010" value="A"> A. A primeira medida a ser tomada é o posicionamento da via aérea e a realização de cinco ventilações de resgate</label>
@@ -163,7 +163,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q37 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q37</p>
 <p><strong>11. Caso clínico para as questões 36, 37 e 38: Você está atendendo um paciente de 59 anos vítima de Parada Cardiorrespiratória em ritmo chocável após retorno à circulação espontânea. Foram administrados 04 (quatro) choques desfibriladores, 02 (duas) doses de vasopressor (adrenalina 1 mg) e 01 (uma) dose de antiarrítmico (amiodarona 300 mg). Nos Cuidados Pós-Ressuscitação, você optou por intubar o paciente e iniciar a monitorização por capnografia. O traçado da capnografia estava normal sendo mostrado a abaixo. Após transferir o paciente para seu leito definitivo, verifica–se o seguinte traçado: Qual a conduta mais adequada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-011" value="A"> A. Aspirar secreções</label>
@@ -178,7 +178,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q62 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q62</p>
 <p><strong>12. Para o uso adequado da ultrassonografia beira-leito (POCUS) na parada cardiorrespiratória, deve-se contar com equipe com dimensionamento adequado (direcionando um profissional médico exclusivamente para realização do exame), com captação de imagens durante as pausas para checagem de ritmo (compressões não devem ser interrompidas apenas para o exame). Julgue as afirmativas abaixo sobre o uso do POCUS na Parada cardiorrespiratória: ( ) O protocolo mais consolidado é o protocolo CASA, que sistematiza a avaliação sequencial de tamponamento cardíaco, sobrecarga de câmaras cardíacas direitas e atividade cardíaca. ( ) A checagem manual de pulso tem baixa acurácia em relação à checagem ultrassonográfica, podendo o POCUS ser utilizado de forma complementar auxiliando no reconhecimento de retorno à circulação espontânea. ( ) O achado isolado de dilatação de câmaras cardíacas direitas, mesmo que discreta, é altamente específico para TEP como causa subjacente da Parada cardiorrespiratória, devendo ser indicada a trombólise. ( ) No contexto de atividade elétrica organizada sem pulso palpável (AESP) porém com constatação de atividade cardíaca com abertura e fechamento valvar (principalmente se associada a aorta pulsátil e curva de pulso em cateter de pressão arterial invasiva) indica quadro de “pseudo-AESP”. Nestes casos, pode-se considerar o diagnóstico de choque profundo e ser indicada a suspensão de RCP e início de drogas vasoativas. ( ) A ausência total de atividade cardíaca ao POCUS deve indicar suspensão de manobras de RCP. A sequência correta de afirmativas verdadeiras e falsas é:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -194,7 +194,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q89 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q89</p>
 <p><strong>13. Em relação ao atendimento a uma parada cardiorrespiratória de origem traumática, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-013" value="A"> A. Paciente vítima de trauma penetrante, sem sinais de vida na chegada ao departamento de emergência, com evidência de tamponamento cardíaco ao POCUS, deve ter a toracotomia considerada em sua abordagem inicial</label>
@@ -209,7 +209,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q15 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q15</p>
 <p><strong>14. Lactente de 6 meses com quadro de bronquiolite em observação aguardando transferência para Serviço Pediátrico. Você vai reavaliar o paciente e o encontra desacordado, com esforço respiratório muito grave e palidez cutânea intensa. Em sua avaliação, você observa frequência respiratória (FR) de 80 irpm, saturação periférica de hemoglobina (SpO2) de 70% com oxigênio no cateter nasal, entrada de ar muito reduzida e esforço intenso. Extremidades frias, perfusão lentificada, pulsos periféricos fracos e centrais palpáveis, frequência cardáica (FC) de 48 bpm. Quais as condutas prioritárias nesse momento?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-014" value="A"> A. Iniciar oxigênio em alto fluxo por máscara facial e expansão volêmica, devido aos sinais de choque.</label>
@@ -224,7 +224,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q51 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q51</p>
 <p><strong>15. Sobre paradas cardiorrespiratórias, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-015" value="A"> A. A infusão contínua de vasopressores não deve ser utilizada em parada cardiorrespiratória, optando-se por medicações em bólus.</label>
@@ -239,7 +239,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q63 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q63</p>
 <p><strong>16. Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-016" value="A"> A. Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.</label>
@@ -254,7 +254,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q67 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q67</p>
 <p><strong>17. Sobre tamponamento cardíaco, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-017" value="A"> A. A presença de distensão jugular confirma tamponamento cardíaco.</label>
@@ -269,7 +269,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q82 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q82</p>
 <p><strong>18. Paciente de 28 anos é encontrado com pulso central fraco e sem resposta ao estímulo em via pública; segundo relato de amigos, é usuário de drogas. À ectoscopia, presença de pó branco nas narinas. Evolui para parada cardiorrespiratória durante abordagem inicial. Neste momento, marque a alternativa que melhor resume a condução ideal do caso:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-018" value="A"> A. Iniciar manobras de ressuscitação; evitar uso de epinefrina; iniciar amiodarona precocemente em caso de ritmos chocáveis ao monitor; realizar intubação assim que possível.</label>
@@ -284,7 +284,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q97 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q97</p>
 <p><strong>19. Durante o manejo de uma parada cardiorrespiratória, o paciente subitamente apresenta a curva abaixo no monitor multiparamétrico. Marque a alternativa que melhor descreve o que provavelmente aconteceu com o paciente: Fonte: Ward I, Amoroso DM, Brandão Neto RA, Alencar JC. Manual de via aérea na emergência. São Paulo: Manole; 2023.</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -300,7 +300,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q99 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q99</p>
 <p><strong>20. Homem, de 58 anos, encaminhado da unidade de pronto atendimento devido a episódio súbito de dor torácica, seguida de rebaixamento de consciência e perda de pulso central. Recebeu Suporte Avançado de Vida na origem, com ressuscitação cardiopulmonar, apresentando retorno à circulação espontânea com 20 minutos. Na admissão na sala de emergência, encontra-se em uso midazolam, em infusão contínua e noradrenalina, na dose de 0,15 mcg/kg/minuto. Sinais vitais: pressão arterial de 130 X 70 mmHg, frequência cardíaca de 88 bpm, frequência respiratória de 16 irpm, saturação periférica de hemoglobina (SpO2) de 98%, tempo de enchimento capilar &lt; 2 segundos, temperatura de 34,7ºC, glicemia capilar de 120 mg/dL. Avaliação neurológica: escala de coma de Glasgow em 3/15, pupilas médias fixas, ausência de reflexo córneo-palpebral e ausência de reflexo de tosse. Drive ventilatório está ausente. Durante a avaliação, notam-se episódios de mioclonia. Com base nos achados da avaliação inicial desse caso e sabendo que a sedação foi desligada na admissão, podemos considerar a abertura do protocolo de Morte Encefálica (ME):</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-020" value="A"> A. Após 6 horas da admissão hospitalar e após aguardar cinco meia-vidas do desligamento da sedação, desde que mantidos os parâmetros hemodinâmicos da admissão.</label>
@@ -315,7 +315,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q45 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q45</p>
 <p><strong>21. Você está na praia e percebe que um adulto jovem está se afogando a poucos metros de você e se dirige até o local onde ele está para prestar socorro. Ao alcançá-lo, você percebe que ele está inconsciente. Você percebe que uma equipe com mais dois socorristas aguarda para dar continuidade no atendimento fora da água. O paciente está inconsciente e sem pulso. Qual a melhor abordagem?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-021" value="A"> A. Iniciar ventilação ainda dentro da água (boca a boca), aspirar vias aéreas e promover intubação orotraqueal assim que possível, mantendo ressuscitação cardiopulmonar na proporção de duas ventilações a cada 15 compressões; permanecer na cena até que todo o atendimento avançado possa ser realizado.</label>
@@ -330,7 +330,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q55 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q55</p>
 <p><strong>22. Você está liderando uma reanimação cardiopulmonar de ritmo inicial fibrilação ventricular, em que já foram realizadas quatro desfibrilações e uma dose de adrenalina 1 mg e de amiodarona 300 mg. Paciente 52 anos, previamente hipertenso e tabagista, chegou já em parada cardiorrespiratória, sem relatos de sintomas pródromos, a equipe do pré-hospitalar aplicou máscara laríngea e a cuja curva de capnografia encontra-se a seguir. Na pausa seguinte para checar o ritmo, paciente se mantém em fibrilação ventricular. O que deve ser priorizado?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -346,7 +346,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q83 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q83</p>
 <p><strong>23. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-023" value="A"> A. Manutenção da fração inspirada de oxigênio em 100% durante as primeiras 24 horas, visando à oxigenação máxima e neuroproteção.</label>
@@ -361,7 +361,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q94 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q94</p>
 <p><strong>24. Um paciente do sexo masculino de 85 anos, com diagnóstico de doença de Alzheimer (Frailty Scale 5, levemente frágil), é admitido no Departamento de Emergência em parada cardiorrespiratória após ter sido encontrado caído em decúbito ventral. Durante o exame físico, são observados sinais de escoriações e equimoses antigas em membros e tronco, além de um ferimento corto-contuso na região occipital. O óbito foi constatado após insucesso nas medidas de reanimação. Qual a conduta mais adequada do médico plantonista após a constatação do óbito, conforme as normativas do Conselho Federal de Medicina?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t003-024" value="A"> A. Fornecer a Declaração de Óbito com a causa da morte CID 10 R96 – Outras mortes súbitas de causa desconhecida – e liberar o corpo para a família, orientando sobre os trâmites funerários.</label>

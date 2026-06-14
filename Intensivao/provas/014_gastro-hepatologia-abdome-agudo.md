@@ -11,7 +11,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q14 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q14</p>
 <p><strong>1. Em relação à hemorragia digestiva alta em pacientes com cirrose e hipertensão portal, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-001" value="A"> A. A recorrência de sangramento após a descompressão do balão de Sengstaken-Blakemore ocorre em 3 a cada 4 pacientes</label>
@@ -26,7 +26,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q27 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q27</p>
 <p><strong>2. Paciente masculino de 43 anos, previamente hígido, dá entrada no DE com quadro de náuseas, vômitos e dor na porção superior do abdome há 1 dia. Ao exame encontra-se em bom estado geral, consciente, orientado, eupneico, afebril, FR 16 IRPM, SaO2 97% em ar ambiente, FC 88 BPM, PA 118 x 76 mmHg, com dor à palpação difusamente em andar superior do abdome, sem descompressão brusca dolorosa. Exames laboratoriais revelam creatinina de 1,2 mg/dL, alanina amino transferase de 180 u/L, amilase de 426 u/L, lipase de 632 u/L, triglicérides de 180 mg/dL, bilirrubina direta de 0,8 mg/dL. A ultrassonografia de abdome evidenciou discreta dilatação de vias biliares, com cálculo de 1,6 cm em colédoco distal e imagens hipoecoicas em topografia de pâncreas. Dentre as alternativas abaixo, assinale a melhor conduta inicial para esse paciente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-002" value="A"> A. Analgesia com meperidina, hidratação com solução fisiológica 0.9% endovenosa 20ml/kg/hora nas primeiras 24 horas e jejum</label>
@@ -41,7 +41,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q35 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q35</p>
 <p><strong>3. Paciente masculino de 72 anos de idade, com diagnóstico prévio de diverticulose colônica, dá entrada no departamento de emergência com quadro de dor abdominal em fossa ilíaca esquerda, associada a febre não aferida. Ao exame encontra-se consciente, orientado, afebril, estável hemodinamicamente, com dor à palpação de quadrante inferior esquerdo do abdome, associada à descompressão brusca dolorosa. Realizada tomografia de abdome que evidenciou parede de cólon sigmóide com 6mm de espessura e inflamação de gordura pericólica. Assinale dentre as alternativas abaixo a conduta mais adequada para a condução desse paciente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-003" value="A"> A. Tratamento ambulatorial com ciprofloxacino 500mg via oral 12/12 horas associado a metronidazol 500 mg via oral 8/8 horas por 10 dias</label>
@@ -56,7 +56,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q62 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q62</p>
 <p><strong>4. Paciente com diagnóstico de cirrose hepática grave, dá entrada no Departamento de Emergência com quadro de agitação psicomotora, confusão mental e agressividade. Ao exame físico apresenta ataxia e flapping. O acompanhante relata que o paciente está sem realizar evacuações há três dias. Dentre as alternativas abaixo, escolha a mais adequada como medida inicial para o tratamento desse paciente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-004" value="A"> A. Enema de Glicerina 12% Via Retal</label>
@@ -71,7 +71,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q90 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q90</p>
 <p><strong>5. Paciente masculino, 58 anos, diagnóstico prévio de cirrose hepática avançada, dá entrada no Departamento de Emergência com quadro de febre e dor abdominal difusa. Apresenta ascite volumosa ao exame físico. Você realiza uma punção do líquido ascítico e diagnostica uma peritonite bacteriana espontânea. Assinale a alternativa que apresenta o achado laboratorial da análise da líquido ascítico que possibilitou a realização desse diagnóstico:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-005" value="A"> A. Glicose &lt; 50 mg/dL</label>
@@ -86,7 +86,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q97 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q97</p>
 <p><strong>6. Em relação à abordagem do paciente com dor abdominal no Departamento de Emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-006" value="A"> A. A analgesia com opioides deve ser evitada, pois interfere no processo de investigação diagnóstica e tratamento</label>
@@ -101,7 +101,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q4 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q4</p>
 <p><strong>7. Paciente sexo masculino, 59 anos, dá entrada ao DE com quadro de alteração de nível de consciência. Familiar refere também piora do padrão respiratório devido ao aumento importante do volume abdominal nos últimos dias. Histórico de etilismo há cerca de 30 anos e tabagismo há 40 anos, ambos ativos. Ao exame paciente desnutrido, desidratado, em mal estado geral, sinais vitais eram PA 78x43 mmHg; FC 123 bpm; FR 25 irpm; SaO2 94%; Glicemia Capilar 71 mg/dL; apresentava tempo de enchimento capilar maior que 3 seg, icterícia ++/4+, desidratação ++/4+, ausculta cardíaca e pulmonar não apresentavam alterações importantes, abdome extremamente distendido, doloroso à palpação difusa, sem possibilidade de palpação de vísceras devido a ascite volumosa, RHA diminuídos; extremidades apresentavam edema ++/4+, sem sinais de trombose venosa, com pulsos finos e simétricos, toque retal sem sinais de sangramentos. Das possibilidades abaixo, qual poderia ser um diagnóstico do quadro, conduta e melhor tratamento a serem tomados?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-007" value="A"> A. Paciente pode estar apresentando quadro de peritonite bacteriana espontânea, com todos os sinais correspondendo a choque séptico, o tratamento seria uso empírico de ceftriaxona e solicitação de exames e conduta para quadro de choque séptico;</label>
@@ -116,7 +116,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q13 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q13</p>
 <p><strong>8. Em relação ao manejo inicial de um paciente vítima de lesão por arma branca em parede anterior do abdome, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-008" value="A"> A. A presença de ar intraperitoneal evidenciada em exame de imagem é indicação de laparotomia de emergência.</label>
@@ -131,7 +131,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q22 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q22</p>
 <p><strong>9. Em relação ao manejo de pacientes com apendicite aguda, assinale a alternativa correta</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-009" value="A"> A. Antibioticoterapia pode ser postergada até a avaliação do paciente pela equipe de cirurgia</label>
@@ -146,7 +146,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q32 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q32</p>
 <p><strong>10. Paciente de 29 anos com quadro de lombar e testicular à esquerda de forte intensidade há 02 horas associada a náuseas e vômitos. Procura a Unidade de Pronto Atendimento referindo 03 episódios de dor intensa nos últimos 07 dias. Ao exame clínico: febril com Tax 38°C e com calafrios, taquicárdico FC 112 bpm, PA 138 x 76 mmHg, AC: RR,2T,BNF,S/S AR: MV presente bilateralmente sem ruídos. Abdome doloroso à punho percussão em flanco esquerdo. Realizado o POCUS e você observa a imagem abaixo. Qual o possível diagnóstico e conduta (s) apropriada (s)?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -162,7 +162,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q58 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q58</p>
 <p><strong>11. Sobre os quadros de obstrução intestinal baixa, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-011" value="A"> A. O volvo de ceco pode ser tratado de maneira endoscópica</label>
@@ -177,7 +177,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q70 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q70</p>
 <p><strong>12. Dos acidentes com animais peçonhentos abaixo, qual deles pode levar a quadro de pancreatite aguda?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-012" value="A"> A. Aranha Gênero Loxosceles;</label>
@@ -192,7 +192,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q18 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q18</p>
 <p><strong>13. Mulher, 37 anos, referenciada à Unidade de Emergência com suspeita de abdome agudo. Refere dor abdominal em andar inferior do abdome e fossa ilíaca direita. Apresentou náuseas, vômitos e um episódio de febre aferida. Queixa-se ainda de dispareunia e corrimento vaginal de coloração amarelada. Ao exame físico apresenta abdome flácido, doloroso à palpação superficial e profunda de andar inferior de abdome sem descompressão brusca dolorosa. Ao toque vaginal, observa-se dor na mobilização do colo uterino. Com base nesse caso, podemos afirmar que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-013" value="A"> A. O diagnóstico de doença inflamatória pélvica aguda necessita da confirmação por exames de imagem como ultrassonografia pélvica e tomografia de abdome com contraste.</label>
@@ -207,7 +207,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q40 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q40</p>
 <p><strong>14. Homem, 38 anos, com dor abdominal há 3 dias localizada em flanco esquerdo do tipo cólica de forte intensidade associada a náuseas e vômitos. Paciente clinicamente estável e exame físico do abdome sem sinais de peritonite. Realizada analgesia com dipirona e tenoxicam por via intravenosa com melhora transitória. Hemograma com hemoglobina em 12 g/dL, hematócrito em 38%, leucócitos em 17.000 cél/mm3 com 84% segmentados. Urina I/EAS: 500.000 hemácias/mL (referência &lt; 10.000/mL) e 800.000 leucócitos/mL (referência &lt; 10.000/mL), nitrito positivo. Realizado ultrassom point-of-care (PoCUS) abdominal, e a janela do quadrante superior esquerdo evidenciou a seguinte imagem: Com base nos achados encontrados, qual a melhor conduta para o caso?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -223,7 +223,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q44 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q44</p>
 <p><strong>15. Homem de 65 anos, coronariopata. Procura atendimento devido à dor abdominal de forte intensidade em região epigástrica com irradiação para dorso há 1 dia. Apresenta vômitos de conteúdo gástrico. Infarto prévio há 1 ano. Faz uso regular de ácido acetilsalicílico 100 mg, clopidogrel 75 mg e enalapril 20 mg. Na avaliação inicial, apresenta pressão arterial de 100 x 60 mmHg, frequência cardíaca de 133 bpm frequência respiratória de 24 ipm, tempo de enchimento capilar &lt; 2 segundos, saturação periférica de hemoglobina (SpO2) de 95%. Abdome plano, doloroso à palpação superficial e profunda de epigastro Ruídos hidroaéreos presentes, descompressão brusca dolorosa positiva, eletrocardiograma admissão mostrando taquicardia sinusal. Sem alterações de ST. Realizado ultrassom point-of-care (PoCUS) abdominal, que revelou a seguinte imagem: Com base nos achados da história, do exame físico e da imagem do PoCUS, o diagnóstico mais provável é:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -239,7 +239,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q63 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q63</p>
 <p><strong>16. Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-016" value="A"> A. Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.</label>
@@ -254,7 +254,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q5 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q5</p>
 <p><strong>17. Homem de 54 anos, com história conhecida de etilismo crônico, é levado ao Departamento de Emergência após ferimento por arma branca durante briga em bar. Está consciente e hemodinamicamente estável. Ao exame físico, apresenta telangiectasias, ginecomastia e abdome globoso com circulação colateral, percussão maciça em flancos e sem sinais de irritação peritoneal. Ferimento de 2 cm em sétimo espaço intercostal anterior esquerdo. A avaliação com ultrassom demonstra presença de líquido anecóico difuso na cavidade abdominal, deslizamento pleural bilateral e derrame pleural bibasal. Com base nesse caso, assinale a conduta mais apropriada:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -270,7 +270,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q49 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q49</p>
 <p><strong>18. Em um Departamento de Emergência referenciado, você recebe um paciente de 61 anos, cirrótico, regulado devido a um quadro de hemorragia digestiva alta de origem varicosa. O hospital em questão não apresentava Serviço de Endoscopia Digestiva Alta e, devido à gravidade do quadro, foi optado pela passagem de um balão gastresofágico cerca de 72 horas antes. Paciente é admitido em estado grave, sedado em Escala de Agitação-Sedação de Richmond -3, em ventilação mecânica com parâmetros mínimos e saturação periférica de oxigênio de 95%, ausculta pulmonar normal e sem alterações patológicas bilateralmente. Hipotensão com pressão arterial 92 × 47 mmHg em uso de noradrenalina a 0,3 mcg/kg/minuto, ausculta cardíaca normal, sem alterações patológicas; É notável também a presença de enfisema subcutâneo cervical, ao ultrassom point-of-care lung sliding preservado bilateralmente. Balão esofágico encontra-se bem acoplado, tracionado com 2 L de soro fisiológico como contrapeso, e o manômetro demonstra pressão de 50 mmHg no balão esofágico. Hemoglobina atual encontra-se em 8,1 g/dL. Sobre o manejo definitivo do quadro, marque a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -286,7 +286,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q53 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q53</p>
 <p><strong>19. Mulher, 60 anos, procura atendimento no Departamento de Emergência em Teresina (PI), devido à dor abdominal em hipocôndrio direito de forte intensidade há 2 dias. Refere ainda quadro de febre que teve início há 5 dias. No exame físico, há dor à palpação profunda do andar superior do abdome, mas não há sinais de descompressão brusca dolorosa. Realizou hemograma na admissão, que revelou hemoglobinas em 14,5, hematócritos em 49%, leucócitos em 4.500, plaquetas em 120 mil. Sem outras alterações relevantes nos exames. Foi realizado um ultrassom a beira do leito que revelou a seguinte imagem: Com base nas informações fornecidas, qual das alternativas expressa a melhor hipótese diagnóstica e conduta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -302,7 +302,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q58 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q58</p>
 <p><strong>20. Um paciente de 63 anos com hematêmese foi atendido no plantão anterior e está na Sala Vermelha aguardando endoscopia. O paciente chegou com frequência cardíaca de 140 bpm, pressão arterial de 80 × 40 mmHg, com exteriorização de hemorragia importante após abuso de anti-inflamatórios. O colega do plantão anterior realizou expansão volêmica com 20 mL/kg de solução cristaloide, omeprazol em dose plena, acionou a endoscopia e solicitou exames laboratoriais. No momento, o paciente encontra-se com frequência cardíaca de 87 bpm, pressão arterial de 110 × 80 mmHg e conversando. Exames laboratoriais solicitados antes da passagem de plantão: hemoglobinas em 7,4/ plaquetas em 120 mil/ Razão Normalizada Internacional de 1,2/ creatinina de 1,5/ ureia de 87. O interno colheu uma gasometria com o seguinte resultado: pH de 7.32/ pressão parcial de dióxido de carbono de 29 mmHg/ oxigênio de 88 mmHg/ lactato: 1,9 mmol/L/ excesso de base de - 6/ HCO3 de 19 mEq/L. Sobre o caso, é correto afirmar:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-020" value="A"> A. O paciente não foi ressuscitado adequadamente; deve-se iniciar protocolo de transfusão maciça 1:1:1.</label>
@@ -317,7 +317,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q70 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q70</p>
 <p><strong>21. Mulher de 19 anos, previamente hígida, procura a emergência com dor abdominal há 18 horas. Refere náuseas, inapetência e dor à deambulação. Última menstruação há 12 dias. Nega uso de anticoncepcional. Ao exame físico: temperatura axilar de 37,8°C, frequência cardíaca 102 bpm, dor à palpação profunda em fossa ilíaca direita com defesa voluntária. Toque vaginal com dor à mobilização do colo e com presença de corrimento esbranquiçado. Em um hospital rural com recursos limitados, o emergencista realiza ultrassom point-of-care com transdutor linear em fossa ilíaca direita, encontrando a seguinte imagem: Janela da fossa ilíaca direita com transdutor linear. Manobra de compressão no eixo transversal. Diante do caso e dos achados, assinale a alternativa CORRETA:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -333,7 +333,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q89 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q89</p>
 <p><strong>22. Um paciente de 70 anos, acamado há alguns meses, dependente para atividades básicas de vida, com insuficiência cardíaca New York Heart Association Classe IV com tratamento otimizado, apresenta, nos últimos 3 dias, uma piora significativa: dispneia ao repouso, permanece a maior parte do tempo sonolento, com períodos de despertar apenas para gemer ou queixar-se de cansaço, não responde com coerência, recusa totalmente a ingestão de alimentos e líquidos (Palliative Performance Scale - PPS - de 20). Apresenta queda do sulco nasolabial e mottling. Conversas sobre diretivas antecipadas com o paciente já vem acontecendo ambulatorialmente. Considerando o quadro clínico descrito, responda às duas questões a seguir. Qual a principal inferência diagnóstica e a prioridade de cuidado?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-022" value="A"> A. O paciente está em uma fase de descompensação aguda da insuficiência cardíaca; a prioridade é ajustar as medicações.</label>
@@ -348,7 +348,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q98 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q98</p>
 <p><strong>23. Paciente de 73 anos, com doença pulmonar obstrutiva crônica, fez uso recente de levofloxacino por uma exacerbação do seu quadro de base. Hoje procura o Departamento de Emergência com quadro de cinco evacuações líquidas associadas a dor abdominal em cólica e febre. No exame físico abdominal, está sem sinais de abdome agudo e com sinais vitais dentro da normalidade. Você suspeita de infecção por clostridium e solicita teste de antígeno e para toxina A e B. O resultado é positivo para o teste antígeno e negativo para teste toxina A e B. Baseado nesse caso, qual a melhor conduta e tratamento?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t014-023" value="A"> A. Resultado indeterminado, solicitar teste molecular; se positiva tratar com vancomicina por via oral.</label>

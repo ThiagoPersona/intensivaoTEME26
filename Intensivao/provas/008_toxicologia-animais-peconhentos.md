@@ -11,7 +11,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q55 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q55</p>
 <p><strong>1. Descreva a patologia abaixo que não apresenta mecanismo de Insuficiência Respiratória Tipo II exclusiva.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-001" value="A"> A. Intoxicação por Opióides</label>
@@ -26,7 +26,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q85 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q85</p>
 <p><strong>2. Sobre Síndrome de Abstinência Alcoólica (SAA) Marque a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-002" value="A"> A. Presença de crises convulsivas em etilistas geralmente é induzida por abstinência, avaliações complementares com Tomografia de Crânio não estão indicadas.</label>
@@ -41,7 +41,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q96 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q96</p>
 <p><strong>3. Sobre os conceitos abaixo envolvendo técnicas para manejo de pacientes intoxicados marque a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-003" value="A"> A. Carvão ativado é uma substância que induz adsorção, logo quanto menos tempo o carvão passar no TGI maior seu benefício.</label>
@@ -56,7 +56,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q108 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q108</p>
 <p><strong>4. Paciente de 23 anos, masculino, é admitido com quadro de letargia há algumas horas ou dias, familiares negavam outras comorbidades, exceto uso abusivo de álcool. Ao exame, FR 33 IRPM, SaO2 94%, Respiração ruidosa, ECG de 10 (Abertura Ocular 3 Resposta Motora 4 Resposta Verbal 3), Pupilas médias, PA 90x50 mm Hg, TC de crânio sem achados específicos. Gasometria Arterial: pH 7.12, PaO2 50 mmHg, PaCO2 33 mmHg, BIC 11 mEq/L, Na 144 mEq/L, Cl 94 mEq/L, Albumina 4.5 g/L. Osmolaridade Aferida 340 mOsm/Kg e Osmolaridade Calculada 317 mOsm/Kg. Qual das medidas abaixo é mais apropriada?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -72,7 +72,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q114 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q114</p>
 <p><strong>5. Nas alternativas abaixo descreve-se 4 casos clínicos de pacientes vítimas de acidentes com animais peçonhentos, marque a alternativa que corretamente correlaciona o caso clínico com o provável animal responsável.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-005" value="A"> A. Paciente apresenta dor intensa no local da ferida, urina escurecida e sangramento gengival - Acidente crotálico</label>
@@ -87,7 +87,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q30 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q30</p>
 <p><strong>6. Você admite no DE paciente do sexo masculino com história de ter sido envenenado com bebida oferecida por um desconhecido, realizada gasometria que apresentava acidose metabólica com anion gap elevado, além de eletrocardiograma apresentando prolongamento do intervalo QT e presença de cristais de oxalato de cálcio na urina. Qual a provável substância responsável pela intoxicação?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -103,7 +103,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q40 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q40</p>
 <p><strong>7. Em relação às lesões por inalação de fumaça, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-007" value="A"> A. Lesões por inalação de fumaça são a segunda causa de óbito mais frequente em vítimas de incêndios, atrás apenas das lesões térmicas e queimaduras</label>
@@ -118,7 +118,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q70 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q70</p>
 <p><strong>8. Dos acidentes com animais peçonhentos abaixo, qual deles pode levar a quadro de pancreatite aguda?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-008" value="A"> A. Aranha Gênero Loxosceles;</label>
@@ -133,7 +133,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q73 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q73</p>
 <p><strong>9. Quanto a avaliação inicial de um paciente intoxicado por uso abusivo de opióide, assinale Verdadeiro ou Falso: ( ) Efeitos encontrados como de distonia, só ocorrem com doses altas ou uso prolongado da droga; ( ) Todo paciente com suspeita de intoxicação por opióide merece pesquisa de outras causas de rebaixamento do nível de consciência; ( ) A ausência de miose no exame inicial descarta a intoxicação por opióide; ( ) O uso de naloxone é recomendado para qualquer manifestação clínica compatível com intoxicação por opióides.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-009" value="A"> A. F - V - F - F</label>
@@ -148,7 +148,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q97 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q97</p>
 <p><strong>10. Em relação a descontaminação de paciente exposto ao chumbo, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-010" value="A"> A. Caso seja de conhecimento que o tempo decorrido da intoxicação a chegada ao serviço de emergência, seja inferior há 2 horas, o uso do carvão ativado é medida de escolha;</label>
@@ -163,7 +163,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q1 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q1</p>
 <p><strong>11. Paciente admitido em Departamento de Emergência com o relato de que estava pescando e sentiu a picada de um animal não visualizado em região de maléolo lateral direito há cerca de 5 horas. No momento da admissão, apresentava gengivorragia, hematúria e dor local, além de 2 pontos de inoculação, com aproximadamente 0,7 cm de distância entre eles, sem edema importante. Exame físico sem outras alterações. Marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-011" value="A"> A. Trata-se provavelmente de um acidente por aranha Loxosceles, e o tratamento deve ser realizado com soro antiaracnídico e acompanhamento da lesão.</label>
@@ -178,7 +178,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q2 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q2</p>
 <p><strong>12. Sobre a descontaminação gástrica em casos de intoxicação exógena, marque a alternativa verdadeira:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-012" value="A"> A. O procedimento é útil para a maioria das substâncias, principalmente se houver ingestão maciça.</label>
@@ -193,7 +193,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q23 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q23</p>
 <p><strong>13. Ao realizar bloqueios anestésicos no Departamento de Emergência, devemos estar atentos à escolha do fármaco, suas propriedades farmacológicas e seus possíveis efeitos colaterais. Com relação à toxicidade dos anestésicos locais, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-013" value="A"> A. Anestésicos locais mais lipofílicos, como a bupivacaína, têm menor risco de toxicidade cardíaca, o que permite que suas doses máximas sejam mais altas, em comparação com os anestésicos que são mais cardiotóxicos, como a lidocaína.</label>
@@ -208,7 +208,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q30 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q30</p>
 <p><strong>14. Paciente do sexo feminino, de 27 anos, é admitida ao Departamento de Emergência após ter sido encontrada desacordada em sua cama. A equipe do atendimento préhospitalar relata diversas caixas de comprimidos na cena, incluindo fluoxetina, clonazepam e amitriptilina. Ao exame, paciente desacordada, com escala de coma de Glasgow em 10, pupilas médias e fotorreagentes, reflexos tendíneos fisiológicos, frequência cardíaca de 131 bpm, pressão arterial de 70 x 50 mmHg, com extremidades frias e pegajosas, frequência respiratória de 28 irpm com respiração ruidosa e acúmulo de secreção em orofaringe. Temperatura 37,9ºC, eletrocardiograma da paciente conforme imagem a seguir. Considerando o quadro descrito, marque a alternativa com o melhor conjunto de medidas indicadas:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -224,7 +224,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q57 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q57</p>
 <p><strong>15. Paciente de zona rural cafeeira, admitido com relato de ingestão há 6 horas de 100 mL de substância não identificada após discussão com a esposa. À admissão, apresentava vômitos e ulcerações em mucosa oral compatíveis com ingestão de substância cáustica; restante do exame sem alterações e exames laboratoriais dentro da normalidade. Foi realizada endoscopia digestiva alta 20 horas após a ingestão, que identificou lesões ZARGAR 2A. Foi indicada progressão de dieta e alta, porém nova revisão laboratorial identificou elevação de escórias renais e transaminases. No terceiro dia de internação, o paciente iniciou hemodiálise por falência renal e, no quinto dia, evoluiu com falência respiratória associada à fibrose pulmonar extensa. Diante da evolução do paciente, qual a provável substância ingerida?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-015" value="A"> A. Metanol.</label>
@@ -239,7 +239,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q79 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q79</p>
 <p><strong>16. Sobre o acidente com abelhas, marque a correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-016" value="A"> A. Em um paciente picado por uma única abelha com quadro urticária associado a náuseas, vômitos persistentes e diarreia na primeira hora do acidente, antihistamínicos e sintomáticos devem ser iniciados prioritariamente.</label>
@@ -254,7 +254,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q82 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q82</p>
 <p><strong>17. Paciente de 28 anos é encontrado com pulso central fraco e sem resposta ao estímulo em via pública; segundo relato de amigos, é usuário de drogas. À ectoscopia, presença de pó branco nas narinas. Evolui para parada cardiorrespiratória durante abordagem inicial. Neste momento, marque a alternativa que melhor resume a condução ideal do caso:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-017" value="A"> A. Iniciar manobras de ressuscitação; evitar uso de epinefrina; iniciar amiodarona precocemente em caso de ritmos chocáveis ao monitor; realizar intubação assim que possível.</label>
@@ -269,7 +269,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q1 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q1</p>
 <p><strong>18. Paciente de 33 anos, previamente hígido, é admitido no Departamento de Emergência após ter feito uso de 10 “carreiras” de cocaína nas últimas 2 horas. Apresenta-se em agitação psicomotora importante, agredindo os profissionais de saúde e com sudorese profusa; com taquicardia em ritmo sinusal com frequência cardíaca de 138 bpm, pressão arterial de 180 × 70 mmHg, frequência respiratória de 28 irpm, sem uso de musculatura acessória, saturação periférica de oxigênio de difícil aferição devido à agitação psicomotora e acesso venoso garantido; temperatura axilar de 39,8 ºC. A equipe opta por indicar intubação em sequência rápida. Sobre o manejo do quadro, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-018" value="A"> A. O uso da cetamina é absolutamente contraindicado.</label>
@@ -284,7 +284,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q11 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q11</p>
 <p><strong>19. Criança previamente hígida, com quadro súbito de rebaixamento do nível de consciência, bradicardia, sudorese e vômitos; com leucocitose, hiperglicemia, disfunção de ventrículo esquerdo e presença de linhas B bibasais ao ultrassom point-of-care se associam mais provavelmente a qual dos diagnósticos a seguir:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -300,7 +300,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q27 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q27</p>
 <p><strong>20. Ao longo do último ano, foram registrados diversos casos de intoxicação grave por arsênio, relacionados à presença intencional da substância em alimentos. Sobre esse tema, assinale V ou F nas afirmações a seguir e, ao final, marque a alternativa que apresenta, na ordem correta, as respostas: ( ) A intoxicação por ingestão de arsênio causa quadro clínico semelhante ao cólera, com diarreia com aspecto de “água de arroz”. ( ) Em caso de suspeita de intoxicação por arsênio, a terapia de quelação não deve ser iniciada nos pacientes sintomáticos até que haja comprovação laboratorial. ( ) A irrigação intestinal com polietilenoglicol é uma alternativa para acelerar a eliminação da substância, já que o carvão não tem eficácia bem estabelecida. ( ) Durante o manejo, há indicação de realização de raio X de abdome, no intuito de visualizar material radiopaco. A não visualização exclui a intoxicação. ( ) As alterações eletrocardiográficas mais comuns são alargamento do QT e arritmias, principalmente torsados de pontes e fenômeno de ondas T e U alternantes.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-020" value="A"> A. V-V-V-F-F.</label>
@@ -315,7 +315,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q36 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q36</p>
 <p><strong>21. Sobre o uso da naloxona e do flumazenil para o manejo das intoxicações por opioides ou por benzodiazepínicos, respectivamente, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-021" value="A"> A. Flumazenil é a droga de escolha para teste terapêutico em jovens vítimas de intoxicação por drogas desconhecidas.</label>
@@ -330,7 +330,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q38 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q38</p>
 <p><strong>22. Casal de jovens começou a se sentir mal algumas horas após almoço na casa de um parente. O quadro iniciou-se com náuseas, vômitos, diarreia, midríase e vertigem. Medicados com sintomáticos na Unidade de Pronto Atendimento, evoluíram com disfagia e paralisia diafragmática, tendo sido intubados 12 horas após o início dos sintomas. Sobre o relato, marque a opção correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-022" value="A"> A. Trata-se provavelmente de uma intoxicação por alimentos contaminados por pesticidas organofosforados.</label>
@@ -345,7 +345,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q64 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q64</p>
 <p><strong>23. Paciente do sexo masculino, de 62 anos, é trazido ao Departamento de Emergência por familiares, que relatam que, ao chegarem em casa o encontraram desacordado, com várias cartelas de medicações vazias no local. Não sabem há quanto tempo e quais as medicações que ele usa, mas referem que ele tinha um diagnóstico de hipertensão arterial sistêmica e de depressão. Chega sonolento, hipotenso, com glicemia capilar de 112 mg/dL. Sem déficit focal aparente, com pupilas isocóricas e fotorreagentes. Qual a conduta inicial para esse paciente, além do suporte à bradicardia?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-023" value="A"> A. Hemodiálise de emergência.</label>
@@ -360,7 +360,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q65 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q65</p>
 <p><strong>24. Paciente picado por animal não visualizado, em milharal, sentiu apenas um “soco” na panturrilha esquerda. À avaliação do local havia um arranhão. Procurou atendimento médico e, durante o exame físico, relatou apenas dor local, parestesia e visão dupla. O laboratório inicial, com 2 horas do acidente mostrou: - Razão Normalizada Internacional: incoagulável / Hemograma sem alterações. - Uréia: 40 mg/dL / Creatinina: 0,8 mg/dL / Glicemia: 100 mg/dL - Creatinofosfoquinase total: 230 U/L. Sobre esse caso, marque a verdadeiro:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t008-024" value="A"> A. Trata-se provavelmente de um acidente por Bothrops spp., filhote e o soro antibotrópico está indicado.</label>

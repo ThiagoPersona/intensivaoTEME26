@@ -11,7 +11,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q37 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q37</p>
 <p><strong>1. Em relação ao derrame pericárdico (DP) podemos afirmar:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-001" value="A"> A. DP mínimo corresponde a uma fina lâmina líquida observada somente durante a diástole ventricular</label>
@@ -26,7 +26,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q47 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q47</p>
 <p><strong>2. Paciente com quadro de choque, ainda não identificado, apresenta a seguinte história e exames físico e complementares: Vítima de acidente automobilístico, motorista sem cinto de segurança, dá entrada em um DE após cerca de 30 minutos do acidente. Apresenta palidez cutâneo-mucosa, queixa de dor torácica, PA 87x53 mmHg, FC 105 BPM; FR 23 IRPM; SaO2: 94%. Ausculta pulmonar com roncos e estertores crepitantes, bulhas cardíacas abafadas, lactato 3 mmol/dL, PaCO2 34 mmHg, BE -4,5. Qual sua hipótese diagnóstica e tipo de choque?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-002" value="A"> A. Pneumotórax hipertensivo, choque obstrutivo</label>
@@ -41,7 +41,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q101 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q101</p>
 <p><strong>3. Homem, 28 anos de idade, sem comorbidades conhecidas, procura o DE por dor precordial em peso iniciada há 3 dias associada a dispneia progressiva e atualmente aos mínimos esforços. Ao exame clínico: estado geral ruim, taquidispneico, sudorese fria, FC 122 bpm e PA 102 x 66 mmHg, com bulhas hipofonéticas e sem sopros. Repetiu-se a mensuração da pressão arterial durante manobra de inspiração profunda: 88 x 58 mmHg, acompanhada de intensificação de estase jugular. restante do exame clínico sem alterações. Qual a principal alteração esperada nos POCUS e qual a conduta de emergência necessária para estabilização hemodinâmica deste paciente?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-003" value="A"> A. POCUS Pulmonar em Perfil B e administrar 60 mg de furosemida EV</label>
@@ -56,7 +56,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q105 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q105</p>
 <p><strong>4. Na avaliação de um paciente com choque, o uso do POCUS é cada vez mais difundido por poder esclarecer muitas vezes a causa. No caso da avaliação cardíaca com o ultrassom em paciente com choque, foram achados os seguintes dados: PSAP 61 mmHg, aumento de câmaras cardíacas direitas, desvio de septo interventricular para a esquerda, contratilidade preservada de ventrículo esquerdo, pequena variabilidade de veia cava inferior. Com esta descrição, qual a causa e tipo de choque o paciente apresenta?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -72,7 +72,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q111 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q111</p>
 <p><strong>5. Sobre choque cardiogênico, assinale a alternativa incorreta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-005" value="A"> A. O uso de vasodilatadores é possível no contexto para otimizar a póscarga, a vasodilatação melhora o quadro clínico por diminuir o trabalho cardíaco</label>
@@ -87,7 +87,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q38 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q38</p>
 <p><strong>6. Caso clínico para as questões 36, 37 e 38: Você está atendendo um paciente de 59 anos vítima de Parada Cardiorrespiratória em ritmo chocável após retorno à circulação espontânea. Foram administrados 04 (quatro) choques desfibriladores, 02 (duas) doses de vasopressor (adrenalina 1 mg) e 01 (uma) dose de antiarrítmico (amiodarona 300 mg). Após corrigir a situação anterior, o paciente desenvolve grave hipoxemia com SaO2 oscilando entre 80 a 85% e piora do status hemodinâmico. Você opta por realizar POCUS cardíaco e pulmonar e identifica as seguintes imagens: Imagem 1 Imagem 2: Quais os achados no POCUS e a provável causa dessa nova instabilidade do paciente?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -103,7 +103,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q66 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q66</p>
 <p><strong>7. Após a avaliação da veia cava inferior, você prosseguiu com a avaliação do ultrassom cardíaco (ecocardiografia POCUS), e obteve os seguintes achados em cada janela: Paraesternal eixo longo: proporção entre câmaras mantida, válvula mitral espessada com aspecto “em tenda”, EPSS (distância E-septo) 22mm (Valor de referência - VR: ≤7mm), diâmetro diastólico final de VE 5 cm (VR: 3,5-5,5cm) Paraesternal eixo curto: hipertrofia concêntrica de VE com espessura de parede posterior na diástole de 17 mm (VR: &lt;12mm), contratilidade visualmente adequada, ausência de disfunção contrátil segmentar. Apical 4 câmaras: proporção entre câmaras mantida, válvula mitral espessada. Subxifóide: ausência de derrame pericárdico. Assinale a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -119,7 +119,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q79 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q79</p>
 <p><strong>8. Paciente, sexo masculino, 68 anos, dá entrada em setor de emergência com quadro de dor em região dorsal e lombar, de forte intensidade, associada a vômitos e palidez cutânea. Histórico de hipertensão e diabetes mellitus tipo 2, sem informação de medicações em uso devido a má aderência aos tratamentos propostos. Ao exame de entrada: PA: 76 x 43 mmHg, FC: 121 bpm, FR: 20 irpm, SaO2: 93% em ar ambiente. Apresentando ausculta pulmonar com discretos roncos em bases, ausculta cardíaca com bulhas abafadas e taquicardia, abdome extremamente doloroso à palpação difusa, pele marmórea. Realizado POCUS abdominal, tendo como resultado a imagem a seguir. Instituídas então medidas pertinentes ao caso clínico, com estabilização do paciente e continuidade da assistência. Tendo as informações acima, assinale a alternativa correta quanto ao caso clínico. ( ) Paciente com quadro de dissecção aguda de aorta, apresentando choque, podendo ser o abafamento de bulhas sinal de tamponamento cardíaco associado; ( ) Devido a instabilidade do quadro clínico, medidas para o tratamento de choque devem ser priorizadas; ( ) Está confirmado que choque desse paciente é devido à tamponamento cardíaco; ( ) Deve-se iniciar beta bloqueador na tentativa de diminuir a frequencia cardíaca.</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -135,7 +135,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q90 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q90</p>
 <p><strong>9. Paciente do sexo masculino, 60 anos, hipertenso em uso irregular de medicação. A filha informa que o paciente suspendeu por conta própria há 15 dias seus anti hipertensivos (captopril 75 mg/dia; propranolol 80 mg/dia; hidroclorotiazida 25 mg/dia). Há 08 dias refere mal estar, cefaléia, vertigem rotatória e náuseas. Ontem o paciente apresentou um borramento visual acentuado e hoje pela manhã apresentou crise convulsiva tônico-clônica generalizada, sendo trazido para o DE Ao exame clínico: - Neurológico: Sonolento/torporoso, GCS pontuando AO 2, RV 3 e RM 5, pupilas isocóricas, fotorreagentes, sem sinais neurológicos focais e sem rigidez de nuca. - Cardiovascular: PA = 227 x 151 mmHg, FC = 62 bpm. AC: RR, 2T, BNF, S/S - Respiratório: FR = 23 irpm, MV audível bilateralmente, sem ruídos adventícios, - Abdome e MMII sem alterações. Ao POCUS: - Pulmão: Padrão A bilateralmente - Coração: Qualitativamente com sinais hipertrofia ventricular concêntrica e Sem sinais derrame pericárdico - Abdome: ausência líquido livre; - Nervo Óptico: espessura da bainha nervo óptico com 7 mm Fundoscopia Qual o achado na fundoscopia e a hipótese diagnóstica mais provável/mecanismo fisiopatológico para o paciente em questão?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-009" value="A"> A. Papiledema; Acidente Vascular Cerebral Isquêmico e Aterosclerose</label>
@@ -150,7 +150,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q25 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q25</p>
 <p><strong>10. Mulher de 45 anos apresentou dor torácica retroesternal seguida de síncope, trazida ao hospital por familiares. À admissão na triagem do hospital, apresentava-se pálida, sudoreica, hipotensa e taquicardica, sendo encaminhada para a Sala Vermelha. Durante a monitorização, ficou irresponsiva. Confirmada a ausência de pulso central. São iniciadas manobras de ressuscitação cardiopulmonar. Seu serviço dispõe de ultrassonografia à beira leito e você decide utilizá-lo para avaliação. Com base na imagem a seguir, qual seria a melhor conduta?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -166,7 +166,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME24 Q27 | gabarito oficial: B</p>
+<p class="quiz-source">TEME24 Q27</p>
 <p><strong>11. Paciente de 68 anos, motorista de carro de aplicativo, tabagista, chega ao Departamento de Emergência de um hospital secundário em cadeira de rodas com dor lombar muito importante, Escala Visual Analógica (EVA) 10/10. Refere que possui marca-passo por arritmia, que não sabe informar qual, e descobriu recentemente um câncer de próstata, mas estava na fila para iniciar tratamento. Nega outras doenças ou uso contínuo de medicações. Sempre teve dor nas costas, mas dessa vez ela estava tão forte que não tinha forças nas pernas para trabalhar. Sobre a conduta no Departamento de Emergência:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-011" value="A"> A. Analgesia e alta com orientações de mudança de hábitos de vida.</label>
@@ -181,7 +181,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q28 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q28</p>
 <p><strong>12. Paciente de 51 anos, sexo masculino, é admitido no Departamento de Emergência referindo mal-estar inespecífico, dor torácica ventilatório-dependente e dispneia. Relata que os sintomas começaram naquele dia, de forma súbita, durante uma viagem de carro que teve duração de 3 horas. Na classificação de risco, frequência cardíaca de 99 bpm, pressão arterial de 121x78 mmHg, frequência respiratória de 19 irpm, temperatura de 36,3º C, saturação periférica de hemoglobina (SpO2) de 96% ar ambiente. Ao exame físico pulmonar, não se observam alterações dignas de nota. O eletrocardiograma realizado na triagem mostra ritmo sinusal, sem alterações sugestivas de isquemia. Inicialmente, foram feitos os exames laboratoriais listados a seguir, e você realiza um ultrassom pulmonar, cardíaco e de vasos de membros inferiores à beira do leito, descritos como normais. Exames complementares: hemoglobina 16 g/dL, hematócrito 45%, ureia 35 mg/dL, creatinina 0,95 mg/dL, leucograma 9.550 cél/mm3, plaquetas 232.000 cél/mm3, sódio sérico 141 mEq/L, potássio sérico 4,3 mEq/L, D-dímero 1.550 ng/mL, troponina 4 ng/dL (valor de referência &lt; 5 ng/dL). Após resultado dos exames, é solicitada uma angiotomografia de artérias pulmonares, que revela uma tromboembolia pulmonar (TEP) segmentar. Você reavalia o paciente, neste momento, estável e sem queixas. Qual das alternativas a seguir está correta?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -197,7 +197,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q53 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q53</p>
 <p><strong>13. Paciente chega no Departamento de Emergência, e sua avaliação com ultrassom point-of-care (PoCUS) evidencia um volumoso derrame pericárdico. Dentre as alternativas, assinale a que contém sinais ecocardiográficos sugestivos de tamponamento cardíaco:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -213,7 +213,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q67 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q67</p>
 <p><strong>14. Sobre tamponamento cardíaco, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-014" value="A"> A. A presença de distensão jugular confirma tamponamento cardíaco.</label>
@@ -228,7 +228,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q76 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q76</p>
 <p><strong>15. Sobre a abordagem do paciente com insuficiência cardíaca (IC) descompensada no Departamento de Emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-015" value="A"> A. O achado de crepitações na ausculta pulmonar apresenta razão de verossimilhança positiva superior ao do achado de turgência jugular.</label>
@@ -243,7 +243,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q88 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q88</p>
 <p><strong>16. Paciente com antecedentes de insuficiência cardíaca é admitido no Departamento de Emergência em choque (tempo de enchimento capilar lentificado), oligúria, extremidades frias e mal perfundidas, além de edema bilateral de membros inferiores. Sua pressão arterial é de 100 x 65 mmHg; lactato arterial de 5 mmol/L (valor de referência &lt; 2 mmol/L), com saturação venosa central de oxigênio (SvcO2) de 65% e diferença venoarterial (gapCO2 de 8 mmHg). Ultrassom point-of-care (PoCUS) pulmonar evidencia presença de linhas B e derrame pleural bilateral. Ecocardiograma point-of-care demonstra desvio paradoxal do septo, com ventrículo direito dilatado, excursão sistólica do anel tricúspide e a do anel mitral (TAPSE) de 8 mm, pressão sistólica de artéria pulmonar de 60 mmHg e fração de ejeção de ventrículo esquerdo preservada. Em relação ao tratamento farmacológico de suporte, assinale a alternativa com a melhor conduta.</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -259,7 +259,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q98 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q98</p>
 <p><strong>17. Paciente do sexo masculino, 23 anos, previamente hígido, chega ao Departamento de Emergência após quadro de síncope durante partida de futebol com corrida de grande intensidade. Nega sintomas prévios, como febre, trauma ou uso de substâncias exógenas. Sinais vitais e exame físico sem alterações, incluindo medida da pressão arterial deitado e sentado. A equipe no atendimento inicial solicitou um eletrocardiograma, recebendo o resultado abaixo. Fonte: Walls R, Hockberger R, Gausche-Hill M, Erickson TB, Wilcox SR. Rosen&#x27;s Emergency Medicine: Concepts and Clinical Practice. 10 ed. Philadelphia, PA: Elsevier; 2022. Conforme a análise do eletrocardiograma e do quadro clínico, qual a melhor conduta?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -275,7 +275,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q28 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q28</p>
 <p><strong>18. Assinale a alternativa correta quanto às miopericardites:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-018" value="A"> A. A ausência de alterações segmentares na avaliação ecocardiográfica à beira do leito afasta a possibilidade de síndrome coronariana aguda, corroborando para o diagnóstico de miopericardite.</label>
@@ -290,7 +290,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q50 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q50</p>
 <p><strong>19. Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado, com frequência respiratória de 30 irpm, saturação periférica de oxigênio de 88% em máscara de Venturi a 50%, com frequência cardíaca de 115 bpm, pressão arterial de 85 × 55 mmHg, com tempo de enchimento capilar &gt; 3 segundos. Foi iniciado vasopressor (noradrenalina na dose de 0,1 mcg/kg/minuto), com estabilização dos níveis pressóricos. Assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-019" value="A"> A. Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.</label>
@@ -305,7 +305,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q61 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q61</p>
 <p><strong>20. Uma paciente de 41 anos, sem comorbidades prévias, apresenta-se ao Departamento de Emergência com quadro de dispneia progressiva iniciada há 1 mês, após dar à luz a seu primeiro filho. Associado ao quadro, apresenta edema de membros inferiores bilateralmente, cansaço aos mínimos esforços e dificuldade de dormir devido à dispneia. Durante o pré-natal, não apresentou nenhuma complicação, porém foi realizado parto cesárea devido à pré-eclâmpsia. Apresenta os seguintes sinais vitais: pressão arterial de 145 × 95 mmHg, frequência cardíaca de 118 bpm, frequência respiratória de 28 irpm, saturação periférica de oxigênio de 85% em ar ambiente. Ultrassom point-of-care com seguintes achados: linhas Bs difusas bilateralmente, presença de discreto derrame pleural bilateral, aumento das câmaras cardíacas, hipocinesia ventricular esquerda difusa. Considerando a principal hipótese diagnóstica, quais são os principais fatores de risco?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -321,7 +321,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q89 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q89</p>
 <p><strong>21. Um paciente de 70 anos, acamado há alguns meses, dependente para atividades básicas de vida, com insuficiência cardíaca New York Heart Association Classe IV com tratamento otimizado, apresenta, nos últimos 3 dias, uma piora significativa: dispneia ao repouso, permanece a maior parte do tempo sonolento, com períodos de despertar apenas para gemer ou queixar-se de cansaço, não responde com coerência, recusa totalmente a ingestão de alimentos e líquidos (Palliative Performance Scale - PPS - de 20). Apresenta queda do sulco nasolabial e mottling. Conversas sobre diretivas antecipadas com o paciente já vem acontecendo ambulatorialmente. Considerando o quadro clínico descrito, responda às duas questões a seguir. Qual a principal inferência diagnóstica e a prioridade de cuidado?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-021" value="A"> A. O paciente está em uma fase de descompensação aguda da insuficiência cardíaca; a prioridade é ajustar as medicações.</label>
@@ -336,7 +336,7 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q90 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q90</p>
 <p><strong>22. Para o mesmo paciente da questão 89, quais as medidas iniciais mais apropriadas para o manejo da dispneia?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-022" value="A"> A. Oferecer oxigênio suplementar em cateter nasal para conforto com morfina em bomba de infusão contínua para sedação paliativa.</label>

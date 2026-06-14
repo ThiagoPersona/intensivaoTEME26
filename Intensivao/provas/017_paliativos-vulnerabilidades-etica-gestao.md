@@ -11,7 +11,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q30 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q30</p>
 <p><strong>1. Sobre o uso de Escalas de Triagem para definir prioridades de cuidado no DE, marque a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-001" value="A"> A. A escala de Manchester é muito utilizada no Brasil e é especialmente sensível para identificar pacientes com Sepse.</label>
@@ -26,7 +26,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q87 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q87</p>
 <p><strong>2. Das situações descritas, em qual delas não representa paciente com alterações psiquiátricas que necessita de complementação de investigação clínica, com exames complementares laboratoriais e/ou de imagem</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -42,7 +42,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q12 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q12</p>
 <p><strong>3. Paciente de 32 anos dá entrada em serviço de emergência após ter sido vítima de violência sexual, paciente se apresenta clinicamente bem, chorosa e pouco contactuante. Segundo relata, o agressor era desconhecido. No caso da prescrição de PEP (profilaxia pós-exposição) para HIV para esta paciente, assinale a alternativa incorreta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-003" value="A"> A. Está indicada independente da sorologia da vítima ser positiva ou negativa;</label>
@@ -57,7 +57,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q23 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q23</p>
 <p><strong>4. A unidade de atendimento pré-hospitalar onde você trabalha é acionada para avaliar paciente em possível parada cardiorrespiratória sabidamente cardiopata. Ao chegar na cena, você verifica que paciente já está em óbito, o mesmo está caído no último degrau de uma escada, aparentemente não há sinais externos de lesão. Qual a conduta que você pode tomar?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-004" value="A"> A. Por não haver lesões externas, pode constatar o óbito e realizar a declaração de óbito;</label>
@@ -72,7 +72,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q54 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q54</p>
 <p><strong>5. Qual a melhor definição de incidência?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-005" value="A"> A. O número total de pessoas afetadas por uma doença em um ponto específico no tempo</label>
@@ -87,7 +87,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q96 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q96</p>
 <p><strong>6. Em relação às Resoluções que norteiam os funcionamento das diversas modalidades de serviços de emergência, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-006" value="A"> A. Em uma UPA não há necessidade de sistema de classificação de risco implantado;</label>
@@ -102,7 +102,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME24 Q46 | gabarito oficial: A</p>
+<p class="quiz-source">TEME24 Q46</p>
 <p><strong>7. Sobre jornadas e escalas de plantão, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-007" value="A"> A. A escala médica de plantões é um documento que designa a responsabilidade do plantonista no plantão e todas as suas implicações éticas, civis e penais relacionadas a faltas.</label>
@@ -117,7 +117,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q75 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q75</p>
 <p><strong>8. De acordo com a resolução 2.077 de 2014 do Conselho Federal de Medicina (CFM), é obrigatória a implantação de acolhimento com classificação de risco nos Serviços Hospitalares de Urgência e Emergência. Ainda sobre a resolução, qual a alternativa correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-008" value="A"> A. Pacientes classificados como baixíssimo risco pelo enfermeiro podem ser encaminhados para unidades de menor complexidade, sem avaliação médica.</label>
@@ -132,7 +132,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q87 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q87</p>
 <p><strong>9. A resolução 2.077 de 2014 do Conselho Federal de Medicina (CFM) estabelece normativas acerca do funcionamento dos Serviços Hospitalares de Urgência e Emergência. Sobre esse tema, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-009" value="A"> A. A presença do médico emergencista com registro de qualificação da especialidade (RQE) é obrigatória na coordenação dos serviços hospitalares de urgência e emergência.</label>
@@ -147,7 +147,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME25 Q78 | espelho local do candidato: A (não oficial)</p>
+<p class="quiz-source">TEME25 Q78</p>
 <p><strong>10. Paciente de 26 anos é admitido ao Departamento de Emergência de um hospital público em São Paulo em julho, com relato de febre não aferida há cerca de 12 horas; nega tosse, dispneia, dor torácica, dor abdominal, disúria ou outros sintomas urinários; nega lesões cutâneas novas ou sangramentos; nega traumas. Ele relata ser previamente hígido e nega uso de medicações contínuas. Relata ter feito uso de dipirona por via oral com melhora parcial da febre. Ao exame físico, ele se encontra em BEG, consciente e orientado, sem rigidez de nuca, sem lesões cutâneas novas, eupneico em ar ambiente, exame dos aparelhos cardiorrespiratório sem alterações. Oroscopia sem hiperemia ou outros achados patológicos. frequência cardíaca de 96 bpm, pressão arterial de 128 x 60 mmHg, frequência respiratória de 21 ipm, saturação periférica de oxigênio de 98%, temperatura de 38,3ºC, prova do laço negativa. Sobre as condutas a serem realizadas nesse paciente, marque a correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-010" value="A"> A. O paciente deve receber alta hospitalar com orientação de sinais de alarme e seguimento em Unidade Básica de Saúde.</label>
@@ -162,7 +162,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q81 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q81</p>
 <p><strong>11. Mulher de 55 anos, sem nenhuma incapacidade funcional prévia, admitida no Departamento de Emergência com história de dificuldade para comunicação verbal e paralisia de um lado do corpo há 3 horas. É hipertensa e diabética, em uso de enalapril e metformina. Não há histórico de trauma, cirurgia ou outras condições clínicas dignas de nota. À chegada, pressão arterial de 164/88 mmHg, frequência cardíaca de 101 bpm, com ritmo cardíaco irregular, glicemia capilar de 159 mg/dL, obedecendo a comandos, alerta, afásica, com paralisia facial e com hemiparesia completa à direita, com pontuação na National Institutes of Health Stroke Scale (NIHSS) de 12. Ela foi submetida à tomografia computadorizada de crânio, com escore Alberta Stroke Program Early CT Score (ASPECTS) de 8. Assinale a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-011" value="A"> A. O ASPECTS avalia a extensão tomográfica do insulto, com boa acurácia para circulação vertebrobasilar.</label>
@@ -177,7 +177,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q87 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q87</p>
 <p><strong>12. Sobre o atendimento pré-hospitalar fixo, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-012" value="A"> A. A classificação de risco das Unidades de Pronto Atendimento é o principal parâmetro utilizado na decisão de encaminhar pacientes diretamente a outros serviços de menor complexidade.</label>
@@ -192,7 +192,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q88 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q88</p>
 <p><strong>13. Homem de 49 anos é trazido à emergência após ingerir 15 comprimidos de clonazepam com bebida alcoólica. Está orientado, sem sinais vitais alterados, e afirma que “não pretende repetir o ato”. Relata tristeza há semanas e insônia. Tem histórico de tentativas de suicídio anteriores, sem seguimento psiquiátrico. Vive com a irmã, que diz que ele “melhora rápido quando está calmo”. O paciente deseja ir embora para “não perder o emprego”. Qual a conduta mais apropriada?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-013" value="A"> A. Alta com orientações e reavaliação ambulatorial em até 72 horas.</label>
@@ -207,7 +207,7 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME25 Q94 | espelho local do candidato: C (não oficial)</p>
+<p class="quiz-source">TEME25 Q94</p>
 <p><strong>14. Um paciente do sexo masculino de 85 anos, com diagnóstico de doença de Alzheimer (Frailty Scale 5, levemente frágil), é admitido no Departamento de Emergência em parada cardiorrespiratória após ter sido encontrado caído em decúbito ventral. Durante o exame físico, são observados sinais de escoriações e equimoses antigas em membros e tronco, além de um ferimento corto-contuso na região occipital. O óbito foi constatado após insucesso nas medidas de reanimação. Qual a conduta mais adequada do médico plantonista após a constatação do óbito, conforme as normativas do Conselho Federal de Medicina?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t017-014" value="A"> A. Fornecer a Declaração de Óbito com a causa da morte CID 10 R96 – Outras mortes súbitas de causa desconhecida – e liberar o corpo para a família, orientando sobre os trâmites funerários.</label>

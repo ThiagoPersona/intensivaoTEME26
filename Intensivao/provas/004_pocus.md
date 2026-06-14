@@ -11,7 +11,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 ## Questões em estilo TEME
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q9 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q9</p>
 <p><strong>1. Com o POCUS Pulmonar as patologias respiratórias são avaliadas através da:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-001" value="A"> A. Avaliação de pleura e artefatos ar-tecidos (relação ar-líquido)</label>
@@ -26,7 +26,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q17 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q17</p>
 <p><strong>2. Mulher, 52 anos de idade, hipertensa, admitida no DE com hipótese diagnóstica de sepse de foco pulmonar. Encontra-se confusa, hipotensa com PA 80x42 mmHg (pressão arterial média 55 mmHg), extremidades frias e tempo de enchimento capilar lentificado. Iniciado antibioticoterapia empírica com ceftriaxone e azitromicina endovenosos. Realizada prova volêmica com 500mL de ringer lactato, sem reversão do quadro. POCUS Pulmonar: Linhas B bilaterais, sem outras alterações POCUS Cardíaco: VTI (Integral Velocidade Tempo): 18 e Veia Cava Inferior SEM variabilidade e distendida A conduta terapêutica nesse momento é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-002" value="A"> A. Realizar nova prova volêmica devido a sinais claros de baixo débito cardíaco e hipovolemia</label>
@@ -41,7 +41,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME22 Q24 | gabarito oficial: C</p>
+<p class="quiz-source">TEME22 Q24</p>
 <p><strong>3. Paciente de 33 anos, é admitido ao Departamento de Emergência com quadro de Dispneia de instalação aguda, ao exame físico apresenta SaO2 90% em ar ambiente, FC 113 BPM, FR 28 IRPM e Temperatura Axilar (TAx) de 36.4ºC, Ausculta pulmonar com MV reduzidos difusamente, sem outros achados significativos. Marque o exame complementar inicial com boa acurácia para definir as próximas medidas a serem priorizadas para esse paciente.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-003" value="A"> A. Radiografia de Tórax</label>
@@ -56,7 +56,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q29 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q29</p>
 <p><strong>4. Paciente 62 anos, 53 kg, hipertenso prévio (com história de miocardiopatia hipertrófica) em uso de Amlodipina e Losartana, sabidamente portador de hiperplasia benigna de próstata, dá entrada no DE com quadro de sepse de foco urinário. Evoluiu para choque séptico já em uso de noradrenalina 1 mcg/Kg/min infundida em Cateter Venoso Central (CVC) pela Veia Jugular Interna Esquerda (VJI). Foi intubado na urgência devido a rebaixamento de nível de consciência seguido por broncoaspiração. Colocado em Modo Assistido-Controlado a Pressão (PCV) com Pressão Inspiratória (PI) de 22 mmHg resultando em um VC 769 ml, FiO2 60% PEEP 14 mmHg FR 20 IRPM. Evolui com SaO2 89% FC 130 bpm e PA 80 x 50 mmHg sendo aumentado a FiO2 e a vazão de drogas vasoativas. Ultrassom Point Of Care (POCUS) realizado revela: -Coração com sinais de Hipertrofia e hiperdinamismo -Veia Cava Inferior distendida e sem oscilação -Pulmão direito com padrão A’, ponto pulmonar+, PLAPS- -Pulmão esquerdo com padrão A, sem ponto pulmonar, PLAPS - -Sistema venoso de Membros Inferiores (MMII) compressíveis O diagnóstico provável é:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -72,7 +72,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q39 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q39</p>
 <p><strong>5. Durante a realização do exame E-FAST no contexto de Trauma buscamos responder perguntas objetivas para tomada de decisão. Avaliando as janelas ultrassonográficas do exame E-FAST, o que procuramos encontrar para definir possível etiologia de Choque Hemodinâmico?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-005" value="A"> A. A1- Hipercontratilidade de VE, A2 - líquido perivesicular, A3 -coleção esplênica, A4 - líquido retro-uterino</label>
@@ -87,7 +87,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q50 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q50</p>
 <p><strong>6. Paciente chega ao departamento de emergência, conduzido pelo SAMU, em parada cardiorrespiratória, em vigência de Reanimação Cardiopulmonar (RCP). Seu colega assume a condução da RCP e te pede para auxiliá-lo com o ultrassom. Utilizando o Protocolo Cardiac Arrest Sonographic Assessment (CASA), nos intervalos das compressões, estando o paciente em AESP, você começa a realizar as janelas ultrassonográficas. Se deparando com a imagem abaixo e tendo a informação de que o paciente não tinha cardiopatia prévia, qual seria sua provável conduta em relação a possível causa da PCR?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -103,7 +103,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME22 Q57 | gabarito oficial: A</p>
+<p class="quiz-source">TEME22 Q57</p>
 <p><strong>7. Paciente com quadro de choque dá entrada no DE. São iniciadas medidas para o choque, tendo sido colhidos exames e realizada ressuscitação volêmica com cristalóide. Quais dos parâmetros abaixo podem ser usados para avaliar a melhora do paciente após a ressuscitação volêmica?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-007" value="A"> A. Diminuição dos níveis séricos de Lactato entre 10-20%, aumento dos valores de Base excess, diurese superior a 1 mL/kg/h</label>
@@ -118,7 +118,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME22 Q84 | gabarito oficial: D</p>
+<p class="quiz-source">TEME22 Q84</p>
 <p><strong>8. Podemos avaliar fluido responsividade, em um paciente chocado, com o auxílio do ultrassom, utilizando algumas técnicas listadas abaixo. Marque a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -134,7 +134,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q86 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q86</p>
 <p><strong>9. No caso de falência circulatória, o protocolo Fluid Administration Limited by Lung Sonography (FALLS) utiliza a combinação de ecocardiografia e POCUS Pulmonar para avaliação da pleura, dos pulmões e do pericárdio no intuito de identificar o tipo de choque. Diante dos achados abaixo, seguindo o Protocolo FALLS e o Protocolo BLUE, qual a provável causa do choque? - Ecocardiograma Transtorácico com ventrículo esquerdo hiperdinâmico, com tamanho e forma habitual - Veia Cava Inferior 2,1 cm com colabamento &lt;50% e E-FAST Negativo para líquido Livre - Pulmões em perfil A/B sem resposta infusão de volume com piora de linhas B ao dar volume - Veias de MMII compressíveis e sem trombos internos</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-009" value="A"> A. Obstrutivo: TEP</label>
@@ -149,7 +149,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q105 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q105</p>
 <p><strong>10. Na avaliação de um paciente com choque, o uso do POCUS é cada vez mais difundido por poder esclarecer muitas vezes a causa. No caso da avaliação cardíaca com o ultrassom em paciente com choque, foram achados os seguintes dados: PSAP 61 mmHg, aumento de câmaras cardíacas direitas, desvio de septo interventricular para a esquerda, contratilidade preservada de ventrículo esquerdo, pequena variabilidade de veia cava inferior. Com esta descrição, qual a causa e tipo de choque o paciente apresenta?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -165,7 +165,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME22 Q115 | gabarito oficial: B</p>
+<p class="quiz-source">TEME22 Q115</p>
 <p><strong>11. Dispneia Aguda é uma queixa comum no DE, sobre o uso de exame complementares para avaliação desses pacientes, marque a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-011" value="A"> A. Gasometria Arterial deve ser solicitada para definir o diagnóstico etiológico desses pacientes.</label>
@@ -180,7 +180,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME23 Q5 | gabarito oficial: C</p>
+<p class="quiz-source">TEME23 Q5</p>
 <p><strong>12. Compreender os princípios físicos da ultrassonografia é necessário para melhor aplicação clínica do POCUS. Avalie as situações descritas abaixo: I. Baixa resolução de estruturas profundas quando utilizado transdutor linear de 7-18 MHz. II. Aparência mais “brilhante” de tecido em maior profundidade posterior a uma bexiga repleta. III. Imagem semelhante ao fígado no ultrassom pulmonar em transição diafragmática, na ausência de consolidação pulmonar. IV. Imagem intensamente hiperecóica ao ultrassom de estruturas ósseas. A sequência correta de princípio físico ou conceito teórico associados às situações acima descritas é:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -196,7 +196,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME23 Q38 | gabarito oficial: D</p>
+<p class="quiz-source">TEME23 Q38</p>
 <p><strong>13. Caso clínico para as questões 36, 37 e 38: Você está atendendo um paciente de 59 anos vítima de Parada Cardiorrespiratória em ritmo chocável após retorno à circulação espontânea. Foram administrados 04 (quatro) choques desfibriladores, 02 (duas) doses de vasopressor (adrenalina 1 mg) e 01 (uma) dose de antiarrítmico (amiodarona 300 mg). Após corrigir a situação anterior, o paciente desenvolve grave hipoxemia com SaO2 oscilando entre 80 a 85% e piora do status hemodinâmico. Você opta por realizar POCUS cardíaco e pulmonar e identifica as seguintes imagens: Imagem 1 Imagem 2: Quais os achados no POCUS e a provável causa dessa nova instabilidade do paciente?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -212,7 +212,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q62 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q62</p>
 <p><strong>14. Para o uso adequado da ultrassonografia beira-leito (POCUS) na parada cardiorrespiratória, deve-se contar com equipe com dimensionamento adequado (direcionando um profissional médico exclusivamente para realização do exame), com captação de imagens durante as pausas para checagem de ritmo (compressões não devem ser interrompidas apenas para o exame). Julgue as afirmativas abaixo sobre o uso do POCUS na Parada cardiorrespiratória: ( ) O protocolo mais consolidado é o protocolo CASA, que sistematiza a avaliação sequencial de tamponamento cardíaco, sobrecarga de câmaras cardíacas direitas e atividade cardíaca. ( ) A checagem manual de pulso tem baixa acurácia em relação à checagem ultrassonográfica, podendo o POCUS ser utilizado de forma complementar auxiliando no reconhecimento de retorno à circulação espontânea. ( ) O achado isolado de dilatação de câmaras cardíacas direitas, mesmo que discreta, é altamente específico para TEP como causa subjacente da Parada cardiorrespiratória, devendo ser indicada a trombólise. ( ) No contexto de atividade elétrica organizada sem pulso palpável (AESP) porém com constatação de atividade cardíaca com abertura e fechamento valvar (principalmente se associada a aorta pulsátil e curva de pulso em cateter de pressão arterial invasiva) indica quadro de “pseudo-AESP”. Nestes casos, pode-se considerar o diagnóstico de choque profundo e ser indicada a suspensão de RCP e início de drogas vasoativas. ( ) A ausência total de atividade cardíaca ao POCUS deve indicar suspensão de manobras de RCP. A sequência correta de afirmativas verdadeiras e falsas é:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -228,7 +228,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME23 Q66 | gabarito oficial: B</p>
+<p class="quiz-source">TEME23 Q66</p>
 <p><strong>15. Após a avaliação da veia cava inferior, você prosseguiu com a avaliação do ultrassom cardíaco (ecocardiografia POCUS), e obteve os seguintes achados em cada janela: Paraesternal eixo longo: proporção entre câmaras mantida, válvula mitral espessada com aspecto “em tenda”, EPSS (distância E-septo) 22mm (Valor de referência - VR: ≤7mm), diâmetro diastólico final de VE 5 cm (VR: 3,5-5,5cm) Paraesternal eixo curto: hipertrofia concêntrica de VE com espessura de parede posterior na diástole de 17 mm (VR: &lt;12mm), contratilidade visualmente adequada, ausência de disfunção contrátil segmentar. Apical 4 câmaras: proporção entre câmaras mantida, válvula mitral espessada. Subxifóide: ausência de derrame pericárdico. Assinale a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -244,7 +244,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">TEME23 Q75 | gabarito oficial: A</p>
+<p class="quiz-source">TEME23 Q75</p>
 <p><strong>16. Em um choque indiferenciado, com dados clínicos insuficientes para formulação de uma hipótese diagnóstica etiológica, julgue as afirmativas a seguir: ( ) Pode ser aplicado o protocolo RUSH, que sistematiza a avaliação ultrassonográfica do choque indiferenciado em avaliação da bomba (coração), tanque (onde o sangue está - VCI, pulmão e abdome) e vasos (aorta e sistema venoso profundo de MMII). ( ) O achado de um coração hipocontrátil, com câmaras dilatadas, associado a VCI ingurgitada e padrão B pulmonar favorece hipótese diagnóstica de choque cardiogênico. ( ) O achado de derrame pericárdico volumoso, mesmo que não associado a VCI dilatada, confirma a hipótese de choque obstrutivo por tamponamento cardíaco. ( ) É necessária a identificação de lung point para diagnóstico de choque obstrutivo por pneumotórax hipertensivo. ( ) No choque distributivo séptico, pode-se encontrar também o achado de coração hipocontrátil. A sequência correta de afirmativas verdadeiras e falsas é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-016" value="A"> A. V-V-F-F-V</label>
@@ -259,7 +259,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q17 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q17</p>
 <p><strong>17. Paciente vítima de trauma abdominal contuso, chega com sinais vitais: frequência cardíaca (FC) de 110 bpm, pressão parcial sistólica (PAS) de 100 mmHg, frequência respiratória (FR) de 26 irpm, temperatura de 35°C e E-FAST com líquido livre no abdômen. No atendimento pré-hospitalar foi realizada ressuscitação volêmica. Deve ser indicado protocolo de transfusão maciça para esse paciente? Por quê?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-017" value="A"> A. Não, ABC score de 1 ponto.</label>
@@ -274,7 +274,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q40 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q40</p>
 <p><strong>18. Homem, 38 anos, com dor abdominal há 3 dias localizada em flanco esquerdo do tipo cólica de forte intensidade associada a náuseas e vômitos. Paciente clinicamente estável e exame físico do abdome sem sinais de peritonite. Realizada analgesia com dipirona e tenoxicam por via intravenosa com melhora transitória. Hemograma com hemoglobina em 12 g/dL, hematócrito em 38%, leucócitos em 17.000 cél/mm3 com 84% segmentados. Urina I/EAS: 500.000 hemácias/mL (referência &lt; 10.000/mL) e 800.000 leucócitos/mL (referência &lt; 10.000/mL), nitrito positivo. Realizado ultrassom point-of-care (PoCUS) abdominal, e a janela do quadrante superior esquerdo evidenciou a seguinte imagem: Com base nos achados encontrados, qual a melhor conduta para o caso?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -290,7 +290,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME24 Q41 | gabarito oficial: D</p>
+<p class="quiz-source">TEME24 Q41</p>
 <p><strong>19. Sobre a indicação de bloqueios anestésicos guiados por ultrassom point-of-care (PoCUS) realizados no Departamento de Emergência, assinale a alternativa que correlaciona adequadamente o bloqueio e a respectiva analgesia oferecida:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -306,7 +306,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">TEME24 Q53 | gabarito oficial: C</p>
+<p class="quiz-source">TEME24 Q53</p>
 <p><strong>20. Paciente chega no Departamento de Emergência, e sua avaliação com ultrassom point-of-care (PoCUS) evidencia um volumoso derrame pericárdico. Dentre as alternativas, assinale a que contém sinais ecocardiográficos sugestivos de tamponamento cardíaco:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -322,7 +322,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">TEME25 Q5 | espelho local do candidato: D (não oficial)</p>
+<p class="quiz-source">TEME25 Q5</p>
 <p><strong>21. Homem de 54 anos, com história conhecida de etilismo crônico, é levado ao Departamento de Emergência após ferimento por arma branca durante briga em bar. Está consciente e hemodinamicamente estável. Ao exame físico, apresenta telangiectasias, ginecomastia e abdome globoso com circulação colateral, percussão maciça em flancos e sem sinais de irritação peritoneal. Ferimento de 2 cm em sétimo espaço intercostal anterior esquerdo. A avaliação com ultrassom demonstra presença de líquido anecóico difuso na cavidade abdominal, deslizamento pleural bilateral e derrame pleural bibasal. Com base nesse caso, assinale a conduta mais apropriada:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -338,7 +338,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q50 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q50</p>
 <p><strong>22. Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado, com frequência respiratória de 30 irpm, saturação periférica de oxigênio de 88% em máscara de Venturi a 50%, com frequência cardíaca de 115 bpm, pressão arterial de 85 × 55 mmHg, com tempo de enchimento capilar &gt; 3 segundos. Foi iniciado vasopressor (noradrenalina na dose de 0,1 mcg/kg/minuto), com estabilização dos níveis pressóricos. Assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-022" value="A"> A. Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.</label>
@@ -353,7 +353,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q70 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q70</p>
 <p><strong>23. Mulher de 19 anos, previamente hígida, procura a emergência com dor abdominal há 18 horas. Refere náuseas, inapetência e dor à deambulação. Última menstruação há 12 dias. Nega uso de anticoncepcional. Ao exame físico: temperatura axilar de 37,8°C, frequência cardíaca 102 bpm, dor à palpação profunda em fossa ilíaca direita com defesa voluntária. Toque vaginal com dor à mobilização do colo e com presença de corrimento esbranquiçado. Em um hospital rural com recursos limitados, o emergencista realiza ultrassom point-of-care com transdutor linear em fossa ilíaca direita, encontrando a seguinte imagem: Janela da fossa ilíaca direita com transdutor linear. Manobra de compressão no eixo transversal. Diante do caso e dos achados, assinale a alternativa CORRETA:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
@@ -369,7 +369,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q77 | espelho local do candidato: B (não oficial)</p>
+<p class="quiz-source">TEME25 Q77</p>
 <p><strong>24. Paciente de 28 anos, previamente míope de grau elevado há 10 anos, com uso regular de óculos corretor, procura o Departamento de Emergência após notar uma dificuldade de enxergar do olho esquerdo desde que acordou. Relata a sensação de flashes luminosos na visão periférica do olho esquerdo, nega dor local. Ao exame físico, ele não apresenta alterações à inspeção ao olho nu. Seus reflexos fotomotor e consensual encontram-se preservados e ele não possui alterações no teste de Snellen (feito com os óculos). Sobre o quadro desse paciente, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t004-024" value="A"> A. A ausência de dor neste contexto descarta a possibilidade de quadros graves, sendo indicado o manejo ambulatorial.</label>
