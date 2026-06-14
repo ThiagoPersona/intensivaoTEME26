@@ -14,31 +14,31 @@ Como usar:
 >
 > As fontes ficam no topo de cada card, no padrão `TEMEano Qn`.
 
-| Tema | Oficiais 22-24 | TEME25 oficial | Total | Abrir |
-|---|---:|---:|---:|---|
-| Via aérea e ventilação mecânica | 59 | 17 | 76 | [Resolver](provas/001_via-aerea_vm.md) |
-| Trauma hemorrágico, controle de dano e transfusão maciça | 29 | 9 | 38 | [Resolver](provas/002_trauma-hemorragico.md) |
-| Reanimação/PCR adulto, pediátrica e pós-RCE | 20 | 4 | 24 | [Resolver](provas/003_reanimacao-pcr.md) |
-| POCUS no choque, trauma, PCR e dispneia | 20 | 4 | 24 | [Resolver](provas/004_pocus.md) |
-| SCA, arritmias e emergências hipertensivas | 16 | 6 | 22 | [Resolver](provas/005_sca-arritmias-hipertensivas.md) |
-| Choque, sepse e drogas vasoativas | 22 | 7 | 29 | [Resolver](provas/006_choque-sepse-vasoativos.md) |
-| Emergências neurológicas: AVC, crise convulsiva, HIC e TCE | 24 | 7 | 31 | [Resolver](provas/007_emergencias-neurologicas.md) |
-| Toxicologia e animais peçonhentos | 17 | 7 | 24 | [Resolver](provas/008_toxicologia-animais-peconhentos.md) |
-| Emergências obstétricas e ginecológicas | 13 | 6 | 19 | [Resolver](provas/009_emergencias-obstetricas-ginecologicas.md) |
-| Emergências pediátricas | 26 | 5 | 31 | [Resolver](provas/010_emergencias-pediatricas.md) |
-| Distúrbios metabólicos, endócrinos, renais e gasometria | 8 | 3 | 11 | [Resolver](provas/011_disturbios-metabolicos-renais-gasometria.md) |
-| Emergências respiratórias | 18 | 6 | 24 | [Resolver](provas/012_emergencias-respiratorias.md) |
-| APH, regulação, IMV, desastres e transporte | 16 | 6 | 22 | [Resolver](provas/013_aph-regulacao-imv-desastres-transporte.md) |
-| Gastro, hepatologia e abdome agudo | 16 | 7 | 23 | [Resolver](provas/014_gastro-hepatologia-abdome-agudo.md) |
-| Hemato-oncologia na emergência | 9 | 5 | 14 | [Resolver](provas/015_hemato-oncologia-emergencia.md) |
-| Dermato, reumato, alergia e anafilaxia | 7 | 1 | 8 | [Resolver](provas/016_dermato-reumato-alergia-anafilaxia.md) |
-| Paliativos, vulnerabilidades, ética, legislação e gestão | 9 | 5 | 14 | [Resolver](provas/017_paliativos-vulnerabilidades-etica-gestao.md) |
-| Infectologia na emergência | 17 | 9 | 26 | [Resolver](provas/018_infectologia-emergencia.md) |
-| Oftalmo, otorrino e odonto | 8 | 4 | 12 | [Resolver](provas/019_oftalmo-otorrino-odonto.md) |
-| Urologia na emergência | 2 | 3 | 5 | [Resolver](provas/020_urologia-emergencia.md) |
-| Ortopedia, trauma de extremidades e queimaduras | 16 | 6 | 22 | [Resolver](provas/021_ortopedia-extremidades-queimaduras.md) |
-| Psiquiatria, agitação e contenção | 3 | 2 | 5 | [Resolver](provas/022_psiquiatria-agitacao-contencao.md) |
-| Procedimentos, analgesia e sedação | 5 | 2 | 7 | [Resolver](provas/023_procedimentos-analgesia-sedacao.md) |
-| Cardiovascular complementar | 17 | 4 | 21 | [Resolver](provas/024_cardiovascular-complementar.md) |
+| Tema | Oficiais 22-25 | Abrir |
+|---|---:|---|
+| Via aérea e ventilação mecânica | 76 | [Resolver](provas/001_via-aerea_vm.md) |
+| Trauma hemorrágico, controle de dano e transfusão maciça | 38 | [Resolver](provas/002_trauma-hemorragico.md) |
+| Reanimação/PCR adulto, pediátrica e pós-RCE | 24 | [Resolver](provas/003_reanimacao-pcr.md) |
+| POCUS no choque, trauma, PCR e dispneia | 24 | [Resolver](provas/004_pocus.md) |
+| SCA, arritmias e emergências hipertensivas | 22 | [Resolver](provas/005_sca-arritmias-hipertensivas.md) |
+| Choque, sepse e drogas vasoativas | 29 | [Resolver](provas/006_choque-sepse-vasoativos.md) |
+| Emergências neurológicas: AVC, crise convulsiva, HIC e TCE | 31 | [Resolver](provas/007_emergencias-neurologicas.md) |
+| Toxicologia e animais peçonhentos | 24 | [Resolver](provas/008_toxicologia-animais-peconhentos.md) |
+| Emergências obstétricas e ginecológicas | 19 | [Resolver](provas/009_emergencias-obstetricas-ginecologicas.md) |
+| Emergências pediátricas | 31 | [Resolver](provas/010_emergencias-pediatricas.md) |
+| Distúrbios metabólicos, endócrinos, renais e gasometria | 11 | [Resolver](provas/011_disturbios-metabolicos-renais-gasometria.md) |
+| Emergências respiratórias | 24 | [Resolver](provas/012_emergencias-respiratorias.md) |
+| APH, regulação, IMV, desastres e transporte | 22 | [Resolver](provas/013_aph-regulacao-imv-desastres-transporte.md) |
+| Gastro, hepatologia e abdome agudo | 23 | [Resolver](provas/014_gastro-hepatologia-abdome-agudo.md) |
+| Hemato-oncologia na emergência | 14 | [Resolver](provas/015_hemato-oncologia-emergencia.md) |
+| Dermato, reumato, alergia e anafilaxia | 8 | [Resolver](provas/016_dermato-reumato-alergia-anafilaxia.md) |
+| Paliativos, vulnerabilidades, ética, legislação e gestão | 14 | [Resolver](provas/017_paliativos-vulnerabilidades-etica-gestao.md) |
+| Infectologia na emergência | 26 | [Resolver](provas/018_infectologia-emergencia.md) |
+| Oftalmo, otorrino e odonto | 12 | [Resolver](provas/019_oftalmo-otorrino-odonto.md) |
+| Urologia na emergência | 5 | [Resolver](provas/020_urologia-emergencia.md) |
+| Ortopedia, trauma de extremidades e queimaduras | 22 | [Resolver](provas/021_ortopedia-extremidades-queimaduras.md) |
+| Psiquiatria, agitação e contenção | 5 | [Resolver](provas/022_psiquiatria-agitacao-contencao.md) |
+| Procedimentos, analgesia e sedação | 7 | [Resolver](provas/023_procedimentos-analgesia-sedacao.md) |
+| Cardiovascular complementar | 21 | [Resolver](provas/024_cardiovascular-complementar.md) |
 
 Total atual da seção: **532 questões em estilo TEME**.
