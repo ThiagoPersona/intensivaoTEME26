@@ -2,11 +2,11 @@
 
 Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 6 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 6 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -251,7 +251,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q3</p>
 <p><strong>17. Considerando as intensas frentes frias e enchentes que atingiram o Rio Grande do Sul em maio de 2024 e levando em conta a vulnerabilidade das áreas afetadas pelas enchentes, marque a alternativa verdadeira, em relação à hipotermia acidental:</strong></p>
 <div class="quiz-options">
@@ -262,11 +262,11 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q3. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q3. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q45</p>
 <p><strong>18. Você está na praia e percebe que um adulto jovem está se afogando a poucos metros de você e se dirige até o local onde ele está para prestar socorro. Ao alcançá-lo, você percebe que ele está inconsciente. Você percebe que uma equipe com mais dois socorristas aguarda para dar continuidade no atendimento fora da água. O paciente está inconsciente e sem pulso. Qual a melhor abordagem?</strong></p>
 <div class="quiz-options">
@@ -277,7 +277,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q45. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q45. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -293,11 +293,11 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q75</p>
 <p><strong>20. Homem de 45 anos, vítima de capotamento de veículo em rodovia, apresenta abertura ocular ao chamado, localiza a dor, não obedece comandos e emite sons incompreensíveis. Apresenta ainda sangramento orofaríngeo ativo e respiração ruidosa. Sinais vitais: frequência cardíaca de 115 bpm, frequência respiratória de 28 irpm, saturação de oxigênio de 88% em ar ambiente, pressão arterial de 90/60 mmHg. O acesso ao paciente está limitado, e o tempo estimado de extricação é de 40 minutos. Qual a conduta mais adequada para o manejo da via aérea nesse cenário?</strong></p>
 <div class="quiz-options">
@@ -308,11 +308,11 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q75. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q75. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q79</p>
 <p><strong>21. Sobre as competências e atribuições do médico regulador nas Centrais de Regulação de Urgência (CRU), assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -323,11 +323,11 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q79. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q79. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q87</p>
 <p><strong>22. Sobre o atendimento pré-hospitalar fixo, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -338,7 +338,7 @@ Banco do tema 013 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q87. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q87. Gabarito oficial: B.</p>
 </div>
 </div>
 

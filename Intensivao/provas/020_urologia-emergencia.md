@@ -2,11 +2,11 @@
 
 Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 2 com gabarito oficial TEME22-24 + 3 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 2 com gabarito oficial TEME22-24 + 3 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -42,7 +42,7 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q51</p>
 <p><strong>3. Paciente com 35 anos está em observação no Departamento de Emergência devido a quadro de cólica nefrética com dor lombar intensa. Recebeu medicações analgésicas; enquanto recebia as medicações, queixou-se de desconforto gastrointestinal e tontura; foi, então, levado à sala de emergência e deitado no leito. Durante avaliação inicial na sala de emergência, paciente apresentava-se com pressão arterial de 65 × 35 mmHg, frequência cardíaca de 132 bpm, frequência respiratória de 25 irpm, saturação periférica de oxigênio de 98% em ar ambiente. Tinha extremidades frias e tempo de enchimento prolongado. Qual a primeira linha de tratamento?</strong></p>
 <div class="quiz-options">
@@ -53,11 +53,11 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q51. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q51. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q99</p>
 <p><strong>4. Com relação ao manejo da crise convulsiva no recém-nascido, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -68,7 +68,7 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q99. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q99. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -83,6 +83,6 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q100. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q100. Gabarito oficial: A.</p>
 </div>
 </div>

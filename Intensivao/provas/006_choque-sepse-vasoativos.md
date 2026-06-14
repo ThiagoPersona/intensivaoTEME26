@@ -2,11 +2,11 @@
 
 Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 22 com gabarito oficial TEME22-24 + 7 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 22 com gabarito oficial TEME22-24 + 7 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -357,11 +357,11 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q11. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q11. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q22</p>
 <p><strong>24. Paciente do sexo feminino, 20 anos, encontrada desacordada em ambiente de trabalho. Apresenta-se torporosa, em choque (pressão arterial de 70 × 50 mmHg, frequência cardíaca de 135 bpm, pulso filiforme, sudorese fria). Glicemia capilar em 98 mg/dL. Foi realizado ultrassom point-of-care com técnica do protocolo RUSH. Marque a alternativa correta de acordo com o contexto, os achados ultrassonográficos e o tipo de choque:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
@@ -373,7 +373,7 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q22. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q22. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -388,7 +388,7 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q26. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q26. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -403,11 +403,11 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q41. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q41. Gabarito oficial: A.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q50</p>
 <p><strong>27. Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado, com frequência respiratória de 30 irpm, saturação periférica de oxigênio de 88% em máscara de Venturi a 50%, com frequência cardíaca de 115 bpm, pressão arterial de 85 × 55 mmHg, com tempo de enchimento capilar &gt; 3 segundos. Foi iniciado vasopressor (noradrenalina na dose de 0,1 mcg/kg/minuto), com estabilização dos níveis pressóricos. Assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -418,11 +418,11 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q50. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q50. Gabarito oficial: A.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q62</p>
 <p><strong>28. Um homem de 64 anos procura a emergência com febre de 38,5°C, dispneia progressiva e tosse produtiva com escarro purulento há 3 dias. Apresenta taquipneia (frequência respiratória de 28 irpm), saturação de oxigênio de 90% em ar ambiente e crepitações à base direita. Foi realizado ultrassom pulmonar com transdutor convexo e linear na zona R2, revelando a imagem a seguir: Imagem 1 Imagem 2 Janela pulmonar R2 com transdutor convexo (1) e linear (2). Com base nesse achado ultrassonográfico e no quadro clínico apresentada, assinale a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
@@ -434,11 +434,11 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q62. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q62. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q64</p>
 <p><strong>29. Paciente do sexo masculino, de 62 anos, é trazido ao Departamento de Emergência por familiares, que relatam que, ao chegarem em casa o encontraram desacordado, com várias cartelas de medicações vazias no local. Não sabem há quanto tempo e quais as medicações que ele usa, mas referem que ele tinha um diagnóstico de hipertensão arterial sistêmica e de depressão. Chega sonolento, hipotenso, com glicemia capilar de 112 mg/dL. Sem déficit focal aparente, com pupilas isocóricas e fotorreagentes. Qual a conduta inicial para esse paciente, além do suporte à bradicardia?</strong></p>
 <div class="quiz-options">
@@ -449,7 +449,7 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q64. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q64. Gabarito oficial: C.</p>
 </div>
 </div>
 

@@ -2,11 +2,11 @@
 
 Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 59 com gabarito oficial TEME22-24 + 17 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 59 com gabarito oficial TEME22-24 + 17 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -907,7 +907,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q1</p>
 <p><strong>60. Paciente de 33 anos, previamente hígido, é admitido no Departamento de Emergência após ter feito uso de 10 “carreiras” de cocaína nas últimas 2 horas. Apresenta-se em agitação psicomotora importante, agredindo os profissionais de saúde e com sudorese profusa; com taquicardia em ritmo sinusal com frequência cardíaca de 138 bpm, pressão arterial de 180 × 70 mmHg, frequência respiratória de 28 irpm, sem uso de musculatura acessória, saturação periférica de oxigênio de difícil aferição devido à agitação psicomotora e acesso venoso garantido; temperatura axilar de 39,8 ºC. A equipe opta por indicar intubação em sequência rápida. Sobre o manejo do quadro, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -918,7 +918,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q1. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q1. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -933,11 +933,11 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q2. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q2. Gabarito oficial: A.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q4</p>
 <p><strong>62. Avaliando a curva de capnografia, assinale a alternativa que define a melhor conduta conforme o que está ocorrendo.</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
@@ -949,11 +949,11 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q4. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q4. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q8</p>
 <p><strong>63. Sobre o uso do fentanil na sequência rápida de intubação:</strong></p>
 <div class="quiz-options">
@@ -964,11 +964,11 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q8. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q8. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q9</p>
 <p><strong>64. Um paciente de 45 anos chega ao Departamento de Emergência hospitalar relatando que, após tratamento dentário, teve “inchaço” importante e dor no pescoço. Chega em insuficiência respiratória franca, com edema cervical importante, especialmente à direita. É tomada a decisão de abordar a via aérea imediatamente. Sobre isso, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -979,7 +979,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q9. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q9. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -995,7 +995,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q13. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q13. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -1010,7 +1010,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q14. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q14. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -1025,7 +1025,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q15. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q15. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -1040,7 +1040,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q16. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q16. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -1055,7 +1055,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q21. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q21. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -1070,7 +1070,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q31. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q31. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -1085,7 +1085,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q42. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q42. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -1101,7 +1101,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q55. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q55. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -1117,11 +1117,11 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q56. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q56. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q75</p>
 <p><strong>74. Homem de 45 anos, vítima de capotamento de veículo em rodovia, apresenta abertura ocular ao chamado, localiza a dor, não obedece comandos e emite sons incompreensíveis. Apresenta ainda sangramento orofaríngeo ativo e respiração ruidosa. Sinais vitais: frequência cardíaca de 115 bpm, frequência respiratória de 28 irpm, saturação de oxigênio de 88% em ar ambiente, pressão arterial de 90/60 mmHg. O acesso ao paciente está limitado, e o tempo estimado de extricação é de 40 minutos. Qual a conduta mais adequada para o manejo da via aérea nesse cenário?</strong></p>
 <div class="quiz-options">
@@ -1132,11 +1132,11 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q75. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q75. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q83</p>
 <p><strong>75. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
 <div class="quiz-options">
@@ -1147,7 +1147,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q83. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q83. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -1162,7 +1162,7 @@ Banco do tema 001 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q91. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q91. Gabarito oficial: C.</p>
 </div>
 </div>
 

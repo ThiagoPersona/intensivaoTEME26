@@ -2,11 +2,11 @@
 
 Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 17 com gabarito oficial TEME22-24 + 7 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 17 com gabarito oficial TEME22-24 + 7 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -268,7 +268,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q1</p>
 <p><strong>18. Paciente de 33 anos, previamente hígido, é admitido no Departamento de Emergência após ter feito uso de 10 “carreiras” de cocaína nas últimas 2 horas. Apresenta-se em agitação psicomotora importante, agredindo os profissionais de saúde e com sudorese profusa; com taquicardia em ritmo sinusal com frequência cardíaca de 138 bpm, pressão arterial de 180 × 70 mmHg, frequência respiratória de 28 irpm, sem uso de musculatura acessória, saturação periférica de oxigênio de difícil aferição devido à agitação psicomotora e acesso venoso garantido; temperatura axilar de 39,8 ºC. A equipe opta por indicar intubação em sequência rápida. Sobre o manejo do quadro, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -279,7 +279,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q1. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q1. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -295,7 +295,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q11. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q11. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -310,11 +310,11 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q27. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q27. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q36</p>
 <p><strong>21. Sobre o uso da naloxona e do flumazenil para o manejo das intoxicações por opioides ou por benzodiazepínicos, respectivamente, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -325,7 +325,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q36. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q36. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -340,11 +340,11 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q38. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q38. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q64</p>
 <p><strong>23. Paciente do sexo masculino, de 62 anos, é trazido ao Departamento de Emergência por familiares, que relatam que, ao chegarem em casa o encontraram desacordado, com várias cartelas de medicações vazias no local. Não sabem há quanto tempo e quais as medicações que ele usa, mas referem que ele tinha um diagnóstico de hipertensão arterial sistêmica e de depressão. Chega sonolento, hipotenso, com glicemia capilar de 112 mg/dL. Sem déficit focal aparente, com pupilas isocóricas e fotorreagentes. Qual a conduta inicial para esse paciente, além do suporte à bradicardia?</strong></p>
 <div class="quiz-options">
@@ -355,7 +355,7 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q64. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q64. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -370,6 +370,6 @@ Banco do tema 008 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q65. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q65. Gabarito oficial: D.</p>
 </div>
 </div>

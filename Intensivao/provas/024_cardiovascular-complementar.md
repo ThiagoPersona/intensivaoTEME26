@@ -2,11 +2,11 @@
 
 Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 17 com gabarito oficial TEME22-24 + 5 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 17 com gabarito oficial TEME22-24 + 4 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -274,24 +274,10 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q28</p>
-<p><strong>18. Assinale a alternativa correta quanto às miopericardites:</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t024-018" value="A"> A. A ausência de alterações segmentares na avaliação ecocardiográfica à beira do leito afasta a possibilidade de síndrome coronariana aguda, corroborando para o diagnóstico de miopericardite.</label>
-<label class="quiz-option"><input type="radio" name="q-t024-018" value="B"> B. Para o diagnóstico, os pacientes passam por uma triagem feita pelo ecocardiograma que deve obrigatoriamente ser confirmada pela ressonância magnética.</label>
-<label class="quiz-option"><input type="radio" name="q-t024-018" value="C"> C. A anticoagulação é um pilar no tratamento da miocardiopatia periparto. Heparina e varfarina são opções terapêuticas seguras durante a lactação.</label>
-<label class="quiz-option"><input type="radio" name="q-t024-018" value="D"> D. Biomarcadores, como troponina, podem estar elevados e possuem valor prognóstico em casos de miopericardite.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q28. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
-</div>
-</div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q50</p>
-<p><strong>19. Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado, com frequência respiratória de 30 irpm, saturação periférica de oxigênio de 88% em máscara de Venturi a 50%, com frequência cardíaca de 115 bpm, pressão arterial de 85 × 55 mmHg, com tempo de enchimento capilar &gt; 3 segundos. Foi iniciado vasopressor (noradrenalina na dose de 0,1 mcg/kg/minuto), com estabilização dos níveis pressóricos. Assinale a alternativa correta:</strong></p>
+<p><strong>18. Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado, com frequência respiratória de 30 irpm, saturação periférica de oxigênio de 88% em máscara de Venturi a 50%, com frequência cardíaca de 115 bpm, pressão arterial de 85 × 55 mmHg, com tempo de enchimento capilar &gt; 3 segundos. Foi iniciado vasopressor (noradrenalina na dose de 0,1 mcg/kg/minuto), com estabilização dos níveis pressóricos. Assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-019" value="A"> A. Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.</label>
 <label class="quiz-option"><input type="radio" name="q-t024-019" value="B"> B. Caso haja confirmação de tromboembolismo pulmonar, o paciente deve ser anticoagulado, visto haver contraindicação absoluta à trombólise.</label>
@@ -300,13 +286,13 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q50. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q50. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q61</p>
-<p><strong>20. Uma paciente de 41 anos, sem comorbidades prévias, apresenta-se ao Departamento de Emergência com quadro de dispneia progressiva iniciada há 1 mês, após dar à luz a seu primeiro filho. Associado ao quadro, apresenta edema de membros inferiores bilateralmente, cansaço aos mínimos esforços e dificuldade de dormir devido à dispneia. Durante o pré-natal, não apresentou nenhuma complicação, porém foi realizado parto cesárea devido à pré-eclâmpsia. Apresenta os seguintes sinais vitais: pressão arterial de 145 × 95 mmHg, frequência cardíaca de 118 bpm, frequência respiratória de 28 irpm, saturação periférica de oxigênio de 85% em ar ambiente. Ultrassom point-of-care com seguintes achados: linhas Bs difusas bilateralmente, presença de discreto derrame pleural bilateral, aumento das câmaras cardíacas, hipocinesia ventricular esquerda difusa. Considerando a principal hipótese diagnóstica, quais são os principais fatores de risco?</strong></p>
+<p><strong>19. Uma paciente de 41 anos, sem comorbidades prévias, apresenta-se ao Departamento de Emergência com quadro de dispneia progressiva iniciada há 1 mês, após dar à luz a seu primeiro filho. Associado ao quadro, apresenta edema de membros inferiores bilateralmente, cansaço aos mínimos esforços e dificuldade de dormir devido à dispneia. Durante o pré-natal, não apresentou nenhuma complicação, porém foi realizado parto cesárea devido à pré-eclâmpsia. Apresenta os seguintes sinais vitais: pressão arterial de 145 × 95 mmHg, frequência cardíaca de 118 bpm, frequência respiratória de 28 irpm, saturação periférica de oxigênio de 85% em ar ambiente. Ultrassom point-of-care com seguintes achados: linhas Bs difusas bilateralmente, presença de discreto derrame pleural bilateral, aumento das câmaras cardíacas, hipocinesia ventricular esquerda difusa. Considerando a principal hipótese diagnóstica, quais são os principais fatores de risco?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-020" value="A"> A. A miocardiopatia periparto é um diagnóstico de exclusão, associado à ausência de cardiopatia prévia e tendo a pré-eclâmpsia como um dos principais fatores de risco.</label>
@@ -316,13 +302,13 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q61. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q61. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q89</p>
-<p><strong>21. Um paciente de 70 anos, acamado há alguns meses, dependente para atividades básicas de vida, com insuficiência cardíaca New York Heart Association Classe IV com tratamento otimizado, apresenta, nos últimos 3 dias, uma piora significativa: dispneia ao repouso, permanece a maior parte do tempo sonolento, com períodos de despertar apenas para gemer ou queixar-se de cansaço, não responde com coerência, recusa totalmente a ingestão de alimentos e líquidos (Palliative Performance Scale - PPS - de 20). Apresenta queda do sulco nasolabial e mottling. Conversas sobre diretivas antecipadas com o paciente já vem acontecendo ambulatorialmente. Considerando o quadro clínico descrito, responda às duas questões a seguir. Qual a principal inferência diagnóstica e a prioridade de cuidado?</strong></p>
+<p><strong>20. Um paciente de 70 anos, acamado há alguns meses, dependente para atividades básicas de vida, com insuficiência cardíaca New York Heart Association Classe IV com tratamento otimizado, apresenta, nos últimos 3 dias, uma piora significativa: dispneia ao repouso, permanece a maior parte do tempo sonolento, com períodos de despertar apenas para gemer ou queixar-se de cansaço, não responde com coerência, recusa totalmente a ingestão de alimentos e líquidos (Palliative Performance Scale - PPS - de 20). Apresenta queda do sulco nasolabial e mottling. Conversas sobre diretivas antecipadas com o paciente já vem acontecendo ambulatorialmente. Considerando o quadro clínico descrito, responda às duas questões a seguir. Qual a principal inferência diagnóstica e a prioridade de cuidado?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-021" value="A"> A. O paciente está em uma fase de descompensação aguda da insuficiência cardíaca; a prioridade é ajustar as medicações.</label>
 <label class="quiz-option"><input type="radio" name="q-t024-021" value="B"> B. O rebaixamento de nível de consciência é ameaçador à vida; a prioridade é garantir Suporte Avançado de Vida e medidas farmacológicas para compensação do quadro clínico.</label>
@@ -331,13 +317,13 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q90</p>
-<p><strong>22. Para o mesmo paciente da questão 89, quais as medidas iniciais mais apropriadas para o manejo da dispneia?</strong></p>
+<p><strong>21. Para o mesmo paciente da questão 89, quais as medidas iniciais mais apropriadas para o manejo da dispneia?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t024-022" value="A"> A. Oferecer oxigênio suplementar em cateter nasal para conforto com morfina em bomba de infusão contínua para sedação paliativa.</label>
 <label class="quiz-option"><input type="radio" name="q-t024-022" value="B"> B. Iniciar morfina na dose de 2,5 mg a cada 4 horas, com monitorização da frequência respiratória.</label>
@@ -346,6 +332,9 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q90. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q90. Gabarito oficial: B.</p>
 </div>
 </div>
+
+## Itens não pontuados
+- TEME25 Q28: anulada pelo gabarito oficial.

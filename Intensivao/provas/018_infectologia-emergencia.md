@@ -2,11 +2,11 @@
 
 Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 17 com gabarito oficial TEME22-24 + 10 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 17 com gabarito oficial TEME22-24 + 9 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -268,7 +268,7 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q40</p>
 <p><strong>18. Paciente admitido no Departamento de Emergência com febre de 38,5°C e sem outros sintomas aparentes. Em tratamento de neoplasia de pulmão, está no 10º dia após a quimioterapia. Durante a avaliação inicial, recebeu antibioticoterapia parenteral de amplo espectro na primeira hora. Encontra-se hemodinamicamente estável, sem foco infeccioso evidente, com estratificação de risco nas escalas MASCC alta e CISNE baixa e contagem total de leucócitos em 500 cel/mm3. Considerando o cenário e as informações do texto, qual é a conduta mais apropriada?</strong></p>
 <div class="quiz-options">
@@ -279,11 +279,11 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q40. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q40. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q46</p>
 <p><strong>19. Um paciente de 29 anos dá entrada no Departamento de Emergência com história de febre e cansaço de início há 3 dias. Sinais vitais: saturação periférica de oxigênio de 70% em ar ambiente, frequência respiratória de 40 irpm; pressão arterial de 120 x 80 mmHg; frequência cardíaca de 124 bpm. Após instalar cateter nasal a 4 L/minuto, apresenta saturação periférica de oxigênio de 94%, frequência respiratória de 26 irpm, frequência cardíaca de 90 bpm, pressão arterial de 110 x 90 mmHg. Refere diagnóstico recente de HIV e tuberculose, mas não iniciou tratamento ainda. Raio X de tórax apresenta infiltrado intersticial bilateral e simétrico, com caverna em ápice pulmonar direito. Negou sintomas neurológicos, incluindo cefaleia, défices focais ou rigidez de nuca. Sobre a melhor conduta, é correto afirmar:</strong></p>
 <div class="quiz-options">
@@ -294,28 +294,14 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q46. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q46. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q48</p>
-<p><strong>20. Sobre mordeduras por mamíferos, marque a CORRETA:</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t018-020" value="A"> A. No caso de mordedura por mamíferos domésticos de interesse econômico (bovinos, suínos, equinos) passíveis de observação, mas o soro antirrábico é indicado.</label>
-<label class="quiz-option"><input type="radio" name="q-t018-020" value="B"> B. Mordeduras por gatos possuem altas taxas de infecção, portanto, nesses casos, é indicada profilaxia com antibiótico principalmente em acidentes nas extremidades.</label>
-<label class="quiz-option"><input type="radio" name="q-t018-020" value="C"> C. Caso seja encontrado morcego no mesmo ambiente onde a pessoa dormiu, na ausência de lesão, o paciente não deve receber profilaxia com vacina e soro antirrábico.</label>
-<label class="quiz-option"><input type="radio" name="q-t018-020" value="D"> D. As principais doenças envolvidas nas mordeduras por humanos são HIV, hepatites B e C e tétano. A profilaxia pós-exposição de HIV é indicada rotineiramente nesses casos.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q48. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
-</div>
-</div>
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q53</p>
-<p><strong>21. Mulher, 60 anos, procura atendimento no Departamento de Emergência em Teresina (PI), devido à dor abdominal em hipocôndrio direito de forte intensidade há 2 dias. Refere ainda quadro de febre que teve início há 5 dias. No exame físico, há dor à palpação profunda do andar superior do abdome, mas não há sinais de descompressão brusca dolorosa. Realizou hemograma na admissão, que revelou hemoglobinas em 14,5, hematócritos em 49%, leucócitos em 4.500, plaquetas em 120 mil. Sem outras alterações relevantes nos exames. Foi realizado um ultrassom a beira do leito que revelou a seguinte imagem: Com base nas informações fornecidas, qual das alternativas expressa a melhor hipótese diagnóstica e conduta:</strong></p>
+<p><strong>20. Mulher, 60 anos, procura atendimento no Departamento de Emergência em Teresina (PI), devido à dor abdominal em hipocôndrio direito de forte intensidade há 2 dias. Refere ainda quadro de febre que teve início há 5 dias. No exame físico, há dor à palpação profunda do andar superior do abdome, mas não há sinais de descompressão brusca dolorosa. Realizou hemograma na admissão, que revelou hemoglobinas em 14,5, hematócritos em 49%, leucócitos em 4.500, plaquetas em 120 mil. Sem outras alterações relevantes nos exames. Foi realizado um ultrassom a beira do leito que revelou a seguinte imagem: Com base nas informações fornecidas, qual das alternativas expressa a melhor hipótese diagnóstica e conduta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-021" value="A"> A. Colecistite calculosa aguda; tratamento cirúrgico precoce.</label>
@@ -325,13 +311,13 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q53. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q53. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q60</p>
-<p><strong>22. Em relação às profilaxias recomendas à vítima de violência sexual, assinale a alternativa correta:</strong></p>
+<p><strong>21. Em relação às profilaxias recomendas à vítima de violência sexual, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-022" value="A"> A. A profilaxia de infecções sexualmente transmissíveis não virais está indicada apenas se realizada nas primeiras 72 horas.</label>
 <label class="quiz-option"><input type="radio" name="q-t018-022" value="B"> B. A administração profilática do metronidazol deve ser postergada nos casos em que houver prescrição de contracepção de emergência e de profilaxia pós-exposição.</label>
@@ -340,13 +326,13 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q60. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q60. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q68</p>
-<p><strong>23. Homem, 32 anos, privado de liberdade, trazido à emergência com histórico de tosse seca, febre e dor torácica posterior na transição toracoabdominal a direita. Nega dispneia e desconforto respiratório. Realizado raio X de tórax em pressão arterial, que não visualizou alterações. Devido à refratariedade de dor torácica, foi optada pela realização de ultrassonografia pulmonar com transdutor linear. Segue a imagem obtida do ponto PLAPS à direita: Imagem do ultrassom pulmonar – ponto PLAPS à direita. Com base na história clínica e na imagem apresentada, a melhor conduta é:</strong></p>
+<p><strong>22. Homem, 32 anos, privado de liberdade, trazido à emergência com histórico de tosse seca, febre e dor torácica posterior na transição toracoabdominal a direita. Nega dispneia e desconforto respiratório. Realizado raio X de tórax em pressão arterial, que não visualizou alterações. Devido à refratariedade de dor torácica, foi optada pela realização de ultrassonografia pulmonar com transdutor linear. Segue a imagem obtida do ponto PLAPS à direita: Imagem do ultrassom pulmonar – ponto PLAPS à direita. Com base na história clínica e na imagem apresentada, a melhor conduta é:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-023" value="A"> A. Trata-se de derrame pleural de moderado volume, e a investigação envolve a realização de toracocentese diagnóstica. Com base nessa imagem, é possível realizar esse procedimento com segurança.</label>
@@ -356,13 +342,13 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q68. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q68. Gabarito oficial: B.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q78</p>
-<p><strong>24. Paciente de 26 anos é admitido ao Departamento de Emergência de um hospital público em São Paulo em julho, com relato de febre não aferida há cerca de 12 horas; nega tosse, dispneia, dor torácica, dor abdominal, disúria ou outros sintomas urinários; nega lesões cutâneas novas ou sangramentos; nega traumas. Ele relata ser previamente hígido e nega uso de medicações contínuas. Relata ter feito uso de dipirona por via oral com melhora parcial da febre. Ao exame físico, ele se encontra em BEG, consciente e orientado, sem rigidez de nuca, sem lesões cutâneas novas, eupneico em ar ambiente, exame dos aparelhos cardiorrespiratório sem alterações. Oroscopia sem hiperemia ou outros achados patológicos. frequência cardíaca de 96 bpm, pressão arterial de 128 x 60 mmHg, frequência respiratória de 21 ipm, saturação periférica de oxigênio de 98%, temperatura de 38,3ºC, prova do laço negativa. Sobre as condutas a serem realizadas nesse paciente, marque a correta:</strong></p>
+<p><strong>23. Paciente de 26 anos é admitido ao Departamento de Emergência de um hospital público em São Paulo em julho, com relato de febre não aferida há cerca de 12 horas; nega tosse, dispneia, dor torácica, dor abdominal, disúria ou outros sintomas urinários; nega lesões cutâneas novas ou sangramentos; nega traumas. Ele relata ser previamente hígido e nega uso de medicações contínuas. Relata ter feito uso de dipirona por via oral com melhora parcial da febre. Ao exame físico, ele se encontra em BEG, consciente e orientado, sem rigidez de nuca, sem lesões cutâneas novas, eupneico em ar ambiente, exame dos aparelhos cardiorrespiratório sem alterações. Oroscopia sem hiperemia ou outros achados patológicos. frequência cardíaca de 96 bpm, pressão arterial de 128 x 60 mmHg, frequência respiratória de 21 ipm, saturação periférica de oxigênio de 98%, temperatura de 38,3ºC, prova do laço negativa. Sobre as condutas a serem realizadas nesse paciente, marque a correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-024" value="A"> A. O paciente deve receber alta hospitalar com orientação de sinais de alarme e seguimento em Unidade Básica de Saúde.</label>
 <label class="quiz-option"><input type="radio" name="q-t018-024" value="B"> B. O paciente deve ser internado caso o resultado da proteína C reativa seja elevado.</label>
@@ -371,13 +357,13 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q78. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q78. Gabarito oficial: A.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q82</p>
-<p><strong>25. Um paciente com AIDS chega à emergência com quadro de cefaleia, confusão mental, febre e ataxia. A tomografia mostra lesões que captam contraste associado a edema perilesional em gânglios da base, O líquor apresenta proteína de 40 mg/dL, glicose 80 mg/dL e predomínio de neutrófilos. Sobre o caso, escolha a alternativa correta?</strong></p>
+<p><strong>24. Um paciente com AIDS chega à emergência com quadro de cefaleia, confusão mental, febre e ataxia. A tomografia mostra lesões que captam contraste associado a edema perilesional em gânglios da base, O líquor apresenta proteína de 40 mg/dL, glicose 80 mg/dL e predomínio de neutrófilos. Sobre o caso, escolha a alternativa correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-025" value="A"> A. O diagnóstico mais provável é toxoplasmose cerebral. O tratamento inicial deve ser com sulfametoxazol + trimetoprima.</label>
 <label class="quiz-option"><input type="radio" name="q-t018-025" value="B"> B. O diagnóstico mais provável é tuberculose meningoencefálica. O tratamento inicial deve ser com RHZE.</label>
@@ -386,13 +372,13 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q82. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q82. Gabarito oficial: A.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q95</p>
-<p><strong>26. Paciente de 25 anos, em tratamento para doença de Crohn, apresenta-se ao Departamento de Emergência com queixa de sensação de face congesta e dor tipo pressão facial há 7 dias. Ele relata que apresentou um quadro de sintomas gripais, com descarga nasal, e febre ao início dos sintomas; estava em melhora clínica, porém voltou a ter sintomas intensos nos últimos 3 dias. Baseado nesse quadro clínico, está indicado:</strong></p>
+<p><strong>25. Paciente de 25 anos, em tratamento para doença de Crohn, apresenta-se ao Departamento de Emergência com queixa de sensação de face congesta e dor tipo pressão facial há 7 dias. Ele relata que apresentou um quadro de sintomas gripais, com descarga nasal, e febre ao início dos sintomas; estava em melhora clínica, porém voltou a ter sintomas intensos nos últimos 3 dias. Baseado nesse quadro clínico, está indicado:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-026" value="A"> A. Cultura de aspirado do seio nasal (se disponível) e início de antibioticoterapia oral empírica.</label>
 <label class="quiz-option"><input type="radio" name="q-t018-026" value="B"> B. Solicitar raio X de seios da face e aguardar resultado para definir tratamento.</label>
@@ -401,13 +387,13 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q95. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q95. Gabarito oficial: A.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q98</p>
-<p><strong>27. Paciente de 73 anos, com doença pulmonar obstrutiva crônica, fez uso recente de levofloxacino por uma exacerbação do seu quadro de base. Hoje procura o Departamento de Emergência com quadro de cinco evacuações líquidas associadas a dor abdominal em cólica e febre. No exame físico abdominal, está sem sinais de abdome agudo e com sinais vitais dentro da normalidade. Você suspeita de infecção por clostridium e solicita teste de antígeno e para toxina A e B. O resultado é positivo para o teste antígeno e negativo para teste toxina A e B. Baseado nesse caso, qual a melhor conduta e tratamento?</strong></p>
+<p><strong>26. Paciente de 73 anos, com doença pulmonar obstrutiva crônica, fez uso recente de levofloxacino por uma exacerbação do seu quadro de base. Hoje procura o Departamento de Emergência com quadro de cinco evacuações líquidas associadas a dor abdominal em cólica e febre. No exame físico abdominal, está sem sinais de abdome agudo e com sinais vitais dentro da normalidade. Você suspeita de infecção por clostridium e solicita teste de antígeno e para toxina A e B. O resultado é positivo para o teste antígeno e negativo para teste toxina A e B. Baseado nesse caso, qual a melhor conduta e tratamento?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t018-027" value="A"> A. Resultado indeterminado, solicitar teste molecular; se positiva tratar com vancomicina por via oral.</label>
 <label class="quiz-option"><input type="radio" name="q-t018-027" value="B"> B. Resultado positivo, tratar com vancomicina por via oral.</label>
@@ -416,10 +402,11 @@ Banco do tema 018 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q98. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q98. Gabarito oficial: A.</p>
 </div>
 </div>
 
 ## Itens não pontuados
 
 - TEME22 Q71: anulada.
+- TEME25 Q48: anulada pelo gabarito oficial.

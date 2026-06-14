@@ -2,11 +2,11 @@
 
 Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 20 com gabarito oficial TEME22-24 + 4 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 20 com gabarito oficial TEME22-24 + 4 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -314,7 +314,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q45</p>
 <p><strong>21. Você está na praia e percebe que um adulto jovem está se afogando a poucos metros de você e se dirige até o local onde ele está para prestar socorro. Ao alcançá-lo, você percebe que ele está inconsciente. Você percebe que uma equipe com mais dois socorristas aguarda para dar continuidade no atendimento fora da água. O paciente está inconsciente e sem pulso. Qual a melhor abordagem?</strong></p>
 <div class="quiz-options">
@@ -325,7 +325,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q45. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q45. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -341,11 +341,11 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q55. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q55. Gabarito oficial: A.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q83</p>
 <p><strong>23. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
 <div class="quiz-options">
@@ -356,7 +356,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q83. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q83. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -371,7 +371,7 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q94. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q94. Gabarito oficial: C.</p>
 </div>
 </div>
 

@@ -2,11 +2,11 @@
 
 Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 8 com gabarito oficial TEME22-24 + 3 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 8 com gabarito oficial TEME22-24 + 3 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -133,7 +133,7 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q32</p>
 <p><strong>9. Paciente 23 anos, encontrado confuso, com vômitos e taquipneico em via pública, estável hemodinamicamente, sem outras alterações no exame físico. Resultado de exames coletados à admissão: - pH: 7,01 / PaO2: 90 mmHg / PaCO2: 17 mmHg / HCO3: 6,0 mEq/L. - Lactato sérico: 15 mmol/L. - Ânion gap: 44 mmol/L. - Potássio: 5,4 mEq/L. - Glicemia capilar: 227 mg/dL. Sobre o caso, marque a correta:</strong></p>
 <div class="quiz-options">
@@ -144,11 +144,11 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q32. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q32. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q83</p>
 <p><strong>10. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
 <div class="quiz-options">
@@ -159,11 +159,11 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q83. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q83. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q97</p>
 <p><strong>11. Mulher de 35 anos com hipertireoidismo, dá entrada com febre alta, frequência cardíaca 158 bpm, pressão arterial: 130 x 90 mmHg, desorientação, vômitos e sudorese intensa. O eletrocardiograma mostra taquicardia sinusal. O hormônio estimulante da tireoide era indetectável, T4 livre aumentado, transaminases e bilirrubinas elevadas e Razão Normalizada Internacional 1,8; sem sinais localizatórios de infecção. Qual a melhor conduta inicial diante da suspeita clínica?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
@@ -175,6 +175,6 @@ Banco do tema 011 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q97. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q97. Gabarito oficial: C.</p>
 </div>
 </div>

@@ -2,11 +2,11 @@
 
 Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 7 com gabarito oficial TEME22-24 + 2 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 7 com gabarito oficial TEME22-24 + 1 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -115,24 +115,10 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q48</p>
-<p><strong>8. Sobre mordeduras por mamíferos, marque a CORRETA:</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t016-008" value="A"> A. No caso de mordedura por mamíferos domésticos de interesse econômico (bovinos, suínos, equinos) passíveis de observação, mas o soro antirrábico é indicado.</label>
-<label class="quiz-option"><input type="radio" name="q-t016-008" value="B"> B. Mordeduras por gatos possuem altas taxas de infecção, portanto, nesses casos, é indicada profilaxia com antibiótico principalmente em acidentes nas extremidades.</label>
-<label class="quiz-option"><input type="radio" name="q-t016-008" value="C"> C. Caso seja encontrado morcego no mesmo ambiente onde a pessoa dormiu, na ausência de lesão, o paciente não deve receber profilaxia com vacina e soro antirrábico.</label>
-<label class="quiz-option"><input type="radio" name="q-t016-008" value="D"> D. As principais doenças envolvidas nas mordeduras por humanos são HIV, hepatites B e C e tétano. A profilaxia pós-exposição de HIV é indicada rotineiramente nesses casos.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q48. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
-</div>
-</div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q95</p>
-<p><strong>9. Paciente de 25 anos, em tratamento para doença de Crohn, apresenta-se ao Departamento de Emergência com queixa de sensação de face congesta e dor tipo pressão facial há 7 dias. Ele relata que apresentou um quadro de sintomas gripais, com descarga nasal, e febre ao início dos sintomas; estava em melhora clínica, porém voltou a ter sintomas intensos nos últimos 3 dias. Baseado nesse quadro clínico, está indicado:</strong></p>
+<p><strong>8. Paciente de 25 anos, em tratamento para doença de Crohn, apresenta-se ao Departamento de Emergência com queixa de sensação de face congesta e dor tipo pressão facial há 7 dias. Ele relata que apresentou um quadro de sintomas gripais, com descarga nasal, e febre ao início dos sintomas; estava em melhora clínica, porém voltou a ter sintomas intensos nos últimos 3 dias. Baseado nesse quadro clínico, está indicado:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t016-009" value="A"> A. Cultura de aspirado do seio nasal (se disponível) e início de antibioticoterapia oral empírica.</label>
 <label class="quiz-option"><input type="radio" name="q-t016-009" value="B"> B. Solicitar raio X de seios da face e aguardar resultado para definir tratamento.</label>
@@ -141,6 +127,9 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q95. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q95. Gabarito oficial: A.</p>
 </div>
 </div>
+
+## Itens não pontuados
+- TEME25 Q48: anulada pelo gabarito oficial.

@@ -4,31 +4,32 @@ Objetivo: transformar os cadernos recentes em trilha de estudo operacional para 
 
 ## Como foi feito
 
-- Usei os cadernos oficiais **TEME22, TEME23 e TEME24** (arquivos PDF locais).
+- Usei os cadernos oficiais **TEME22, TEME23, TEME24 e TEME25** (arquivos PDF locais).
 - Gabaritos oficiais extraídos destes anos e alinhados às questões por número.
-- TEME25 não possui gabarito oficial confiável no repositório (somente prova; imagem de gabarito do usuário não foi automaticamente parseável).
+- O gabarito oficial TEME25 foi incorporado em 14/06/2026; questões 28, 48 e 80 constam como anuladas.
 - Cada questão foi classificada por tema com motor por palavras-chave nos enunciados + revisão manual dos blocos mais relevantes.
 - Resultado: uma análise útil para **estratégia de prova**, não um “corte oficial”.
 
-## Resumo geral de prova (22–24)
+## Resumo geral de prova (22–25)
 
 | Ano | Questões | Anuladas | A | B | C | D | %A | %B | %C | %D |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | TEME22 | 120 | 2 | 30 | 27 | 32 | 29 | 25,4% | 22,9% | 27,1% | 24,6% |
 | TEME23 | 100 | 9 | 24 | 18 | 30 | 19 | 26,4% | 19,8% | 33,0% | 20,9% |
 | TEME24 | 100 | 6 | 16 | 26 | 32 | 20 | 17,0% | 27,7% | 34,0% | 21,3% |
+| TEME25 | 100 | 3 | 21 | 23 | 31 | 22 | 21,6% | 23,7% | 32,0% | 22,7% |
 
-Conjunto 22–24 (apenas questões válidas):
-- **A: 70 (23,1%)**
-- **B: 71 (23,4%)**
-- **C: 94 (31,0%)** — mais frequente
-- **D: 68 (22,4%)**
+Conjunto 22–25 (apenas questões válidas):
+- **A: 91 (22,8%)**
+- **B: 94 (23,5%)**
+- **C: 125 (31,2%)** — mais frequente
+- **D: 90 (22,5%)**
 
-**Implicação prática:** não é “tema de letras”, é prova de decisão. Mesmo assim, quando a banca está com mais de 1/3 em `C`, costuma compensar não eliminar C sem boa justificativa.
+**Implicação prática:** não é “tema de letras”, é prova de decisão. Mesmo assim, como `C` permanece próxima de 1/3 no conjunto 22–25, costuma compensar não eliminar C sem boa justificativa.
 
-## Matriz de temas (22–24 + mapa de recorte no 25)
+## Matriz de temas (22–25)
 
-|Tema|TEME22|TEME23|TEME24|TEME25*|Total 22-24|A|B|C|D|
+|Tema|TEME22|TEME23|TEME24|TEME25|Total 22-24|A 22-24|B 22-24|C 22-24|D 22-24|
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |Via aérea e VM|26|18|18|17|62|12|16|20|11|
 |Pediatria|15|16|19|11|50|13|8|12|15|
@@ -46,17 +47,17 @@ Conjunto 22–24 (apenas questões válidas):
 |Ética/gestão/vulnerabilidade|0|2|4|2|6|2|2|1|0|
 |Toxicologia/peçonhentos|0|5|0|3|5|2|0|2|1|
 |Obstetrícia/ginecologia|2|1|2|2|5|1|2|1|1|
-|Infectologia|1|0|1|4|2|1|0|0|1|
+|Infectologia|1|0|1|3|2|1|0|0|1|
 |Oftalmo/ENT/odonto|1|1|2|2|4|1|0|2|1|
-|Neuro|3|0|2|2|5|0|2|3|0|
+|Neuro|3|0|2|1|5|0|2|3|0|
 |Urologia|1|0|0|2|1|0|0|0|1|
 |Ortopedia/extremidades/queimadura|0|3|0|2|3|2|0|0|0|
 |Psiquiatria/agitação|2|0|1|1|3|0|0|2|1|
-|Cardiovascular complementar|2|1|0|1|3|1|0|1|1|
+|Cardiovascular complementar|2|1|0|0|3|1|0|1|1|
 |Dermato/reativo-alérgico|0|1|0|0|1|0|0|1|0|
 |Outros/Multidisciplinar|5|2|1|0|8|3|1|1|2|
 
-`*` TEME25: contagem por tema sem letra (sem gabarito confiável no material local).
+TEME25 agora usa gabarito oficial local. As questões 28, 48 e 80 foram tratadas como anuladas e não entram nos itens pontuados. Na matriz por tema, as colunas A/B/C/D ainda resumem a distribuição 22-24; a distribuição global 22-25 está na tabela acima.
 
 ## Prioridade de estudo por retorno de prova
 

@@ -2,11 +2,11 @@
 
 Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 9 com gabarito oficial TEME22-24 + 5 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 9 com gabarito oficial TEME22-24 + 5 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -157,11 +157,11 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q29. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q29. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q40</p>
 <p><strong>11. Paciente admitido no Departamento de Emergência com febre de 38,5°C e sem outros sintomas aparentes. Em tratamento de neoplasia de pulmão, está no 10º dia após a quimioterapia. Durante a avaliação inicial, recebeu antibioticoterapia parenteral de amplo espectro na primeira hora. Encontra-se hemodinamicamente estável, sem foco infeccioso evidente, com estratificação de risco nas escalas MASCC alta e CISNE baixa e contagem total de leucócitos em 500 cel/mm3. Considerando o cenário e as informações do texto, qual é a conduta mais apropriada?</strong></p>
 <div class="quiz-options">
@@ -172,11 +172,11 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q40. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q40. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q69</p>
 <p><strong>12. Nos casos de acidente vascular cerebral hemorrágico, a reversão de coagulopatias é de vital importância para evitar a expansão do hematoma. Sobre esse tema, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -187,11 +187,11 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q69. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q69. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q72</p>
 <p><strong>13. Uma menina de 6 anos, portadora de anemia falciforme (HbSS), é trazida ao Departamento de Emergência com dor torácica intensa e febre aferida de 38,9°C. Encontra-se taquipneica (frequência respiratória de 42 irpm), com discretas retrações intercostais, saturação periférica de oxigênio de 93% em ar ambiente. Refere início da dor há 12 horas, que se intensificou progressivamente, associada à tosse seca e à dor abdominal. O exame físico revela murmúrio vesicular reduzido em base direita. Exames complementares demonstram hemoglobina em 6,5 g/dL (hemoglobina prévia recente de 8,2), leucócitos em 27.000/mm³ e plaquetas em 110.000/mm³. Raio X de tórax mostra infiltrado alveolar em base direita. Qual das condutas a seguir é mais adequada no atendimento inicial?</strong></p>
 <div class="quiz-options">
@@ -202,7 +202,7 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q72. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q72. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -218,6 +218,6 @@ Banco do tema 015 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q74. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q74. Gabarito oficial: A.</p>
 </div>
 </div>

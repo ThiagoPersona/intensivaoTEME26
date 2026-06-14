@@ -2,11 +2,11 @@
 
 Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 20 com gabarito oficial TEME22-24 + 4 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 20 com gabarito oficial TEME22-24 + 4 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -333,11 +333,11 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q5. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q5. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q50</p>
 <p><strong>22. Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado, com frequência respiratória de 30 irpm, saturação periférica de oxigênio de 88% em máscara de Venturi a 50%, com frequência cardíaca de 115 bpm, pressão arterial de 85 × 55 mmHg, com tempo de enchimento capilar &gt; 3 segundos. Foi iniciado vasopressor (noradrenalina na dose de 0,1 mcg/kg/minuto), com estabilização dos níveis pressóricos. Assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -348,7 +348,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q50. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q50. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -364,7 +364,7 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Gabarito oficial: B.</p>
 </div>
 </div>
 
@@ -379,6 +379,6 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q77. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q77. Gabarito oficial: B.</p>
 </div>
 </div>

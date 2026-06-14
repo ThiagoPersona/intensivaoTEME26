@@ -2,11 +2,11 @@
 
 Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 6 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 6 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -269,11 +269,11 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q30. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q30. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q35</p>
 <p><strong>18. Homem de 64 anos, hipertenso, tabagista, é atendido pelo Serviço de Atendimento Móvel de Urgência por dor torácica opressiva iniciada há 30 minutos. Encontra-se lúcido, sudorético, com pressão arterial 118 x 76 mmHg, frequência cardíaca de 86 bpm, saturação de oxigênio de 97% em ar ambiente. O eletrocardiograma obtido no atendimento pré-hospitalar é o seguinte: Para esse caso, assinale a alternativa com a melhor conduta para a equipe pré-hospitalar:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
@@ -285,11 +285,11 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q35. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q35. Gabarito oficial: A.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q57</p>
 <p><strong>19. Um paciente doente renal crônico de 76 anos deu entrada na Emergência em bradicardia sintomática e instabilidade hemodinâmica. Foram realizadas medidas para restauração da frequência sem sucesso, e o paciente evoluiu com necessidade de marca-passo transvenoso. Após o término da diálise, o paciente ficou bastante agitado, referindo que estava sentindo soluços. Você foi chamado para avaliar o paciente: O que está acontecendo e qual a melhor conduta?</strong></p>
 <div class="quiz-options">
@@ -300,7 +300,7 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q57. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q57. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -315,11 +315,11 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q90</p>
 <p><strong>21. Para o mesmo paciente da questão 89, quais as medidas iniciais mais apropriadas para o manejo da dispneia?</strong></p>
 <div class="quiz-options">
@@ -330,11 +330,11 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q90. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q90. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q97</p>
 <p><strong>22. Mulher de 35 anos com hipertireoidismo, dá entrada com febre alta, frequência cardíaca 158 bpm, pressão arterial: 130 x 90 mmHg, desorientação, vômitos e sudorese intensa. O eletrocardiograma mostra taquicardia sinusal. O hormônio estimulante da tireoide era indetectável, T4 livre aumentado, transaminases e bilirrubinas elevadas e Razão Normalizada Internacional 1,8; sem sinais localizatórios de infecção. Qual a melhor conduta inicial diante da suspeita clínica?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
@@ -346,6 +346,6 @@ Banco do tema 005 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q97. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q97. Gabarito oficial: C.</p>
 </div>
 </div>

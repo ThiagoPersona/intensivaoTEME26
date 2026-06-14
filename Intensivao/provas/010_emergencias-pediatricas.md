@@ -2,11 +2,11 @@
 
 Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 26 com gabarito oficial TEME22-24 + 5 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 26 com gabarito oficial TEME22-24 + 5 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -412,11 +412,11 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q11. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q11. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q39</p>
 <p><strong>28. Durante a avaliação de um lactente vítima de atropelamento em baixa velocidade, é observado tempo de enchimento capilar prolongado, letargia e coloração pálida. A criança apresenta sinais vitais dentro dos limites da normalidade para a faixa etária, e o FAST realizado à beira do leito é negativo. Considerando o manejo do trauma na população pediátrica e os aspectos fisiológicos específicos, qual das condutas a seguir está mais adequada?</strong></p>
 <div class="quiz-options">
@@ -427,11 +427,11 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q39. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q39. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q72</p>
 <p><strong>29. Uma menina de 6 anos, portadora de anemia falciforme (HbSS), é trazida ao Departamento de Emergência com dor torácica intensa e febre aferida de 38,9°C. Encontra-se taquipneica (frequência respiratória de 42 irpm), com discretas retrações intercostais, saturação periférica de oxigênio de 93% em ar ambiente. Refere início da dor há 12 horas, que se intensificou progressivamente, associada à tosse seca e à dor abdominal. O exame físico revela murmúrio vesicular reduzido em base direita. Exames complementares demonstram hemoglobina em 6,5 g/dL (hemoglobina prévia recente de 8,2), leucócitos em 27.000/mm³ e plaquetas em 110.000/mm³. Raio X de tórax mostra infiltrado alveolar em base direita. Qual das condutas a seguir é mais adequada no atendimento inicial?</strong></p>
 <div class="quiz-options">
@@ -442,11 +442,11 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q72. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q72. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q83</p>
 <p><strong>30. Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association de 2020 e as melhores práticas baseadas em evidência para suporte pós-parada cardiorrespiratória pediátrico, qual das seguintes condutas está corretamente indicada?</strong></p>
 <div class="quiz-options">
@@ -457,7 +457,7 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q83. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q83. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -472,6 +472,6 @@ Banco do tema 010 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q91. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q91. Gabarito oficial: C.</p>
 </div>
 </div>

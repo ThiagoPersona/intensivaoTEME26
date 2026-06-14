@@ -2,11 +2,11 @@
 
 Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 29 com gabarito oficial TEME22-24 + 9 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 29 com gabarito oficial TEME22-24 + 9 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -459,11 +459,11 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q7. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q7. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q17</p>
 <p><strong>31. Paciente de 45 anos, vítima de queda de andaime. Trauma contuso, localizado em hemitórax à direita, provocando fraturas de sete arcos costais (3º ao 9º), alinhadas, ipsilateral ao trauma. A tomografia de tórax inicial não evidenciou hemotórax ou pneumotórax, e o paciente recebeu alta com analgesia potente. Cinco dias após, retorna ao Departamento de Emergência com quadro de taquidispneia, febre (39°C), hipóxia (saturação periférica de oxigênio de 88% em ar ambiente), taquicardia (frequência cardíaca de 135 bpm) e hipotensão (pressão arterial de 70 × 35 mmHg). Qual o diagnóstico mais provável?</strong></p>
 <div class="quiz-options">
@@ -474,7 +474,7 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q17. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q17. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -490,7 +490,7 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q19. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q19. Gabarito oficial: B.</p>
 </div>
 </div>
 
@@ -505,11 +505,11 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q33. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q33. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q39</p>
 <p><strong>34. Durante a avaliação de um lactente vítima de atropelamento em baixa velocidade, é observado tempo de enchimento capilar prolongado, letargia e coloração pálida. A criança apresenta sinais vitais dentro dos limites da normalidade para a faixa etária, e o FAST realizado à beira do leito é negativo. Considerando o manejo do trauma na população pediátrica e os aspectos fisiológicos específicos, qual das condutas a seguir está mais adequada?</strong></p>
 <div class="quiz-options">
@@ -520,7 +520,7 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q39. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q39. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -535,7 +535,7 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q42. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q42. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -550,11 +550,11 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q66. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q66. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q75</p>
 <p><strong>37. Homem de 45 anos, vítima de capotamento de veículo em rodovia, apresenta abertura ocular ao chamado, localiza a dor, não obedece comandos e emite sons incompreensíveis. Apresenta ainda sangramento orofaríngeo ativo e respiração ruidosa. Sinais vitais: frequência cardíaca de 115 bpm, frequência respiratória de 28 irpm, saturação de oxigênio de 88% em ar ambiente, pressão arterial de 90/60 mmHg. O acesso ao paciente está limitado, e o tempo estimado de extricação é de 40 minutos. Qual a conduta mais adequada para o manejo da via aérea nesse cenário?</strong></p>
 <div class="quiz-options">
@@ -565,11 +565,11 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q75. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q75. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q76</p>
 <p><strong>38. Paciente de 35 anos é admitido no Departamento de Emergência após acidente automobilístico em zona urbana. Apresenta fratura exposta de tíbia proximal, com ferida extensa de 12 cm, contaminada por terra. Não há evidências de lesão neurovascular. Qual a antibioticoprofilaxia inicial mais apropriada para esse paciente?</strong></p>
 <div class="quiz-options">
@@ -580,7 +580,7 @@ Banco do tema 002 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q76. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q76. Gabarito oficial: B.</p>
 </div>
 </div>
 

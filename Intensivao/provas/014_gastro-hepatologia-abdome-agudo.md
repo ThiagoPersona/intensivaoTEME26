@@ -2,11 +2,11 @@
 
 Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 7 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 7 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -265,11 +265,11 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q5. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q5. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q49</p>
 <p><strong>18. Em um Departamento de Emergência referenciado, você recebe um paciente de 61 anos, cirrótico, regulado devido a um quadro de hemorragia digestiva alta de origem varicosa. O hospital em questão não apresentava Serviço de Endoscopia Digestiva Alta e, devido à gravidade do quadro, foi optado pela passagem de um balão gastresofágico cerca de 72 horas antes. Paciente é admitido em estado grave, sedado em Escala de Agitação-Sedação de Richmond -3, em ventilação mecânica com parâmetros mínimos e saturação periférica de oxigênio de 95%, ausculta pulmonar normal e sem alterações patológicas bilateralmente. Hipotensão com pressão arterial 92 × 47 mmHg em uso de noradrenalina a 0,3 mcg/kg/minuto, ausculta cardíaca normal, sem alterações patológicas; É notável também a presença de enfisema subcutâneo cervical, ao ultrassom point-of-care lung sliding preservado bilateralmente. Balão esofágico encontra-se bem acoplado, tracionado com 2 L de soro fisiológico como contrapeso, e o manômetro demonstra pressão de 50 mmHg no balão esofágico. Hemoglobina atual encontra-se em 8,1 g/dL. Sobre o manejo definitivo do quadro, marque a alternativa correta:</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
@@ -281,7 +281,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q49. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q49. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -297,7 +297,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q53. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q53. Gabarito oficial: B.</p>
 </div>
 </div>
 
@@ -312,7 +312,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q58. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q58. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -328,7 +328,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Gabarito oficial: B.</p>
 </div>
 </div>
 
@@ -343,11 +343,11 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q98</p>
 <p><strong>23. Paciente de 73 anos, com doença pulmonar obstrutiva crônica, fez uso recente de levofloxacino por uma exacerbação do seu quadro de base. Hoje procura o Departamento de Emergência com quadro de cinco evacuações líquidas associadas a dor abdominal em cólica e febre. No exame físico abdominal, está sem sinais de abdome agudo e com sinais vitais dentro da normalidade. Você suspeita de infecção por clostridium e solicita teste de antígeno e para toxina A e B. O resultado é positivo para o teste antígeno e negativo para teste toxina A e B. Baseado nesse caso, qual a melhor conduta e tratamento?</strong></p>
 <div class="quiz-options">
@@ -358,7 +358,7 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q98. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q98. Gabarito oficial: A.</p>
 </div>
 </div>
 

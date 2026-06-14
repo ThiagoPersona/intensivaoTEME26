@@ -2,11 +2,11 @@
 
 Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 3 com gabarito oficial TEME22-24 + 2 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 3 com gabarito oficial TEME22-24 + 2 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -56,7 +56,7 @@ Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q86</p>
 <p><strong>4. Um paciente é admitido em uma emergência psiquiátrica apresentando um quadro que, durante a avaliação primária, o profissional de saúde classificou com pontuação 6 na escala Behavioral Activity Rating Scale. Qual das seguintes condutas é a mais apropriada para o manejo inicial desse paciente?</strong></p>
 <div class="quiz-options">
@@ -67,7 +67,7 @@ Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q86. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q86. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -82,6 +82,6 @@ Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q88. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q88. Gabarito oficial: D.</p>
 </div>
 </div>

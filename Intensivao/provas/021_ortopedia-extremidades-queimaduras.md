@@ -2,11 +2,11 @@
 
 Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 6 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 16 com gabarito oficial TEME22-24 + 6 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -252,7 +252,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q24</p>
 <p><strong>17. A síndrome compartimental é uma complicação grave das lesões de extremidades. O atraso no tratamento em poucas horas pode levar a dano muscular e neuronal permanente. Sobre esse tema, qual resposta está correta?</strong></p>
 <div class="quiz-options">
@@ -263,11 +263,11 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q24. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q24. Gabarito oficial: B.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q47</p>
 <p><strong>18. Assinale como verdadeiro (V) ou falso (F) as seguintes afirmativas sobre fraturas e luxações. Ao fim, escolha a alternativa correta: ( ) Para fraturas expostas, a classificação de Gustilo-Anderson é a mais utilizada na prática clínica e auxilia o prognóstico tardio. ( ) A luxação de ombro posterior pode passar despercebida em mais de 50% dos casos na incidência anteroposterior do raio X. ( ) O atraso na redução da luxação de quadril pode levar à necrose avascular da cabeça do fêmur. ( ) O médico emergencista deve evitar o alinhamento de membro grosseiramente desalinhado pelo risco de lesão neurovascular.</strong></p>
 <div class="quiz-options">
@@ -278,7 +278,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q47. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q47. Gabarito oficial: C.</p>
 </div>
 </div>
 
@@ -293,11 +293,11 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q52. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q52. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
+<div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q63</p>
 <p><strong>20. Durante o atendimento de um paciente politraumatizado com fratura exposta de tíbia, a equipe optou por realizar um bloqueio periférico guiado por ultrassonografia como estratégia de analgesia multimodal. Considerando as técnicas, a farmacologia e a segurança envolvidas nos bloqueios anestésicos periféricos, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -308,7 +308,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q63. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q63. Gabarito oficial: A.</p>
 </div>
 </div>
 
@@ -323,11 +323,11 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q71. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q71. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q76</p>
 <p><strong>22. Paciente de 35 anos é admitido no Departamento de Emergência após acidente automobilístico em zona urbana. Apresenta fratura exposta de tíbia proximal, com ferida extensa de 12 cm, contaminada por terra. Não há evidências de lesão neurovascular. Qual a antibioticoprofilaxia inicial mais apropriada para esse paciente?</strong></p>
 <div class="quiz-options">
@@ -338,7 +338,7 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q76. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q76. Gabarito oficial: B.</p>
 </div>
 </div>
 

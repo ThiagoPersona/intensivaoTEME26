@@ -2,11 +2,11 @@
 
 Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alternativas extraídos ou muito próximos dos cadernos TEME, com a fonte indicada em cada questão.
 
-> Para TEME22-24, a resposta usa gabarito oficial local. Para TEME25, quando aparece, a letra vem do espelho local do candidato e fica marcada como não oficial.
+> Para TEME22-25, a resposta usa gabarito oficial local disponível no projeto.
 >
 > Depois de clicar em **Checar resposta**, a questão fica travada e entra no desempenho final do tema.
 
-**Itens pontuados neste banco:** 24 com gabarito oficial TEME22-24 + 8 do TEME25 com espelho local.
+**Itens pontuados neste banco:** 24 com gabarito oficial TEME22-24 + 7 com gabarito oficial TEME25.
 
 ## Questões em estilo TEME
 
@@ -387,7 +387,7 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q18. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q18. Gabarito oficial: D.</p>
 </div>
 </div>
 
@@ -402,11 +402,11 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q21. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q21. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="D">
+<div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q43</p>
 <p><strong>27. Paciente do sexo masculino, 65 anos, hipertenso, diabético e dislipidêmico, é admitido no Departamento Emergência com história de ter apresentado, há cerca de 16 horas, quadro com dor precordial, diaforese e dispneia. Ao exame, sonolento, tempo de enchimento capilar de 5 segundos, saturação periférica de oxigênio de 90% com presença de estertores finos em ambos os hemitórax, frequência cardíaca de 110 bpm, pressão arterial sistólica de 80 mmHg. Exames iniciais evidenciam lactato de 3 mmol/L. O eletrocardiograma da admissão é o da imagem acima. Entre as opções a seguir, qual corresponde ao estágio de gravidade apresentado por esse paciente com relação ao choque cardiogênico conforme a classificação da SCAI (Society for Cardiovascular Angiography and Invertentions)?</strong></p>
 <p class="quiz-note">A questão original pode depender de imagem/curva do caderno; aqui fica o texto extraído para treino.</p>
@@ -418,11 +418,11 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: TEME25 Q43. Resposta usada neste treino: D, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q43. Gabarito oficial: C.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="D">
 <p class="quiz-source">TEME25 Q69</p>
 <p><strong>28. Nos casos de acidente vascular cerebral hemorrágico, a reversão de coagulopatias é de vital importância para evitar a expansão do hematoma. Sobre esse tema, marque a alternativa correta:</strong></p>
 <div class="quiz-options">
@@ -433,28 +433,14 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q69. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: D.</strong> Fonte: TEME25 Q69. Gabarito oficial: D.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">TEME25 Q80</p>
-<p><strong>29. Um paciente de 61 anos foi encontrado caído em casa, apresentando hemiparesia direita. É trazido por familiares que informam que ele foi visto bem pela última vez há 2 horas, quando se queixou de indisposição e dor no peito súbita. Ele é hipertenso e diabético. Admissão: pressão arterial de 100 x 70 mmHg, frequência cardíaca de 110 bpm; glicemia capilar de 89 mg/dL. Foi realizada a tomografia computadorizada de crânio em 25 minutos de acordo com o protocolo da instituição. Não há sinais de sangramento intracraniano. O National Institutes of Health Stroke Scale (NIHSS) é de 24, e o Alberta Stroke Program Early CT Score (ASPECTS) 7. Qual o próximo passo?</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="q-t007-029" value="A"> A. Não realizar trombólise, realizar angiotomografia computadorizada de pescoço e crânio.</label>
-<label class="quiz-option"><input type="radio" name="q-t007-029" value="B"> B. Realizar trombólise e angiotomografia computadorizada de crânio para avaliar trombectomia e provável oclusão de artéria cerebral média esquerda.</label>
-<label class="quiz-option"><input type="radio" name="q-t007-029" value="C"> C. Realizar trombólise venosa com alteplase: trata-se de acidente vascular cerebral isquêmico na janela.</label>
-<label class="quiz-option"><input type="radio" name="q-t007-029" value="D"> D. Indicar trombectomia: paciente com ASPECTS &gt; 6 e NIHSS &lt; 25 pelo Endovascular Therapy Following Imaging Selection: A Randomized Trial (DEFUSE 3).</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: TEME25 Q80. Resposta usada neste treino: B, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
-</div>
-</div>
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">TEME25 Q81</p>
-<p><strong>30. Mulher de 55 anos, sem nenhuma incapacidade funcional prévia, admitida no Departamento de Emergência com história de dificuldade para comunicação verbal e paralisia de um lado do corpo há 3 horas. É hipertensa e diabética, em uso de enalapril e metformina. Não há histórico de trauma, cirurgia ou outras condições clínicas dignas de nota. À chegada, pressão arterial de 164/88 mmHg, frequência cardíaca de 101 bpm, com ritmo cardíaco irregular, glicemia capilar de 159 mg/dL, obedecendo a comandos, alerta, afásica, com paralisia facial e com hemiparesia completa à direita, com pontuação na National Institutes of Health Stroke Scale (NIHSS) de 12. Ela foi submetida à tomografia computadorizada de crânio, com escore Alberta Stroke Program Early CT Score (ASPECTS) de 8. Assinale a alternativa correta.</strong></p>
+<p><strong>29. Mulher de 55 anos, sem nenhuma incapacidade funcional prévia, admitida no Departamento de Emergência com história de dificuldade para comunicação verbal e paralisia de um lado do corpo há 3 horas. É hipertensa e diabética, em uso de enalapril e metformina. Não há histórico de trauma, cirurgia ou outras condições clínicas dignas de nota. À chegada, pressão arterial de 164/88 mmHg, frequência cardíaca de 101 bpm, com ritmo cardíaco irregular, glicemia capilar de 159 mg/dL, obedecendo a comandos, alerta, afásica, com paralisia facial e com hemiparesia completa à direita, com pontuação na National Institutes of Health Stroke Scale (NIHSS) de 12. Ela foi submetida à tomografia computadorizada de crânio, com escore Alberta Stroke Program Early CT Score (ASPECTS) de 8. Assinale a alternativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-030" value="A"> A. O ASPECTS avalia a extensão tomográfica do insulto, com boa acurácia para circulação vertebrobasilar.</label>
 <label class="quiz-option"><input type="radio" name="q-t007-030" value="B"> B. Para indicação de trombectomia mecânica, faz-se necessária ressonância magnética evidenciando DWI-FLAIR mismatch.</label>
@@ -463,13 +449,13 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: TEME25 Q81. Resposta usada neste treino: C, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: C.</strong> Fonte: TEME25 Q81. Gabarito oficial: C.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">TEME25 Q82</p>
-<p><strong>31. Um paciente com AIDS chega à emergência com quadro de cefaleia, confusão mental, febre e ataxia. A tomografia mostra lesões que captam contraste associado a edema perilesional em gânglios da base, O líquor apresenta proteína de 40 mg/dL, glicose 80 mg/dL e predomínio de neutrófilos. Sobre o caso, escolha a alternativa correta?</strong></p>
+<p><strong>30. Um paciente com AIDS chega à emergência com quadro de cefaleia, confusão mental, febre e ataxia. A tomografia mostra lesões que captam contraste associado a edema perilesional em gânglios da base, O líquor apresenta proteína de 40 mg/dL, glicose 80 mg/dL e predomínio de neutrófilos. Sobre o caso, escolha a alternativa correta?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-031" value="A"> A. O diagnóstico mais provável é toxoplasmose cerebral. O tratamento inicial deve ser com sulfametoxazol + trimetoprima.</label>
 <label class="quiz-option"><input type="radio" name="q-t007-031" value="B"> B. O diagnóstico mais provável é tuberculose meningoencefálica. O tratamento inicial deve ser com RHZE.</label>
@@ -478,13 +464,13 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q82. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: A.</strong> Fonte: TEME25 Q82. Gabarito oficial: A.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="A">
+<div class="quiz-card" data-answer="B">
 <p class="quiz-source">TEME25 Q96</p>
-<p><strong>32. Conforme a resolução do Conselho Federal de Medicina 2.173/2017, o médico emergencista é um dos especialistas que são considerados capacitados para realização dos procedimentos de morte encefálica pela sua atuação e sua expertise em atendimento ao paciente em coma, assim como médicos intensivistas e neurologistas. Dessa forma, é fundamental o conhecimento detalhado por parte do emergencista acerca dos processos que envolvem a determinação de morte encefálica. Com base nessa afirmação e considerando que o paciente em questão se encontra em coma de causa conhecida e irreversível, estável hemodinamicamente, sem sinais de hipertensão intracraniana e normotérmico, qual das situações listadas a seguir é uma condição que impede a realização dos testes clínicos para determinação da morte encefálica?</strong></p>
+<p><strong>31. Conforme a resolução do Conselho Federal de Medicina 2.173/2017, o médico emergencista é um dos especialistas que são considerados capacitados para realização dos procedimentos de morte encefálica pela sua atuação e sua expertise em atendimento ao paciente em coma, assim como médicos intensivistas e neurologistas. Dessa forma, é fundamental o conhecimento detalhado por parte do emergencista acerca dos processos que envolvem a determinação de morte encefálica. Com base nessa afirmação e considerando que o paciente em questão se encontra em coma de causa conhecida e irreversível, estável hemodinamicamente, sem sinais de hipertensão intracraniana e normotérmico, qual das situações listadas a seguir é uma condição que impede a realização dos testes clínicos para determinação da morte encefálica?</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="q-t007-032" value="A"> A. Tratamento para sepse de foco pulmonar.</label>
 <label class="quiz-option"><input type="radio" name="q-t007-032" value="B"> B. Trauma raquimedular com listese de C3-C4.</label>
@@ -493,6 +479,9 @@ Banco do tema 007 refeito em formato mais parecido com a prova: enunciado e alte
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: TEME25 Q96. Resposta usada neste treino: A, conforme espelho local do candidato disponível no projeto; não é gabarito oficial e deve ser conferida se houver publicação oficial.</p>
+<p><strong>Resposta: B.</strong> Fonte: TEME25 Q96. Gabarito oficial: B.</p>
 </div>
 </div>
+
+## Itens não pontuados
+- TEME25 Q80: anulada pelo gabarito oficial.
