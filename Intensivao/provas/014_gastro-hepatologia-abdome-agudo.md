@@ -22,6 +22,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q14. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Em relação à hemorragia digestiva alta em pacientes com cirrose e hipertensão portal, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Não há evidências de que a endoscopia digestiva alta realizada em menos de 6 horas traga melhores desfechos em relação à endoscopia realizada em até 12 horas da admissão do paciente, se estável hemodinamicamente.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “A recorrência de sangramento após a descompressão do balão de Sengstaken-Blakemore ocorre em 3 a cada 4 pacientes”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “A administração de eritromicina 250 mg endovenosa 60 minutos antes da realização da endoscopia digestiva alta previne o desenvolvimento de peritonite bacteriana espontânea”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “A terlipressina na dose de 2 mg 4/4 horas por via endovenosa deve ser administrada caso a terapêutica endoscópica não seja eficaz”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Não há evidências de que a endoscopia digestiva alta realizada em menos de 6 horas traga melhores desfechos em relação à endoscopia realizada em até 12 horas da admissão do paciente, se estável hemodinamicamente.”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q27. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Paciente masculino de 43 anos, previamente hígido, dá entrada no DE com quadro de náuseas, vômitos e dor na porção superior do abdome há 1 dia. Ao exame encontra-se em bom estado geral, consciente, orientado, eupneico, afebril, FR...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Analgesia com dipirona e morfina se necessário, hidratação com ringer lactato endovenoso 10mL/Kg/hora, indicar colangiopancreatografia endoscópica retrógrada e jejum”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Analgesia com meperidina, hidratação com solução fisiológica 0.9% endovenosa 20ml/kg/hora nas primeiras 24 horas e jejum”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Analgesia com dipirona e morfina se necessário, hidratação com ringer lactato endovenoso 10mL/kg/hora, ciprofloxacino 400mg endovenosa 12/12 horas associado a metronidazol 500 mg endovenoso 8/8 horas e jejum”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Analgesia com morfina, hidratação com ringer lactato endovenoso 20mL/ Kg/hora nas primeiras 24 horas, indicar colangiopancreatografia endoscópica retrógrada e jejum”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Analgesia com dipirona e morfina se necessário, hidratação com ringer lactato endovenoso 10mL/Kg/hora, indicar colangiopancreatografia endoscópica retrógrada e jejum”</li>
+</ul>
 </div>
 </div>
 
@@ -52,6 +68,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q35. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Paciente masculino de 72 anos de idade, com diagnóstico prévio de diverticulose colônica, dá entrada no departamento de emergência com quadro de dor abdominal em fossa ilíaca esquerda, associada a febre não aferida. Ao exame encon...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Internação, jejum, analgesia e ciprofloxacino 400mg endovenosa 12/12 horas associado a metronidazol 500 mg endovenoso 8/8 horas”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Tratamento ambulatorial com ciprofloxacino 500mg via oral 12/12 horas associado a metronidazol 500 mg via oral 8/8 horas por 10 dias”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Internação, jejum, analgesia e ciprofloxacino 400mg endovenosa 12/12 horas associado a metronidazol 500 mg endovenoso 8/8 horas”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Internação, jejum, analgesia, piperacilina + tazobactam 4,5 mg endovenosa 6/6 horas e avaliação do cirurgião para realização de drenagem percutânea”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Internação, jejum, analgesia, cefepime 2g endovenoso 8/8 horas associado a metronidazol 500 mg endovenoso 8/8 horas e avaliação do cirurgião para realização de drenagem cirúrgica”</li>
+</ul>
 </div>
 </div>
 
@@ -67,6 +91,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q62. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: cirrose grave/descompensação. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Lactulose 40 mL de 8/8 horas por via oral”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Enema de Glicerina 12% Via Retal”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Rifaximina 550 mg via oral de 12/12 horas”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Lactulose 20 mL via oral de 8/8 horas associada a Neomicina 1 g via oral de 6/6 horas”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Lactulose 40 mL de 8/8 horas por via oral”</li>
+</ul>
 </div>
 </div>
 
@@ -82,6 +114,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q90. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Paciente masculino, 58 anos, diagnóstico prévio de cirrose hepática avançada, dá entrada no Departamento de Emergência com quadro de febre e dor abdominal difusa. Apresenta ascite volumosa ao exame físico. Você realiza uma punção...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Presença de 300 polimorfonucleares/mL”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Glicose &lt; 50 mg/dL”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Cultura polimicrobiana”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Proteínas totais &gt; 1 g/dL”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Presença de 300 polimorfonucleares/mL”</li>
+</ul>
 </div>
 </div>
 
@@ -97,6 +137,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q97. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Em relação à abordagem do paciente com dor abdominal no Departamento de Emergência, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O leucograma normal não exclui a possibilidade de abdome agudo inflamatório”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A analgesia com opioides deve ser evitada, pois interfere no processo de investigação diagnóstica e tratamento”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Mais de 40% dos pacientes não terão a etiologia da dor definida do Departamento de Emergência, devendo ser admitidos para complementação da investigação”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “O leucograma normal não exclui a possibilidade de abdome agudo inflamatório”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A tomografia computadorizada tem acurácia superior ao ultrassom para o diagnóstico de dor originária do trato biliar”</li>
+</ul>
 </div>
 </div>
 
@@ -112,6 +160,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q4. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Paciente sexo masculino, 59 anos, dá entrada ao DE com quadro de alteração de nível de consciência. Familiar refere também piora do padrão respiratório devido ao aumento importante do volume abdominal nos últimos dias. Histórico d...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente pode estar apresentando quadro de encefalopatia hepática, pelo rebaixamento do nível de consciência e quadro compatível com cirrose, o tratamento já em sala de emergência está voltado para a diminuição de amônia produzida...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Paciente pode estar apresentando quadro de peritonite bacteriana espontânea, com todos os sinais correspondendo a choque séptico, o tratamento seria uso empírico de ceftriaxona e solicitação de exames e conduta para quadro de choq...”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Paciente pode estar apresentando quadro de encefalopatia hepática, pelo rebaixamento do nível de consciência e quadro compatível com cirrose, o tratamento já em sala de emergência está voltado para a diminuição de amônia produzida...”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Paciente pode estar apresentando quadro de desconforto respiratório devido ao volume abdominal causado pela ascite, pode ser realizado portanto paracentese de alívio visando a melhora do padrão respiratório, sem a necessidade de r...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Paciente pode estar apresentando quadro de hemorragia digestiva alta, devido a taquicardia sem ainda quadro de hipotensão, quadro compatível com choque hemorrágico, sendo a conduta administração de octreotida e concentrado de hemá...”</li>
+</ul>
 </div>
 </div>
 
@@ -127,6 +183,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q13. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Em relação ao manejo inicial de um paciente vítima de lesão por arma branca em parede anterior do abdome, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pacientes com evidência de violação da cavidade peritoneal e sem indicação para laparotomia de emergência podem ser manejados de maneira não-operatória.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A presença de ar intraperitoneal evidenciada em exame de imagem é indicação de laparotomia de emergência.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A exploração local do ferimento não é medida confiável para determinar penetração na cavidade peritoneal, e não deve ser utilizada de rotina.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Pacientes com evidência de violação da cavidade peritoneal e sem indicação para laparotomia de emergência podem ser manejados de maneira não-operatória.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A ausência de sinais de peritonite pode excluir com segurança a presença de lesões de órgão intraperitoneais.”</li>
+</ul>
 </div>
 </div>
 
@@ -142,6 +206,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q22. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Em relação ao manejo de pacientes com apendicite aguda, assinale a alternativa correta&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Até um terço de pacientes gestantes com diagnóstico de apendicite evoluem com perfuração do apêndice como complicação”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Antibioticoterapia pode ser postergada até a avaliação do paciente pela equipe de cirurgia”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Até um terço de pacientes gestantes com diagnóstico de apendicite evoluem com perfuração do apêndice como complicação”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “O tratamento cirúrgico de uma apendicite não complicada pode ser realizado com segurança até 24 horas após a realização do diagnóstico, em qualquer faixa etária”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O tratamento não operatório da apendicite aguda está associado a maiores taxas de complicações em caso de recorrência.”</li>
+</ul>
 </div>
 </div>
 
@@ -158,6 +230,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q32. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 29 anos com quadro de lombar e testicular à esquerda de forte intensidade há 02 horas associada a náuseas e vômitos. Procura a Unidade de Pronto Atendimento referindo 03 episódios de dor intensa nos últimos 07 dias. Ao...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pielonefrite aguda com provável obstrução (hidronefrose) + antibioticoterapia endovenosa e desobstrução ureteral”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Diverticulite aguda não complicada + antibioticoterapia endovenosa”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Orquiepidimite aguda + antibioticoterapia endovenosa”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Pielonefrite aguda com provável obstrução (hidronefrose) + antibioticoterapia endovenosa e desobstrução ureteral”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Apendicite aguda + Apendicectomia”</li>
+</ul>
 </div>
 </div>
 
@@ -173,6 +253,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q58. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: obstrução intestinal baixa/volvo. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Mais da metade dos casos de obstrução baixa está associada a lesão neoplásica colorretal”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O volvo de ceco pode ser tratado de maneira endoscópica”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O volvo de sigmóide tem tratamento cirúrgico mandatório”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Mais da metade dos casos de obstrução baixa está associada a lesão neoplásica colorretal”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A diverticulite aguda complicada é a segunda causa mais frequente de obstrução intestinal baixa”</li>
+</ul>
 </div>
 </div>
 
@@ -188,6 +276,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q70. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Dos acidentes com animais peçonhentos abaixo, qual deles pode levar a quadro de pancreatite aguda?&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Escorpião Gênero Tityus;”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Aranha Gênero Loxosceles;”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Cobra Gênero Crotalus;”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Escorpião Gênero Tityus;”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Caravelas da Classe Hydrozoa;”</li>
+</ul>
 </div>
 </div>
 
@@ -203,6 +299,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q18. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Mulher, 37 anos, referenciada à Unidade de Emergência com suspeita de abdome agudo. Refere dor abdominal em andar inferior do abdome e fossa ilíaca direita. Apresentou náuseas, vômitos e um episódio de febre aferida. Queixa-se ain...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Os dados clínicos apresentados fortalecem a hipótese diagnóstica de doença inflamatória pélvica aguda e exames de imagens podem ser importantes na exclusão de diagnósticos diferenciais e complicações.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “O diagnóstico de doença inflamatória pélvica aguda necessita da confirmação por exames de imagem como ultrassonografia pélvica e tomografia de abdome com contraste.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O diagnóstico de apendicite aguda deve ser considerado, porém, com base nos dados clínicos apresentados nesse caso, essa hipótese pode ser descartada.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Os dados clínicos apresentados fortalecem a hipótese diagnóstica de doença inflamatória pélvica aguda e exames de imagens podem ser importantes na exclusão de diagnósticos diferenciais e complicações.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Gravidez ectópica é o diagnóstico diferencial de abdome agudo em mulher jovem, porém ausência de sangramento vaginal e instabilidade hemodinâmica excluem esse diagnóstico, nesse caso.”</li>
+</ul>
 </div>
 </div>
 
@@ -219,6 +323,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q40. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Homem, 38 anos, com dor abdominal há 3 dias localizada em flanco esquerdo do tipo cólica de forte intensidade associada a náuseas e vômitos. Paciente clinicamente estável e exame físico do abdome sem sinais de peritonite. Realizad...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A imagem evidencia hidronefrose importante à esquerda. Diante do quadro clínico e dos exames laboratoriais, a hipótese diagnóstica é pielonefrite obstrutiva. Nesses casos, além da antibioticoterapia e do manejo da dor, é fundament...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Na imagem há sinais de hidronefrose leve. Quadro clínico sugere ureterolitíase sem complicações. Tratamento ambulatorial com analgesia e antibioticoterapia para infecção urinária não complicada.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A imagem mostra a presença de líquido livre no espaço esplenorrenal, sendo necessária tomografia computadorizada contrastada para avaliar outras possibilidades diagnósticas.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “A imagem evidencia hidronefrose importante à esquerda. Diante do quadro clínico e dos exames laboratoriais, a hipótese diagnóstica é pielonefrite obstrutiva. Nesses casos, além da antibioticoterapia e do manejo da dor, é fundament...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A imagem sugere sinais de dilatação de alças de intestino delgado, sugerindo diagnóstico de abdome agudo obstrutivo. É fundamental, nesse caso, a realização de tomografia de abdome com contraste e avaliação cirúrgica na sequência.”</li>
+</ul>
 </div>
 </div>
 
@@ -235,6 +347,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q44. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: dor epigástrica com POCUS/imagem sugerindo úlcera perfurada. Gastro/abdome cobra red flags, analgesia segura, fonte infecciosa/hemorrágica e não deixar cirrótico ou obstruído passar. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Úlcera gástrica perfurada.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Pancreatite aguda.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colecistite aguda.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Úlcera gástrica perfurada.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Aneurisma de aorta abdominal.”</li>
+</ul>
 </div>
 </div>
 
@@ -250,6 +370,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME24 Q63. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Sulfato de magnésio por via intravenosa empírica, na dose de 1 a 2 g, deve ser evitado.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “A cardioversão elétrica em pacientes instáveis com TdP só pode ser realizada se houver sincronização.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Antiarrítmicos classe IA (procainamida) ou IC (propafenona) devem ser utilizados para controle da arritmia.”</li>
+</ul>
 </div>
 </div>
 
@@ -266,6 +394,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q5. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Homem de 54 anos, com história conhecida de etilismo crônico, é levado ao Departamento de Emergência após ferimento por arma branca durante briga em bar. Está consciente e hemodinamicamente estável. Ao exame físico, apresenta tela...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Encaminhar para tomografia de tórax e abdome com contraste.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Realizar exploração local digital.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Realizar lavado peritoneal diagnóstico.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Realizar drenagem torácica em selo d&#x27;água.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Encaminhar para tomografia de tórax e abdome com contraste.”</li>
+</ul>
 </div>
 </div>
 
@@ -282,6 +418,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q49. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Em um Departamento de Emergência referenciado, você recebe um paciente de 61 anos, cirrótico, regulado devido a um quadro de hemorragia digestiva alta de origem varicosa. O hospital em questão não apresentava Serviço de Endoscopia...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente deve ser mantido em ventilação mecânica, abrir protocolo de sepse e avaliação cirúrgica de emergência.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Paciente deve ser submetido à extubação, seguida de endoscopia digestiva alta.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Paciente deve receber mais dois concentrados de hemácias e, logo após, ser submetido à endoscopia digestiva alta.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Deve-se descomprimir o tórax bilateralmente com cateter intravenoso.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Paciente deve ser mantido em ventilação mecânica, abrir protocolo de sepse e avaliação cirúrgica de emergência.”</li>
+</ul>
 </div>
 </div>
 
@@ -298,6 +442,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME25 Q53. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Mulher, 60 anos, procura atendimento no Departamento de Emergência em Teresina (PI), devido à dor abdominal em hipocôndrio direito de forte intensidade há 2 dias. Refere ainda quadro de febre que teve início há 5 dias. No exame fí...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Dengue com sinais de alarme; início de hidratação endovenosa.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Colecistite calculosa aguda; tratamento cirúrgico precoce.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Dengue com sinais de alarme; início de hidratação endovenosa.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Colangite aguda; Colangiopancreatografia retrógrada em caráter de urgência.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Hepatite aguda; início imediato tratamento com interferon alfa.”</li>
+</ul>
 </div>
 </div>
 
@@ -313,6 +465,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q58. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Um paciente de 63 anos com hematêmese foi atendido no plantão anterior e está na Sala Vermelha aguardando endoscopia. O paciente chegou com frequência cardíaca de 140 bpm, pressão arterial de 80 × 40 mmHg, com exteriorização de he...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O paciente foi ressuscitado adequadamente; deve-se seriar a dosagem de hemoglobina e a gasometria, para avaliar a possível persistência do sangramento. As questões 59 e 60 referem-se ao seguinte enunciado: Você atende uma jovem de...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “O paciente não foi ressuscitado adequadamente; deve-se iniciar protocolo de transfusão maciça 1:1:1.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “O paciente foi ressuscitado adequadamente; deve-se transfundir um concentrado de hemácias.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Embora o paciente não tenha sido ressuscitado adequadamente, encontra-se estável hemodinamicamente e deve aguardar a endoscopia.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “O paciente foi ressuscitado adequadamente; deve-se seriar a dosagem de hemoglobina e a gasometria, para avaliar a possível persistência do sangramento. As questões 59 e 60 referem-se ao seguinte enunciado: Você atende uma jovem de...”</li>
+</ul>
 </div>
 </div>
 
@@ -329,6 +489,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Mulher de 19 anos, previamente hígida, procura a emergência com dor abdominal há 18 horas. Refere náuseas, inapetência e dor à deambulação. Última menstruação há 12 dias. Nega uso de anticoncepcional. Ao exame físico: temperatura...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Os achados demonstrados no ultrassom point-of-care são altamente sugestivos de apendicite aguda e, nesse cenário de hospital rural, podem antecipar conduta cirúrgica e regulação do recurso e logística necessários para o tratamento...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Em mulher jovem com dor na fossa ilíaca direita, devem ser afastados primeiramente diagnósticos ginecológicos. Porém, quando descartados, o ultrassom point-of-care pode ser útil, afastando com alta acurácia o diagnóstico de apendi...”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Os achados demonstrados no ultrassom point-of-care são altamente sugestivos de apendicite aguda e, nesse cenário de hospital rural, podem antecipar conduta cirúrgica e regulação do recurso e logística necessários para o tratamento...”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Trata-se do sinal do alvo, típico do cisto ovariano roto com líquido livre ao redor da estrutura; essa paciente necessita de transferência para realização de uma tomografia de pelve para diagnóstico e planejamento cirúrgico de urg...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O aumento da ecogenicidade da gordura ao redor e a não compressibilidade da estrutura apresentada na imagem, somados ao quadro clínico apresentado, são sugestivos de salpingite aguda.”</li>
+</ul>
 </div>
 </div>
 
@@ -344,6 +512,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Um paciente de 70 anos, acamado há alguns meses, dependente para atividades básicas de vida, com insuficiência cardíaca New York Heart Association Classe IV com tratamento otimizado, apresenta, nos últimos 3 dias, uma piora signif...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O paciente está na fase ativa de morte; a prioridade é o manejo dos sintomas para garantir o máximo conforto e dignidade.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O paciente está em uma fase de descompensação aguda da insuficiência cardíaca; a prioridade é ajustar as medicações.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O rebaixamento de nível de consciência é ameaçador à vida; a prioridade é garantir Suporte Avançado de Vida e medidas farmacológicas para compensação do quadro clínico.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “O paciente está na fase ativa de morte; a prioridade é o manejo dos sintomas para garantir o máximo conforto e dignidade.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “O paciente está em sepse; a prioridade é a investigação de foco infeccioso, descartar disfunções orgânicas no contexto da infecção e iniciar antibioticoterapia empírica.”</li>
+</ul>
 </div>
 </div>
 
@@ -359,6 +535,14 @@ Banco do tema 014 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q98. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de gastro/hepatologia/abdome, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 73 anos, com doença pulmonar obstrutiva crônica, fez uso recente de levofloxacino por uma exacerbação do seu quadro de base. Hoje procura o Departamento de Emergência com quadro de cinco evacuações líquidas associadas...&quot;. A leitura de prova deve priorizar instabilidade, sangramento, sepse abdominal, obstrução/isquemia e indicação de endoscopia/cirurgia; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Resultado indeterminado, solicitar teste molecular; se positiva tratar com vancomicina por via oral.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de gastro/hepatologia/abdome, esta opção responde melhor à prioridade da questão: “Resultado indeterminado, solicitar teste molecular; se positiva tratar com vancomicina por via oral.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Resultado positivo, tratar com vancomicina por via oral.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Resultado positivo, tratar com metronidazol por via oral.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de gastro/hepatologia/abdome; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Resultado indeterminado, solicitar teste molecular, se positivo tratar com metronidazol por via oral.”</li>
+</ul>
 </div>
 </div>
 

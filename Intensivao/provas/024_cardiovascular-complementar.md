@@ -22,6 +22,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q37. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Em relação ao derrame pericárdico (DP) podemos afirmar:&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “DP moderado pode ser localizado ou circunferencial, com maior volume medindo de 10 a 20 mm na diástole”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “DP mínimo corresponde a uma fina lâmina líquida observada somente durante a diástole ventricular”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “DP discreto corresponde a uma fina lâmina líquida circunferencial com até 15 mm sisto-diastólico”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “DP importante geralmente circunferencial tem volume maior que 10 mm na diástole”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “DP moderado pode ser localizado ou circunferencial, com maior volume medindo de 10 a 20 mm na diástole”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q47. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente com quadro de choque, ainda não identificado, apresenta a seguinte história e exames físico e complementares: Vítima de acidente automobilístico, motorista sem cinto de segurança, dá entrada em um DE após cerca de 30 minu...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Tamponamento cardíaco, choque obstrutivo”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Pneumotórax hipertensivo, choque obstrutivo”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Tromboembolismo pulmonar, choque distributivo”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Hemotórax maciço, choque hipovolêmico”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Tamponamento cardíaco, choque obstrutivo”</li>
+</ul>
 </div>
 </div>
 
@@ -52,6 +68,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q101. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Homem, 28 anos de idade, sem comorbidades conhecidas, procura o DE por dor precordial em peso iniciada há 3 dias associada a dispneia progressiva e atualmente aos mínimos esforços. Ao exame clínico: estado geral ruim, taquidispnei...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “POCUS Cardíaco com Colabamento diastólico do átrio e ventrículo direitos, dilatação de veia cava inferior, derrame pericárdio e realizar pericardiocentese”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “POCUS Pulmonar em Perfil B e administrar 60 mg de furosemida EV”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “POCUS Cardíaco com Colabamento diastólico do átrio e ventrículo direitos, dilatação de veia cava inferior, derrame pericárdio e realizar pericardiocentese”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “POCUS Pulmonar com Lung Point e realizar toracocentese de alívio”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “POCUS Cardíaco com Disfunção grave de ventrículo esquerdo com alteração segmentar e administrar Tenecteplase EV”</li>
+</ul>
 </div>
 </div>
 
@@ -68,6 +92,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q105. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Na avaliação de um paciente com choque, o uso do POCUS é cada vez mais difundido por poder esclarecer muitas vezes a causa. No caso da avaliação cardíaca com o ultrassom em paciente com choque, foram achados os seguintes dados: PS...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Tromboembolismo pulmonar, choque obstrutivo”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Infarto Agudo de Ventrículo Esquerdo, choque cardiogênico”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Tromboembolismo pulmonar, choque obstrutivo”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Hipovolemia, choque hipovolêmico/hemorrágico”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Insuficiência Cardíaca Descompensada, choque cardiogênico”</li>
+</ul>
 </div>
 </div>
 
@@ -83,6 +115,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q111. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Esta é uma questão de exceção/incorreta em cardiovascular complementar. O comando central é: &quot;Sobre choque cardiogênico, assinale a alternativa incorreta:&quot;. A alternativa B deve ser marcada porque é a afirmação problemática ou a exceção reconhecida pelo gabarito oficial.</p>
+<p><strong>Por que a B deve ser marcada:</strong> o enunciado pede a alternativa incorreta/exceção; esta é a opção que contém o problema cobrado pela banca: “Por se tratar de um choque distributivo, o uso de vasopressina é indicado como primeira escolha de droga vasoativa”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa B: “O uso de vasodilatadores é possível no contexto para otimizar a póscarga, a vasodilatação melhora o quadro clínico por diminuir o trabalho cardíaco”</li>
+<li><strong>B.</strong> <strong>Correta como resposta ao comando.</strong> Como a pergunta pede a incorreta/exceção, esta alternativa é a que deve ser marcada: “Por se tratar de um choque distributivo, o uso de vasopressina é indicado como primeira escolha de droga vasoativa”</li>
+<li><strong>C.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa B: “A dobutamina é o inotrópico de escolha nos pacientes com choque cardiogênico e apresenta nos quadros mais graves inclusive a possibilidade de aumento dos níveis pressóricos”</li>
+<li><strong>D.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa B: “O uso de balão intra-aórtico pode melhora o débito cardíaco de pacientes com quadro refratário de choque cardiogênico, porém seu uso é restrito e não rotineiro”</li>
+</ul>
 </div>
 </div>
 
@@ -99,6 +139,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME23 Q38. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Caso clínico para as questões 36, 37 e 38: Você está atendendo um paciente de 59 anos vítima de Parada Cardiorrespiratória em ritmo chocável após retorno à circulação espontânea. Foram administrados 04 (quatro) choques desfibrilad...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pneumotórax e Derrame Pericárdico”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Derrame pleural”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Derrame Pericárdico”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Pneumotórax”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Pneumotórax e Derrame Pericárdico”</li>
+</ul>
 </div>
 </div>
 
@@ -115,6 +163,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q66. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Após a avaliação da veia cava inferior, você prosseguiu com a avaliação do ultrassom cardíaco (ecocardiografia POCUS), e obteve os seguintes achados em cada janela: Paraesternal eixo longo: proporção entre câmaras mantida, válvula...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Apesar de apresentar estigmas ecocardiográficos de cardiopatia com hipertrofia ventricular, no momento a paciente não apresenta disfunção ventricular esquerda evidente, devendo ser buscadas hipóteses diferenciais.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Para obtenção de imagens na ecocardiografia POCUS deve ser usado o transdutor linear, por apresentar alta frequência e consequente alta resolução espacial de imagem.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Apesar de apresentar estigmas ecocardiográficos de cardiopatia com hipertrofia ventricular, no momento a paciente não apresenta disfunção ventricular esquerda evidente, devendo ser buscadas hipóteses diferenciais.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Os achados neste caso direcionam para uma hipótese diagnóstica de choque cardiogênico com baixa fração de ejeção; devendo ser iniciadas drogas vasopressoras e inotrópicas positivas para manejo da instabilidade hemodinâmica.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O valor de EPSS encontrado é compatível de forma isolada com a hipótese de choque cardiogênico, podendo ser utilizado neste caso de forma confiável.”</li>
+</ul>
 </div>
 </div>
 
@@ -131,6 +187,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q79. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente, sexo masculino, 68 anos, dá entrada em setor de emergência com quadro de dor em região dorsal e lombar, de forte intensidade, associada a vômitos e palidez cutânea. Histórico de hipertensão e diabetes mellitus tipo 2, se...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “V - V - F - F”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “V - V - F - F”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V - V - F - V”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “F - V - V - V”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “F - F - V - F”</li>
+</ul>
 </div>
 </div>
 
@@ -146,6 +210,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME23 Q90. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, 60 anos, hipertenso em uso irregular de medicação. A filha informa que o paciente suspendeu por conta própria há 15 dias seus anti hipertensivos (captopril 75 mg/dia; propranolol 80 mg/dia; hidrocloroti...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Papiledema; Encefalopatia Hipertensiva e Hipertensão Intracraniana/Edema Cerebral.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Papiledema; Acidente Vascular Cerebral Isquêmico e Aterosclerose”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Exsudatos algodonosos; Acidente Vascular Hemorrágico e Rupturas de vasos em topografia de núcleos da base;”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Exame normal; Acidente Vascular Cerebral Isquêmico e Arteriosclerose”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Papiledema; Encefalopatia Hipertensiva e Hipertensão Intracraniana/Edema Cerebral.”</li>
+</ul>
 </div>
 </div>
 
@@ -162,6 +234,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q25. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Mulher de 45 anos apresentou dor torácica retroesternal seguida de síncope, trazida ao hospital por familiares. À admissão na triagem do hospital, apresentava-se pálida, sudoreica, hipotensa e taquicardica, sendo encaminhada para...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Trombólise endovenosa.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Toracocentese de alívio.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Pericardiocentese.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Trombólise endovenosa.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Bicarbonato de sódio endovenoso.”</li>
+</ul>
 </div>
 </div>
 
@@ -177,6 +257,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q27. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 68 anos, motorista de carro de aplicativo, tabagista, chega ao Departamento de Emergência de um hospital secundário em cadeira de rodas com dor lombar muito importante, Escala Visual Analógica (EVA) 10/10. Refere que p...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Analgesia e solicitar tomografia computadorizada de coluna torácica e lombar.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Analgesia e alta com orientações de mudança de hábitos de vida.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Analgesia e solicitar tomografia computadorizada de coluna torácica e lombar.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Solicitar transferência para realização de ressonância magnética da coluna torácica e lombar de emergência.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Analgesia e solicitar raio X de coluna lombar; caso normal, alta com orientações de mudança de hábitos de vida.”</li>
+</ul>
 </div>
 </div>
 
@@ -193,6 +281,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q28. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 51 anos, sexo masculino, é admitido no Departamento de Emergência referindo mal-estar inespecífico, dor torácica ventilatório-dependente e dispneia. Relata que os sintomas começaram naquele dia, de forma súbita, durant...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Trata-se de um TEP segmentar, classificado como baixo risco. Se capacidade de compreensão adequada e condições socioeconômicas favoráveis, o tratamento pode ser feito em regime ambulatorial com seguimento precoce (&lt; 7 dias).”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “O diagnóstico ainda não pôde ser estabelecido. Assim, estão indicados uma nova dosagem de troponina e um novo eletrocardiograma.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Trata-se de um TEP segmentar, classificado como baixo risco. Nesse contexto, deve receber anticoagulação plena com enoxaparina e ser submetido à internação em regime de enfermaria.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Trata-se de um TEP segmentar, classificado como baixo risco. Se capacidade de compreensão adequada e condições socioeconômicas favoráveis, o tratamento pode ser feito em regime ambulatorial com seguimento precoce (&lt; 7 dias).”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Trata-se de TEP segmentar, classificado como moderado risco. A conduta adequada é anticoagulação plena com enoxaparina e internação em regime de terapia intensiva.”</li>
+</ul>
 </div>
 </div>
 
@@ -209,6 +305,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q53. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente chega no Departamento de Emergência, e sua avaliação com ultrassom point-of-care (PoCUS) evidencia um volumoso derrame pericárdico. Dentre as alternativas, assinale a que contém sinais ecocardiográficos sugestivos de tamp...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Colapso diastólico do ventrículo direito e colapso sistólico do átrio direito.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colapso sistólico de ventrículo direito e veia cava inferior &gt; 2 cm sem colapsibilidade.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colapso sistólico do átrio direito e fluxo mitral sem variação à inspiração.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Colapso diastólico do ventrículo direito e colapso sistólico do átrio direito.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colapso sistólico do ventrículo esquerdo e variação do fluxo mitral &gt; 20% à inspiração.”</li>
+</ul>
 </div>
 </div>
 
@@ -224,6 +328,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q67. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Sobre tamponamento cardíaco, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A presença de baixa voltagem na cardioscopia é achado compatível com tamponamento cardíaco traumático.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A presença de distensão jugular confirma tamponamento cardíaco.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A pericardiocentese é um tratamento eficaz para parada cardiorrespiratória (PCR) por tamponamento cardíaco traumático.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “A presença de baixa voltagem na cardioscopia é achado compatível com tamponamento cardíaco traumático.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “A toracotomia de reanimação deve ser realizada sempre que a causa da PCR for tamponamento cardíaco.”</li>
+</ul>
 </div>
 </div>
 
@@ -239,6 +351,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q76. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Sobre a abordagem do paciente com insuficiência cardíaca (IC) descompensada no Departamento de Emergência, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Na ausência de choque, o uso de nitroglicerina endovenosa associa-se à redução de admissão em unidade de terapia intensiva, da necessidade de intubação orotraqueal e dos dias de internação.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O achado de crepitações na ausculta pulmonar apresenta razão de verossimilhança positiva superior ao do achado de turgência jugular.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Nos pacientes com IC com fração de ejeção reduzida admitidos hipotensos, o uso de inotrópico deve ser encorajado.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Na ausência de choque, o uso de nitroglicerina endovenosa associa-se à redução de admissão em unidade de terapia intensiva, da necessidade de intubação orotraqueal e dos dias de internação.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O uso de diurético (furosemida) em infusão contínua associa-se à melhora da decongestão e à redução do tempo de internação hospitalar.”</li>
+</ul>
 </div>
 </div>
 
@@ -255,6 +375,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q88. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente com antecedentes de insuficiência cardíaca é admitido no Departamento de Emergência em choque (tempo de enchimento capilar lentificado), oligúria, extremidades frias e mal perfundidas, além de edema bilateral de membros i...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Diurético de alça e milrinone.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Diurético de alça, em associação com diuréticos tiazídicos e acetazolamida.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Diurético de alça, em associação com vasodilatador parenteral (nitroprussiato de sódio).”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Diurético de alça e dobutamina.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Diurético de alça e milrinone.”</li>
+</ul>
 </div>
 </div>
 
@@ -271,6 +399,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q98. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, 23 anos, previamente hígido, chega ao Departamento de Emergência após quadro de síncope durante partida de futebol com corrida de grande intensidade. Nega sintomas prévios, como febre, trauma ou uso de...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Internação e ecocardiograma.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Teste ergométrico para investigação ambulatorial.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Internação e ressonância magnética.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Internação e ecocardiograma.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Internação e estudo eletrofisiológico.”</li>
+</ul>
 </div>
 </div>
 
@@ -287,6 +423,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q50. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Caso haja confirmação de tromboembolismo pulmonar, o paciente deve ser anticoagulado, visto haver contraindicação absoluta à trombólise.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “O sinal de McConnell tem alta sensibilidade e baixa especificidade para diagnóstico de tromboembolismo pulmonar.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Tenecteplase (dose de 0,6 mg/kg) apresenta melhores resultados em desfechos de segurança em comparação a alteplase (100 mg) em pacientes com tromboembolismo pulmonar instável.”</li>
+</ul>
 </div>
 </div>
 
@@ -303,6 +447,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q61. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Uma paciente de 41 anos, sem comorbidades prévias, apresenta-se ao Departamento de Emergência com quadro de dispneia progressiva iniciada há 1 mês, após dar à luz a seu primeiro filho. Associado ao quadro, apresenta edema de membr...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A miocardiopatia periparto é um diagnóstico de exclusão, associado à ausência de cardiopatia prévia e tendo a pré-eclâmpsia como um dos principais fatores de risco.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “A miocardiopatia periparto é um diagnóstico de exclusão, associado à ausência de cardiopatia prévia e tendo a pré-eclâmpsia como um dos principais fatores de risco.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “A miocardiopatia periparto é um diagnóstico clínico, seu principal fator de risco é o diabetes mellitus gestacional, estando relacionado a sintomas desde o início da gestação.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “A miocardiopatia periparto é um diagnóstico clínico. Seu principal fator de risco é o tabagismo e é fortemente associado com doenças cardíacas valvares.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “A miocardiopatia periparto é um diagnóstico de exclusão e é fortemente associado a risco de embolia do líquido amniótico.”</li>
+</ul>
 </div>
 </div>
 
@@ -318,6 +470,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q89. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Um paciente de 70 anos, acamado há alguns meses, dependente para atividades básicas de vida, com insuficiência cardíaca New York Heart Association Classe IV com tratamento otimizado, apresenta, nos últimos 3 dias, uma piora signif...&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O paciente está na fase ativa de morte; a prioridade é o manejo dos sintomas para garantir o máximo conforto e dignidade.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O paciente está em uma fase de descompensação aguda da insuficiência cardíaca; a prioridade é ajustar as medicações.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de cardiovascular complementar; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O rebaixamento de nível de consciência é ameaçador à vida; a prioridade é garantir Suporte Avançado de Vida e medidas farmacológicas para compensação do quadro clínico.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “O paciente está na fase ativa de morte; a prioridade é o manejo dos sintomas para garantir o máximo conforto e dignidade.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “O paciente está em sepse; a prioridade é a investigação de foco infeccioso, descartar disfunções orgânicas no contexto da infecção e iniciar antibioticoterapia empírica.”</li>
+</ul>
 </div>
 </div>
 
@@ -333,6 +493,14 @@ Banco do tema 024 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME25 Q90. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de cardiovascular complementar, o comando central é reconhecer a melhor resposta para: &quot;Para o mesmo paciente da questão 89, quais as medidas iniciais mais apropriadas para o manejo da dispneia?&quot;. A leitura de prova deve priorizar instabilidade, suporte circulatório, paliatividade quando aplicável e prioridade hemodinâmica; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar morfina na dose de 2,5 mg a cada 4 horas, com monitorização da frequência respiratória.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Oferecer oxigênio suplementar em cateter nasal para conforto com morfina em bomba de infusão contínua para sedação paliativa.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de cardiovascular complementar, esta opção responde melhor à prioridade da questão: “Iniciar morfina na dose de 2,5 mg a cada 4 horas, com monitorização da frequência respiratória.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Realizar ventilação não invasiva, bem como vasodilatação endovenosa e diureticoterapia.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Oferecer oxigênio suplementar em máscara não reinalante, administrar vasodilatação oral e diureticoterapia.”</li>
+</ul>
 </div>
 </div>
 

@@ -22,6 +22,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q9. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: POCUS pulmonar avalia pleura e artefatos ar-tecido. Respiratório cobra suporte certo para a fisiologia: VNI quando cabe, IOT quando falha, broncodilatador/corticoide/MgSO4 quando asma grave. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Avaliação de pleura e artefatos ar-tecidos (relação ar-líquido)”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Avaliação de pleura e artefatos ar-tecidos (relação ar-líquido)”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Avaliação de pleura e parênquima pulmonar”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Avaliação do parênquima pulmonar e artefatos”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Avaliação da relação entre linhas pleurais verticais e horizontais”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q28. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Marque a alternativa que demonstra a provável melhor escolha de dispositivo de oxigênio suplementar para determinado quadro clínico.&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente com exacerbação de DPOC, com SaO2 86% em Ar Ambiente e FR 24 IRPM - Máscara de Venturi com FiO2 35%.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Paciente com exacerbação de DPOC, com SaO2 86% em Ar Ambiente e FR 24 IRPM - Máscara de Venturi com FiO2 35%.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Paciente previamente hígido, com Pneumonia Bacteriana, SaO2 90% em Ar Ambiente, FR 36 IRPM e uso de musculatura acessória - Cateter Nasal de O2 2 L/min.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Paciente com Infarto Agudo do Miocárdio (IAM) com supradesnivelamento de Segmento ST em parede anterior no Eletrocardiograma (ECG), com SaO2 95% em Ar Ambiente, FC 101 BPM, FR 22 IRPM, PA 170 x 85 mmHg - Cateter Nasal de O2 5 L/mi...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Paciente com Síndrome de Guillain-Barré evoluindo com Dispnéia e Disfagia, SaO2 99% em Ar Ambiente, FC 52 BPM, FR 14 IRPM - Máscara Não Reinalante em 15 L/min.”</li>
+</ul>
 </div>
 </div>
 
@@ -53,6 +69,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q29. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente 62 anos, 53 kg, hipertenso prévio (com história de miocardiopatia hipertrófica) em uso de Amlodipina e Losartana, sabidamente portador de hiperplasia benigna de próstata, dá entrada no DE com quadro de sepse de foco uriná...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pneumotórax à direita”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Tamponamento cardíaco”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Pneumotórax à direita”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Trombo Embolia Pulmonar”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Edema Agudo de pulmão”</li>
+</ul>
 </div>
 </div>
 
@@ -68,6 +92,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q34. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Sobre as principais metas de saturação de oxigênio em pacientes com insuficiência respiratória marque a alternativa correta.&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Em pacientes com Hipoventilação relacionada à obesidade, metas entre 88 e 92% podem reduzir o risco de depressão respiratória.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Em pacientes com Hipoventilação relacionada à obesidade, metas entre 88 e 92% podem reduzir o risco de depressão respiratória.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Em pacientes com IRpA o uso de O2 deve ser feito de maneira liberal já que os riscos da hipoxemia ultrapassam os malefícios da Hiperóxia.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Frequência Respiratória e o uso de musculatura acessória não devem ser levados em conta na determinação do alvo de oximetria para esses pacientes.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Meta de oxigênio em pacientes com estado crítico, como pacientes em choque hemodinâmico ou vítimas de politrauma grave é bem estabelecida e deve ser alcançada com uso de MNR à 15 L/min”</li>
+</ul>
 </div>
 </div>
 
@@ -83,6 +115,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q36. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Dentre os exames complementares, marque a alternativa que demonstra o melhor exame para definir a gravidade da hipoxemia em pacientes com insuficiência respiratória aguda (IRpA).&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Gasometria Arterial em ar ambiente”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Gasometria Venosa em ar ambiente”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Gasometria Arterial em Uso de O2 Suplementar à 2 L/min em Cateter Nasal”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Gasometria Arterial em ar ambiente”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Tomografia de Tórax”</li>
+</ul>
 </div>
 </div>
 
@@ -98,6 +138,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q38. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente, sexo feminino, 32 anos, sem comorbidades prévias, em pósoperatório de abdominoplastia e mamoplastia em 3º dia Pós-Operatório (PO), dá entrada no DE com queixa de dor torácica e dispnéia há 3 horas; imediatamente evolui c...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Hidratação com Ringer Lactato 500ml EV”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Alteplase EV”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Realização de angiotomografia de Tórax em protocolo TEP”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Hidratação com Ringer Lactato 500ml EV”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Iniciar Noradrenalina EV em Bomba de Infusão Contínua (BIC)”</li>
+</ul>
 </div>
 </div>
 
@@ -113,6 +161,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q43. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente, 28 anos, com histórico de trauma torácico há 3 semanas, dá entrada em DE com sonolência, febre e sudorese. Refere dor em hemitórax direito ventilatório-dependente que vem piorando com o passar dos dias, ao exame apresent...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Infecção pulmonar, sepse/choque séptico, expansão volêmica, antibioticoterapia imediata”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Tromboembolismo pulmonar, choque obstrutivo, trombólise imediata”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Infecção pulmonar, sepse/choque séptico, expansão volêmica, antibioticoterapia imediata”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Pneumotórax hipertensivo, choque obstrutivo, punção torácica de alívio”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Pneumonia aspirativa, choque séptico, expansão volêmica, antibioticoterapia imediata”</li>
+</ul>
 </div>
 </div>
 
@@ -129,6 +185,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q46. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 33 anos em Monitorização contínua em Sala de Emergência há 2 dias devido quadro de IRpA por COVID-19, atualmente em Intubação Orotraqueal (IOT) e VM em modo Volume Controlado: Volume Corrente (VC) 6-7 ml/kg, Fluxo 65 L...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Realizar ventilações de resgate”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Realizar ventilações de resgate”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar tentativa imediata de IOT por laringoscopia direta”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Drenar o tórax direito e esquerdo”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Trocar o ventilador e seus circuitos”</li>
+</ul>
 </div>
 </div>
 
@@ -144,6 +208,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q48. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Sobre conceitos envolvendo mecanismos de insuficiência respiratória Hipoxêmica, marque a alternativa correta:&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Didaticamente o Gradiente Alvéolo-Arterial é a melhor forma de diferenciar entre os mecanismos de IRpA Hipoxêmica”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Em pacientes com distúrbios de ventilação-perfusão (V/Q) hipoxemia tende a ocorrer quando áreas de ventilação prejudicada vem acompanhadas de vasoconstrição hipóxica.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Dentre os principais mecanismos descreve-se: Distúrbios V/Q, Espessamento da Membrana Alveolar, Hiperventilação Alveolar e Redução da Pressão Inspirada de Oxigênio”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “A Síndrome do Desconforto Respiratório Agudo (SDRA) é o protótipo da Hipoventilação alveolar, sendo frequentemente eficaz o uso de oxigenoterapia suplementar nesses pacientes.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Didaticamente o Gradiente Alvéolo-Arterial é a melhor forma de diferenciar entre os mecanismos de IRpA Hipoxêmica”</li>
+</ul>
 </div>
 </div>
 
@@ -159,6 +231,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q78. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Mulher de 68 anos de idade, natural e procedente de Minas Gerais, fumante de 2 maços de cigarro por dia, há 30 anos, é levada ao DE com queixa de falta de ar, chiado e tosse produtiva há 3 dias. Não sabia referir febre. Ao exame c...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Sepse por pneumonia, pois trata-se de uma paciente DPOC, apresentando disfunção orgânica e a principal causa de descompensação é infecção”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Choque séptico por pneumonia, pois trata-se de uma paciente com DPOC, apresentando hipotensão e a principal causa de descompensação é infecção”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Choque obstrutivo por tromboembolia pulmonar, visto que a paciente apresenta hipóxia acentuada com retenção de CO2”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Choque cardiogênico por quadro de insuficiência cardíaca descompensada, visto que paciente apresentava estertores em base”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Sepse por pneumonia, pois trata-se de uma paciente DPOC, apresentando disfunção orgânica e a principal causa de descompensação é infecção”</li>
+</ul>
 </div>
 </div>
 
@@ -175,6 +255,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q79. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 67 anos, é admitido no DE com quadro de Doença Pulmonar Obstrutiva crônica (DPOC) exacerbada, em Gasometria Arterial (em AA) você observa pH 7.2, PaCO2 90 mmHg, Pressão Arterial de Oxigênio (PaO2) 55 mmHg, Bicarbonato...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Modo BiPAP, com IPAP 10 mmHg e EPAP 5 mmHg e FiO2 40%”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Modo CPAP, com CPAP 10 mmHg e FiO2 80%”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Modo CPAP, com CPAP 15 mmHg e FiO2 40%”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Modo BiPAP, com IPAP 10 mmHg e EPAP 5 mmHg e FiO2 40%”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Modo BiPAP, com IPAP 12mmHg e EPAP 6 mmHg e FiO2 95%”</li>
+</ul>
 </div>
 </div>
 
@@ -190,6 +278,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q89. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Homem, 64 anos de idade, internado em Sala de Emergência por Síndrome Respiratória Aguda Grave, encontra-se intubado há 48h, em sedação profunda, em ventilação mecânica protetora, sem assincronias e sem sinais de esforço respirató...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Colocar o paciente em posição prona.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Colocar o paciente em posição prona.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Instalação de óxido nítrico no ramo inspiratório do VM.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Instalação de óxido nítrico no ramo expiratório do VM.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “ECMO Veno–Venosa”</li>
+</ul>
 </div>
 </div>
 
@@ -205,6 +301,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q24. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;A doença pulmonar obstrutiva crônica (DPOC) é caracterizada por uma obstrução fixa da via aérea causada por enfisema, bronquite crônica ou ambos. É a terceira maior causa de morte no mundo (5 milhões de mortes anuais ou 6% do tota...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “F - V - V - V - F”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “F - V - F - V - F”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “V - F - V - V - V”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “F - V - V - V - F”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “V - V - F - F - V”</li>
+</ul>
 </div>
 </div>
 
@@ -221,6 +325,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q29. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, 47 anos, com antecedente de asma na infância. Relata história de 6 dias de tosse produtiva hialina, febre e mal estar, evoluindo hoje com dispneia e dor torácica ventilatório-dependente à direita. À ava...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Identificada síndrome intersticial bilateral; proceder a suporte ventilatório e avaliar diagnósticos diferenciais para dor torácica.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Identificado pneumotórax à direita; proceder à drenagem torácica em selo d’água/valvulada.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Identificado derrame pleural bilateral; proceder à toracocentese diagnóstica.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Identificada síndrome intersticial bilateral; proceder a suporte ventilatório e avaliar diagnósticos diferenciais para dor torácica.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Identificada consolidação bilateral; proceder a suporte ventilatório e iniciar antibioticoterapia.”</li>
+</ul>
 </div>
 </div>
 
@@ -236,6 +348,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME24 Q16. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Marque a alternativa que descreve uma indicação de intubação orotraqueal e a melhor estratégia de realização do procedimento para um paciente em crise asmática grave:&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Aumento da pressão parcial de gás carbônico (pCO2) em mais de 5 mmHg na última hora e manutenção do esforço respiratório. Pré-oxigenar com ventilação não invasiva. Considerar intubação em sequência prolongada.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Aumento da pressão parcial de gás carbônico (pCO2) em mais de 5 mmHg na última hora e manutenção do esforço respiratório. Pré-oxigenar com ventilação não invasiva. Considerar intubação em sequência prolongada.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Diminuição da pCO2 na última hora e manutenção do esforço respiratório. Préoxigenar com ventilação não invasiva. Considerar duplo preparo. Realizar sequência rápida de intubação (SRI) o mais rapidamente possível.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Aumento da pCO2 em mais de 5 mmHg na última hora e manutenção do esforço respiratório. Pré-oxigenar com máscara não reinalante a 5 L/minuto. Proceder com SRI.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Diminuição da pCO2 na última hora e manutenção do esforço respiratório. Realizar lidocaína. Considerar intubação em sequência prolongada.”</li>
+</ul>
 </div>
 </div>
 
@@ -251,6 +371,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME24 Q34. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino de 54 anos, previamente etilista, hipertenso, que foi internado há 3 dias por um quadro de síndrome de abstinência alcoólica. No momento, apresenta-se muito agitado, retirando constantemente a máscara de...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Intubação por sequência prolongada (delayed sequence intubation). Préoxigenação com ventilação não invasiva e fração inspirada de oxigênio de 100%.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Intubação por sequência prolongada (delayed sequence intubation). Préoxigenação com ventilação não invasiva e fração inspirada de oxigênio de 100%.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Intubação com paciente acordado (awake intubation) com anestesia tópica da via aérea com lidocaína. Pré-oxigenação com máscara não reinalante em fluxo máximo (flush-rate) (&gt;40 L/minuto).”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Intubação por sequência rápida. Pré-oxigenação com dispositivo bolsaválvula-máscara a 15 L/minuto.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Intubação forçada a agir. Não há tempo para pré-oxigenação.”</li>
+</ul>
 </div>
 </div>
 
@@ -266,6 +394,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q38. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, 8 anos de idade e 32 kg de peso com diagnóstico de asma e história de internações prévias em unidade de terapia intensiva com necessidade de ventilação mecânica por exacerbação chega ao Departamento de...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pacientes com exacerbações graves podem apresentar dificuldade de deglutição, sendo recomendada uma dose endovenosa de metilprednisolona ou dexametasona tão logo um acesso venoso seja estabelecido.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Por se tratar de uma crise grave, caso não haja resposta adequada após um primeiro resgate com beta-agonista inalatório, devemos iniciar precocemente o uso de beta-agonista endovenoso.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Pacientes com exacerbações graves podem apresentar dificuldade de deglutição, sendo recomendada uma dose endovenosa de metilprednisolona ou dexametasona tão logo um acesso venoso seja estabelecido.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “O uso de magnésio intravenoso, quando indicado, deve ser prescrito na dose de 50 a 75 mg/kg em infusão de 20 minutos somente após uma dosagem sérica de magnésio dentro do limite da normalidade.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “O uso de terbutalina subcutânea e adrenalina intramuscular não possuem benefício em pacientes pediátricos com crise asmática grave, devendo ser utilizados exclusivamente em caso de suspeita de broncoespasmo relacionado à anafilaxi...”</li>
+</ul>
 </div>
 </div>
 
@@ -282,6 +418,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q49. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Mulher, 74 anos, hipertensa e tabagista. Trazida pelo Serviço de Atendimento Móvel de Urgência (Samu) para a Sala de Emergência com história de tosse e dispneia com início há 7 dias. Fez uso de medicamentos prescritos em consulta...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Trata-se de hepatização pulmonar/ consolidação com broncogramas aéreos que, no contexto clínico do caso, sugere a hipótese de pneumonia.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Trata-se de derrame pleural complexo, com sedimentos hiperecogênicos, podendo se tratar de exsudato, e, somado ao contexto clínico, sugere etiologia infecciosa para o caso.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Trata-se de hepatização pulmonar/ consolidação com broncogramas aéreos que, no contexto clínico do caso, sugere a hipótese de pneumonia.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Trata-se de extensa área de hepatização pulmonar/consolidação, podendo se tratar de atelectasia que, no contexto clínico do caso, sugere a hipótese de neoplasia pulmonar.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O sinal da coluna (spine sign) está presente exclusivamente nas situações de derrame pleural, sendo um indicador da presença de líquido na cavidade pleural. No contexto clínico do caso, considerar a possibilidade de derrame pleura...”</li>
+</ul>
 </div>
 </div>
 
@@ -297,6 +441,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q15. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Em relação ao uso da ventilação não invasiva em diferentes cenários clínicos, assinale a alternativa que apresenta indicação apropriada e o modo ventilatório corretamente selecionado:&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente com insuficiência respiratória aguda em edema agudo pulmonar cardiogênico, sem hipercapnia; a ventilação não invasiva em pressão positiva contínua na via aérea, com ajuste progressivo de fração inspirada de oxigênio, é in...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Paciente com exacerbação de doença pulmonar obstrutiva crônica, acidose respiratória e comprometimento do nível de consciência; indicada ventilação não invasiva em pressão positiva contínua na via aérea, com pressão positiva inspi...”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Em paciente com insuficiência respiratória hipoxêmica secundária à pneumonia extensa, a ventilação não invasiva no modo pressão positiva aérea em dois níveis demonstrou menor necessidade de intubação e necessidade de suporte inten...”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Paciente com insuficiência respiratória aguda em edema agudo pulmonar cardiogênico, sem hipercapnia; a ventilação não invasiva em pressão positiva contínua na via aérea, com ajuste progressivo de fração inspirada de oxigênio, é in...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Paciente com crise asmática grave, hipoxemia moderada e taquipneia intensa; é indicada ventilação não invasiva em pressão positiva contínua na via aérea com pressão expiratória positiva final elevada, para reduzir trabalho respira...”</li>
+</ul>
 </div>
 </div>
 
@@ -312,6 +464,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q50. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Caso haja confirmação de tromboembolismo pulmonar, o paciente deve ser anticoagulado, visto haver contraindicação absoluta à trombólise.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “O sinal de McConnell tem alta sensibilidade e baixa especificidade para diagnóstico de tromboembolismo pulmonar.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Tenecteplase (dose de 0,6 mg/kg) apresenta melhores resultados em desfechos de segurança em comparação a alteplase (100 mg) em pacientes com tromboembolismo pulmonar instável.”</li>
+</ul>
 </div>
 </div>
 
@@ -328,6 +488,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q62. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Um homem de 64 anos procura a emergência com febre de 38,5°C, dispneia progressiva e tosse produtiva com escarro purulento há 3 dias. Apresenta taquipneia (frequência respiratória de 28 irpm), saturação de oxigênio de 90% em ar am...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A imagem mostra o shred sign – consolidação subpleural – e, em conjunto com o quadro clínico apresentado, é sugestivo de pneumonia.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “A imagem representa o sinusoid sign e trata-se de achado de ultrassom pulmonar sugestivo de derrame pleural e, no contexto clínico desse caso, deve alertar para presença de empiema pleural.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A imagem mostra uma consolidação/hepatização pulmonar com broncogramas aéreos. Em pacientes febris, é sugestivo de pneumonia lobar.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “A imagem mostra o shred sign – consolidação subpleural – e, em conjunto com o quadro clínico apresentado, é sugestivo de pneumonia.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A imagem representa área de consolidação intersticial por congestão pulmonar, sendo indicativo de sobrecarga volêmica.”</li>
+</ul>
 </div>
 </div>
 
@@ -343,6 +511,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q64. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, de 62 anos, é trazido ao Departamento de Emergência por familiares, que relatam que, ao chegarem em casa o encontraram desacordado, com várias cartelas de medicações vazias no local. Não sabem há quanto...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Infusão de glicoinsulina por via endovenosa em altas doses.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Hemodiálise de emergência.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Bicarbonato de sódio 8,4% por via endovenosa.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Infusão de glicoinsulina por via endovenosa em altas doses.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Naloxona por via endovenosa.”</li>
+</ul>
 </div>
 </div>
 
@@ -358,6 +534,14 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q72. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: síndrome torácica aguda na falciforme: O2, ceftriaxona + azitromicina e considerar transfusão se queda de Hb. Respiratório cobra suporte certo para a fisiologia: VNI quando cabe, IOT quando falha, broncodilatador/corticoide/MgSO4 quando asma grave. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar antibioticoterapia empírica com ceftriaxona e azitromicina, oxigenoterapia para manter saturação de oxigênio ≥ 94% e considerar transfusão caso queda de hemoglobina ≥ 2 g/dL em relação ao basal.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Iniciar transfusão de concentrado de hemácias visando à elevação da hemoglobina para 11 g/dL, sem necessidade de antibiótico empírico.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Prescrever cetoprofeno e paracetamol para dor, observar evolução clínica por 6 horas antes de decidir por antibioticoterapia, pois se trata de síndrome torácica aguda leve e autolimitada.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “Iniciar antibioticoterapia empírica com ceftriaxona e azitromicina, oxigenoterapia para manter saturação de oxigênio ≥ 94% e considerar transfusão caso queda de hemoglobina ≥ 2 g/dL em relação ao basal.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Administrar corticoterapia sistêmica de início precoce para reduzir inflamação pulmonar, iniciar dipirona e manter observação sem oxigenoterapia, já que a saturação de oxigênio está &gt; 90%.”</li>
+</ul>
 </div>
 </div>
 
@@ -373,5 +557,13 @@ Banco do tema 012 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q91. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de respiratório, o comando central é reconhecer a melhor resposta para: &quot;Um menino de 7 anos, com histórico de asma, chega ao Departamento de Emergência, em crise, apresentando sibilância intensa, taquipneia e uso de musculatura acessória. Após a administração de broncodilatadores inalatórios e cortico...&quot;. A leitura de prova deve priorizar oxigenação, ventilação, trabalho respiratório, causa de base e reconhecimento de fadiga/falência; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A aparente melhora do estado geral, combinada com a hipoxemia e a persistência do esforço, sugere fadiga e falência respiratória iminente.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A criança está respondendo bem ao tratamento. A diminuição da agitação indica melhora do quadro.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de respiratório; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A sibilância menos audível é um sinal positivo de broncodilatação eficaz, indicando que o tratamento está surtindo efeito.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de respiratório, esta opção responde melhor à prioridade da questão: “A aparente melhora do estado geral, combinada com a hipoxemia e a persistência do esforço, sugere fadiga e falência respiratória iminente.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “A saturação de oxigênio de 88% é aceitável para o momento, considerando que a criança está mais calma e menos agitada.”</li>
+</ul>
 </div>
 </div>

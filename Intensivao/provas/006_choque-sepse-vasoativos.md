@@ -22,6 +22,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q12. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Referência para Questões 12 e 13: Criança de 09 meses de idade apresenta febre, vômitos e diarreia há 03 dias. Na avaliação no DE, você percebe que a criança está sonolenta. A FC 170 BPM, TAx 38.9 °C, PA: 64 x 42 mmHg e FR 60 IRPM...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Hipovolêmico”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Obstrutivo”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Hipovolêmico”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Distributivo”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Cardiogênico”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q13. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Referência para Questões 12 e 13: Criança de 09 meses de idade apresenta febre, vômitos e diarreia há 03 dias. Na avaliação no DE, você percebe que a criança está sonolenta. A FC 170 BPM, TAx 38.9 °C, PA: 64 x 42 mmHg e FR 60 IRPM...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar 20 ml/kg de soro fisiológico 0,9%”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Iniciar Noradrenalina EV em BIC à 0,10 mcg/kg/min”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Iniciar 15ml/kg de glicose a 5% + soro fisiológico a 0,45%”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Iniciar 20 ml/kg de soro fisiológico 0,9%”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Iniciar Dopamina EV em BIC à 2 mcg/kg/min”</li>
+</ul>
 </div>
 </div>
 
@@ -52,6 +68,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q17. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Mulher, 52 anos de idade, hipertensa, admitida no DE com hipótese diagnóstica de sepse de foco pulmonar. Encontra-se confusa, hipotensa com PA 80x42 mmHg (pressão arterial média 55 mmHg), extremidades frias e tempo de enchimento c...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar noradrenalina em acesso venoso periférico.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Realizar nova prova volêmica devido a sinais claros de baixo débito cardíaco e hipovolemia”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Nova etapa de ringer lactato 500ml e aguardar a realização da punção venosa central guiada por US para iniciar noradrenalina.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Iniciar noradrenalina em acesso venoso periférico.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Instalar monitorização hemodinâmica minimamente invasiva e posteriormente avaliar a necessidade de iniciar noradrenalina.”</li>
+</ul>
 </div>
 </div>
 
@@ -67,6 +91,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q38. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente, sexo feminino, 32 anos, sem comorbidades prévias, em pósoperatório de abdominoplastia e mamoplastia em 3º dia Pós-Operatório (PO), dá entrada no DE com queixa de dor torácica e dispnéia há 3 horas; imediatamente evolui c...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Hidratação com Ringer Lactato 500ml EV”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Alteplase EV”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Realização de angiotomografia de Tórax em protocolo TEP”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Hidratação com Ringer Lactato 500ml EV”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Iniciar Noradrenalina EV em Bomba de Infusão Contínua (BIC)”</li>
+</ul>
 </div>
 </div>
 
@@ -82,6 +114,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q43. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente, 28 anos, com histórico de trauma torácico há 3 semanas, dá entrada em DE com sonolência, febre e sudorese. Refere dor em hemitórax direito ventilatório-dependente que vem piorando com o passar dos dias, ao exame apresent...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Infecção pulmonar, sepse/choque séptico, expansão volêmica, antibioticoterapia imediata”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Tromboembolismo pulmonar, choque obstrutivo, trombólise imediata”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Infecção pulmonar, sepse/choque séptico, expansão volêmica, antibioticoterapia imediata”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Pneumotórax hipertensivo, choque obstrutivo, punção torácica de alívio”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Pneumonia aspirativa, choque séptico, expansão volêmica, antibioticoterapia imediata”</li>
+</ul>
 </div>
 </div>
 
@@ -97,6 +137,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q57. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente com quadro de choque dá entrada no DE. São iniciadas medidas para o choque, tendo sido colhidos exames e realizada ressuscitação volêmica com cristalóide. Quais dos parâmetros abaixo podem ser usados para avaliar a melhor...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Diminuição dos níveis séricos de Lactato entre 10-20%, aumento dos valores de Base excess, diurese superior a 1 mL/kg/h”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Diminuição dos níveis séricos de Lactato entre 10-20%, aumento dos valores de Base excess, diurese superior a 1 mL/kg/h”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Aumento do índice cardíaco medido por cateter de artéria pulmonar, aumento do pH, diurese superior a 0,5 mL/kg/h”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Diminuição dos níveis séricos de Lactato entre 10-20%, aumento do índice cardíaco medido por cateter de artéria pulmonar, aumento da PAS acima de 90 mmHg”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Aumento de PAM acima de 65 mmHg, aumento do débito cardíaco avaliado por ultrassonografia, diurese superior a 0,5 mL/kg/h”</li>
+</ul>
 </div>
 </div>
 
@@ -112,6 +160,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q61. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Quando um paciente está evoluindo em um quadro de choque hemorrágico, qual das alterações abaixo aparece mais precocemente?&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Hiperlactatemia Arterial”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Alteração de débito cardíaco”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Hipotensão Arterial Sistêmica”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Hiperlactatemia Arterial”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Queda da Saturação Arterial”</li>
+</ul>
 </div>
 </div>
 
@@ -127,6 +183,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q76. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente vítima de acidente com abelhas, apresentando diversas picadas por região de membros superiores e tórax; dá entrada em DE apresentando hipotensão importante; PA: 58x42 mmHg. Quais outros sinais são esperados neste caso?&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Estridor laríngeo e hiperemia cutânea”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Estridor laríngeo e hiperemia cutânea”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Febre e dor abdominal”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Tosse seca e palidez cutânea”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Bradicardia e edema palpebral”</li>
+</ul>
 </div>
 </div>
 
@@ -142,6 +206,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q81. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;O uso de drogas vasoativas é frequente em pacientes com quadro de choque independente do tipo e causa. Das drogas mais usadas temos como primeira escolha a noradrenalina, apenas um tipo de choque não tem a noradrenalina como prime...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Anafilático”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Anafilático”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Séptico”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Hipovolêmico Hemorrágico”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Hipovolêmico Não-Hemorrágico”</li>
+</ul>
 </div>
 </div>
 
@@ -157,6 +229,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q94. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;A manobra de elevação dos membros tem sido usada em DE para avaliarmos paciente com quadro de choque, o paciente inicialmente é colocado com decúbito elevado em 45º, aferida a pressão arterial e em seguida sua posição é invertida...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Aumento de Débito Cardíaco em pelo menos 10%”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Aumento de Pressão Arterial Média em pelo menos 25%”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Aumento de Débito Cardíaco em pelo menos 25%”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Aumento de Débito Cardíaco em pelo menos 10%”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Aumento de Pressão Arterial Média em pelo menos 10%”</li>
+</ul>
 </div>
 </div>
 
@@ -173,6 +253,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q105. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Na avaliação de um paciente com choque, o uso do POCUS é cada vez mais difundido por poder esclarecer muitas vezes a causa. No caso da avaliação cardíaca com o ultrassom em paciente com choque, foram achados os seguintes dados: PS...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Tromboembolismo pulmonar, choque obstrutivo”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Infarto Agudo de Ventrículo Esquerdo, choque cardiogênico”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Tromboembolismo pulmonar, choque obstrutivo”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Hipovolemia, choque hipovolêmico/hemorrágico”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Insuficiência Cardíaca Descompensada, choque cardiogênico”</li>
+</ul>
 </div>
 </div>
 
@@ -188,6 +276,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q111. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Esta é uma questão de exceção/incorreta em choque e sepse. O comando central é: &quot;Sobre choque cardiogênico, assinale a alternativa incorreta:&quot;. A alternativa B deve ser marcada porque é a afirmação problemática ou a exceção reconhecida pelo gabarito oficial.</p>
+<p><strong>Por que a B deve ser marcada:</strong> o enunciado pede a alternativa incorreta/exceção; esta é a opção que contém o problema cobrado pela banca: “Por se tratar de um choque distributivo, o uso de vasopressina é indicado como primeira escolha de droga vasoativa”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa B: “O uso de vasodilatadores é possível no contexto para otimizar a póscarga, a vasodilatação melhora o quadro clínico por diminuir o trabalho cardíaco”</li>
+<li><strong>B.</strong> <strong>Correta como resposta ao comando.</strong> Como a pergunta pede a incorreta/exceção, esta alternativa é a que deve ser marcada: “Por se tratar de um choque distributivo, o uso de vasopressina é indicado como primeira escolha de droga vasoativa”</li>
+<li><strong>C.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa B: “A dobutamina é o inotrópico de escolha nos pacientes com choque cardiogênico e apresenta nos quadros mais graves inclusive a possibilidade de aumento dos níveis pressóricos”</li>
+<li><strong>D.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa B: “O uso de balão intra-aórtico pode melhora o débito cardíaco de pacientes com quadro refratário de choque cardiogênico, porém seu uso é restrito e não rotineiro”</li>
+</ul>
 </div>
 </div>
 
@@ -204,6 +300,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME23 Q1. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Caso clínico para as questões 1 e 2: Paciente 45 anos, trazido à emergência por dispneia súbita de início há 15 horas. Previamente hipertenso, DM tipo 2 em uso regular de medicação e tabagismo 40 maços/ano. Ao exame: PA 80 x 40 mm...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente com Shock Index(SI)&gt;0.9, postergar a intubação ao máximo até ressuscitação com vasopressor e administração de trombólise.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Intubação orotraqueal imediata visto falência respiratória iminente.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Solicitação de ventilação não invasiva, visto que é uma condição reversível com a pressão positiva.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Pericardiocentese imediata visto que o tamponamento é o responsável pelo quadro.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Paciente com Shock Index(SI)&gt;0.9, postergar a intubação ao máximo até ressuscitação com vasopressor e administração de trombólise.”</li>
+</ul>
 </div>
 </div>
 
@@ -219,6 +323,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q42. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 34 anos, sexo masculino, é admitido ao DE após trauma automobilístico, evoluindo com FC 44 bpm em ritmo sinusal, com PA 70x50 mmHG e extremidades quentes, FR 12 irpm com ritmo irregular com SaO2 92%, em GCS de 15. Qual...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Fratura de Coluna Cervical com acometimento medular entre C2 e C3”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Fratura de Coluna Torácica com acometimento medular entre T1 e T6”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Fratura de Coluna Cervical com acometimento medular entre C2 e C3”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Ausência de Fraturas, com sinais de choque medular em nível de T4”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Fratura de Coluna Torácica com acometimento medular entre T1 e T4”</li>
+</ul>
 </div>
 </div>
 
@@ -234,6 +346,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q45. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Esta é uma questão de exceção/incorreta em choque e sepse. O comando central é: &quot;Responda Verdadeiro ou Falso sobre o tema Sepse: ( ) Sepse é definida como uma resposta inflamatória a um patógeno com disfunção orgânica. ( ) O quickSOFA (qSOFA) é o escore de escolha para a triagem de possíveis casos de sepse. (...&quot;. A alternativa A deve ser marcada porque é a afirmação problemática ou a exceção reconhecida pelo gabarito oficial.</p>
+<p><strong>Por que a A deve ser marcada:</strong> o enunciado pede a alternativa incorreta/exceção; esta é a opção que contém o problema cobrado pela banca: “F - F - F - F”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta como resposta ao comando.</strong> Como a pergunta pede a incorreta/exceção, esta alternativa é a que deve ser marcada: “F - F - F - F”</li>
+<li><strong>B.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa A: “F - F - V - V”</li>
+<li><strong>C.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa A: “F - F - F - V”</li>
+<li><strong>D.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa A: “V - F - V - F”</li>
+</ul>
 </div>
 </div>
 
@@ -250,6 +370,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q66. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Após a avaliação da veia cava inferior, você prosseguiu com a avaliação do ultrassom cardíaco (ecocardiografia POCUS), e obteve os seguintes achados em cada janela: Paraesternal eixo longo: proporção entre câmaras mantida, válvula...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Apesar de apresentar estigmas ecocardiográficos de cardiopatia com hipertrofia ventricular, no momento a paciente não apresenta disfunção ventricular esquerda evidente, devendo ser buscadas hipóteses diferenciais.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Para obtenção de imagens na ecocardiografia POCUS deve ser usado o transdutor linear, por apresentar alta frequência e consequente alta resolução espacial de imagem.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Apesar de apresentar estigmas ecocardiográficos de cardiopatia com hipertrofia ventricular, no momento a paciente não apresenta disfunção ventricular esquerda evidente, devendo ser buscadas hipóteses diferenciais.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Os achados neste caso direcionam para uma hipótese diagnóstica de choque cardiogênico com baixa fração de ejeção; devendo ser iniciadas drogas vasopressoras e inotrópicas positivas para manejo da instabilidade hemodinâmica.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O valor de EPSS encontrado é compatível de forma isolada com a hipótese de choque cardiogênico, podendo ser utilizado neste caso de forma confiável.”</li>
+</ul>
 </div>
 </div>
 
@@ -265,6 +393,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q75. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Em um choque indiferenciado, com dados clínicos insuficientes para formulação de uma hipótese diagnóstica etiológica, julgue as afirmativas a seguir: ( ) Pode ser aplicado o protocolo RUSH, que sistematiza a avaliação ultrassonogr...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “V-V-F-F-V”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “V-V-F-F-V”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V-V-F-V-V”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V-V-V-F-F”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V-F-V-F-F”</li>
+</ul>
 </div>
 </div>
 
@@ -280,6 +416,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q4. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente vítima de traumatismo craniencefálico grave, evoluindo após 24 horas de permanência no Departamento de Emergência com coma não perceptivo e ausência de atividade supraespinhal. Sobre o choque circulatório associado a essa...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A vasopressina deve ser iniciada concomitantemente à infusão do vasopressor adrenérgico.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “A dopamina é considerada o vasopressor de primeira escolha, por aumentar o débito cardíaco.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “A hipovolemia é o principal determinante do choque, justificando ressuscitação volêmica com 30 mL/kg de solução cristaloide balanceada.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “A hidrocortisona na dose de 300 mg/dia deverá ser administrada de forma rotineira.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “A vasopressina deve ser iniciada concomitantemente à infusão do vasopressor adrenérgico.”</li>
+</ul>
 </div>
 </div>
 
@@ -295,6 +439,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q17. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente vítima de trauma abdominal contuso, chega com sinais vitais: frequência cardíaca (FC) de 110 bpm, pressão parcial sistólica (PAS) de 100 mmHg, frequência respiratória (FR) de 26 irpm, temperatura de 35°C e E-FAST com líqu...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Sim, Shock Index &gt; 1,0.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Não, ABC score de 1 ponto.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Sim, ABC score de 1 ponto.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Sim, Shock Index &gt; 1,0.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Não, Shock index &gt; 1,0.”</li>
+</ul>
 </div>
 </div>
 
@@ -311,6 +463,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q65. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Você está em um hospital de referência e recebe um paciente proveniente de uma unidade de pronto atendimento por quadro de choque séptico de foco respiratório, com início do quadro há 3 dias. Já recebeu ressuscitação volêmica e es...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Dobutamina por via endovenosa.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Adrenalina por via endovenosa e um concentrado de hemácias por via endovenosa.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Dobutamina por via endovenosa.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Vasopressina por via endovenosa.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Dobutamina por via endovenosa e um concentrado de hemácias por via endovenosa.”</li>
+</ul>
 </div>
 </div>
 
@@ -326,6 +486,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q73. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Em relação ao diagnóstico, tomada de decisão e tratamento do choque no Departamento de Emergência, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Hipovolemia, depressão da função miocárdica e extravasamento capilar podem estar presentes em graus distintos no choque séptico.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “No choque neurogênico, a dopamina é o vasopressor de escolha.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Hipovolemia, depressão da função miocárdica e extravasamento capilar podem estar presentes em graus distintos no choque séptico.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Redução na pressão arterial diastólica, com estreitamento/diminuição da pressão de pulso, é achado hemodinâmico no choque hemorrágico.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Em pacientes com choque cardiogênico, a terapia com corticosteroides está associada à redução da duração do choque.”</li>
+</ul>
 </div>
 </div>
 
@@ -342,6 +510,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q88. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente com antecedentes de insuficiência cardíaca é admitido no Departamento de Emergência em choque (tempo de enchimento capilar lentificado), oligúria, extremidades frias e mal perfundidas, além de edema bilateral de membros i...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Diurético de alça e milrinone.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Diurético de alça, em associação com diuréticos tiazídicos e acetazolamida.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Diurético de alça, em associação com vasodilatador parenteral (nitroprussiato de sódio).”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Diurético de alça e dobutamina.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Diurético de alça e milrinone.”</li>
+</ul>
 </div>
 </div>
 
@@ -358,6 +534,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q11. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Criança previamente hígida, com quadro súbito de rebaixamento do nível de consciência, bradicardia, sudorese e vômitos; com leucocitose, hiperglicemia, disfunção de ventrículo esquerdo e presença de linhas B bibasais ao ultrassom...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Escorpionismo grave.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Cetoacidose diabética.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Intoxicação por descongestionante nasal.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Escorpionismo grave.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Dengue grave.”</li>
+</ul>
 </div>
 </div>
 
@@ -374,6 +558,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q22. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo feminino, 20 anos, encontrada desacordada em ambiente de trabalho. Apresenta-se torporosa, em choque (pressão arterial de 70 × 50 mmHg, frequência cardíaca de 135 bpm, pulso filiforme, sudorese fria). Glicemia cap...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Presença de imagem anecoica em espaço de Morrison, pulmões com padrão de linhas “A” e ventrículo esquerdo hiperdinâmico, nesse contexto, denotam um choque hipovolêmico, possivelmente hemorrágico.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A presença de sinal de McConnell em mulher em idade fértil com ventrículo esquerdo hiperdinâmico sugere choque hemorrágico.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “Pulmão com presença de lung-sliding, relação ventrículo direito/esquerdo preservada e veia cava inferior com colapsibilidade &gt; 50% inferem choque obstrutivo por pneumotórax.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Presença de imagem anecoica em espaço de Morrison, pulmões com padrão de linhas “A” e ventrículo esquerdo hiperdinâmico, nesse contexto, denotam um choque hipovolêmico, possivelmente hemorrágico.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colapso sistólico do ventrículo direito, colapso diastólico do átrio direito e veia cava inferior &gt; 2 cm sem colapsibilidade denotam choque obstrutivo por embolia pulmonar.”</li>
+</ul>
 </div>
 </div>
 
@@ -389,6 +581,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q26. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 68 anos, portador de doença pulmonar obstrutiva crônica e fibrilação atrial, internado por hemorragia digestiva alta. Recebe três unidades de concentrado de hemácias em 6 horas. Durante a última unidade, evolui com dis...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “TRALI; suspender transfusão e fornecer suporte ventilatório.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “TRALI; suspender transfusão e fornecer suporte ventilatório.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “TACO; suspender transfusão e administrar diurético por via endovenosa.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Reação anafilática; suspender transfusão e administrar adrenalina intramuscular.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Sepse associada à transfusão; suspender transfusão e iniciar antibióticos.”</li>
+</ul>
 </div>
 </div>
 
@@ -404,6 +604,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q41. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Você está de plantão em um hospital terciário e recebe um paciente de 54 anos com quadro de hemorragia digestiva alta, com seguintes sinais vitais: frequência cardíaca de 113 bpm; pressão arterial de 105 × 54 mmHg; frequência resp...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Terlipressina e ceftriaxona.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Terlipressina e ceftriaxona.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Ácido tranexâmico por via endovenosa e pantoprazol por via endovenosa.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Transfusão maciça 1:1:1.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Endoscopia digestiva alta em menos de 6 horas.”</li>
+</ul>
 </div>
 </div>
 
@@ -419,6 +627,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q50. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Caso haja confirmação de tromboembolismo pulmonar, o paciente deve ser anticoagulado, visto haver contraindicação absoluta à trombólise.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “O sinal de McConnell tem alta sensibilidade e baixa especificidade para diagnóstico de tromboembolismo pulmonar.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Tenecteplase (dose de 0,6 mg/kg) apresenta melhores resultados em desfechos de segurança em comparação a alteplase (100 mg) em pacientes com tromboembolismo pulmonar instável.”</li>
+</ul>
 </div>
 </div>
 
@@ -435,6 +651,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q62. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Um homem de 64 anos procura a emergência com febre de 38,5°C, dispneia progressiva e tosse produtiva com escarro purulento há 3 dias. Apresenta taquipneia (frequência respiratória de 28 irpm), saturação de oxigênio de 90% em ar am...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A imagem mostra o shred sign – consolidação subpleural – e, em conjunto com o quadro clínico apresentado, é sugestivo de pneumonia.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “A imagem representa o sinusoid sign e trata-se de achado de ultrassom pulmonar sugestivo de derrame pleural e, no contexto clínico desse caso, deve alertar para presença de empiema pleural.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A imagem mostra uma consolidação/hepatização pulmonar com broncogramas aéreos. Em pacientes febris, é sugestivo de pneumonia lobar.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “A imagem mostra o shred sign – consolidação subpleural – e, em conjunto com o quadro clínico apresentado, é sugestivo de pneumonia.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A imagem representa área de consolidação intersticial por congestão pulmonar, sendo indicativo de sobrecarga volêmica.”</li>
+</ul>
 </div>
 </div>
 
@@ -450,6 +674,14 @@ Banco do tema 006 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q64. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de choque e sepse, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, de 62 anos, é trazido ao Departamento de Emergência por familiares, que relatam que, ao chegarem em casa o encontraram desacordado, com várias cartelas de medicações vazias no local. Não sabem há quanto...&quot;. A leitura de prova deve priorizar perfusão, fonte do choque, fluidos com reavaliação, vasopressor adequado e controle da causa; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Infusão de glicoinsulina por via endovenosa em altas doses.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Hemodiálise de emergência.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Bicarbonato de sódio 8,4% por via endovenosa.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de choque e sepse, esta opção responde melhor à prioridade da questão: “Infusão de glicoinsulina por via endovenosa em altas doses.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de choque e sepse; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Naloxona por via endovenosa.”</li>
+</ul>
 </div>
 </div>
 

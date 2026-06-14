@@ -22,6 +22,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q30. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Sobre o uso de Escalas de Triagem para definir prioridades de cuidado no DE, marque a alternativa correta.&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A Escala americana do ESI (Emergency Severity Index) tem como objetivo a alocação dos recursos necessários para manejar aquele paciente.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A escala de Manchester é muito utilizada no Brasil e é especialmente sensível para identificar pacientes com Sepse.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “A Escala americana do ESI (Emergency Severity Index) tem como objetivo a alocação dos recursos necessários para manejar aquele paciente.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Triagem ou classificação de risco deve ser incluída em serviços que tenham mais de dois médicos de plantão ao mesmo tempo.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A triagem deve ser realizada pelo profissional mais rapidamente disponível, independente de sua formação.”</li>
+</ul>
 </div>
 </div>
 
@@ -38,6 +46,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q87. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Das situações descritas, em qual delas não representa paciente com alterações psiquiátricas que necessita de complementação de investigação clínica, com exames complementares laboratoriais e/ou de imagem&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente com quadro depressivo com suspensão de medicamento”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Paciente idoso, independente dos sintomas psiquiátricos”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Paciente com comorbidades, independente dos sintomas psiquiátricos”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Paciente com primeiro episódio maníaco”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “Paciente com quadro depressivo com suspensão de medicamento”</li>
+</ul>
 </div>
 </div>
 
@@ -53,6 +69,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q12. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: violência sexual: acolhimento, profilaxias, PEP/IST/hepatite, contracepção e seguimento. Ética/gestão cobra processo: capacidade, consentimento, risco, comunicação, documentação e rede de proteção. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Está indicada independente da sorologia da vítima ser positiva ou negativa;”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “Está indicada independente da sorologia da vítima ser positiva ou negativa;”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Não está indicada se comprovadamente não houve contato com material biológico;”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Está indicada por ser agressor desconhecido se paciente negativa;”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Não está indicada se o tempo de exposição for maior que 72 horas.”</li>
+</ul>
 </div>
 </div>
 
@@ -68,6 +92,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME23 Q23. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;A unidade de atendimento pré-hospitalar onde você trabalha é acionada para avaliar paciente em possível parada cardiorrespiratória sabidamente cardiopata. Ao chegar na cena, você verifica que paciente já está em óbito, o mesmo est...&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pode constatar o óbito e por não poder descartar causa externa do óbito, encaminhar ao Instituto Médico Legal (IML).”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Por não haver lesões externas, pode constatar o óbito e realizar a declaração de óbito;”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Por não haver lesões externas, pode constatar o óbito e encaminhar o corpo ao serviço de verificação de óbito (SVO);”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Pode somente constatar o óbito;”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “Pode constatar o óbito e por não poder descartar causa externa do óbito, encaminhar ao Instituto Médico Legal (IML).”</li>
+</ul>
 </div>
 </div>
 
@@ -83,6 +115,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q54. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Qual a melhor definição de incidência?&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O número de novos casos de uma doença ocorrendo em uma população durante um período específico de tempo”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O número total de pessoas afetadas por uma doença em um ponto específico no tempo”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “O número de novos casos de uma doença ocorrendo em uma população durante um período específico de tempo”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A porcentagem de pessoas em uma população que já teve uma doença”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Todas acima compõem a definição de incidência.”</li>
+</ul>
 </div>
 </div>
 
@@ -98,6 +138,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME23 Q96. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Em relação às Resoluções que norteiam os funcionamento das diversas modalidades de serviços de emergência, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pacientes instáveis, com risco iminente de morte, devem ser prontamente removidos de unidades de menor complexidade, inclusive podendo fazer uso do dispositivo da “vaga zero”.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Em uma UPA não há necessidade de sistema de classificação de risco implantado;”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “A regulação de pacientes de diferentes unidades devem ser dialogada entre o médico assistente da unidade solicitante e o médico regulador, sem a necessidade de passagem de caso para a unidade receptora;”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Devido a baixa complexidade de atendimento de UPAs, não há necessidade de passagem de plantão médico a médico;”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “Pacientes instáveis, com risco iminente de morte, devem ser prontamente removidos de unidades de menor complexidade, inclusive podendo fazer uso do dispositivo da “vaga zero”.”</li>
+</ul>
 </div>
 </div>
 
@@ -113,6 +161,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME24 Q46. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Sobre jornadas e escalas de plantão, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A escala médica de plantões é um documento que designa a responsabilidade do plantonista no plantão e todas as suas implicações éticas, civis e penais relacionadas a faltas.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “A escala médica de plantões é um documento que designa a responsabilidade do plantonista no plantão e todas as suas implicações éticas, civis e penais relacionadas a faltas.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “O plantonista poderá deixar a unidade de emergência quando conseguir contato com o próximo plantonista, mesmo antes da sua chegada presencialmente, deixando o registro da passagem por escrito.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Diretores técnicos, clínicos e coordenadores não respondem ética e juridicamente por ausências em plantões.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Quando o plantonista deseja não comparecer ao plantão, está desobrigado de procurar por substituto.”</li>
+</ul>
 </div>
 </div>
 
@@ -128,6 +184,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q75. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;De acordo com a resolução 2.077 de 2014 do Conselho Federal de Medicina (CFM), é obrigatória a implantação de acolhimento com classificação de risco nos Serviços Hospitalares de Urgência e Emergência. Ainda sobre a resolução, qual...&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “No contato com o paciente, o médico poderá reclassificar seu risco, estabelecendo novas prioridades.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Pacientes classificados como baixíssimo risco pelo enfermeiro podem ser encaminhados para unidades de menor complexidade, sem avaliação médica.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Casos classificados como urgência menor podem aguardar até 240 minutos para avaliação médica.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Ao utilizar de escalas estabelecidas mundialmente, times de enfermagem podem realizar classificação utilizando diagnósticos médicos.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “No contato com o paciente, o médico poderá reclassificar seu risco, estabelecendo novas prioridades.”</li>
+</ul>
 </div>
 </div>
 
@@ -143,6 +207,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q87. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;A resolução 2.077 de 2014 do Conselho Federal de Medicina (CFM) estabelece normativas acerca do funcionamento dos Serviços Hospitalares de Urgência e Emergência. Sobre esse tema, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A sala de reanimação de pacientes graves deve disponibilizar o mínimo de dois leitos por médico no local, podendo o número de leitos e médicos ser maior, sempre nessa proporção.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A presença do médico emergencista com registro de qualificação da especialidade (RQE) é obrigatória na coordenação dos serviços hospitalares de urgência e emergência.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Recomenda-se a implementação de Acolhimento com Classificação de Risco para atendimento dos pacientes nos Serviços Hospitalares de Urgência e Emergência que possuem volumetria de mais de 50 mil atendimentos/ano.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “A sala de reanimação de pacientes graves deve disponibilizar o mínimo de dois leitos por médico no local, podendo o número de leitos e médicos ser maior, sempre nessa proporção.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O coordenador de fluxo é médico com funções exclusivamente administrativas, presente diariamente no serviço, responsável por definir, em conjunto com a equipe assistente, os pacientes a serem transferidos para unidade de terapia i...”</li>
+</ul>
 </div>
 </div>
 
@@ -158,6 +230,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q78. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 26 anos é admitido ao Departamento de Emergência de um hospital público em São Paulo em julho, com relato de febre não aferida há cerca de 12 horas; nega tosse, dispneia, dor torácica, dor abdominal, disúria ou outros...&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O paciente deve receber alta hospitalar com orientação de sinais de alarme e seguimento em Unidade Básica de Saúde.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “O paciente deve receber alta hospitalar com orientação de sinais de alarme e seguimento em Unidade Básica de Saúde.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “O paciente deve ser internado caso o resultado da proteína C reativa seja elevado.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Devido ao alto risco de dengue, o paciente deve ser submetido à internação hospitalar.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “O paciente deve ser submetido à coleta de líquido cefalorraquidiano antes de receber alta hospitalar.”</li>
+</ul>
 </div>
 </div>
 
@@ -173,6 +253,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q81. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Mulher de 55 anos, sem nenhuma incapacidade funcional prévia, admitida no Departamento de Emergência com história de dificuldade para comunicação verbal e paralisia de um lado do corpo há 3 horas. É hipertensa e diabética, em uso...&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A tenecteplase é não inferior à alteplase, no contexto de trombólise de pacientes com acidente vascular cerebral isquêmico.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O ASPECTS avalia a extensão tomográfica do insulto, com boa acurácia para circulação vertebrobasilar.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Para indicação de trombectomia mecânica, faz-se necessária ressonância magnética evidenciando DWI-FLAIR mismatch.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “A tenecteplase é não inferior à alteplase, no contexto de trombólise de pacientes com acidente vascular cerebral isquêmico.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Em pacientes com NIHSS menor que 5, não há indicação de terapia trombolítica”</li>
+</ul>
 </div>
 </div>
 
@@ -188,6 +276,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME25 Q87. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Sobre o atendimento pré-hospitalar fixo, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Unidades do Programa de Atenção Básica Ampliada podem receber pacientes encaminhados e mantê-los em observação por até 8 horas.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A classificação de risco das Unidades de Pronto Atendimento é o principal parâmetro utilizado na decisão de encaminhar pacientes diretamente a outros serviços de menor complexidade.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “Unidades do Programa de Atenção Básica Ampliada podem receber pacientes encaminhados e mantê-los em observação por até 8 horas.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Pacientes acolhidos em Unidades Básicas de Saúde que necessitem de maior nível de assistência devem passar obrigatoriamente pela Unidade de Pronto Atendimento e, posteriormente, aos serviços hospitalares se necessário.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A utilização de um Núcleo Interno de Regulação deixa o processo de transferência mais rápido ao suprimir a necessidade de diálogo entre o plantonista e os outros médicos do sistema.”</li>
+</ul>
 </div>
 </div>
 
@@ -203,6 +299,14 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q88. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Homem de 49 anos é trazido à emergência após ingerir 15 comprimidos de clonazepam com bebida alcoólica. Está orientado, sem sinais vitais alterados, e afirma que “não pretende repetir o ato”. Relata tristeza há semanas e insônia...&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Internação por risco elevado e ausência de fatores de proteção efetivos.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Alta com orientações e reavaliação ambulatorial em até 72 horas.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Encaminhamento ambulatorial eletivo, considerando estabilidade clínica e suporte familiar.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de paliativos, ética e gestão; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Observação prolongada e liberação com termo de responsabilidade.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “Internação por risco elevado e ausência de fatores de proteção efetivos.”</li>
+</ul>
 </div>
 </div>
 
@@ -218,5 +322,13 @@ Banco do tema 017 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q94. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de paliativos, ética e gestão, o comando central é reconhecer a melhor resposta para: &quot;Um paciente do sexo masculino de 85 anos, com diagnóstico de doença de Alzheimer (Frailty Scale 5, levemente frágil), é admitido no Departamento de Emergência em parada cardiorrespiratória após ter sido encontrado caído em decúbit...&quot;. A leitura de prova deve priorizar proporcionalidade, autonomia, segurança, risco social/psiquiátrico e responsabilidade regulatória; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Providenciar o encaminhamento do corpo ao Instituto Médico Legal e registrar detalhadamente todos os achados no prontuário.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Fornecer a Declaração de Óbito com a causa da morte CID 10 R96 – Outras mortes súbitas de causa desconhecida – e liberar o corpo para a família, orientando sobre os trâmites funerários.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Notificar o Serviço de Verificação de Óbito (SVO) para que realize a necropsia e emita a Declaração de Óbito, dada a causa desconhecida e a idade avançada do paciente.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de paliativos, ética e gestão, esta opção responde melhor à prioridade da questão: “Providenciar o encaminhamento do corpo ao Instituto Médico Legal e registrar detalhadamente todos os achados no prontuário.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Realizar uma reunião com a família para discutir o histórico clínico do paciente e preencher a Declaração de Óbito com base em comorbidades relatadas.”</li>
+</ul>
 </div>
 </div>

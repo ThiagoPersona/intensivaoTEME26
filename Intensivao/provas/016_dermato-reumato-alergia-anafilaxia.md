@@ -22,6 +22,14 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q40. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de dermato, reumato e alergia, o comando central é reconhecer a melhor resposta para: &quot;Paciente feminina, 24 anos, dá entrada por meios próprios no DE devido a abaulamento doloroso em região escapular direita há 3 dias. Nega comorbidades, nega febre. Está em bom estado geral, consciente, orientada, hidratada, afebri...&quot;. A leitura de prova deve priorizar anafilaxia, gravidade sistêmica, imunossupressão, profilaxias e não confundir quadro benigno com ameaça; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com orientações”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de dermato, reumato e alergia, esta opção responde melhor à prioridade da questão: “Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com orientações”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com prescrição de clindamicina”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Iniciar clindamicina e solicitar avaliação do cirurgião”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Iniciar ampicilina EV e realizar incisão local seguida de drenagem e curativo”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q63. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de dermato, reumato e alergia, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo feminino, 35 anos, com diagnóstico de esclerose sistêmica difusa há cerca de 1 ano, em acompanhamento no ambulatório de Reumatologia, dá entrada no pronto socorro com crises convulsivas de difícil controle. Exame...&quot;. A leitura de prova deve priorizar anafilaxia, gravidade sistêmica, imunossupressão, profilaxias e não confundir quadro benigno com ameaça; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Captopril 25mg de 8 em 8 horas.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Pulsoterapia com metilprednisolona 1g IV por 3 dias.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de dermato, reumato e alergia, esta opção responde melhor à prioridade da questão: “Captopril 25mg de 8 em 8 horas.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Pulsoterapia com ciclofosfamida 1g IV por 1 dia.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Prednisona oral 2mg/kg/dia.”</li>
+</ul>
 </div>
 </div>
 
@@ -52,6 +68,14 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q76. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de dermato, reumato e alergia, o comando central é reconhecer a melhor resposta para: &quot;Paciente vítima de acidente com abelhas, apresentando diversas picadas por região de membros superiores e tórax; dá entrada em DE apresentando hipotensão importante; PA: 58x42 mmHg. Quais outros sinais são esperados neste caso?&quot;. A leitura de prova deve priorizar anafilaxia, gravidade sistêmica, imunossupressão, profilaxias e não confundir quadro benigno com ameaça; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Estridor laríngeo e hiperemia cutânea”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de dermato, reumato e alergia, esta opção responde melhor à prioridade da questão: “Estridor laríngeo e hiperemia cutânea”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Febre e dor abdominal”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Tosse seca e palidez cutânea”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Bradicardia e edema palpebral”</li>
+</ul>
 </div>
 </div>
 
@@ -67,6 +91,14 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME23 Q49. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Esta é uma questão de exceção/incorreta em dermato, reumato e alergia. O comando central é: &quot;Sobre infecções cutâneas responda verdadeiro ou falso: ( ) O diagnóstico de celulite é realizado ao exame clínico beira leito ( ) A ultrassonografia tem papel importante no diagnóstico da erisipela ( ) Na maior parte dos casos o a...&quot;. A alternativa D deve ser marcada porque é a afirmação problemática ou a exceção reconhecida pelo gabarito oficial.</p>
+<p><strong>Por que a D deve ser marcada:</strong> o enunciado pede a alternativa incorreta/exceção; esta é a opção que contém o problema cobrado pela banca: “V - F - V - F Caso Clínico das Questões 50 e 51: Criança de 09 meses de idade apresenta febre, vômitos e diarréia há 03 dias. Na avaliação no DE, você percebe que a criança está sonolenta. A FC 170 bpm, com TAX 38,3 °C, com PA 64...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa D: “F - V - V - F”</li>
+<li><strong>B.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa D: “V - F - F - V”</li>
+<li><strong>C.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa D: “V - V - F - V”</li>
+<li><strong>D.</strong> <strong>Correta como resposta ao comando.</strong> Como a pergunta pede a incorreta/exceção, esta alternativa é a que deve ser marcada: “V - F - V - F Caso Clínico das Questões 50 e 51: Criança de 09 meses de idade apresenta febre, vômitos e diarréia há 03 dias. Na avaliação no DE, você percebe que a criança está sonolenta. A FC 170 bpm, com TAX 38,3 °C, com PA 64...”</li>
+</ul>
 </div>
 </div>
 
@@ -82,6 +114,14 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q52. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de dermato, reumato e alergia, o comando central é reconhecer a melhor resposta para: &quot;Chega para você um paciente de 45 anos, previamente hipertenso, apresentando quadro de edema de face, principalmente lábios e língua. Ele nega sintomas de urticária. Está com dificuldade para falar e deglutir e apresenta um estrid...&quot;. A leitura de prova deve priorizar anafilaxia, gravidade sistêmica, imunossupressão, profilaxias e não confundir quadro benigno com ameaça; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pelo risco de falha no resgate (garantir a oxigenação).”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Pela impossibilidade de realizar a intubação por via orotraqueal ou nasotraqueal.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de dermato, reumato e alergia, esta opção responde melhor à prioridade da questão: “Pelo risco de falha no resgate (garantir a oxigenação).”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Pela inexperiência com via aérea cirúrgica ou indisponibilidade do cirurgião de cabeça e pescoço.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: traz uma escolha de fármaco/técnica que não é a mais alinhada à fisiologia, dose, sequência ou segurança exigida pelo cenário. Alternativa: “Para evitar o uso do fentanil, devido ao risco de rigidez torácica.”</li>
+</ul>
 </div>
 </div>
 
@@ -97,6 +137,14 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q71. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de dermato, reumato e alergia, o comando central é reconhecer a melhor resposta para: &quot;A síndrome de veia cava superior (SVCS) ocorre devido à compressão externa ou obstrução intraluminal (trombose) da veia cava superior. Mais de 60% dos casos estão associados à doença oncológica. Assinale a alternativa correta:&quot;. A leitura de prova deve priorizar anafilaxia, gravidade sistêmica, imunossupressão, profilaxias e não confundir quadro benigno com ameaça; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A SVCS raramente é fatal; quadros mais graves podem apresentar comprometimento de via aérea, edema cerebral e instabilidade hemodinâmica.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Edema de extremidades de membros superiores, face e tórax, bem como eritema facial, dispneia, dor torácica e tosse, são manifestações clínicas pouco usuais.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Corticoide e diuréticos devem ser utilizados de rotina.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de dermato, reumato e alergia, esta opção responde melhor à prioridade da questão: “A SVCS raramente é fatal; quadros mais graves podem apresentar comprometimento de via aérea, edema cerebral e instabilidade hemodinâmica.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Mesmo na presença de trombose, a anticoagulação está sempre contraindicada.”</li>
+</ul>
 </div>
 </div>
 
@@ -112,6 +160,14 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q79. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de dermato, reumato e alergia, o comando central é reconhecer a melhor resposta para: &quot;Sobre o acidente com abelhas, marque a correta:&quot;. A leitura de prova deve priorizar anafilaxia, gravidade sistêmica, imunossupressão, profilaxias e não confundir quadro benigno com ameaça; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Na síndrome do envenenamento por abelhas, além de coagulação intravascular disseminada, alterações cardiovasculares e neurológicas, a insuficiência renal é frequente, e pode haver necessidade de hemodiálise.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Em um paciente picado por uma única abelha com quadro urticária associado a náuseas, vômitos persistentes e diarreia na primeira hora do acidente, antihistamínicos e sintomáticos devem ser iniciados prioritariamente.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “O quadro de síndrome de envenenamento por múltiplas picadas de abelha geralmente se manifesta precocemente, portanto a alta segura pode ocorrer se não houver intercorrências nas primeiras 12 horas do acidente.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Tanto no caso da anafilaxia, quanto no da síndrome do envenenamento por abelhas, a epinefrina é a base do tratamento, pois o choque circulatório é a via comum das duas entidades.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de dermato, reumato e alergia, esta opção responde melhor à prioridade da questão: “Na síndrome do envenenamento por abelhas, além de coagulação intravascular disseminada, alterações cardiovasculares e neurológicas, a insuficiência renal é frequente, e pode haver necessidade de hemodiálise.”</li>
+</ul>
 </div>
 </div>
 
@@ -128,6 +184,14 @@ Banco do tema 016 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q95. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de dermato, reumato e alergia, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 25 anos, em tratamento para doença de Crohn, apresenta-se ao Departamento de Emergência com queixa de sensação de face congesta e dor tipo pressão facial há 7 dias. Ele relata que apresentou um quadro de sintomas gripa...&quot;. A leitura de prova deve priorizar anafilaxia, gravidade sistêmica, imunossupressão, profilaxias e não confundir quadro benigno com ameaça; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Cultura de aspirado do seio nasal (se disponível) e início de antibioticoterapia oral empírica.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de dermato, reumato e alergia, esta opção responde melhor à prioridade da questão: “Cultura de aspirado do seio nasal (se disponível) e início de antibioticoterapia oral empírica.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Solicitar raio X de seios da face e aguardar resultado para definir tratamento.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Tomografia computadorizada de seios da face com contraste e aguardar resultado para definir tratamento.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de dermato, reumato e alergia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Indicar lavagem nasal e sintomáticos, por se tratar de possível quadro viral.”</li>
+</ul>
 </div>
 </div>
 

@@ -23,6 +23,14 @@ Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q87. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de psiquiatria e agitação, o comando central é reconhecer a melhor resposta para: &quot;Das situações descritas, em qual delas não representa paciente com alterações psiquiátricas que necessita de complementação de investigação clínica, com exames complementares laboratoriais e/ou de imagem&quot;. A leitura de prova deve priorizar segurança, causa orgânica, desescalada, medicação/contensão proporcional e risco de auto/heteroagressão; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente com quadro depressivo com suspensão de medicamento”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Paciente idoso, independente dos sintomas psiquiátricos”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Paciente com comorbidades, independente dos sintomas psiquiátricos”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Paciente com primeiro episódio maníaco”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de psiquiatria e agitação, esta opção responde melhor à prioridade da questão: “Paciente com quadro depressivo com suspensão de medicamento”</li>
+</ul>
 </div>
 </div>
 
@@ -38,6 +46,14 @@ Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q112. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de psiquiatria e agitação, o comando central é reconhecer a melhor resposta para: &quot;Paciente feminina de 28 anos, com transtorno depressivo psicótico grave e multiplas tentativas de suicídio prévias. Ambulatorialmente ela faz uso de Sertralina 25 mg 1x/dia VO, Quetiapina 25 mg 1x/dia VO, Carbonato de Lítio 300 mg...&quot;. A leitura de prova deve priorizar segurança, causa orgânica, desescalada, medicação/contensão proporcional e risco de auto/heteroagressão; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Bradicinesia e Hipertermia - Quetiapina”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Hiperreflexia e Hipotermia - Sertralina”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Pupilas Mióticas - Lítio”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de psiquiatria e agitação, esta opção responde melhor à prioridade da questão: “Bradicinesia e Hipertermia - Quetiapina”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Alargamento de QT - Clonazepam”</li>
+</ul>
 </div>
 </div>
 
@@ -53,6 +69,14 @@ Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q59. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de psiquiatria e agitação, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 26 anos, trazido por policiais após contenção física em rave devido a agitação intensa, alucinações e agressão a terceiros. À admissão, o paciente apresentava escoriações em tórax e em membros superiores, com contenção...&quot;. A leitura de prova deve priorizar segurança, causa orgânica, desescalada, medicação/contensão proporcional e risco de auto/heteroagressão; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Midazolam por via intramuscular na dose de 5 a 10 mg.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Diazepam por via intramuscular, na dose de 5 a 10 mg.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Haloperidol por via endovenosa, na dose de 5 mg.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de psiquiatria e agitação, esta opção responde melhor à prioridade da questão: “Midazolam por via intramuscular na dose de 5 a 10 mg.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: traz uma escolha de fármaco/técnica que não é a mais alinhada à fisiologia, dose, sequência ou segurança exigida pelo cenário. Alternativa: “Cetamina por via intramuscular, na dose de 5 mg/kg.”</li>
+</ul>
 </div>
 </div>
 
@@ -68,6 +92,14 @@ Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q86. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: BARS e conduta na agitação. Psiquiatria de emergência não é só diagnóstico psiquiátrico: delirium, intoxicação, hipoglicemia e risco suicida precisam vir antes. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Empregar medidas farmacológicas, como haloperidol ou midazolam, se tentativas de descalonamento verbal falharem.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Oferecer um ambiente calmo e isolado, solicitando que o paciente reflita sobre seu comportamento, evitando medicações para não mascarar a causa subjacente da agitação.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Iniciar a contenção física, pois um Behavioral Activity Rating Scale 6 indica que o paciente é violento e requer restrição imediata.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de psiquiatria e agitação, esta opção responde melhor à prioridade da questão: “Empregar medidas farmacológicas, como haloperidol ou midazolam, se tentativas de descalonamento verbal falharem.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Priorizar a busca por sinais e sintomas sugestivos de alteração do estado mental de origem clínica antes, pois não há necessidade de outra intervenção para a agitação.”</li>
+</ul>
 </div>
 </div>
 
@@ -83,5 +115,13 @@ Banco do tema 022 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q88. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: tentativa de suicídio com tentativas prévias e baixo suporte = alto risco, sem alta simples. Psiquiatria de emergência não é só diagnóstico psiquiátrico: delirium, intoxicação, hipoglicemia e risco suicida precisam vir antes. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Internação por risco elevado e ausência de fatores de proteção efetivos.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Alta com orientações e reavaliação ambulatorial em até 72 horas.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Encaminhamento ambulatorial eletivo, considerando estabilidade clínica e suporte familiar.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de psiquiatria e agitação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Observação prolongada e liberação com termo de responsabilidade.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de psiquiatria e agitação, esta opção responde melhor à prioridade da questão: “Internação por risco elevado e ausência de fatores de proteção efetivos.”</li>
+</ul>
 </div>
 </div>

@@ -22,6 +22,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q9. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Com o POCUS Pulmonar as patologias respiratórias são avaliadas através da:&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Avaliação de pleura e artefatos ar-tecidos (relação ar-líquido)”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Avaliação de pleura e artefatos ar-tecidos (relação ar-líquido)”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Avaliação de pleura e parênquima pulmonar”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Avaliação do parênquima pulmonar e artefatos”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Avaliação da relação entre linhas pleurais verticais e horizontais”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q17. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Mulher, 52 anos de idade, hipertensa, admitida no DE com hipótese diagnóstica de sepse de foco pulmonar. Encontra-se confusa, hipotensa com PA 80x42 mmHg (pressão arterial média 55 mmHg), extremidades frias e tempo de enchimento c...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar noradrenalina em acesso venoso periférico.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Realizar nova prova volêmica devido a sinais claros de baixo débito cardíaco e hipovolemia”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Nova etapa de ringer lactato 500ml e aguardar a realização da punção venosa central guiada por US para iniciar noradrenalina.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Iniciar noradrenalina em acesso venoso periférico.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Instalar monitorização hemodinâmica minimamente invasiva e posteriormente avaliar a necessidade de iniciar noradrenalina.”</li>
+</ul>
 </div>
 </div>
 
@@ -52,6 +68,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q24. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 33 anos, é admitido ao Departamento de Emergência com quadro de Dispneia de instalação aguda, ao exame físico apresenta SaO2 90% em ar ambiente, FC 113 BPM, FR 28 IRPM e Temperatura Axilar (TAx) de 36.4ºC, Ausculta pul...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Ultrassonografia Point-of-care de Tórax”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Radiografia de Tórax”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Tomografia de Tórax”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Ultrassonografia Point-of-care de Tórax”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Cintilografia Pulmonar”</li>
+</ul>
 </div>
 </div>
 
@@ -68,6 +92,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q29. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Paciente 62 anos, 53 kg, hipertenso prévio (com história de miocardiopatia hipertrófica) em uso de Amlodipina e Losartana, sabidamente portador de hiperplasia benigna de próstata, dá entrada no DE com quadro de sepse de foco uriná...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pneumotórax à direita”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Tamponamento cardíaco”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Pneumotórax à direita”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Trombo Embolia Pulmonar”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Edema Agudo de pulmão”</li>
+</ul>
 </div>
 </div>
 
@@ -83,6 +115,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q39. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Durante a realização do exame E-FAST no contexto de Trauma buscamos responder perguntas objetivas para tomada de decisão. Avaliando as janelas ultrassonográficas do exame E-FAST, o que procuramos encontrar para definir possível et...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A1- Líquido pericárdico, A2 - Líquido no espaço de Morrison, A3 - Líquido periesplênico, A4 - Líquido peri-vesical”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A1- Hipercontratilidade de VE, A2 - líquido perivesicular, A3 -coleção esplênica, A4 - líquido retro-uterino”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “A1- Líquido pericárdico, A2 - Líquido no espaço de Morrison, A3 - Líquido periesplênico, A4 - Líquido peri-vesical”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A1- Hipocontratilidade de VE, A2 - Hidronefrose com líquido peri-renal A3 - Hidronefrose com líquido peri-renal A4 - líquido peri-vesical”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A1- Líquido pericárdico A2 - Líquido póstero apical renal D A3 - líquido póstero apical renal E A4 - Líquido Intra-vesical”</li>
+</ul>
 </div>
 </div>
 
@@ -99,6 +139,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q50. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Paciente chega ao departamento de emergência, conduzido pelo SAMU, em parada cardiorrespiratória, em vigência de Reanimação Cardiopulmonar (RCP). Seu colega assume a condução da RCP e te pede para auxiliá-lo com o ultrassom. Utili...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Alteplase EV”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Alteplase EV”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Toracotomia de reanimação”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Toracocentese de alívio”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Pericardiocentese de alívio”</li>
+</ul>
 </div>
 </div>
 
@@ -114,6 +162,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q57. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Paciente com quadro de choque dá entrada no DE. São iniciadas medidas para o choque, tendo sido colhidos exames e realizada ressuscitação volêmica com cristalóide. Quais dos parâmetros abaixo podem ser usados para avaliar a melhor...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Diminuição dos níveis séricos de Lactato entre 10-20%, aumento dos valores de Base excess, diurese superior a 1 mL/kg/h”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Diminuição dos níveis séricos de Lactato entre 10-20%, aumento dos valores de Base excess, diurese superior a 1 mL/kg/h”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Aumento do índice cardíaco medido por cateter de artéria pulmonar, aumento do pH, diurese superior a 0,5 mL/kg/h”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Diminuição dos níveis séricos de Lactato entre 10-20%, aumento do índice cardíaco medido por cateter de artéria pulmonar, aumento da PAS acima de 90 mmHg”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Aumento de PAM acima de 65 mmHg, aumento do débito cardíaco avaliado por ultrassonografia, diurese superior a 0,5 mL/kg/h”</li>
+</ul>
 </div>
 </div>
 
@@ -130,6 +186,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q84. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Podemos avaliar fluido responsividade, em um paciente chocado, com o auxílio do ultrassom, utilizando algumas técnicas listadas abaixo. Marque a alternativa correta:&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Variação do débito cardíaco &gt; 6% após infusão de 100ml (desafio de mini fluido)”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Variação do diâmetro da Veia Cava Inferior &lt; 50% em pacientes em respiração espontânea”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Variação do volume sistólico &lt; 8% em pacientes em respiração espontânea”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Variação do débito cardíaco &gt; 5% com a elevação das pernas (PLR: Passive Leg Raising)”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Variação do débito cardíaco &gt; 6% após infusão de 100ml (desafio de mini fluido)”</li>
+</ul>
 </div>
 </div>
 
@@ -145,6 +209,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q86. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;No caso de falência circulatória, o protocolo Fluid Administration Limited by Lung Sonography (FALLS) utiliza a combinação de ecocardiografia e POCUS Pulmonar para avaliação da pleura, dos pulmões e do pericárdio no intuito de ide...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Distributivo: Sepse”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Obstrutivo: TEP”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Distributivo: Sepse”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Hipovolêmico: Hemorragia”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Obstrutivo: Tamponamento Cardíaco”</li>
+</ul>
 </div>
 </div>
 
@@ -161,6 +233,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q105. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Na avaliação de um paciente com choque, o uso do POCUS é cada vez mais difundido por poder esclarecer muitas vezes a causa. No caso da avaliação cardíaca com o ultrassom em paciente com choque, foram achados os seguintes dados: PS...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Tromboembolismo pulmonar, choque obstrutivo”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Infarto Agudo de Ventrículo Esquerdo, choque cardiogênico”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Tromboembolismo pulmonar, choque obstrutivo”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Hipovolemia, choque hipovolêmico/hemorrágico”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Insuficiência Cardíaca Descompensada, choque cardiogênico”</li>
+</ul>
 </div>
 </div>
 
@@ -176,6 +256,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q115. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Dispneia Aguda é uma queixa comum no DE, sobre o uso de exame complementares para avaliação desses pacientes, marque a alternativa correta.&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Ultrassonografia Pulmonar pode auxiliar a introdução de medidas iniciais para esses paciente”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Gasometria Arterial deve ser solicitada para definir o diagnóstico etiológico desses pacientes.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Ultrassonografia Pulmonar pode auxiliar a introdução de medidas iniciais para esses paciente”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Prova de Função pulmonar é o exame de escolha para definir a causa de broncoespasmo no DE s”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A Tomografía de Tórax está indicada para pacientes com quadros de dispnéia crônica com piora aguda.”</li>
+</ul>
 </div>
 </div>
 
@@ -192,6 +280,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q5. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Compreender os princípios físicos da ultrassonografia é necessário para melhor aplicação clínica do POCUS. Avalie as situações descritas abaixo: I. Baixa resolução de estruturas profundas quando utilizado transdutor linear de 7-18...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Comprimento de onda - Reforço acústico posterior - Reflexão/imagem em espelho Impedância acústica”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Comprimento de onda - Sombra acústica - Artefato de reverberação - Impedância acústica”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Absorção de onda - Reforço acústico posterior - Reflexão/imagem em espelho Atenuação”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Comprimento de onda - Reforço acústico posterior - Reflexão/imagem em espelho Impedância acústica”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Absorção de onda - Sombra acústica - Artefato de reverberação - Interferência”</li>
+</ul>
 </div>
 </div>
 
@@ -208,6 +304,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME23 Q38. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Caso clínico para as questões 36, 37 e 38: Você está atendendo um paciente de 59 anos vítima de Parada Cardiorrespiratória em ritmo chocável após retorno à circulação espontânea. Foram administrados 04 (quatro) choques desfibrilad...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pneumotórax e Derrame Pericárdico”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Derrame pleural”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Derrame Pericárdico”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Pneumotórax”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Pneumotórax e Derrame Pericárdico”</li>
+</ul>
 </div>
 </div>
 
@@ -224,6 +328,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q62. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Para o uso adequado da ultrassonografia beira-leito (POCUS) na parada cardiorrespiratória, deve-se contar com equipe com dimensionamento adequado (direcionando um profissional médico exclusivamente para realização do exame), com c...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “V-V-F-V-F”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “V-V-F-V-F”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “F-V-F-V-F”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V-V-V-F-V”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “F-F-F-V-V”</li>
+</ul>
 </div>
 </div>
 
@@ -240,6 +352,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q66. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Após a avaliação da veia cava inferior, você prosseguiu com a avaliação do ultrassom cardíaco (ecocardiografia POCUS), e obteve os seguintes achados em cada janela: Paraesternal eixo longo: proporção entre câmaras mantida, válvula...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Apesar de apresentar estigmas ecocardiográficos de cardiopatia com hipertrofia ventricular, no momento a paciente não apresenta disfunção ventricular esquerda evidente, devendo ser buscadas hipóteses diferenciais.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Para obtenção de imagens na ecocardiografia POCUS deve ser usado o transdutor linear, por apresentar alta frequência e consequente alta resolução espacial de imagem.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Apesar de apresentar estigmas ecocardiográficos de cardiopatia com hipertrofia ventricular, no momento a paciente não apresenta disfunção ventricular esquerda evidente, devendo ser buscadas hipóteses diferenciais.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Os achados neste caso direcionam para uma hipótese diagnóstica de choque cardiogênico com baixa fração de ejeção; devendo ser iniciadas drogas vasopressoras e inotrópicas positivas para manejo da instabilidade hemodinâmica.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O valor de EPSS encontrado é compatível de forma isolada com a hipótese de choque cardiogênico, podendo ser utilizado neste caso de forma confiável.”</li>
+</ul>
 </div>
 </div>
 
@@ -255,6 +375,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q75. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Em um choque indiferenciado, com dados clínicos insuficientes para formulação de uma hipótese diagnóstica etiológica, julgue as afirmativas a seguir: ( ) Pode ser aplicado o protocolo RUSH, que sistematiza a avaliação ultrassonogr...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “V-V-F-F-V”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “V-V-F-F-V”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V-V-F-V-V”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V-V-V-F-F”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V-F-V-F-F”</li>
+</ul>
 </div>
 </div>
 
@@ -270,6 +398,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q17. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Paciente vítima de trauma abdominal contuso, chega com sinais vitais: frequência cardíaca (FC) de 110 bpm, pressão parcial sistólica (PAS) de 100 mmHg, frequência respiratória (FR) de 26 irpm, temperatura de 35°C e E-FAST com líqu...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Sim, Shock Index &gt; 1,0.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Não, ABC score de 1 ponto.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Sim, ABC score de 1 ponto.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Sim, Shock Index &gt; 1,0.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Não, Shock index &gt; 1,0.”</li>
+</ul>
 </div>
 </div>
 
@@ -286,6 +422,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q40. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Homem, 38 anos, com dor abdominal há 3 dias localizada em flanco esquerdo do tipo cólica de forte intensidade associada a náuseas e vômitos. Paciente clinicamente estável e exame físico do abdome sem sinais de peritonite. Realizad...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A imagem evidencia hidronefrose importante à esquerda. Diante do quadro clínico e dos exames laboratoriais, a hipótese diagnóstica é pielonefrite obstrutiva. Nesses casos, além da antibioticoterapia e do manejo da dor, é fundament...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Na imagem há sinais de hidronefrose leve. Quadro clínico sugere ureterolitíase sem complicações. Tratamento ambulatorial com analgesia e antibioticoterapia para infecção urinária não complicada.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A imagem mostra a presença de líquido livre no espaço esplenorrenal, sendo necessária tomografia computadorizada contrastada para avaliar outras possibilidades diagnósticas.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “A imagem evidencia hidronefrose importante à esquerda. Diante do quadro clínico e dos exames laboratoriais, a hipótese diagnóstica é pielonefrite obstrutiva. Nesses casos, além da antibioticoterapia e do manejo da dor, é fundament...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A imagem sugere sinais de dilatação de alças de intestino delgado, sugerindo diagnóstico de abdome agudo obstrutivo. É fundamental, nesse caso, a realização de tomografia de abdome com contraste e avaliação cirúrgica na sequência.”</li>
+</ul>
 </div>
 </div>
 
@@ -302,6 +446,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q41. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Sobre a indicação de bloqueios anestésicos guiados por ultrassom point-of-care (PoCUS) realizados no Departamento de Emergência, assinale a alternativa que correlaciona adequadamente o bloqueio e a respectiva analgesia oferecida:&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Bloqueio ciático por abordagem poplítea/ fratura de maléolo lateral de tornozelo.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio femoral/ fratura de terço médio da tíbia.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio da fáscia ilíaca/ fratura de terço médio da tíbia.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio ciático por abordagem poplítea/ fratura de côndilo medial de tíbia.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Bloqueio ciático por abordagem poplítea/ fratura de maléolo lateral de tornozelo.”</li>
+</ul>
 </div>
 </div>
 
@@ -318,6 +470,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q53. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Paciente chega no Departamento de Emergência, e sua avaliação com ultrassom point-of-care (PoCUS) evidencia um volumoso derrame pericárdico. Dentre as alternativas, assinale a que contém sinais ecocardiográficos sugestivos de tamp...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Colapso diastólico do ventrículo direito e colapso sistólico do átrio direito.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colapso sistólico de ventrículo direito e veia cava inferior &gt; 2 cm sem colapsibilidade.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colapso sistólico do átrio direito e fluxo mitral sem variação à inspiração.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Colapso diastólico do ventrículo direito e colapso sistólico do átrio direito.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colapso sistólico do ventrículo esquerdo e variação do fluxo mitral &gt; 20% à inspiração.”</li>
+</ul>
 </div>
 </div>
 
@@ -334,6 +494,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q5. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Homem de 54 anos, com história conhecida de etilismo crônico, é levado ao Departamento de Emergência após ferimento por arma branca durante briga em bar. Está consciente e hemodinamicamente estável. Ao exame físico, apresenta tela...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Encaminhar para tomografia de tórax e abdome com contraste.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Realizar exploração local digital.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Realizar lavado peritoneal diagnóstico.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Realizar drenagem torácica em selo d&#x27;água.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Encaminhar para tomografia de tórax e abdome com contraste.”</li>
+</ul>
 </div>
 </div>
 
@@ -349,6 +517,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q50. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo masculino, de 70 anos, admitido no Departamento de Emergência com insuficiência respiratória aguda. Relato de ter sido submetido à cirurgia de artroplastia de joelho esquerdo há 7 dias. Admitido lúcido e orientado...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Em pacientes com cor pulmonale agudo, a espessura do ventrículo direito é menor que 5 mm.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Caso haja confirmação de tromboembolismo pulmonar, o paciente deve ser anticoagulado, visto haver contraindicação absoluta à trombólise.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “O sinal de McConnell tem alta sensibilidade e baixa especificidade para diagnóstico de tromboembolismo pulmonar.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Tenecteplase (dose de 0,6 mg/kg) apresenta melhores resultados em desfechos de segurança em comparação a alteplase (100 mg) em pacientes com tromboembolismo pulmonar instável.”</li>
+</ul>
 </div>
 </div>
 
@@ -365,6 +541,14 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME25 Q70. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Mulher de 19 anos, previamente hígida, procura a emergência com dor abdominal há 18 horas. Refere náuseas, inapetência e dor à deambulação. Última menstruação há 12 dias. Nega uso de anticoncepcional. Ao exame físico: temperatura...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Os achados demonstrados no ultrassom point-of-care são altamente sugestivos de apendicite aguda e, nesse cenário de hospital rural, podem antecipar conduta cirúrgica e regulação do recurso e logística necessários para o tratamento...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Em mulher jovem com dor na fossa ilíaca direita, devem ser afastados primeiramente diagnósticos ginecológicos. Porém, quando descartados, o ultrassom point-of-care pode ser útil, afastando com alta acurácia o diagnóstico de apendi...”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “Os achados demonstrados no ultrassom point-of-care são altamente sugestivos de apendicite aguda e, nesse cenário de hospital rural, podem antecipar conduta cirúrgica e regulação do recurso e logística necessários para o tratamento...”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Trata-se do sinal do alvo, típico do cisto ovariano roto com líquido livre ao redor da estrutura; essa paciente necessita de transferência para realização de uma tomografia de pelve para diagnóstico e planejamento cirúrgico de urg...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O aumento da ecogenicidade da gordura ao redor e a não compressibilidade da estrutura apresentada na imagem, somados ao quadro clínico apresentado, são sugestivos de salpingite aguda.”</li>
+</ul>
 </div>
 </div>
 
@@ -380,5 +564,13 @@ Banco do tema 004 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME25 Q77. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de POCUS, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 28 anos, previamente míope de grau elevado há 10 anos, com uso regular de óculos corretor, procura o Departamento de Emergência após notar uma dificuldade de enxergar do olho esquerdo desde que acordou. Relata a sensaç...&quot;. A leitura de prova deve priorizar pergunta clínica objetiva, janela correta, interpretação do achado e conduta imediata; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A ultrassonografia point-of-care ocular pode confirmar o diagnóstico mesmo na ausência de exame de lâmpada de fenda.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “A ausência de dor neste contexto descarta a possibilidade de quadros graves, sendo indicado o manejo ambulatorial.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de POCUS, esta opção responde melhor à prioridade da questão: “A ultrassonografia point-of-care ocular pode confirmar o diagnóstico mesmo na ausência de exame de lâmpada de fenda.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Uso de colírios hipotensores deve ser iniciado imediatamente.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de POCUS; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Ausência de trauma associado tranquiliza sobre a possibilidade de o tratamento ser cirúrgico.”</li>
+</ul>
 </div>
 </div>

@@ -22,6 +22,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q45. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Paciente apresentando sangramento intenso devido à amputação traumática de membro inferior direito, trazido pelo atendimento pré-hospitalar que já iniciou Ringer Lactato 1500 ml em bolus Endovenoso (EV) e aplicou Torniquete no Mem...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Transfusão de Hemocomponentes na proporção 1:1:1 concentrado de hemácias, plasma fresco congelado e plaquetas”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Administração de mais 1000 ml de cristalóide”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Administração de 500ml de NaCl 3% EV”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Transfusão de 3 Bolsas de concentrados de hemácias EV”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Transfusão de Hemocomponentes na proporção 1:1:1 concentrado de hemácias, plasma fresco congelado e plaquetas”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q56. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Em relação às lesões por explosão, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Ruptura da membrana timpânica é um exemplo de lesão primária”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Ruptura da membrana timpânica é um exemplo de lesão primária”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Amputações traumáticas são exemplos de lesões quaternárias”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Queimaduras são exemplos de lesão terciária”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Síndrome de esmagamento é exemplo de lesão secundária”</li>
+</ul>
 </div>
 </div>
 
@@ -52,6 +68,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q73. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Referência para Questões 73 e 74: Você faz parte de uma equipe de resgate que é acionada para atender uma ocorrência de queda de um ônibus em ribanceira, em um trecho de serra de uma estrada de pista simples. Há relatos de que são...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Realizar a contagem do número de vítimas, a fim de obter uma real dimensão da ocorrência e poder solicitar apoio adequado”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Realizar a contagem do número de vítimas, a fim de obter uma real dimensão da ocorrência e poder solicitar apoio adequado”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Realizar a triagem das vítimas pelo método START, pois trata-se de um incidente com múltiplas vítimas e os recursos são limitados”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Retirar rapidamente as vítimas da zona quente, pois trata-se de um local de alto risco de acontecerem outros acidentes”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Atender rapidamente as vítimas com comprometimento de vias aéreas ou aquelas que se encontrem em parada cardiorrespiratória, pois são as que necessitam de socorro imediato”</li>
+</ul>
 </div>
 </div>
 
@@ -67,6 +91,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q74. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Referência para Questões 73 e 74: Você faz parte de uma equipe de resgate que é acionada para atender uma ocorrência de queda de um ônibus em ribanceira, em um trecho de serra de uma estrada de pista simples. Há relatos de que são...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Classificá-la como vítima amarela, pois não apresenta sinais de choque nem de comprometimento ventilatório e obedece a ordens simples”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Classificá-lo como vítima vermelha, pois deverá apresentar grande sangramento da perna fraturada e tem sinais de choque”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Classificá-lo como vítima verde, pois está consciente, com Escala de Coma de Glasgow &gt; 13 e consegue andar com apoio.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Classificá-la como vítima vermelha, pois apesar de estar consciente apresenta uma lesão com risco imediato de piora e ameaça à vida”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Classificá-la como vítima amarela, pois não apresenta sinais de choque nem de comprometimento ventilatório e obedece a ordens simples”</li>
+</ul>
 </div>
 </div>
 
@@ -82,6 +114,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q91. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Ciclista atropelado por automóvel, apresenta fratura exposta de terço médio do fêmur, com desvio acentuado e sangramento externo volumoso em coxa esquerda. A conduta mais adequada, em ambiente pré-hospitalar, em relação à contençã...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Compressão manual do foco de sangramento e aplicação de torniquete caso a compressão não seja efetiva, imobilizando o membro na posição anatômica mais próxima do normal”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não entrega a melhor conduta inicial ou sequencial para o problema dominante do caso. Alternativa: “Curativo compressivo sobre o foco de sangramento e elevação do membro fraturado, buscando restauração da posição anatômica normal.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não entrega a melhor conduta inicial ou sequencial para o problema dominante do caso. Alternativa: “Curativo compressivo no foco de sangramento e imobilização do membro da maneira em que foi encontrado.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Compressão manual do foco de sangramento e aplicação de torniquete caso a compressão não seja efetiva, imobilizando o membro na posição anatômica mais próxima do normal”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não entrega a melhor conduta inicial ou sequencial para o problema dominante do caso. Alternativa: “Clampeamento do vaso sangrante com pinça hemostática e imobilização do membro da maneira em que foi encontrado”</li>
+</ul>
 </div>
 </div>
 
@@ -97,6 +137,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q6. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Em relação à abordagem das fraturas expostas na emergência, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A Cefazolina pode ser o antibiótico de escolha para os pacientes com fratura exposta classificada como Gustilo-Anderson I ou II e sem evidência de contaminação”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “A Cefazolina pode ser o antibiótico de escolha para os pacientes com fratura exposta classificada como Gustilo-Anderson I ou II e sem evidência de contaminação”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Pacientes que apresentem fratura com pontuação 5 no sistema MESS (Mangled Extremity Severity Score) têm aproximadamente 100% de chance de amputação do membro acometido”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Devido à natureza aberta da lesão, a síndrome compartimental não deve ser uma preocupação no atendimento inicial destes pacientes”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Pacientes com fraturas sem evidência de contaminação da ferida podem ter sua profilaxia antibiótica postergada até o início do tratamento em centro cirúrgico.”</li>
+</ul>
 </div>
 </div>
 
@@ -112,6 +160,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q34. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Em relação ao controle de hemorragias externas exsanguinantes, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Torniquetes podem ser usados com segurança por até 150 minutos.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Exceto nos casos de amputação traumática, os torniquetes devem ser afrouxados a cada 15 minutos, viabilizando fluxo sanguíneo intermitente para a extremidade e diminuindo assim a chance de amputação do membro.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Torniquetes podem ser usados com segurança por até 150 minutos.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A elevação da extremidade sangrante deve ser considerada quando a compressão direta ou o curativo compressivo não forem suficientes para interromper o sangramento.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Torniquetes devem ser considerados a primeira opção para o controle de uma hemorragia externa significativa localizada na extremidade.”</li>
+</ul>
 </div>
 </div>
 
@@ -127,6 +183,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q67. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 33 anos do sexo masculino, previamente hígido, é admitido após acidente doméstico há cerca de 2 horas em que derrubou uma faca de cozinha sobre seu antebraço, ele é admitido com quadro estável e apresenta ferida de pro...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Essa conduta deve ser tida como errada, já que o uso de antibioticoterapia profilática está indicado para pacientes com sinais grosseiros de contaminação”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Essa conduta deve ser tida como errada já que o uso de antibioticoterapia profilática não deve ser indicado para feridas em antebraço”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Essa conduta deve ser tida como errada porque a lavagem da ferida deveria ter sido feita em ambiente de centro cirúrgico”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Essa conduta deve ser tida como errada, já que o uso de antibioticoterapia profilática está indicado para pacientes com sinais grosseiros de contaminação”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Essa conduta deve ser tida como correta.”</li>
+</ul>
 </div>
 </div>
 
@@ -142,6 +206,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q87. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Marque a alternativa que descreve um paciente que mais provavelmente encontra-se com um quadro de Luxação Anterior da Articulação do Ombro.&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente de 25 anos com relato de dor súbita no ombro após tentativa de “toco” em jogo de basquete, apoiando o membro doloroso com o lado contra-lateral”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Paciente de 25 anos com relato de dor súbita no ombro após tentativa de “toco” em jogo de basquete, apoiando o membro doloroso com o lado contra-lateral”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Paciente de 15 anos, vítima de queda de árvore com a mão estendida no chão queixando-se de dor no braço”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Paciente de 75 anos, portador de Tumor de Sistema Nervoso Central evoluindo com dor no ombro após crise convulsiva tônico-clônica generalizada.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Paciente de 33 anos, Eletricista, vítima de choque elétrico em alta voltagem durante o trabalho, com queixa de dor no ombro e com limitação da abdução e rotação externa.”</li>
+</ul>
 </div>
 </div>
 
@@ -157,6 +229,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q100. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Em relação ao manejo inicial de lesões geradas por exposição a produtos químicos, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Nas contaminações por Ácido Fluorídrico deve ser realizada aplicação tópica de gel de gluconato de cálcio.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A abordagem inicial das queimaduras químicas deve incluir a administração tópica de um agente neutralizante.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Nos incidentes envolvendo o Fósforo Branco não deve ser utilizada água no processo de descontaminação.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Nas contaminações por Ácido Fluorídrico deve ser realizada aplicação tópica de gel de gluconato de cálcio.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A retirada mecânica de agentes particulados através de escovação eleva o tempo de descontaminação e não tem eficácia comprovada, devendo ser evitada. Siglário FR - Frequência Respiratória PAS - pressão Arterial Sistólica IRPM - In...”</li>
+</ul>
 </div>
 </div>
 
@@ -172,6 +252,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q6. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Três vítimas são encaminhadas ao Departamento de Emergência após terem sido resgatadas de um incêndio secundário à uma explosão de gás em centro de reciclagem. A seguir, encontram-se descritas as avaliações iniciais dos três pacie...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Realizar intubação orotraqueal/ iniciar suporte de oxigênio suplementar a 100%/ iniciar infusão de hidroxicobalamina.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Realizar intubação orotraqueal/ iniciar suporte de oxigênio suplementar a 100%/ iniciar infusão de cianocobalamina.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Realizar intubação orotraqueal/ iniciar suporte de oxigênio suplementar a 100%/ iniciar infusão de hidroxicobalamina.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Realizar suporte de oxigênio suplementar a 100%/ realizar intubação orotraqueal/ iniciar infusão de hidroxicobalamina.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Realizar suporte de oxigênio suplementar a 100%/ iniciar suporte de oxigênio suplementar a 100%/ iniciar infusão de cianocobalamina.”</li>
+</ul>
 </div>
 </div>
 
@@ -188,6 +276,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q41. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Sobre a indicação de bloqueios anestésicos guiados por ultrassom point-of-care (PoCUS) realizados no Departamento de Emergência, assinale a alternativa que correlaciona adequadamente o bloqueio e a respectiva analgesia oferecida:&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Bloqueio ciático por abordagem poplítea/ fratura de maléolo lateral de tornozelo.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio femoral/ fratura de terço médio da tíbia.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio da fáscia ilíaca/ fratura de terço médio da tíbia.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio ciático por abordagem poplítea/ fratura de côndilo medial de tíbia.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Bloqueio ciático por abordagem poplítea/ fratura de maléolo lateral de tornozelo.”</li>
+</ul>
 </div>
 </div>
 
@@ -204,6 +300,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME24 Q62. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Homem, 52 anos, vítima de queda de moto com trauma em terço proximal do braço esquerdo com ferimento aberto e exposição óssea e provável fratura de úmero esquerdo. Admitido no Departamento de Emergência com dor intensa local, desv...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O bloqueio do plexo braquial é o mais indicado para a lesão apresentada, pode ser realizado via janela interescalênica e promove analgesia satisfatória para ombro e terço proximal do braço, porém deve ser evitado em pacientes com...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “O bloqueio do plexo braquial é o mais indicado para a lesão apresentada, pode ser realizado via janela interescalênica e promove analgesia satisfatória para ombro e terço proximal do braço, porém deve ser evitado em pacientes com...”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “O bloqueio do plexo axilar é o mais indicado para a lesão apresentada, promove analgesia para o braço e cotovelo e deverá ser realizado com infiltração do anestésico na bainha do nervo axilar ao nível do ombro.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Os bloqueios anestésicos devem ser opção de analgesia na emergência após tentativa escalonada de medicamentos endovenosos com uso de opioides em dose otimizada.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “O bloqueio do plexo braquial é o mais indicado para a lesão apresentada, pode ser realizado na janela supraclavicular, promove analgesia satisfatória para ombro e braço e apresenta menor risco de pneumotórax quando se utiliza técn...”</li>
+</ul>
 </div>
 </div>
 
@@ -219,6 +323,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q71. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;A síndrome de veia cava superior (SVCS) ocorre devido à compressão externa ou obstrução intraluminal (trombose) da veia cava superior. Mais de 60% dos casos estão associados à doença oncológica. Assinale a alternativa correta:&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A SVCS raramente é fatal; quadros mais graves podem apresentar comprometimento de via aérea, edema cerebral e instabilidade hemodinâmica.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Edema de extremidades de membros superiores, face e tórax, bem como eritema facial, dispneia, dor torácica e tosse, são manifestações clínicas pouco usuais.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Corticoide e diuréticos devem ser utilizados de rotina.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “A SVCS raramente é fatal; quadros mais graves podem apresentar comprometimento de via aérea, edema cerebral e instabilidade hemodinâmica.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “Mesmo na presença de trombose, a anticoagulação está sempre contraindicada.”</li>
+</ul>
 </div>
 </div>
 
@@ -234,6 +346,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q72. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Sobre o manejo do paciente queimado no Departamento de Emergência, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A fórmula de Parkland é um dos métodos mais utilizados para calcular a ressuscitação volêmica nas primeiras 24 horas após a lesão e baseia-se inteiramente em solução de Ringer Lactato ao invés de solução fisiológica à 0,9%.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A recomendação de ressuscitação volêmica no grande queimado difere entre adultos e crianças, sendo recomendada em adultos com superfície corporal queimada maior que 10% e em crianças maior que 20%.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “A fórmula de Parkland é um dos métodos mais utilizados para calcular a ressuscitação volêmica nas primeiras 24 horas após a lesão e baseia-se inteiramente em solução de Ringer Lactato ao invés de solução fisiológica à 0,9%.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “Diferente da recomendação de 4 mL/kg/superfície corporal queimada da fórmula de Parkland, a American Burn Association recomenda volumes maiores na ressuscitação volêmica inicial, entre 5 a 6 mL/kg/superfície corporal queimada.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A reposição volêmica excessiva e agressiva durante a ressuscitação inicial, objetivando um débito urinário entre 2 e 4 mL/kg/hora, está associada a melhores desfechos e à redução da área de lesão tecidual.”</li>
+</ul>
 </div>
 </div>
 
@@ -249,6 +369,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q94. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Em comparação ao tratamento dos pacientes adultos vítimas de queimaduras, existem algumas particulares, que necessitam ser observadas no atendimento das crianças. Sobre isso, é correto afirmar:&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A ressuscitação volêmica na criança deve ser indicada bem mais precocemente com relação ao adulto, no que se diz respeito à superfície corporal queimada (superfície corporal queimada de 10 a 20%).”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não é a melhor estratégia de ressuscitação/hemocomponente para o padrão de choque, sangramento ou contexto descrito. Alternativa: “A quantidade de volume que deve ser infundida é relativamente menor do que em adultos.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A reposição de glicose na hidratação deve ser restrita a pacientes que se apresentam com hipoglicemia.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “A ressuscitação volêmica na criança deve ser indicada bem mais precocemente com relação ao adulto, no que se diz respeito à superfície corporal queimada (superfície corporal queimada de 10 a 20%).”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A analgesia em pacientes pediátricos pode ser postergada até a transferência para unidade avançada, para evitar risco de alteração neurológica.”</li>
+</ul>
 </div>
 </div>
 
@@ -264,6 +392,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME25 Q24. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;A síndrome compartimental é uma complicação grave das lesões de extremidades. O atraso no tratamento em poucas horas pode levar a dano muscular e neuronal permanente. Sobre esse tema, qual resposta está correta?&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Um dos sinais de maior sensibilidade para o diagnóstico é a piora da dor devido à mobilização passiva do membro.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “O primeiro sinal clínico presente é a parestesia, seguida da dor e da paralisia.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Um dos sinais de maior sensibilidade para o diagnóstico é a piora da dor devido à mobilização passiva do membro.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “O diagnóstico é clínico, porém, para a tomada de conduta cirúrgica, deve-se esperar exames laboratoriais, como a dosagem de creatinofosfoquinase.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “O diagnóstico é clínico, exames laboratoriais devem ser solicitados para quantificar a extensão da lesão e evolução para rabdomiólise.”</li>
+</ul>
 </div>
 </div>
 
@@ -279,6 +415,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q47. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Esta é uma questão de exceção/incorreta em ortopedia, extremidades e queimaduras. O comando central é: &quot;Assinale como verdadeiro (V) ou falso (F) as seguintes afirmativas sobre fraturas e luxações. Ao fim, escolha a alternativa correta: ( ) Para fraturas expostas, a classificação de Gustilo-Anderson é a mais utilizada na prática clí...&quot;. A alternativa C deve ser marcada porque é a afirmação problemática ou a exceção reconhecida pelo gabarito oficial.</p>
+<p><strong>Por que a C deve ser marcada:</strong> o enunciado pede a alternativa incorreta/exceção; esta é a opção que contém o problema cobrado pela banca: “F-V-V-F.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa C: “F-V-V-V.”</li>
+<li><strong>B.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa C: “V-F-V-V.”</li>
+<li><strong>C.</strong> <strong>Correta como resposta ao comando.</strong> Como a pergunta pede a incorreta/exceção, esta alternativa é a que deve ser marcada: “F-V-V-F.”</li>
+<li><strong>D.</strong> Não deve ser marcada neste comando. Em questão de exceção/incorreta, esta alternativa tende a ser aceitável, verdadeira ou menos problemática que a alternativa C: “V-F-V-F.”</li>
+</ul>
 </div>
 </div>
 
@@ -294,6 +438,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q52. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Homem de 68 anos, sem comorbidades conhecidas, é admitido no Departamento de Emergência após colisão automobilística de alta energia. Apresenta fraturas confirmadas por tomografia computadorizada em arcos costais posteriores esque...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Bloqueio do plano eretor da espinha (ESP block), com posicionamento do transdutor em orientação sagital paramediana e infusão de anestésico local profundo ao músculo eretor da espinha.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio intercostal em múltiplos níveis, com injeção de anestésico local diretamente sob a margem inferior de cada costela envolvida, entre o ângulo costal e a linha axilar média.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio do plano serrátil anterior (SAM block), com infusão de anestésico local entre o músculo serrátil anterior e a pleura.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio supraclavicular do plexo braquial, com infusão perineural no corner pocket, visando à analgesia do membro superior e hemitórax ipsilateral.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Bloqueio do plano eretor da espinha (ESP block), com posicionamento do transdutor em orientação sagital paramediana e infusão de anestésico local profundo ao músculo eretor da espinha.”</li>
+</ul>
 </div>
 </div>
 
@@ -309,6 +461,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q63. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Durante o atendimento de um paciente politraumatizado com fratura exposta de tíbia, a equipe optou por realizar um bloqueio periférico guiado por ultrassonografia como estratégia de analgesia multimodal. Considerando as técnicas...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A adição de vasoconstritor ao anestésico local pode auxiliar na identificação precoce de injeção intravascular inadvertida, mesmo em concentrações diluídas como 1:200 mil.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “A adição de vasoconstritor ao anestésico local pode auxiliar na identificação precoce de injeção intravascular inadvertida, mesmo em concentrações diluídas como 1:200 mil.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “A associação de anestésicos locais como lidocaína e bupivacaína é recomendada por seu sinergismo analgésico com menor risco de toxicidade.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “O uso de agulhas de ponta cortante é preferido em bloqueios periféricos pela facilidade de visualização ao ultrassom e menor risco de injeção intrafascicular.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “A lidocaína, por apresentar maior solubilidade lipídica e maior ligação proteica que a bupivacaína, possui maior duração analgésica, sendo preferível em procedimentos que requerem analgesia prolongada.”</li>
+</ul>
 </div>
 </div>
 
@@ -324,6 +484,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q71. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Eletricista durante trabalho com energia elétrica de alta tensão recebe uma descarga elétrica com consequente combustão da roupa e lesão térmica associada. Ao ser examinado, apresenta 10% de superfície corporal queimada de primeir...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Superfície corporal queimada de 15%, grau de complexidade alta, hidratação 4 mL × peso (kg) x % superfície corporal queimada, 1 a 1,5 mL/kg/hora débito urinário.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Superfície corporal queimada de 25%, grau de complexidade média, hidratação 4 mL × peso (kg) x % superfície corporal queimada, 1 a 1,5 mL/kg/hora de débito urinário.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Superfície corporal queimada de 15%, grau de complexidade média, hidratação 2 mL × peso (kg) x % superfície corporal queimada, 0,5 mL/kg/hora de débito urinário.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Superfície corporal queimada de 25%, grau de complexidade alta, hidratação 2 mL × peso (kg) x % superfície corporal queimada, 1 mL/kg/hora de débito urinário.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Superfície corporal queimada de 15%, grau de complexidade alta, hidratação 4 mL × peso (kg) x % superfície corporal queimada, 1 a 1,5 mL/kg/hora débito urinário.”</li>
+</ul>
 </div>
 </div>
 
@@ -339,6 +507,14 @@ Banco do tema 021 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME25 Q76. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de ortopedia, extremidades e queimaduras, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 35 anos é admitido no Departamento de Emergência após acidente automobilístico em zona urbana. Apresenta fratura exposta de tíbia proximal, com ferida extensa de 12 cm, contaminada por terra. Não há evidências de lesão...&quot;. A leitura de prova deve priorizar ameaça ao membro/vida: vascular, compartimental, fratura exposta, analgesia, imobilização e queimadura; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Cefazolina 1 g por via endovenosa a cada 8 horas e gentamicina 5 mg/kg por via endovenosa, por 24 a 72 horas.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Cefazolina 1 g por via endovenosa a cada 8 horas, por 24 a 72 horas, ou até o desbridamento cirúrgico.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de ortopedia, extremidades e queimaduras, esta opção responde melhor à prioridade da questão: “Cefazolina 1 g por via endovenosa a cada 8 horas e gentamicina 5 mg/kg por via endovenosa, por 24 a 72 horas.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de ortopedia, extremidades e queimaduras; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Cefazolina 1 g por via endovenosa a cada 8 horas e metronidazol 500 mg por via endovenosa a cada 8 horas, por 24 a 72 horas.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Vancomicina 1 g por via endovenosa a cada 12 horas e piperacilina-tazobactam 4,5 g por via endovenosa a cada 6 horas, por 24 a 72 horas.”</li>
+</ul>
 </div>
 </div>
 

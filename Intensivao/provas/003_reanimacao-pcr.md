@@ -22,6 +22,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q6. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Referência para Questões 6 e 7: Paciente de 19 anos é trazido ao DE por familiares. Você verifica que ele está inconsciente e não apresenta pulso. Qual das seguintes estratégias deve ser realizada de modo prioritário?&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar Compressões cardíacas na frequência de 100 a 120 por minuto”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Iniciar Compressões cardíacas na frequência de 100 a 120 por minuto”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Realizar IOT”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Iniciar Infusão de Adrenalina EV”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Ventilações Assistidas na velocidade de 10 por minuto”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q7. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Referência para Questões 6 e 7: Paciente de 19 anos é trazido ao DE por familiares. Você verifica que ele está inconsciente e não apresenta pulso. Você administrou 02 choques não sincronizados de 200 J no paciente acima. Foram rei...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Considerar via aérea avançada e colocação de capnografia em formato de onda contínua”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Administrar amiodarona EV 300 mg”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Considerar via aérea avançada e colocação de capnografia em formato de onda contínua”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Considerar causas reversíveis”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Administração de lidocaína EV 1 mg/kg”</li>
+</ul>
 </div>
 </div>
 
@@ -53,6 +69,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q22. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Mulher 34 anos deu entrada no Departamento de Emergência inconsciente mas com pulso central presente. Apresentava o ECG mostrado abaixo. Apesar dos esforços iniciais da equipe, a paciente desenvolve parada cardiorrespiratória com...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Hipotermia”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Hipercalemia”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Hipercalcemia”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Hipotermia”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Hipocalemia”</li>
+</ul>
 </div>
 </div>
 
@@ -69,6 +93,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q50. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Paciente chega ao departamento de emergência, conduzido pelo SAMU, em parada cardiorrespiratória, em vigência de Reanimação Cardiopulmonar (RCP). Seu colega assume a condução da RCP e te pede para auxiliá-lo com o ultrassom. Utili...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Alteplase EV”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Alteplase EV”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Toracotomia de reanimação”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Toracocentese de alívio”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Pericardiocentese de alívio”</li>
+</ul>
 </div>
 </div>
 
@@ -84,6 +116,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME22 Q82. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Equipe do Atendimento pré-hospitalar chega em local de acidente automobilístico, carro X carro, apresentando 2 vítimas graves, ao retirar a primeira vítima, esta é encaminhada para o DE mais próximo, ela é admitida em bradicardia...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pode ser realizada após os primeiros 4 minutos de manobras de RCP se PCR persistente.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Não deve ser realizada pois a paciente está com provavelmente com menos de 24 semanas de gestação”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Não deve ser realizada pois a paciente apresentou PCR em AESP o que contra-indica o procedimento”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Pode ser realizada para tentativa de socorrer o feto se este tiver batimento cardíaco fetal positivo.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Pode ser realizada após os primeiros 4 minutos de manobras de RCP se PCR persistente.”</li>
+</ul>
 </div>
 </div>
 
@@ -99,6 +139,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q102. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Criança de 06 anos, 25 kg, deu entrada no Departamento de Emergência inconsciente. Iniciada avaliação primária e detectou-se PCR. Iniciada RCP de alta qualidade e na análise do ritmo cardíaco observou-se o seguinte ritmo: Qual a s...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Desfibrilação com 2 a 4 J/Kg g”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Desfibrilação com 2 a 4 J/Kg g”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Cardioversão com 2 a 4 J/Kg”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Desfibrilação com 4 a 6 J/Kg”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Desfibrilação com 0,5 a 2 J/K”</li>
+</ul>
 </div>
 </div>
 
@@ -114,6 +162,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q119. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;De acordo com as Diretrizes do ILCOR de 2020, qual a relação de compressões e ventilações em um paciente lactente com 01 socorrista?&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “30 compressões e 02 ventilações”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “15 compressões e 02 ventilações”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “05 compressões e 01 ventilação”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “30 compressões e 02 ventilações”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “15 compressões e 01 ventilação”</li>
+</ul>
 </div>
 </div>
 
@@ -129,6 +185,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME23 Q7. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Na identificação da Parada Cardiorrespiratória na gestação deve ser considerada a realização do parto cesáreo perimortem. Admite-se que o parto cesárea perimortem está relacionado à sobrevida materna em 31,7% e sem efeito prejudic...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar as compressões torácicas otimizadas em superfície rígida, com compressões e 02 ventilações com dispositivo bolsa–válvula–máscara; analisar ritmo cardíaco o mais rapidamente possível e se for ritmo chocável, administrar cho...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar as compressões torácicas otimizadas em superfície rígida, com compressões e 02 ventilações com dispositivo bolsa–válvula–máscara; analisar ritmo cardíaco o mais rapidamente possível e se for ritmo chocável, administrar cho...”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Iniciar as compressões torácicas otimizadas em superfície rígida, com compressões e 02 ventilações com dispositivo bolsa–válvula–máscara; analisar ritmo cardíaco o mais rapidamente possível e se for ritmo chocável, administrar cho...”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar as compressões torácicas otimizadas em superfície rígida, com compressões e 02 ventilações com dispositivo bolsa–válvula–máscara; analisar ritmo cardíaco o mais rapidamente possível e se for ritmo chocável, administrar cho...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar as compressões torácicas otimizadas em superfície rígida, com compressões e 02 ventilações com dispositivo bolsa–válvula–máscara; analisar ritmo cardíaco o mais rapidamente possível e se for ritmo chocável, administrar cho...”</li>
+</ul>
 </div>
 </div>
 
@@ -144,6 +208,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME23 Q23. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;A unidade de atendimento pré-hospitalar onde você trabalha é acionada para avaliar paciente em possível parada cardiorrespiratória sabidamente cardiopata. Ao chegar na cena, você verifica que paciente já está em óbito, o mesmo est...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pode constatar o óbito e por não poder descartar causa externa do óbito, encaminhar ao Instituto Médico Legal (IML).”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Por não haver lesões externas, pode constatar o óbito e realizar a declaração de óbito;”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Por não haver lesões externas, pode constatar o óbito e encaminhar o corpo ao serviço de verificação de óbito (SVO);”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Pode somente constatar o óbito;”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Pode constatar o óbito e por não poder descartar causa externa do óbito, encaminhar ao Instituto Médico Legal (IML).”</li>
+</ul>
 </div>
 </div>
 
@@ -159,6 +231,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q33. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Assinale a alternativa correta em relação ao atendimento a um paciente vítima de afogamento, que permaneceu submerso por quarenta minutos e foi retirado da água inconsciente e sem respirar:&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A primeira medida a ser tomada é o posicionamento da via aérea e a realização de cinco ventilações de resgate”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “A primeira medida a ser tomada é o posicionamento da via aérea e a realização de cinco ventilações de resgate”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Durante as manobras de reanimação, deve-se deixar a cabeça do paciente abaixo do nível do restante do corpo, na tentativa de se otimizar a eliminação do líquido aspirado”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Caso não haja resposta às manobras iniciais de ventilação, a reanimação não deve prosseguir neste caso, devido ao tempo de submersão”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Caso haja resposta às manobras iniciais de ventilação, este paciente deve ser classificado como um afogamento Grau 6 e deve-se prosseguir com as manobras de RCP”</li>
+</ul>
 </div>
 </div>
 
@@ -174,6 +254,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q37. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Caso clínico para as questões 36, 37 e 38: Você está atendendo um paciente de 59 anos vítima de Parada Cardiorrespiratória em ritmo chocável após retorno à circulação espontânea. Foram administrados 04 (quatro) choques desfibrilad...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Retirar o tubo orotraqueal e reintubar o paciente”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Aspirar secreções”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Colocar o paciente em prona”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Retirar o tubo orotraqueal e reintubar o paciente”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Aumentar os parâmetros do ventilador devido ao baixo volume corrente do paciente”</li>
+</ul>
 </div>
 </div>
 
@@ -190,6 +278,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q62. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Para o uso adequado da ultrassonografia beira-leito (POCUS) na parada cardiorrespiratória, deve-se contar com equipe com dimensionamento adequado (direcionando um profissional médico exclusivamente para realização do exame), com c...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “V-V-F-V-F”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “V-V-F-V-F”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “F-V-F-V-F”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “V-V-V-F-V”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “F-F-F-V-V”</li>
+</ul>
 </div>
 </div>
 
@@ -205,6 +301,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME23 Q89. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Em relação ao atendimento a uma parada cardiorrespiratória de origem traumática, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Paciente vítima de trauma penetrante, sem sinais de vida na chegada ao departamento de emergência, com evidência de tamponamento cardíaco ao POCUS, deve ter a toracotomia considerada em sua abordagem inicial”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Paciente vítima de trauma penetrante, sem sinais de vida na chegada ao departamento de emergência, com evidência de tamponamento cardíaco ao POCUS, deve ter a toracotomia considerada em sua abordagem inicial”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “Paciente vítima de trauma fechado, sem sinais de vida na chegada ao departamento de emergência, com evidência de tamponamento cardíaco ao POCUS, deve ter a toracotomia considerada em sua abordagem inicial caso tenha sido reanimado...”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “Paciente vítima de trauma fechado, com ritmo cardíaco organizado à monitorização na chegada ao DE, sem evidência de atividade cardíaca organizada ao ultrassom beira-leito, não tem indicação de ser reanimado”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “Paciente vítima de trauma penetrante, sem sinais de vida na chegada ao departamento de emergência e sem evidência de tamponamento cardíaco ao POCUS, deve ter a toracotomia considerada em sua abordagem inicial caso tenha sido reani...”</li>
+</ul>
 </div>
 </div>
 
@@ -220,6 +324,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q15. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Lactente de 6 meses com quadro de bronquiolite em observação aguardando transferência para Serviço Pediátrico. Você vai reavaliar o paciente e o encontra desacordado, com esforço respiratório muito grave e palidez cutânea intensa...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar ventilação com pressão positiva conectada à fonte de oxigênio e reavaliar a frequência cardíaca e sinais de choque. Iniciar compressões e ventilações, se não houver melhora.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar oxigênio em alto fluxo por máscara facial e expansão volêmica, devido aos sinais de choque.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Iniciar ventilação com pressão positiva conectada à fonte de oxigênio e reavaliar a frequência cardíaca e sinais de choque. Iniciar compressões e ventilações, se não houver melhora.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Estimular, aquecer e realizar atropina na dose de 0,02 mg/kg por via endovenosa ou intraóssea. Iniciar a ventilação com pressão positiva.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar compressões alternando com ventilações e administrar bólus de epinefrina por via endovenosa ou intraóssea.”</li>
+</ul>
 </div>
 </div>
 
@@ -235,6 +347,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q51. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Sobre paradas cardiorrespiratórias, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pode-se realizar a trombólise durante a reanimação cardiopulmonar, preferencialmente nos 10 primeiros minutos de parada cardiorrespiratória.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “A infusão contínua de vasopressores não deve ser utilizada em parada cardiorrespiratória, optando-se por medicações em bólus.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Pode-se realizar a trombólise durante a reanimação cardiopulmonar, preferencialmente nos 10 primeiros minutos de parada cardiorrespiratória.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Está contraindicada a trombólise nos pacientes comatosos após retorno à circulação espontânea mesmo que a suspeita seja de parada cardiorrespiratória por causa cardíaca.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Em pacientes com cardioversor/desfibrilador implantado não se deve realizar desfibrilação elétrica pelo risco de disfunção do aparelho.”</li>
+</ul>
 </div>
 </div>
 
@@ -250,6 +370,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME24 Q63. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Sulfato de magnésio por via intravenosa empírica, na dose de 1 a 2 g, deve ser evitado.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “A cardioversão elétrica em pacientes instáveis com TdP só pode ser realizada se houver sincronização.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Antiarrítmicos classe IA (procainamida) ou IC (propafenona) devem ser utilizados para controle da arritmia.”</li>
+</ul>
 </div>
 </div>
 
@@ -265,6 +393,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q67. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Sobre tamponamento cardíaco, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A presença de baixa voltagem na cardioscopia é achado compatível com tamponamento cardíaco traumático.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A presença de distensão jugular confirma tamponamento cardíaco.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A pericardiocentese é um tratamento eficaz para parada cardiorrespiratória (PCR) por tamponamento cardíaco traumático.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “A presença de baixa voltagem na cardioscopia é achado compatível com tamponamento cardíaco traumático.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “A toracotomia de reanimação deve ser realizada sempre que a causa da PCR for tamponamento cardíaco.”</li>
+</ul>
 </div>
 </div>
 
@@ -280,6 +416,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME24 Q82. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 28 anos é encontrado com pulso central fraco e sem resposta ao estímulo em via pública; segundo relato de amigos, é usuário de drogas. À ectoscopia, presença de pó branco nas narinas. Evolui para parada cardiorrespirat...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar manobras de ressuscitação; iniciar infusão de bicarbonato de sódio por via endovenosa; usar preferencialmente a lidocaína, caso seja indicado antiarrítmico durante a assistência.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar manobras de ressuscitação; evitar uso de epinefrina; iniciar amiodarona precocemente em caso de ritmos chocáveis ao monitor; realizar intubação assim que possível.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Iniciar manobras de ressuscitação; iniciar infusão de bicarbonato de sódio por via endovenosa; usar preferencialmente a lidocaína, caso seja indicado antiarrítmico durante a assistência.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “Administrar naloxona; iniciar manobras de ressuscitação; manter medidas usuais, como uso de epinefrina e amiodarona, conforme indicado na abordagem geral do paciente em parada cardiorrespiratória.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa B. Alternativa: “Iniciar reanimação cardiopulmonar e infusão de benzodiazepínico e trombolítico por via endovenosa e manter a medicação durante a assistência.”</li>
+</ul>
 </div>
 </div>
 
@@ -296,6 +440,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q97. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Durante o manejo de uma parada cardiorrespiratória, o paciente subitamente apresenta a curva abaixo no monitor multiparamétrico. Marque a alternativa que melhor descreve o que provavelmente aconteceu com o paciente: Fonte: Ward I...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Houve provável retorno à circulação espontânea.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Houve redução da qualidade da compressão torácica.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Houve extubação do paciente.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Houve provável retorno à circulação espontânea.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Houve troca do dispositivo de via aérea.”</li>
+</ul>
 </div>
 </div>
 
@@ -311,6 +463,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q99. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Homem, de 58 anos, encaminhado da unidade de pronto atendimento devido a episódio súbito de dor torácica, seguida de rebaixamento de consciência e perda de pulso central. Recebeu Suporte Avançado de Vida na origem, com ressuscitaç...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Após realizar exame de neuroimagem com achado compatível com o diagnóstico de ME, correção da hipotermia e tempo de observação hospitalar maior que 24 horas.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Após 6 horas da admissão hospitalar e após aguardar cinco meia-vidas do desligamento da sedação, desde que mantidos os parâmetros hemodinâmicos da admissão.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “Após avaliar exames laboratoriais para identificar disfunção orgânica e decidir sobre se tratar ou não de potencial doador de órgãos.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Após realizar prova de fluxo cerebral (Doppler transcraniano ou arteriografia cerebral) ou prova de atividade elétrica cerebral (eletroencefalograma).”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Após realizar exame de neuroimagem com achado compatível com o diagnóstico de ME, correção da hipotermia e tempo de observação hospitalar maior que 24 horas.”</li>
+</ul>
 </div>
 </div>
 
@@ -326,6 +486,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q45. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Você está na praia e percebe que um adulto jovem está se afogando a poucos metros de você e se dirige até o local onde ele está para prestar socorro. Ao alcançá-lo, você percebe que ele está inconsciente. Você percebe que uma equi...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Iniciar ventilação ainda dentro da água (boca a boca), aspirar vias aéreas e promover intubação orotraqueal assim que possível, mantendo ressuscitação cardiopulmonar na proporção de duas ventilações a cada 15 compressões; permanec...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Iniciar ventilação ainda dentro da água (boca a boca), aspirar vias aéreas e promover intubação orotraqueal assim que possível, mantendo ressuscitação cardiopulmonar na proporção de duas ventilações a cada 15 compressões; permanec...”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar ventilação assim que o paciente estiver sobre superfície rígida, posicionar colar cervical precocemente, iniciar manobras de ressuscitação cardiopulmonar na proporção duas ventilações a cada 15 compressões e orientar deslo...”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar ventilação ainda dentro da água (boca a boca), promover manobra de compressão abdominal (Heimlich) para remover a água dos pulmões assim que possível e iniciar manobras de ressuscitação cardiopulmonar na proporção duas ven...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Iniciar ventilação assim que o paciente estiver sobre superfície rígida, preferencialmente colocando a vítima com a cabeça abaixo do nível do corpo; aspirar vias aéreas; iniciar manobras de ressuscitação cardiopulmonar na proporçã...”</li>
+</ul>
 </div>
 </div>
 
@@ -342,6 +510,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q55. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Você está liderando uma reanimação cardiopulmonar de ritmo inicial fibrilação ventricular, em que já foram realizadas quatro desfibrilações e uma dose de adrenalina 1 mg e de amiodarona 300 mg. Paciente 52 anos, previamente hipert...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Trocar os vetores das pás dos desfibriladores, considerando fibrilação ventricular refratária.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Trocar os vetores das pás dos desfibriladores, considerando fibrilação ventricular refratária.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Trombólise farmacológica com tenecteplase, considerando principal hipótese diagnóstica de síndrome coronariana aguda.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Garantir a intubação orotraqueal e descartar hipóxia como uma das causas da parada cardiorrespiratória.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Realizar a troca da pessoa que está realizando as compressões torácicas.”</li>
+</ul>
 </div>
 </div>
 
@@ -357,6 +533,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q83. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Durante o manejo pós-retorno da circulação espontânea em uma criança de 4 anos após parada cardiorrespiratória, a equipe inicia ventilação mecânica e suporte hemodinâmico. Considerando as diretrizes da American Heart Association d...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Correção rigorosa da hipotensão com vasopressores para manter a pressão arterial sistólica ≥ p50 para a idade.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Manutenção da fração inspirada de oxigênio em 100% durante as primeiras 24 horas, visando à oxigenação máxima e neuroproteção.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: antecipa ou desloca suporte ventilatório sem ser a melhor resposta para a prioridade central deste enunciado. Alternativa: “Utilização de dióxido de carbono expirado como marcador confiável de normocapnia para ajuste da ventilação no pós-parada cardiorrespiratória.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Correção rigorosa da hipotensão com vasopressores para manter a pressão arterial sistólica ≥ p50 para a idade.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de reanimação/PCR; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Administração rotineira de bicarbonato de sódio para correção da acidose metabólica observada após retorno da circulação espontânea.”</li>
+</ul>
 </div>
 </div>
 
@@ -372,6 +556,14 @@ Banco do tema 003 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q94. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de reanimação/PCR, o comando central é reconhecer a melhor resposta para: &quot;Um paciente do sexo masculino de 85 anos, com diagnóstico de doença de Alzheimer (Frailty Scale 5, levemente frágil), é admitido no Departamento de Emergência em parada cardiorrespiratória após ter sido encontrado caído em decúbit...&quot;. A leitura de prova deve priorizar RCP de alta qualidade, ritmo, choque quando indicado, drogas no tempo certo, causas reversíveis e pós-RCE; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Providenciar o encaminhamento do corpo ao Instituto Médico Legal e registrar detalhadamente todos os achados no prontuário.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Fornecer a Declaração de Óbito com a causa da morte CID 10 R96 – Outras mortes súbitas de causa desconhecida – e liberar o corpo para a família, orientando sobre os trâmites funerários.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Notificar o Serviço de Verificação de Óbito (SVO) para que realize a necropsia e emita a Declaração de Óbito, dada a causa desconhecida e a idade avançada do paciente.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de reanimação/PCR, esta opção responde melhor à prioridade da questão: “Providenciar o encaminhamento do corpo ao Instituto Médico Legal e registrar detalhadamente todos os achados no prontuário.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Realizar uma reunião com a família para discutir o histórico clínico do paciente e preencher a Declaração de Óbito com base em comorbidades relatadas.”</li>
+</ul>
 </div>
 </div>
 

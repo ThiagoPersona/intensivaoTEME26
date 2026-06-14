@@ -22,6 +22,14 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME22 Q40. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de procedimentos, analgesia e sedação, o comando central é reconhecer a melhor resposta para: &quot;Paciente feminina, 24 anos, dá entrada por meios próprios no DE devido a abaulamento doloroso em região escapular direita há 3 dias. Nega comorbidades, nega febre. Está em bom estado geral, consciente, orientada, hidratada, afebri...&quot;. A leitura de prova deve priorizar indicação, contraindicação, analgesia adequada, sedação segura, monitorização e técnica; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com orientações”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de procedimentos, analgesia e sedação, esta opção responde melhor à prioridade da questão: “Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com orientações”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Anestesia/sedação, incisão local, drenagem, limpeza, curativo e alta com prescrição de clindamicina”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Iniciar clindamicina e solicitar avaliação do cirurgião”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Iniciar ampicilina EV e realizar incisão local seguida de drenagem e curativo”</li>
+</ul>
 </div>
 </div>
 
@@ -37,6 +45,14 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: TEME22 Q63. Gabarito oficial: B.</p>
+<p><strong>Comentário:</strong> Nesta questão de procedimentos, analgesia e sedação, o comando central é reconhecer a melhor resposta para: &quot;Paciente do sexo feminino, 35 anos, com diagnóstico de esclerose sistêmica difusa há cerca de 1 ano, em acompanhamento no ambulatório de Reumatologia, dá entrada no pronto socorro com crises convulsivas de difícil controle. Exame...&quot;. A leitura de prova deve priorizar indicação, contraindicação, analgesia adequada, sedação segura, monitorização e técnica; por isso a alternativa B é a que melhor fecha o caso.</p>
+<p><strong>Por que a B é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Captopril 25mg de 8 em 8 horas.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Pulsoterapia com metilprednisolona 1g IV por 3 dias.”</li>
+<li><strong>B.</strong> <strong>Correta.</strong> No contexto de procedimentos, analgesia e sedação, esta opção responde melhor à prioridade da questão: “Captopril 25mg de 8 em 8 horas.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Pulsoterapia com ciclofosfamida 1g IV por 1 dia.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não fecha o diagnóstico mais provável quando se juntam os dados-chave do enunciado. Alternativa: “Prednisona oral 2mg/kg/dia.”</li>
+</ul>
 </div>
 </div>
 
@@ -52,6 +68,14 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME22 Q97. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de procedimentos, analgesia e sedação, o comando central é reconhecer a melhor resposta para: &quot;Em relação à abordagem do paciente com dor abdominal no Departamento de Emergência, assinale a alternativa correta:&quot;. A leitura de prova deve priorizar indicação, contraindicação, analgesia adequada, sedação segura, monitorização e técnica; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O leucograma normal não exclui a possibilidade de abdome agudo inflamatório”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “A analgesia com opioides deve ser evitada, pois interfere no processo de investigação diagnóstica e tratamento”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Mais de 40% dos pacientes não terão a etiologia da dor definida do Departamento de Emergência, devendo ser admitidos para complementação da investigação”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de procedimentos, analgesia e sedação, esta opção responde melhor à prioridade da questão: “O leucograma normal não exclui a possibilidade de abdome agudo inflamatório”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A tomografia computadorizada tem acurácia superior ao ultrassom para o diagnóstico de dor originária do trato biliar”</li>
+</ul>
 </div>
 </div>
 
@@ -68,6 +92,14 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME24 Q41. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de procedimentos, analgesia e sedação, o comando central é reconhecer a melhor resposta para: &quot;Sobre a indicação de bloqueios anestésicos guiados por ultrassom point-of-care (PoCUS) realizados no Departamento de Emergência, assinale a alternativa que correlaciona adequadamente o bloqueio e a respectiva analgesia oferecida:&quot;. A leitura de prova deve priorizar indicação, contraindicação, analgesia adequada, sedação segura, monitorização e técnica; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Bloqueio ciático por abordagem poplítea/ fratura de maléolo lateral de tornozelo.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio femoral/ fratura de terço médio da tíbia.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio da fáscia ilíaca/ fratura de terço médio da tíbia.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio ciático por abordagem poplítea/ fratura de côndilo medial de tíbia.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de procedimentos, analgesia e sedação, esta opção responde melhor à prioridade da questão: “Bloqueio ciático por abordagem poplítea/ fratura de maléolo lateral de tornozelo.”</li>
+</ul>
 </div>
 </div>
 
@@ -83,6 +115,14 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME24 Q63. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de procedimentos, analgesia e sedação, o comando central é reconhecer a melhor resposta para: &quot;Sobre a torsades de pointes (TdP) adquirida, é correto afirmar que:&quot;. A leitura de prova deve priorizar indicação, contraindicação, analgesia adequada, sedação segura, monitorização e técnica; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de procedimentos, analgesia e sedação, esta opção responde melhor à prioridade da questão: “Para prevenir a ocorrência de TdP, pode ser necessário realizar um overdrivepacing, mantendo a frequência entre 100 e 120.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Sulfato de magnésio por via intravenosa empírica, na dose de 1 a 2 g, deve ser evitado.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “A cardioversão elétrica em pacientes instáveis com TdP só pode ser realizada se houver sincronização.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Antiarrítmicos classe IA (procainamida) ou IC (propafenona) devem ser utilizados para controle da arritmia.”</li>
+</ul>
 </div>
 </div>
 
@@ -98,6 +138,14 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q52. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de procedimentos, analgesia e sedação, o comando central é reconhecer a melhor resposta para: &quot;Homem de 68 anos, sem comorbidades conhecidas, é admitido no Departamento de Emergência após colisão automobilística de alta energia. Apresenta fraturas confirmadas por tomografia computadorizada em arcos costais posteriores esque...&quot;. A leitura de prova deve priorizar indicação, contraindicação, analgesia adequada, sedação segura, monitorização e técnica; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Bloqueio do plano eretor da espinha (ESP block), com posicionamento do transdutor em orientação sagital paramediana e infusão de anestésico local profundo ao músculo eretor da espinha.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio intercostal em múltiplos níveis, com injeção de anestésico local diretamente sob a margem inferior de cada costela envolvida, entre o ângulo costal e a linha axilar média.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio do plano serrátil anterior (SAM block), com infusão de anestésico local entre o músculo serrátil anterior e a pleura.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de procedimentos, analgesia e sedação; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Bloqueio supraclavicular do plexo braquial, com infusão perineural no corner pocket, visando à analgesia do membro superior e hemitórax ipsilateral.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de procedimentos, analgesia e sedação, esta opção responde melhor à prioridade da questão: “Bloqueio do plano eretor da espinha (ESP block), com posicionamento do transdutor em orientação sagital paramediana e infusão de anestésico local profundo ao músculo eretor da espinha.”</li>
+</ul>
 </div>
 </div>
 
@@ -113,5 +161,13 @@ Banco do tema 023 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q63. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de procedimentos, analgesia e sedação, o comando central é reconhecer a melhor resposta para: &quot;Durante o atendimento de um paciente politraumatizado com fratura exposta de tíbia, a equipe optou por realizar um bloqueio periférico guiado por ultrassonografia como estratégia de analgesia multimodal. Considerando as técnicas...&quot;. A leitura de prova deve priorizar indicação, contraindicação, analgesia adequada, sedação segura, monitorização e técnica; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A adição de vasoconstritor ao anestésico local pode auxiliar na identificação precoce de injeção intravascular inadvertida, mesmo em concentrações diluídas como 1:200 mil.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de procedimentos, analgesia e sedação, esta opção responde melhor à prioridade da questão: “A adição de vasoconstritor ao anestésico local pode auxiliar na identificação precoce de injeção intravascular inadvertida, mesmo em concentrações diluídas como 1:200 mil.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “A associação de anestésicos locais como lidocaína e bupivacaína é recomendada por seu sinergismo analgésico com menor risco de toxicidade.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: interpreta ou usa o ultrassom fora da pergunta clínica principal; POCUS deve ligar achado, contexto e conduta. Alternativa: “O uso de agulhas de ponta cortante é preferido em bloqueios periféricos pela facilidade de visualização ao ultrassom e menor risco de injeção intrafascicular.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não respeita tão bem a sequência do algoritmo, o ritmo, a estabilidade ou o momento terapêutico cobrado. Alternativa: “A lidocaína, por apresentar maior solubilidade lipídica e maior ligação proteica que a bupivacaína, possui maior duração analgésica, sendo preferível em procedimentos que requerem analgesia prolongada.”</li>
+</ul>
 </div>
 </div>

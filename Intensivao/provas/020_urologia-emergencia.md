@@ -23,6 +23,14 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME23 Q32. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de urologia, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 29 anos com quadro de lombar e testicular à esquerda de forte intensidade há 02 horas associada a náuseas e vômitos. Procura a Unidade de Pronto Atendimento referindo 03 episódios de dor intensa nos últimos 07 dias. Ao...&quot;. A leitura de prova deve priorizar tempo para salvar função, dor testicular, obstrução, infecção urinária grave e retenção; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Pielonefrite aguda com provável obstrução (hidronefrose) + antibioticoterapia endovenosa e desobstrução ureteral”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Diverticulite aguda não complicada + antibioticoterapia endovenosa”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Orquiepidimite aguda + antibioticoterapia endovenosa”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de urologia, esta opção responde melhor à prioridade da questão: “Pielonefrite aguda com provável obstrução (hidronefrose) + antibioticoterapia endovenosa e desobstrução ureteral”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de urologia; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “Apendicite aguda + Apendicectomia”</li>
+</ul>
 </div>
 </div>
 
@@ -39,6 +47,14 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME24 Q40. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> Nesta questão de urologia, o comando central é reconhecer a melhor resposta para: &quot;Homem, 38 anos, com dor abdominal há 3 dias localizada em flanco esquerdo do tipo cólica de forte intensidade associada a náuseas e vômitos. Paciente clinicamente estável e exame físico do abdome sem sinais de peritonite. Realizad...&quot;. A leitura de prova deve priorizar tempo para salvar função, dor testicular, obstrução, infecção urinária grave e retenção; por isso a alternativa C é a que melhor fecha o caso.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “A imagem evidencia hidronefrose importante à esquerda. Diante do quadro clínico e dos exames laboratoriais, a hipótese diagnóstica é pielonefrite obstrutiva. Nesses casos, além da antibioticoterapia e do manejo da dor, é fundament...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: tende a atrasar uma decisão tempo-dependente ou subestimar sinais de gravidade descritos no caso. Alternativa: “Na imagem há sinais de hidronefrose leve. Quadro clínico sugere ureterolitíase sem complicações. Tratamento ambulatorial com analgesia e antibioticoterapia para infecção urinária não complicada.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A imagem mostra a presença de líquido livre no espaço esplenorrenal, sendo necessária tomografia computadorizada contrastada para avaliar outras possibilidades diagnósticas.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de urologia, esta opção responde melhor à prioridade da questão: “A imagem evidencia hidronefrose importante à esquerda. Diante do quadro clínico e dos exames laboratoriais, a hipótese diagnóstica é pielonefrite obstrutiva. Nesses casos, além da antibioticoterapia e do manejo da dor, é fundament...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: prioriza confirmação diagnóstica ou exame complementar quando o comando da questão favorece conduta inicial, estabilização ou decisão mais direta. Alternativa: “A imagem sugere sinais de dilatação de alças de intestino delgado, sugerindo diagnóstico de abdome agudo obstrutivo. É fundamental, nesse caso, a realização de tomografia de abdome com contraste e avaliação cirúrgica na sequência.”</li>
+</ul>
 </div>
 </div>
 
@@ -54,6 +70,14 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: TEME25 Q51. Gabarito oficial: D.</p>
+<p><strong>Comentário:</strong> Nesta questão de urologia, o comando central é reconhecer a melhor resposta para: &quot;Paciente com 35 anos está em observação no Departamento de Emergência devido a quadro de cólica nefrética com dor lombar intensa. Recebeu medicações analgésicas; enquanto recebia as medicações, queixou-se de desconforto gastrointe...&quot;. A leitura de prova deve priorizar tempo para salvar função, dor testicular, obstrução, infecção urinária grave e retenção; por isso a alternativa D é a que melhor fecha o caso.</p>
+<p><strong>Por que a D é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Adrenalina 0,5 mg por via intramuscular.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não corresponde ao melhor antimicrobiano, momento ou síndrome de gravidade apresentada no enunciado. Alternativa: “Ceftriaxona 2 g por via endovenosa.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de urologia; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Hidrocortisona 500 mg por via endovenosa e difenidramina 50 mg por via endovenosa.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de urologia; fica menos completa, menos segura ou menos direta que a alternativa D. Alternativa: “Trombólise endovenosa com alteplase 100 mg em 2 horas.”</li>
+<li><strong>D.</strong> <strong>Correta.</strong> No contexto de urologia, esta opção responde melhor à prioridade da questão: “Adrenalina 0,5 mg por via intramuscular.”</li>
+</ul>
 </div>
 </div>
 
@@ -69,6 +93,14 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: TEME25 Q99. Gabarito oficial: C.</p>
+<p><strong>Comentário:</strong> O gatilho da questão é: dor testicular súbita, náuseas/vômitos e sinais clínicos de torção. Urologia na emergência cobra não perder rim/testículo: infectado obstruído drena; torção não espera exame perfeito. As erradas são tentadoras porque atrasam prioridade, exageram uma exceção ou fecham diagnóstico sem reavaliar.</p>
+<p><strong>Por que a C é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “O fenobarbital permanece como a medicação de primeira linha para crise convulsiva no período neonatal, sendo administrado inicialmente em dose de ataque de 20 mg/kg por via intravenosa, com possibilidade de repetição até 40 mg/kg/...”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de urologia; fica menos completa, menos segura ou menos direta que a alternativa C. Alternativa: “O diazepam é a droga de primeira escolha por via intravenosa no neonato, devido à sua rápida ação e ao menor risco de encefalopatia bilirrubínica.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: traz uma escolha de fármaco/técnica que não é a mais alinhada à fisiologia, dose, sequência ou segurança exigida pelo cenário. Alternativa: “O midazolam é o anticonvulsivante de primeira linha em neonatos, com doses tituladas a partir de 0,1 mg/kg/hora em infusão contínua, sendo preferida ao fenobarbital por apresentar menos efeitos adversos.”</li>
+<li><strong>C.</strong> <strong>Correta.</strong> No contexto de urologia, esta opção responde melhor à prioridade da questão: “O fenobarbital permanece como a medicação de primeira linha para crise convulsiva no período neonatal, sendo administrado inicialmente em dose de ataque de 20 mg/kg por via intravenosa, com possibilidade de repetição até 40 mg/kg/...”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: usa linguagem absoluta ou indiscriminada; em emergência, a banca costuma rejeitar “sempre/nunca” quando o cenário exige indicação contextual. Alternativa: “A fenitoína deve ser utilizada como primeira linha em todos os neonatos com crises convulsivas, sendo preferível ao fenobarbital devido ao seu menor potencial de depressão respiratória e melhor tolerabilidade.”</li>
+</ul>
 </div>
 </div>
 
@@ -84,5 +116,13 @@ Banco do tema 020 refeito em formato mais parecido com a prova: enunciado e alte
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: TEME25 Q100. Gabarito oficial: A.</p>
+<p><strong>Comentário:</strong> Nesta questão de urologia, o comando central é reconhecer a melhor resposta para: &quot;Paciente de 16 anos se apresenta ao Departamento de Emergência com quadro de dor testicular esquerda súbita, associado a náuseas e vômitos. Nega sintomas urinários. Quais dos sinais clínicos a seguir torna a suspeita de torção tes...&quot;. A leitura de prova deve priorizar tempo para salvar função, dor testicular, obstrução, infecção urinária grave e retenção; por isso a alternativa A é a que melhor fecha o caso.</p>
+<p><strong>Por que a A é a melhor:</strong> ela corresponde ao gabarito oficial e é a opção que melhor atende ao ponto cobrado no enunciado: “Apenas I e II estão corretas.”</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Correta.</strong> No contexto de urologia, esta opção responde melhor à prioridade da questão: “Apenas I e II estão corretas.”</li>
+<li><strong>B.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de urologia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Apenas III e IV estão corretas.”</li>
+<li><strong>C.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de urologia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Apenas I, III e IV estão corretas.”</li>
+<li><strong>D.</strong> Incorreta como melhor resposta: não acompanha tão bem a prioridade de urologia; fica menos completa, menos segura ou menos direta que a alternativa A. Alternativa: “Apenas I, II e III estão corretas.”</li>
+</ul>
 </div>
 </div>
