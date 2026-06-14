@@ -3,6 +3,8 @@
 Treino do tema 01, baseado no padrão das provas TEME22-25 e nas estações práticas de via aérea/VM. Resolva como prova: escolha a melhor alternativa, depois clique em **Checar resposta**.
 
 > Questões reescritas para estudo, sem cópia literal dos cadernos. Use como treino de raciocínio e revisão das pegadinhas.
+>
+> Este piloto tem **10 questões selecionadas** para testar o formato e cobrir as pegadinhas mais cobradas. Não é o total de questões de via aérea/VM das provas recentes.
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">Fonte inspiradora: TEME25 Q1; intoxicação estimulante, hipertermia e RSI.</p>
